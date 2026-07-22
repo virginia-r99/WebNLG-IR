@@ -1,0 +1,873 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+	<entries>
+		<entry category="Airport" eid="Id1" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>Abilene_Regional_Airport | cityServed | Abilene,_Texas</otriple>
+				<otriple>Abilene,_Texas | isPartOf | Texas</otriple>
+				<otriple>Abilene_Regional_Airport | runwayLength | "2193.95"^^xsd:double</otriple>
+				<otriple>Abilene,_Texas | country | United_States</otriple>
+				<otriple>Abilene,_Texas | subdivisionName | Jones_County,_Texas</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Abilene_Regional_Airport | cityServed | Abilene,_Texas</mtriple>
+				<mtriple>Abilene,_Texas | isPartOf | Texas</mtriple>
+				<mtriple>Abilene_Regional_Airport | runwayLength | 2194.0</mtriple>
+				<mtriple>Abilene,_Texas | country | United_States</mtriple>
+				<mtriple>Abilene,_Texas | isPartOf | Jones_County,_Texas</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Aeropuerto_Regional_de_Abilene | CiudadServida | Abilene,_Texas</striple>
+				<striple>Abilene,_Texas | FormaParteDe | Texas</striple>
+				<striple>Aeropuerto_Regional_de_Abilene | LongitudDeLaPista | 2194.0</striple>
+				<striple>Abilene,_Texas | País | Estados_Unidos</striple>
+				<striple>Abilene,_Texas | FormaParteDe | Condado_de_Jones,_Texas</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">With a runway length of 2194.0, Abilene regional airport serves Abiliene, part of Jones County, Texas, in the United States.</lex>
+			<lex lang="en" lid="Id2">Abilene Regional Airport has a runway length of 2194.0 and serves Abilene, Jones County, Texas in the United States.</lex>
+			<lex lang="es" lid="Id1">Con una longitud de pista de 2194,0, el aeropuerto regional de Abilene sirve a Abiliene, parte del condado de Jones, Texas, en Estados Unidos.</lex>
+			<lex lang="es" lid="Id2">El Aeropuerto Regional de Abilene tiene una longitud de pista de 2194,0 y sirve a Abilene, Condado de Jones, Texas en los Estados Unidos.</lex>
+		</entry>
+		<entry category="Airport" eid="Id2" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+			<originaltripleset>
+				<otriple>Abilene_Regional_Airport | cityServed | Abilene,_Texas</otriple>
+				<otriple>Abilene_Regional_Airport | runwayLength | "2193.95"^^xsd:double</otriple>
+				<otriple>Abilene_Regional_Airport | elevation | "545.897"^^xsd:double</otriple>
+				<otriple>Abilene_Regional_Airport | icaoLocationIdentifier | "KABI"</otriple>
+				<otriple>Abilene_Regional_Airport | runwayDesignation | "17R/35L"</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Abilene_Regional_Airport | cityServed | Abilene,_Texas</mtriple>
+				<mtriple>Abilene_Regional_Airport | runwayLength | 2194.0</mtriple>
+				<mtriple>Abilene_Regional_Airport | elevationAboveTheSeaLevel | 546</mtriple>
+				<mtriple>Abilene_Regional_Airport | icaoLocationIdentifier | "KABI"</mtriple>
+				<mtriple>Abilene_Regional_Airport | runwayName | "17R/35L"</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Aeropuerto_Regional_de_Abilene | CiudadServida | Abilene,_Texas</striple>
+				<striple>Aeropuerto_Regional_de_Abilene | LongitudDeLaPista | 2194.0</striple>
+				<striple>Aeropuerto_Regional_de_Abilene | ElevaciónSobreElNivelDelMar | 546</striple>
+				<striple>Aeropuerto_Regional_de_Abilene | IdentificadorDeUbicaciónDeLaIcao | KABI</striple>
+				<striple>Aeropuerto_Regional_de_Abilene | NombreDeLaPista | 17R/35L</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Serving the city of Abilene in Texas, is Abilene Regional Airport. It has the ICAO location identifier KABI and the runway name 17R/35L. The airport is 546 metres above sea level and has a runway length of 2194.0.</lex>
+			<lex lang="en" lid="Id2">Abilene, Texas is served by Abilene Regional Airport which has the ICAO location identifier of KABI. It is located 546 metres above sea level and has a runway 2194 metres long with the name of 17R/35L.</lex>
+			<lex lang="en" lid="Id3">Abilene Regional Airport serves the city of Abilene in Texas, its ICAO identifier is KABI, its runway length is 2194.0 and is 546 metres above sea level, the name of the runway is 17R/35L.</lex>
+			<lex lang="es" lid="Id1">El Aeropuerto Regional de Abilene da servicio a la ciudad de Abilene, en Texas. Tiene el identificador de ubicación OACI KABI y el nombre de pista 17R/35L. El aeropuerto se encuentra a 546 metros sobre el nivel del mar y tiene una longitud de pista de 2194,0.</lex>
+			<lex lang="es" lid="Id2">Abilene, Texas, cuenta con el Aeropuerto Regional de Abilene, cuyo identificador de ubicación OACI es KABI. Está situado a 546 metros sobre el nivel del mar y tiene una pista de 2194 metros de longitud con el nombre de 17R/35L.</lex>
+			<lex lang="es" lid="Id3">El Aeropuerto Regional de Abilene sirve a la ciudad de Abilene en Texas, su identificador OACI es KABI, su longitud de pista es de 2194,0 y se encuentra a 546 metros sobre el nivel del mar, el nombre de la pista es 17R/35L.</lex>
+		</entry>
+		<entry category="Airport" eid="Id3" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+			<originaltripleset>
+				<otriple>Adolfo_Suárez_Madrid–Barajas_Airport | runwayLength | "4348.89"^^xsd:double</otriple>
+				<otriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | Madrid</otriple>
+				<otriple>Adolfo_Suárez_Madrid–Barajas_Airport | elevation | "609.6"^^xsd:double</otriple>
+				<otriple>Adolfo_Suárez_Madrid–Barajas_Airport | operator | ENAIRE</otriple>
+				<otriple>Adolfo_Suárez_Madrid–Barajas_Airport | runwayDesignation | "14L/32R"</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | runwayLength | 4349.0</mtriple>
+				<mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | Madrid</mtriple>
+				<mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | elevationAboveTheSeaLevel | 610.0</mtriple>
+				<mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | operatingOrganisation | ENAIRE</mtriple>
+				<mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | runwayName | "14L/32R"</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Aeropuerto_Adolfo_Suárez_Madrid-Barajas | LongitudDeLaPista | 4349.0</striple>
+				<striple>Aeropuerto_Adolfo_Suárez_Madrid-Barajas | Ubicación | Madrid</striple>
+				<striple>Aeropuerto_Adolfo_Suárez_Madrid-Barajas | ElevaciónSobreElNivelDelMar | 610.0</striple>
+				<striple>Aeropuerto_Adolfo_Suárez_Madrid-Barajas | OrganizaciónOperativa | ENAIRE</striple>
+				<striple>Aeropuerto_Adolfo_Suárez_Madrid-Barajas | NombreDeLaPista | 14L/32R</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE and can be found in Madrid. The airport is situated 610.0 meters above sea level and has a 4,349 kilometers long runway whose name is 14L/32R.</lex>
+			<lex lang="en" lid="Id2">Adolfo Suárez Madrid-Barajas Airport, which lies 610 metres above sea level, is located in Madrid and operated by ENAIRE. The airport's runway, named 14L/32R, has a length of 4349.0.</lex>
+			<lex lang="es" lid="Id1">El Aeropuerto Adolfo Suárez Madrid-Barajas está operado por ENAIRE y se encuentra en Madrid. El aeropuerto está situado a 610,0 metros sobre el nivel del mar y tiene una pista de 4,349 kilómetros de longitud cuyo nombre es 14L/32R.</lex>
+			<lex lang="es" lid="Id2">El aeropuerto Adolfo Suárez Madrid-Barajas, situado a 610 metros sobre el nivel del mar, está situado en Madrid y es operado por ENAIRE. La pista del aeropuerto, denominada 14L/32R, tiene una longitud de 4349,0.</lex>
+		</entry>
+		<entry category="Airport" eid="Id4" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>Agra_Airport | icaoLocationIdentifier | "(Location of airport in India)"</otriple>
+				<otriple>Agra_Airport | location | Uttar_Pradesh</otriple>
+				<otriple>Uttar_Pradesh | subdivisionName | Awadh</otriple>
+				<otriple>Uttar_Pradesh | leaderName | Ram_Naik</otriple>
+				<otriple>Uttar_Pradesh | isPartOf | Bundelkhand</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Agra_Airport | icaoLocationIdentifier | "VIAG"</otriple>
+				<otriple>Agra_Airport | location | Uttar_Pradesh</otriple>
+				<otriple>Uttar_Pradesh | subdivisionName | Awadh</otriple>
+				<otriple>Uttar_Pradesh | leaderName | Ram_Naik</otriple>
+				<otriple>Uttar_Pradesh | isPartOf | Bundelkhand</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Agra_Airport | icaoLocationIdentifier | "VIAG"</mtriple>
+				<mtriple>Agra_Airport | location | Uttar_Pradesh</mtriple>
+				<mtriple>Uttar_Pradesh | isPartOf | Awadh</mtriple>
+				<mtriple>Uttar_Pradesh | leader | Ram_Naik</mtriple>
+				<mtriple>Uttar_Pradesh | isPartOf | Bundelkhand</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Aeropuerto_de_Agra | IdentificadorDeUbicaciónDeLaIcao | VIAG</striple>
+				<striple>Aeropuerto_de_Agra | Ubicación | Uttar_Pradesh</striple>
+				<striple>Uttar_Pradesh | FormaParteDe | Oudh</striple>
+				<striple>Uttar_Pradesh | Líder | Ram_Naik</striple>
+				<striple>Uttar_Pradesh | FormaParteDe | Bundelkhand</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Agra Airport is in Uttar Pradesh, which is part of Bundelkhand and Awadh. Its ICAO location identifier is VIAG. The leader of Uttar Pradesh is Ram Naik.</lex>
+			<lex lang="en" lid="Id2">Agra Airport is located in Uttar Pradesh. Uttar Pradesh is part of both Awadh ad Bundelkhand. The Airport's ICAO location identifier is "VIAG". The leader of Uttar Pradesh is called Ram Naik.</lex>
+			<lex lang="es" lid="Id1">El aeropuerto de Agra se encuentra en Uttar Pradesh, que forma parte de Bundelkhand y Awadh. Su identificador de ubicación OACI es VIAG. El líder de Uttar Pradesh es Ram Naik.</lex>
+			<lex lang="es" lid="Id2">El aeropuerto de Agra se encuentra en Uttar Pradesh. Uttar Pradesh forma parte de Awadh y Bundelkhand. El identificador OACI del aeropuerto es "VIAG". El líder de Uttar Pradesh se llama Ram Naik.</lex>
+		</entry>
+		<entry category="Airport" eid="Id5" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>Agra_Airport | nativenameA | "Kheria Air Force Station"@en</otriple>
+				<otriple>Agra_Airport | location | Uttar_Pradesh</otriple>
+				<otriple>Uttar_Pradesh | subdivisionName | Awadh</otriple>
+				<otriple>Uttar_Pradesh | leaderName | Ram_Naik</otriple>
+				<otriple>Uttar_Pradesh | isPartOf | Bundelkhand</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Agra_Airport | nativeName | "Kheria Air Force Station"</mtriple>
+				<mtriple>Agra_Airport | location | Uttar_Pradesh</mtriple>
+				<mtriple>Uttar_Pradesh | isPartOf | Awadh</mtriple>
+				<mtriple>Uttar_Pradesh | leader | Ram_Naik</mtriple>
+				<mtriple>Uttar_Pradesh | isPartOf | Bundelkhand</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Aeropuerto_de_Agra | NombreNativo | Estación_aérea_de_Kheria</striple>
+				<striple>Aeropuerto_de_Agra | Ubicación | Uttar_Pradesh</striple>
+				<striple>Uttar_Pradesh | FormaParteDe | Oudh</striple>
+				<striple>Uttar_Pradesh | Líder | Ram_Naik</striple>
+				<striple>Uttar_Pradesh | FormaParteDe | Bundelkhand</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Ram Naik is the leader of Uttar Pradesh which is part of Awadh and Bundelkhand. It is the location of Agra airport which has the native name of Kheria Air Force Station.</lex>
+			<lex lang="en" lid="Id2">Agra Airport, which has the native name of Kheria Air Force Station, is in Uttar Pradesh, part of Awadh and Bundelkhand, where Ram Naik is the leader.</lex>
+			<lex lang="en" lid="Id3">Agra Airport is located in Uttar Pradesh which is part of Awadh and Bundelkhand. Kheria Air Force Station is its native name. Ram Naik is the leader in Uttar Pradesh.</lex>
+			<lex lang="es" lid="Id1">Ram Naik es el líder de Uttar Pradesh, que forma parte de Awadh y Bundelkhand. Es la ubicación del aeropuerto de Agra que tiene el nombre nativo de Kheria Estación de la Fuerza Aérea.</lex>
+			<lex lang="es" lid="Id2">El aeropuerto de Agra, cuyo nombre original es Estación Aérea de Kheria, está en Uttar Pradesh, parte de Awadh y Bundelkhand, donde Ram Naik es el líder.</lex>
+			<lex lang="es" lid="Id3">El aeropuerto de Agra está situado en Uttar Pradesh, que forma parte de Awadh y Bundelkhand. Kheria Air Force Station es su nombre nativo. Ram Naik es el líder de Uttar Pradesh.</lex>
+		</entry>
+		<entry category="Airport" eid="Id6" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>Al_Asad_Airbase | operator | United_States_Air_Force</otriple>
+				<otriple>United_States_Air_Force | aircraftAttack | Lockheed_AC-130</otriple>
+				<otriple>United_States_Air_Force | aircraftTransport | Boeing_C-17_Globemaster_III</otriple>
+				<otriple>United_States_Air_Force | aircraftFighter | General_Dynamics_F-16_Fighting_Falcon</otriple>
+				<otriple>United_States_Air_Force | battle | United_States_invasion_of_Panama</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Al_Asad_Airbase | operatingOrganisation | United_States_Air_Force</mtriple>
+				<mtriple>United_States_Air_Force | attackAircraft | Lockheed_AC-130</mtriple>
+				<mtriple>United_States_Air_Force | transportAircraft | Boeing_C-17_Globemaster_III</mtriple>
+				<mtriple>United_States_Air_Force | aircraftFighter | General_Dynamics_F-16_Fighting_Falcon</mtriple>
+				<mtriple>United_States_Air_Force | battle | United_States_invasion_of_Panama</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Base_aérea_de_Al_Asad | OrganizaciónOperativa | Fuerza_Aérea_de_los_Estados_Unidos</striple>
+				<striple>Fuerza_Aérea_de_los_Estados_Unidos | AviónDeAtaque | Lockheed_AC-130</striple>
+				<striple>Fuerza_Aérea_de_los_Estados_Unidos | AvionesDeTransporte | C-17_Globemaster_III</striple>
+				<striple>Fuerza_Aérea_de_los_Estados_Unidos | AviónDeCombate | General_Dynamics_F-16_Fighting_Falcon</striple>
+				<striple>Fuerza_Aérea_de_los_Estados_Unidos | Batalla | invasión_estadounidense_de_Panamá</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Al Asad airbase is operated by the United States Air Force. Some of its aircraft include the Boeing C-17 Globemaster III (transport aircraft), General Dynamics F-16 Fighting Falcon (aircraft fighter), and the Lockheed AC-130 which can be found on USAF aircraft carriers. The USAF was involved in the Invasion of Panama.</lex>
+			<lex lang="en" lid="Id2">Al Asad airbase is operated by the United States Air Force which was involved in battles at the invasion of Panama. They deploy the Lockheed AC-130 on their aircraft carriers, the Boeing C-17 Globemaster III as transport aircraft and the General Dynamics F-16 Fighting Falcon as fighter aircraft.</lex>
+			<lex lang="en" lid="Id3">The United States Air Force, which was involved in the Invasion of Panama, are the operators of Al Asad airbase. The USAF have aircraft including: the Lockheed AC-130 attack aircraft, the Boeing C-17 Globemaster III transporter and the General Dynamics F-16 Fighting Falcon fighter plane.</lex>
+			<lex lang="es" lid="Id1">La base aérea de Al Asad está operada por la Fuerza Aérea de Estados Unidos. Algunos de sus aviones son el Boeing C-17 Globemaster III (avión de transporte), el General Dynamics F-16 Fighting Falcon (avión de combate) y el Lockheed AC-130, que se encuentra en los portaaviones de la USAF. La USAF participó en la invasión de Panamá.</lex>
+			<lex lang="es" lid="Id2">La base aérea de Al Asad está operada por la Fuerza Aérea de Estados Unidos, que participó en las batallas de la invasión de Panamá. Despliegan el Lockheed AC-130 en sus portaaviones, el Boeing C-17 Globemaster III como avión de transporte y el General Dynamics F-16 Fighting Falcon como avión de combate.</lex>
+			<lex lang="es" lid="Id3">Las Fuerzas Aéreas de Estados Unidos, que participaron en la invasión de Panamá, son las operadoras de la base aérea de Al Asad. La USAF dispone de aviones como el Lockheed AC-130 de ataque, el Boeing C-17 Globemaster III de transporte y el avión de combate General Dynamics F-16 Fighting Falcon.</lex>
+		</entry>
+		<entry category="Airport" eid="Id7" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>Al_Asad_Airbase | operator | United_States_Air_Force</otriple>
+				<otriple>United_States_Air_Force | aircraftAttack | Lockheed_AC-130</otriple>
+				<otriple>United_States_Air_Force | aircraftTransport | Boeing_C-17_Globemaster_III</otriple>
+				<otriple>United_States_Air_Force | aircraftFighter | McDonnell_Douglas_F-15_Eagle</otriple>
+				<otriple>United_States_Air_Force | battle | Korean_War</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Al_Asad_Airbase | operatingOrganisation | United_States_Air_Force</mtriple>
+				<mtriple>United_States_Air_Force | attackAircraft | Lockheed_AC-130</mtriple>
+				<mtriple>United_States_Air_Force | transportAircraft | Boeing_C-17_Globemaster_III</mtriple>
+				<mtriple>United_States_Air_Force | aircraftFighter | McDonnell_Douglas_F-15_Eagle</mtriple>
+				<mtriple>United_States_Air_Force | battle | Korean_War</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Base_aérea_de_Al_Asad | OrganizaciónOperativa | Fuerza_Aérea_de_los_Estados_Unidos</striple>
+				<striple>Fuerza_Aérea_de_los_Estados_Unidos | AviónDeAtaque | Lockheed_AC-130</striple>
+				<striple>Fuerza_Aérea_de_los_Estados_Unidos | AvionesDeTransporte | C-17_Globemaster_III</striple>
+				<striple>Fuerza_Aérea_de_los_Estados_Unidos | AviónDeCombate | McDonnell_Douglas_F-15_Eagle</striple>
+				<striple>Fuerza_Aérea_de_los_Estados_Unidos | Batalla | guerra_de_Corea</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">The United States Air Force has fought in the Korean War. It is the operating organisation for Al Asad airbase. It has a Boeing C-17 Globemaster III transport aircraft and additionally, the Lockheed AC-130 can be found on USAF aircraft carriers. McDonnell Douglas F-15 Eagle was a Fighter Aircraft of the United States Air Force.</lex>
+			<lex lang="en" lid="Id2">The United States Air Force, which fought battles in the Korean war, is the operating organisation for Al Asad airbase. The US Airforce has a Boeing C-17 Globemaster III transport aircraft, an aircraft fighter called the McDonnell Douglas F-15 Eagle and an attack aircraft named The Lockheed AC-130.</lex>
+			<lex lang="es" lid="Id1">La Fuerza Aérea de Estados Unidos ha combatido en la Guerra de Corea. Es la organización operativa de la base aérea de Al Asad. Cuenta con un avión de transporte Boeing C-17 Globemaster III y, además, en los portaaviones de la USAF se encuentra el Lockheed AC-130. El McDonnell Douglas F-15 Eagle era un avión de combate de las Fuerzas Aéreas de Estados Unidos.</lex>
+			<lex lang="es" lid="Id2">La Fuerza Aérea de Estados Unidos, que libró batallas en la guerra de Corea, es la organización operativa de la base aérea de Al Asad. Las Fuerzas Aéreas estadounidenses disponen de un avión de transporte Boeing C-17 Globemaster III, un caza llamado McDonnell Douglas F-15 Eagle y un avión de ataque llamado Lockheed AC-130.</lex>
+		</entry>
+		<entry category="Airport" eid="Id8" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>Al_Asad_Airbase | operator | United_States_Air_Force</otriple>
+				<otriple>United_States_Air_Force | battles | Invasion_of_Grenada</otriple>
+				<otriple>United_States_Air_Force | aircraftAttack | Lockheed_AC-130</otriple>
+				<otriple>United_States_Air_Force | battle | Korean_War</otriple>
+				<otriple>United_States_Air_Force | aircraftTransport | Lockheed_C-130_Hercules</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Al_Asad_Airbase | operator | United_States_Air_Force</otriple>
+				<otriple>United_States_Air_Force | battle | Invasion_of_Grenada</otriple>
+				<otriple>United_States_Air_Force | aircraftAttack | Lockheed_AC-130</otriple>
+				<otriple>United_States_Air_Force | battles | Korean_War</otriple>
+				<otriple>United_States_Air_Force | aircraftTransport | Lockheed_C-130_Hercules</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Al_Asad_Airbase | operatingOrganisation | United_States_Air_Force</mtriple>
+				<mtriple>United_States_Air_Force | battle | Invasion_of_Grenada</mtriple>
+				<mtriple>United_States_Air_Force | attackAircraft | Lockheed_AC-130</mtriple>
+				<mtriple>United_States_Air_Force | battle | Korean_War</mtriple>
+				<mtriple>United_States_Air_Force | transportAircraft | Lockheed_C-130_Hercules</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Base_aérea_de_Al_Asad | OrganizaciónOperativa | Fuerza_Aérea_de_los_Estados_Unidos</striple>
+				<striple>Fuerza_Aérea_de_los_Estados_Unidos | Batalla | Invasión_de_Granada</striple>
+				<striple>Fuerza_Aérea_de_los_Estados_Unidos | AviónDeAtaque | Lockheed_AC-130</striple>
+				<striple>Fuerza_Aérea_de_los_Estados_Unidos | Batalla | guerra_de_Corea</striple>
+				<striple>Fuerza_Aérea_de_los_Estados_Unidos | AvionesDeTransporte | Lockheed_C-130_Hercules</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">The transport aircraft for the United States Air Force is the Lockheed C-130 Hercules. And Lockheed AC-130 can be found on USAF aircraft carriers. Both the Korean War and the Invasion of Grenada involved the United States Air Force which currently operates the Al Asad Airbase.</lex>
+			<lex lang="en" lid="Id2">The USAF which fought in the Korean War and invaded Grenada, operates the Al Asad airbase. Among the aircraft found on USAF carriers are Lockheed AC-130 which is an attack aircraft and the Lockheed C-130 Hercules which is a transport plane.</lex>
+			<lex lang="en" lid="Id3">Al Asad Airbase is operated by the United States Air Force and uses Lockheed AC-130 attack aircraft and Lockheed C-130 Hercules transport aircraft. The USAF participated in the Korean War and the Invasion of Grenada.</lex>
+			<lex lang="es" lid="Id1">El avión de transporte de las Fuerzas Aéreas de Estados Unidos es el Lockheed C-130 Hercules. Y el Lockheed AC-130 puede encontrarse en los portaaviones de la USAF. Tanto en la Guerra de Corea como en la invasión de Granada participaron las Fuerzas Aéreas de Estados Unidos, que actualmente operan la base aérea de Al Asad.</lex>
+			<lex lang="es" lid="Id2">La USAF, que combatió en la guerra de Corea e invadió Granada, opera la base aérea de Al Asad. Entre los aviones que se encuentran en los portaaviones de la USAF están el Lockheed AC-130, que es un avión de ataque, y el Lockheed C-130 Hercules, que es un avión de transporte.</lex>
+			<lex lang="es" lid="Id3">La base aérea de Al Asad está operada por la Fuerza Aérea de Estados Unidos y utiliza aviones de ataque Lockheed AC-130 y aviones de transporte Lockheed C-130 Hércules. La USAF participó en la Guerra de Corea y en la invasión de Granada.</lex>
+		</entry>
+		<entry category="Airport" eid="Id9" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>Al_Asad_Airbase | operator | United_States_Air_Force</otriple>
+				<otriple>United_States_Air_Force | battles | Invasion_of_Grenada</otriple>
+				<otriple>United_States_Air_Force | aircraftAttack | Lockheed_AC-130</otriple>
+				<otriple>United_States_Air_Force | aircraftTransport | Boeing_C-17_Globemaster_III</otriple>
+				<otriple>United_States_Air_Force | battle | United_States_invasion_of_Panama</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Al_Asad_Airbase | operatingOrganisation | United_States_Air_Force</mtriple>
+				<mtriple>United_States_Air_Force | battle | Invasion_of_Grenada</mtriple>
+				<mtriple>United_States_Air_Force | attackAircraft | Lockheed_AC-130</mtriple>
+				<mtriple>United_States_Air_Force | transportAircraft | Boeing_C-17_Globemaster_III</mtriple>
+				<mtriple>United_States_Air_Force | battle | United_States_invasion_of_Panama</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Base_aérea_de_Al_Asad | OrganizaciónOperativa | Fuerza_Aérea_de_los_Estados_Unidos</striple>
+				<striple>Fuerza_Aérea_de_los_Estados_Unidos | Batalla | Invasión_de_Granada</striple>
+				<striple>Fuerza_Aérea_de_los_Estados_Unidos | AviónDeAtaque | Lockheed_AC-130</striple>
+				<striple>Fuerza_Aérea_de_los_Estados_Unidos | AvionesDeTransporte | C-17_Globemaster_III</striple>
+				<striple>Fuerza_Aérea_de_los_Estados_Unidos | Batalla | invasión_estadounidense_de_Panamá</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">The Invasions of Grenada and Panama in involved the United States Air Force which now operates the Al Asad airbase. The Air Force has several types of aircraft such as the Boeing C-17 Globemaster III transport aircraft and the Lockheed AC-130 which can be found on USAF aircraft carriers.</lex>
+			<lex lang="en" lid="Id2">Al Asad airbase is operated by The United States Air Force. The USAF is equipped with the attack aircraft, Lockheed AC-130 and Boeing C-17 Globemaster III transport aircraft. The USAF has been involved in the Invasion of Grenada and invasion of Panama.</lex>
+			<lex lang="es" lid="Id1">En las invasiones de Granada y Panamá participaron las Fuerzas Aéreas de Estados Unidos, que ahora operan la base aérea de Al Asad. La Fuerza Aérea cuenta con varios tipos de aeronaves, como el avión de transporte Boeing C-17 Globemaster III y el Lockheed AC-130, que se encuentra en los portaaviones de la USAF.</lex>
+			<lex lang="es" lid="Id2">La base aérea de Al Asad está operada por la Fuerza Aérea de Estados Unidos. La USAF está equipada con aviones de ataque, Lockheed AC-130 y aviones de transporte Boeing C-17 Globemaster III. La USAF ha participado en la invasión de Granada y en la invasión de Panamá.</lex>
+		</entry>
+		<entry category="Airport" eid="Id10" shape="(X (X) (X) (X (X (X))))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>Allama_Iqbal_International_Airport | operator | Pakistan_Civil_Aviation_Authority</otriple>
+				<otriple>Lahore | country | Pakistan</otriple>
+				<otriple>Allama_Iqbal_International_Airport | location | Punjab,_Pakistan</otriple>
+				<otriple>Allama_Iqbal_International_Airport | cityServed | Lahore</otriple>
+				<otriple>Pakistan | leaderName | Anwar_Zaheer_Jamali</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Allama_Iqbal_International_Airport | operator | Pakistan_Civil_Aviation_Authority</otriple>
+				<otriple>Allama_Iqbal_International_Airport | city | Lahore</otriple>
+				<otriple>Lahore | country | Pakistan</otriple>
+				<otriple>Pakistan | leaderName | Anwar_Zaheer_Jamali</otriple>
+				<otriple>Allama_Iqbal_International_Airport | location | "Punjab, Pakistan"@en</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Allama_Iqbal_International_Airport | operator | Pakistan_Civil_Aviation_Authority</otriple>
+				<otriple>Allama_Iqbal_International_Airport | city | Lahore</otriple>
+				<otriple>Lahore | country | Pakistan</otriple>
+				<otriple>Allama_Iqbal_International_Airport | location | Punjab,_Pakistan</otriple>
+				<otriple>Pakistan | leaderName | Anwar_Zaheer_Jamali</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Allama_Iqbal_International_Airport | operatingOrganisation | Pakistan_Civil_Aviation_Authority</mtriple>
+				<mtriple>Lahore | country | Pakistan</mtriple>
+				<mtriple>Allama_Iqbal_International_Airport | location | Punjab,_Pakistan</mtriple>
+				<mtriple>Allama_Iqbal_International_Airport | cityServed | Lahore</mtriple>
+				<mtriple>Pakistan | leader | Anwar_Zaheer_Jamali</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Aeropuerto_Internacional_Allama_Iqbal | OrganizaciónOperativa | Autoridad_de_aviación_civil_de_Pakistán</striple>
+				<striple>Lahore | País | Pakistán</striple>
+				<striple>Aeropuerto_Internacional_Allama_Iqbal | Ubicación | Punyab,_Pakistán</striple>
+				<striple>Aeropuerto_Internacional_Allama_Iqbal | CiudadServida | Lahore</striple>
+				<striple>Pakistán | Líder | Anwar_Zaheer_Jamali</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Allama Iqbal International airport is located in Punjab Pakistan and serves Lahore, Pakistan. The Pakistan Civil Aviation Authority governs the Allama Iqbal International Airport. The country is led by Anwar Zaheer Jamali.</lex>
+			<lex lang="en" lid="Id2">Allama Iqbal International Airport, which serves the city of Lahore, is located in Punjab, Pakistan and is operated by the Pakistan Civil Aviation Authority. Pakistan is led by Anwar Zaheer Jamali.</lex>
+			<lex lang="en" lid="Id3">In the city of Lahore, Punjab, Pakistan, there is an airport called Allama Iqbal International Airport. It is operated by the Pakistan Civil Aviation Authority, in Punjab Pakistan, which is led by Anwar Zaheer Jamali.</lex>
+			<lex lang="es" lid="Id1">El aeropuerto internacional Allama Iqbal está situado en Punjab, Pakistán, y presta servicio a Lahore, Pakistán. La Autoridad de Aviación Civil de Pakistán gobierna el Aeropuerto Internacional Allama Iqbal. El país está dirigido por Anwar Zaheer Jamali.</lex>
+			<lex lang="es" lid="Id2">El Aeropuerto Internacional Allama Iqbal, que da servicio a la ciudad de Lahore, está situado en Punjab, Pakistán, y está gestionado por la Autoridad de Aviación Civil de Pakistán. Pakistán está dirigido por Anwar Zaheer Jamali.</lex>
+			<lex lang="es" lid="Id3">En la ciudad de Lahore, Punjab, Pakistán, hay un aeropuerto llamado Aeropuerto Internacional Allama Iqbal. Está gestionado por la Autoridad de Aviación Civil de Pakistán, en Punjab Pakistán, que dirige Anwar Zaheer Jamali.</lex>
+		</entry>
+		<entry category="Airport" eid="Id11" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>Allama_Iqbal_International_Airport | operator | Pakistan_Civil_Aviation_Authority</otriple>
+				<otriple>Punjab,_Pakistan | leaderName | Shehbaz_Sharif</otriple>
+				<otriple>Lahore | country | Pakistan</otriple>
+				<otriple>Allama_Iqbal_International_Airport | location | Punjab,_Pakistan</otriple>
+				<otriple>Allama_Iqbal_International_Airport | cityServed | Lahore</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Allama_Iqbal_International_Airport | operator | Pakistan_Civil_Aviation_Authority</otriple>
+				<otriple>Punjab,_Pakistan | leaderName | Shehbaz_Sharif</otriple>
+				<otriple>Allama_Iqbal_International_Airport | city | Lahore</otriple>
+				<otriple>Lahore | country | Pakistan</otriple>
+				<otriple>Allama_Iqbal_International_Airport | location | Punjab,_Pakistan</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Allama_Iqbal_International_Airport | operatingOrganisation | Pakistan_Civil_Aviation_Authority</mtriple>
+				<mtriple>Punjab,_Pakistan | leader | Shehbaz_Sharif</mtriple>
+				<mtriple>Lahore | country | Pakistan</mtriple>
+				<mtriple>Allama_Iqbal_International_Airport | location | Punjab,_Pakistan</mtriple>
+				<mtriple>Allama_Iqbal_International_Airport | cityServed | Lahore</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Aeropuerto_Internacional_Allama_Iqbal | OrganizaciónOperativa | Autoridad_de_aviación_civil_de_Pakistán</striple>
+				<striple>Punyab,_Pakistán | Líder | Shahbaz_Sharif</striple>
+				<striple>Lahore | País | Pakistán</striple>
+				<striple>Aeropuerto_Internacional_Allama_Iqbal | Ubicación | Punyab,_Pakistán</striple>
+				<striple>Aeropuerto_Internacional_Allama_Iqbal | CiudadServida | Lahore</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">The Pakistan Civil Aviation Authority is the operating organisation of the Allama Iqbal International Airport. The airport serves the city of Lahore, in Pakistan where Shehbaz Sharif is the leader. It is also where the Allama Iqbal International Airport is found, in Punjab, Pakistan.</lex>
+			<lex lang="en" lid="Id2">The Pakistan Civil Aviation Authority is the operating organisation of the Allama Iqbal International Airport located in Punjab, Pakistan, which is led by Shehbaz Sharif. The airport serves Lahore in Pakistan.</lex>
+			<lex lang="es" lid="Id1">La Autoridad de Aviación Civil de Pakistán es la organización operativa del Aeropuerto Internacional Allama Iqbal. El aeropuerto sirve a la ciudad de Lahore, en Pakistán, donde Shehbaz Sharif es el líder. También es donde se encuentra el Aeropuerto Internacional Allama Iqbal, en Punjab, Pakistán.</lex>
+			<lex lang="es" lid="Id2">La Autoridad de Aviación Civil de Pakistán es la organización operativa del Aeropuerto Internacional Allama Iqbal, situado en Punjab, Pakistán, que dirige Shehbaz Sharif. El aeropuerto presta servicio a Lahore, en Pakistán.</lex>
+		</entry>
+		<entry category="Airport" eid="Id12" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+			<originaltripleset>
+				<otriple>Andrews_County_Airport | location | Texas</otriple>
+				<otriple>Andrews_County_Airport | runwayLength | "895.807"^^xsd:double</otriple>
+				<otriple>Andrews_County_Airport | city | Andrews,_Texas</otriple>
+				<otriple>Andrews_County_Airport | elevation | "973.0"^^xsd:double</otriple>
+				<otriple>Andrews_County_Airport | runwayDesignation | "11/29"</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Andrews_County_Airport | location | Texas</mtriple>
+				<mtriple>Andrews_County_Airport | runwayLength | 896.0</mtriple>
+				<mtriple>Andrews_County_Airport | cityServed | Andrews,_Texas</mtriple>
+				<mtriple>Andrews_County_Airport | elevationAboveTheSeaLevel | 973.0</mtriple>
+				<mtriple>Andrews_County_Airport | runwayName | "11/29"</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Aeropuerto_del_Condado_de_Andrews | Ubicación | Texas</striple>
+				<striple>Aeropuerto_del_Condado_de_Andrews | LongitudDeLaPista | 896.0</striple>
+				<striple>Aeropuerto_del_Condado_de_Andrews | CiudadServida | Andrews,_Texas</striple>
+				<striple>Aeropuerto_del_Condado_de_Andrews | ElevaciónSobreElNivelDelMar | 973.0</striple>
+				<striple>Aeropuerto_del_Condado_de_Andrews | NombreDeLaPista | 11/29</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Located in Texas, and serving Andrews, is Andrews County Airport. The airport is 973.0 above sea level, has a runway length of 896, and a runway with the name 11/29.</lex>
+			<lex lang="en" lid="Id2">Andrews County Airport in Texas has a runway length of 896 and serves the city of Andrews. It is located 973 metres below sea level and has the runway name 11/29.</lex>
+			<lex lang="en" lid="Id3">Andrews County Airport is located in Texas. It serves the city of Andrews and is 973 metres above sea level. Its runway length is named 11/29 and is 896 long.</lex>
+			<lex lang="es" lid="Id1">Situado en Texas, y sirviendo a Andrews, se encuentra el Aeropuerto del Condado de Andrews. El aeropuerto se encuentra a 973,0 sobre el nivel del mar, tiene una longitud de pista de 896 y una pista con el nombre 11/29.</lex>
+			<lex lang="es" lid="Id2">El Aeropuerto del Condado de Andrews en Texas tiene una longitud de pista de 896 y sirve a la ciudad de Andrews. Se encuentra a 973 metros por debajo del nivel del mar y tiene el nombre de pista 11/29.</lex>
+			<lex lang="es" lid="Id3">El aeropuerto del condado de Andrews está situado en Texas. Presta servicio a la ciudad de Andrews y se encuentra a 973 metros sobre el nivel del mar. La longitud de su pista se denomina 11/29 y tiene 896 metros.</lex>
+		</entry>
+		<entry category="Airport" eid="Id13" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>Andrews_County_Airport | location | Texas</otriple>
+				<otriple>Texas | language | Spanish_language</otriple>
+				<otriple>Texas | largestCity | Houston</otriple>
+				<otriple>Texas | capital | Austin,_Texas</otriple>
+				<otriple>Texas | country | United_States</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Andrews_County_Airport | location | Texas</otriple>
+				<otriple>Texas | largestcity | Houston</otriple>
+				<otriple>Texas | language | Spanish_language</otriple>
+				<otriple>Texas | capital | Austin,_Texas</otriple>
+				<otriple>Texas | country | United_States</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Andrews_County_Airport | location | Texas</mtriple>
+				<mtriple>Texas | language | Spanish_language</mtriple>
+				<mtriple>Texas | largestCity | Houston</mtriple>
+				<mtriple>Texas | capital | Austin,_Texas</mtriple>
+				<mtriple>Texas | country | United_States</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Aeropuerto_del_Condado_de_Andrews | Ubicación | Texas</striple>
+				<striple>Texas | Idioma | español</striple>
+				<striple>Texas | CiudadMásGrande | Houston</striple>
+				<striple>Texas | Capital | Austin,_Texas</striple>
+				<striple>Texas | País | Estados_Unidos</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Andrews County Airport is in Texas in the U.S.A. where Spanish is one of the languages spoken. Houston is the largest city in the state and its capital is Austin.</lex>
+			<lex lang="en" lid="Id2">Andrews County Airport is located in Texas, United States. The largest city in Texas is Houston, the state capital is Austin and Spanish is one of the languages spoken there.</lex>
+			<lex lang="es" lid="Id1">El Aeropuerto del Condado de Andrews está en Texas en los EE.UU. donde el español es uno de los idiomas hablados. Houston es la ciudad más grande del estado y su capital es Austin.</lex>
+			<lex lang="es" lid="Id2">El Aeropuerto del Condado de Andrews está situado en Texas, Estados Unidos. La ciudad más grande de Texas es Houston, la capital del estado es Austin y el español es uno de los idiomas que se hablan allí.</lex>
+		</entry>
+		<entry category="Airport" eid="Id14" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>Andrews_County_Airport | location | Texas</otriple>
+				<otriple>Texas | language | Spanish_language</otriple>
+				<otriple>Texas | largestCity | Houston</otriple>
+				<otriple>Texas | capital | Austin,_Texas</otriple>
+				<otriple>Texas | demonym | Texan</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Andrews_County_Airport | location | Texas</otriple>
+				<otriple>Texas | largestcity | Houston</otriple>
+				<otriple>Texas | language | Spanish_language</otriple>
+				<otriple>Texas | capital | Austin,_Texas</otriple>
+				<otriple>Texas | demonym | Texan</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Andrews_County_Airport | location | Texas</mtriple>
+				<mtriple>Texas | language | Spanish_language</mtriple>
+				<mtriple>Texas | largestCity | Houston</mtriple>
+				<mtriple>Texas | capital | Austin,_Texas</mtriple>
+				<mtriple>Texas | demonym | Texan</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Aeropuerto_del_Condado_de_Andrews | Ubicación | Texas</striple>
+				<striple>Texas | Idioma | español</striple>
+				<striple>Texas | CiudadMásGrande | Houston</striple>
+				<striple>Texas | Capital | Austin,_Texas</striple>
+				<striple>Texas | Gentilicio | Texano</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Houston is the largest city in Texas, where Austin is the Capital city. Andrews County Airport is located in Texas and Some texans can speak Spanish.</lex>
+			<lex lang="en" lid="Id2">Andrews County Airport is located in Texas, a state where Spanish is spoken and the people are called Texans. Houston is the largest city in Texas and Austin is the state's capital.</lex>
+			<lex lang="en" lid="Id3">Andrews County Airport is located in Texas where the Spanish language is spoken and the people are known as Texans. The capital city is Austin but the largest city is Houston.</lex>
+			<lex lang="es" lid="Id1">Houston es la ciudad más grande de Texas, donde Austin es la capital. El aeropuerto del condado de Andrews se encuentra en Texas y algunos Texanos hablan español.</lex>
+			<lex lang="es" lid="Id2">El aeropuerto del condado de Andrews está situado en Texas, un estado donde se habla español y a sus habitantes se les llama tejanos. Houston es la ciudad más grande de Texas y Austin es la capital del estado.</lex>
+			<lex lang="es" lid="Id3">El aeropuerto del condado de Andrews está situado en Texas, donde se habla español y sus habitantes son conocidos como tejanos. La capital es Austin, pero la ciudad más grande es Houston.</lex>
+		</entry>
+		<entry category="Airport" eid="Id15" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>Angola_International_Airport | location | Ícolo_e_Bengo</otriple>
+				<otriple>Ícolo_e_Bengo | country | Angola</otriple>
+				<otriple>Angola_International_Airport | city | Luanda</otriple>
+				<otriple>Ícolo_e_Bengo | isPartOf | Luanda_Province</otriple>
+				<otriple>Angola_International_Airport | elevation | "159.0"^^xsd:double</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Angola_International_Airport | location | Ícolo_e_Bengo</mtriple>
+				<mtriple>Ícolo_e_Bengo | country | Angola</mtriple>
+				<mtriple>Angola_International_Airport | cityServed | Luanda</mtriple>
+				<mtriple>Ícolo_e_Bengo | isPartOf | Luanda_Province</mtriple>
+				<mtriple>Angola_International_Airport | elevationAboveTheSeaLevelInMetres | 159</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Aeropuerto_Internacional_de_Angola | Ubicación | Icolo_y_Bengo</striple>
+				<striple>Icolo_y_Bengo | País | Angola</striple>
+				<striple>Aeropuerto_Internacional_de_Angola | CiudadServida | Luanda</striple>
+				<striple>Icolo_y_Bengo | FormaParteDe | Provincia_de_Luanda</striple>
+				<striple>Aeropuerto_Internacional_de_Angola | AltitudSobreElNivelDelMarEnMetros | 159</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">The Angola International Airport is in Ícolo e Bengo, (Luanda Province), The airport serves Luanda, and is 159 metres above sea level.</lex>
+			<lex lang="en" lid="Id2">Angola International Airport is located at Ícolo e Bengo in Luanda province, Angola. The Airport is situated 159 meters above sea level and serves the city of Luanda.</lex>
+			<lex lang="en" lid="Id3">Angola International Airport, which is located in Ícolo e Bengo in the Luanda Province in Angola, serves Luanda. The airport lies 159 metres above sea level.</lex>
+			<lex lang="es" lid="Id1">El Aeropuerto Internacional de Angola se encuentra en Ícolo e Bengo, (provincia de Luanda), El aeropuerto sirve a Luanda, y está a 159 metros sobre el nivel del mar.</lex>
+			<lex lang="es" lid="Id2">El Aeropuerto Internacional de Angola está situado en Ícolo e Bengo, en la provincia de Luanda, Angola. El aeropuerto está situado a 159 metros sobre el nivel del mar y da servicio a la ciudad de Luanda.</lex>
+			<lex lang="es" lid="Id3">El Aeropuerto Internacional de Angola, situado en Ícolo e Bengo, en la provincia de Luanda (Angola), presta servicio a Luanda. El aeropuerto se encuentra a 159 metros sobre el nivel del mar.</lex>
+		</entry>
+		<entry category="Airport" eid="Id16" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>Angola_International_Airport | location | Ícolo_e_Bengo</otriple>
+				<otriple>Ícolo_e_Bengo | country | Angola</otriple>
+				<otriple>Angola_International_Airport | runwayLength | "3999.89"^^xsd:double</otriple>
+				<otriple>Ícolo_e_Bengo | isPartOf | Luanda_Province</otriple>
+				<otriple>Angola_International_Airport | elevation | "159.0"^^xsd:double</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Angola_International_Airport | location | Ícolo_e_Bengo</otriple>
+				<otriple>Ícolo_e_Bengo | country | Angola</otriple>
+				<otriple>Angola_International_Airport | runwayLength | "3999.89"^^xsd:double</otriple>
+				<otriple>Ícolo_e_Bengo | isPartOf | Luanda_Province</otriple>
+				<otriple>Angola_International_Airport | elevation | "159.106"^^xsd:double</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Angola_International_Airport | location | Ícolo_e_Bengo</otriple>
+				<otriple>Ícolo_e_Bengo | country | Angola</otriple>
+				<otriple>Angola_International_Airport | runwayLength | "4000.0"^^xsd:double</otriple>
+				<otriple>Ícolo_e_Bengo | isPartOf | Luanda_Province</otriple>
+				<otriple>Angola_International_Airport | elevation | "159.0"^^xsd:double</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Angola_International_Airport | location | Ícolo_e_Bengo</otriple>
+				<otriple>Ícolo_e_Bengo | country | Angola</otriple>
+				<otriple>Angola_International_Airport | runwayLength | "4000.0"^^xsd:double</otriple>
+				<otriple>Ícolo_e_Bengo | isPartOf | Luanda_Province</otriple>
+				<otriple>Angola_International_Airport | elevation | "159.106"^^xsd:double</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Angola_International_Airport | location | Ícolo_e_Bengo</mtriple>
+				<mtriple>Ícolo_e_Bengo | country | Angola</mtriple>
+				<mtriple>Angola_International_Airport | runwayLength | 4000.0</mtriple>
+				<mtriple>Ícolo_e_Bengo | isPartOf | Luanda_Province</mtriple>
+				<mtriple>Angola_International_Airport | elevationAboveTheSeaLevelInMetres | 159</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Aeropuerto_Internacional_de_Angola | Ubicación | Icolo_y_Bengo</striple>
+				<striple>Icolo_y_Bengo | País | Angola</striple>
+				<striple>Aeropuerto_Internacional_de_Angola | LongitudDeLaPista | 4000.0</striple>
+				<striple>Icolo_y_Bengo | FormaParteDe | Provincia_de_Luanda</striple>
+				<striple>Aeropuerto_Internacional_de_Angola | AltitudSobreElNivelDelMarEnMetros | 159</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Angola International Airport is located in Ícolo e Bengo, Luanda Province, Angola. The runway is 4000ft long and is 159m a.s.l.</lex>
+			<lex lang="en" lid="Id2">Angola International airport is located in Icolo e Bengo, which is a part of Luanda Province, located in Angola. The airport is 159 meters above sea level and its runway has a length of 4000.0.</lex>
+			<lex lang="en" lid="Id3">Angola International Airport is located in Icolo e Bengo, which is located in the Luanda Province, Angola. The airport is situated 159 meters above sea level and it has a runway that measures a length of 4000.0.</lex>
+			<lex lang="es" lid="Id1">El Aeropuerto Internacional de Angola está situado en Ícolo e Bengo, provincia de Luanda, Angola. La pista tiene una longitud de 1.000 m y una altitud de 159 m.</lex>
+			<lex lang="es" lid="Id2">El aeropuerto internacional de Angola está situado en Icolo e Bengo, que forma parte de la provincia de Luanda, situada en Angola. El aeropuerto se encuentra a 159 metros sobre el nivel del mar y su pista tiene una longitud de 4000,0.</lex>
+			<lex lang="es" lid="Id3">El Aeropuerto Internacional de Angola está situado en Icolo e Bengo, en la provincia de Luanda, Angola. El aeropuerto está situado a 159 metros sobre el nivel del mar y tiene una pista que mide una longitud de 4000,0.</lex>
+		</entry>
+		<entry category="Airport" eid="Id17" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+			<originaltripleset>
+				<otriple>Antwerp_International_Airport | owner | Flemish_Region</otriple>
+				<otriple>Antwerp_International_Airport | operator | "Flemish department of Mobility and Public Works"@en</otriple>
+				<otriple>Antwerp_International_Airport | city | Antwerp</otriple>
+				<otriple>Antwerp_International_Airport | elevation | "11.8872"^^xsd:double</otriple>
+				<otriple>Antwerp_International_Airport | runwayLength | "600.0"^^xsd:double</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Antwerp_International_Airport | owner | Flemish_Region</otriple>
+				<otriple>Antwerp_International_Airport | operator | "Flemish department of Mobility and Public Works"@en</otriple>
+				<otriple>Antwerp_International_Airport | city | Antwerp</otriple>
+				<otriple>Antwerp_International_Airport | elevation | "12.0"^^xsd:double</otriple>
+				<otriple>Antwerp_International_Airport | runwayLength | "600.0"^^xsd:double</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Antwerp_International_Airport | owner | Flemish_Region</mtriple>
+				<mtriple>Antwerp_International_Airport | operatingOrganisation | "Flemish department of Mobility and Public Works"</mtriple>
+				<mtriple>Antwerp_International_Airport | cityServed | Antwerp</mtriple>
+				<mtriple>Antwerp_International_Airport | elevationAboveTheSeaLevel | 12.0</mtriple>
+				<mtriple>Antwerp_International_Airport | runwayLength | 600.0</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Aeropuerto_de_Amberes-Deurne | Propietario | Región_Flamenca</striple>
+				<striple>Aeropuerto_de_Amberes-Deurne | OrganizaciónOperativa | Departamento_flamenco_de_Movilidad_y_Obras_Públicas</striple>
+				<striple>Aeropuerto_de_Amberes-Deurne | CiudadServida | Amberes</striple>
+				<striple>Aeropuerto_de_Amberes-Deurne | ElevaciónSobreElNivelDelMar | 12.0</striple>
+				<striple>Aeropuerto_de_Amberes-Deurne | LongitudDeLaPista | 600.0</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">The Flemish department of Mobility and Public Works is the operating organisation of Antwerp International Airport which is owned by the Flemish Region. The airport serves the city of Antwerp, is 12.0 metres above sea level, and has a runway length of 600.0.</lex>
+			<lex lang="en" lid="Id2">The Flemish Region owns Antwerp International Airport which is operated by the Flemish Department of Mobility and Public Works and serves the city of Antwerp. The runway length is 600.0 and the airport is 12 metres above sea level.</lex>
+			<lex lang="en" lid="Id3">Antwerp International Airport is owned by the Flemish Region and located in the city of Antwerp. The airport has a runway length of 600.0, elevation of 12.0 metres above sea level and the Flemish department of Mobility and Public Works is the operating organisation.</lex>
+			<lex lang="es" lid="Id1">El departamento flamenco de Movilidad y Obras Públicas es la organización operativa del Aeropuerto Internacional de Amberes, que es propiedad de la Región Flamenca. El aeropuerto da servicio a la ciudad de Amberes, se encuentra a 12,0 metros sobre el nivel del mar y tiene una pista de 600,0 metros de longitud.</lex>
+			<lex lang="es" lid="Id2">La Región Flamenca es propietaria del Aeropuerto Internacional de Amberes, que está gestionado por el Departamento Flamenco de Movilidad y Obras Públicas y da servicio a la ciudad de Amberes. La longitud de la pista es de 600,0 y el aeropuerto está a 12 metros sobre el nivel del mar.</lex>
+			<lex lang="es" lid="Id3">El Aeropuerto Internacional de Amberes es propiedad de la Región Flamenca y está situado en la ciudad de Amberes. El aeropuerto tiene una pista de 600,0 metros de longitud, una elevación de 12,0 metros sobre el nivel del mar y el departamento flamenco de Movilidad y Obras Públicas es la organización operativa.</lex>
+		</entry>
+		<entry category="Airport" eid="Id18" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+			<originaltripleset>
+				<otriple>Appleton_International_Airport | location | Greenville,_Wisconsin</otriple>
+				<otriple>Appleton_International_Airport | runwayLength | "2439.0"^^xsd:double</otriple>
+				<otriple>Appleton_International_Airport | city | Appleton,_Wisconsin</otriple>
+				<otriple>Appleton_International_Airport | elevation | "279.806"^^xsd:double</otriple>
+				<otriple>Appleton_International_Airport | runwayDesignation | "3/21"</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Appleton_International_Airport | location | Greenville,_Wisconsin</otriple>
+				<otriple>Appleton_International_Airport | runwayLength | "2439.01"^^xsd:double</otriple>
+				<otriple>Appleton_International_Airport | city | Appleton,_Wisconsin</otriple>
+				<otriple>Appleton_International_Airport | elevation | "279.806"^^xsd:double</otriple>
+				<otriple>Appleton_International_Airport | runwayDesignation | "3/21"</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Appleton_International_Airport | location | Greenville,_Wisconsin</mtriple>
+				<mtriple>Appleton_International_Airport | runwayLength | 2439.0</mtriple>
+				<mtriple>Appleton_International_Airport | cityServed | Appleton,_Wisconsin</mtriple>
+				<mtriple>Appleton_International_Airport | elevationAboveTheSeaLevel | 280</mtriple>
+				<mtriple>Appleton_International_Airport | runwayName | "3/21"</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Aeropuerto_Internacional_de_Appleton | Ubicación | Greenville,_Wisconsin</striple>
+				<striple>Aeropuerto_Internacional_de_Appleton | LongitudDeLaPista | 2439.0</striple>
+				<striple>Aeropuerto_Internacional_de_Appleton | CiudadServida | Appleton</striple>
+				<striple>Aeropuerto_Internacional_de_Appleton | ElevaciónSobreElNivelDelMar | 280</striple>
+				<striple>Aeropuerto_Internacional_de_Appleton | NombreDeLaPista | 3/21</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">The city of Appleton is served by Appleton International Airport located 280 metres above sea level in Greenville, Wisconsin. The runway at the airport is 3/21 and is 2439 in length.</lex>
+			<lex lang="en" lid="Id2">Appleton International Airport can be found in Greenville, Wisconsin and serves the city of Appleton. It is situated 280 meters above sea level and has a 2,439 kilometers long runway called 3/21.</lex>
+			<lex lang="en" lid="Id3">Appleton International Airport, which serves the city of Appleton is located in Greenville, Wisconsin. It is elevated 2801 meters above sea level. The airport's runway, which is named 3/21 measures a length of 2439 units.</lex>
+			<lex lang="es" lid="Id1">La ciudad de Appleton cuenta con el Aeropuerto Internacional de Appleton, situado a 280 metros sobre el nivel del mar en Greenville, Wisconsin. La pista del aeropuerto es la 3/21 y tiene una longitud de 2439.</lex>
+			<lex lang="es" lid="Id2">El Aeropuerto Internacional de Appleton se encuentra en Greenville, Wisconsin, y da servicio a la ciudad de Appleton. Está situado a 280 metros sobre el nivel del mar y cuenta con una pista de 2,439 kilómetros de longitud denominada 3/21.</lex>
+			<lex lang="es" lid="Id3">El Aeropuerto Internacional de Appleton, que da servicio a la ciudad de Appleton, está situado en Greenville, Wisconsin. Se encuentra a 2801 metros sobre el nivel del mar. La pista del aeropuerto, que se llama 3/21 mide una longitud de 2439 unidades.</lex>
+		</entry>
+		<entry category="Airport" eid="Id19" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>Appleton_International_Airport | location | Greenville,_Wisconsin</otriple>
+				<otriple>Greenville,_Wisconsin | isPartOf | Menasha_(town),_Wisconsin</otriple>
+				<otriple>Greenville,_Wisconsin | country | United_States</otriple>
+				<otriple>Appleton_International_Airport | cityServed | Appleton,_Wisconsin</otriple>
+				<otriple>Greenville,_Wisconsin | subdivisionName | Clayton,_Winnebago_County,_Wisconsin</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Appleton_International_Airport | location | Greenville,_Wisconsin</mtriple>
+				<mtriple>Greenville,_Wisconsin | isPartOf | Menasha_(town),_Wisconsin</mtriple>
+				<mtriple>Greenville,_Wisconsin | country | United_States</mtriple>
+				<mtriple>Appleton_International_Airport | cityServed | Appleton,_Wisconsin</mtriple>
+				<mtriple>Greenville,_Wisconsin | isPartOf | Clayton,_Winnebago_County,_Wisconsin</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Aeropuerto_Internacional_de_Appleton | Ubicación | Greenville,_Wisconsin</striple>
+				<striple>Greenville,_Wisconsin | FormaParteDe | Menasha,_Wisconsin</striple>
+				<striple>Greenville,_Wisconsin | País | Estados_Unidos</striple>
+				<striple>Aeropuerto_Internacional_de_Appleton | CiudadServida | Appleton</striple>
+				<striple>Greenville,_Wisconsin | FormaParteDe | Clayton_(condado_de_Winnebago,_Wisconsin)</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">The city of Appleton is served by Appleton International Airport in Greenville (part of Menasha), Clayton Winnebago County, Wisconsin, United States.</lex>
+			<lex lang="en" lid="Id2">Appleton, Wisconsin is served by Appleton International Airport which is located in Greenville (part of Menasha town), Clayton Winnebago County, Wisconsin, USA.</lex>
+			<lex lang="es" lid="Id1">La ciudad de Appleton está servida por el Aeropuerto Internacional de Appleton en Greenville (parte de Menasha), Condado de Clayton Winnebago, Wisconsin, Estados Unidos.</lex>
+			<lex lang="es" lid="Id2">Appleton, Wisconsin es servido por el Aeropuerto Internacional de Appleton que se encuentra en Greenville (parte de la ciudad de Menasha), Clayton Winnebago County, Wisconsin, EE.UU..</lex>
+		</entry>
+		<entry category="Airport" eid="Id20" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+			<originaltripleset>
+				<otriple>Ardmore_Airport_(New_Zealand) | runwayLength | "1411.22"^^xsd:double</otriple>
+				<otriple>Ardmore_Airport_(New_Zealand) | r3Surface | Poaceae</otriple>
+				<otriple>Ardmore_Airport_(New_Zealand) | operator | Civil_Aviation_Authority_of_New_Zealand</otriple>
+				<otriple>Ardmore_Airport_(New_Zealand) | elevation | "33.8328"^^xsd:double</otriple>
+				<otriple>Ardmore_Airport_(New_Zealand) | runwayDesignation | "03R/21L"</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Ardmore_Airport_(New_Zealand) | runwayLength | "1411.0"^^xsd:double</otriple>
+				<otriple>Ardmore_Airport_(New_Zealand) | r3Surface | Poaceae</otriple>
+				<otriple>Ardmore_Airport_(New_Zealand) | operator | Civil_Aviation_Authority_of_New_Zealand</otriple>
+				<otriple>Ardmore_Airport_(New_Zealand) | elevation | "33.8328"^^xsd:double</otriple>
+				<otriple>Ardmore_Airport_(New_Zealand) | runwayDesignation | "03R/21L"</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Ardmore_Airport_(New_Zealand) | runwayLength | 1411.0</mtriple>
+				<mtriple>Ardmore_Airport_(New_Zealand) | 3rdRunwaySurfaceType | Poaceae</mtriple>
+				<mtriple>Ardmore_Airport_(New_Zealand) | operatingOrganisation | Civil_Aviation_Authority_of_New_Zealand</mtriple>
+				<mtriple>Ardmore_Airport_(New_Zealand) | elevationAboveTheSeaLevel | 34.0</mtriple>
+				<mtriple>Ardmore_Airport_(New_Zealand) | runwayName | "03R/21L"</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Aeropuerto_de_Ardmore_(Nueva_Zelanda) | LongitudDeLaPista | 1411.0</striple>
+				<striple>Aeropuerto_de_Ardmore_(Nueva_Zelanda) | TipoDeSuperficieDeLa3ªPista | gramíneas</striple>
+				<striple>Aeropuerto_de_Ardmore_(Nueva_Zelanda) | OrganizaciónOperativa | Autoridad_de_Aviación_Civil_de_Nueva_Zelanda</striple>
+				<striple>Aeropuerto_de_Ardmore_(Nueva_Zelanda) | ElevaciónSobreElNivelDelMar | 34.0</striple>
+				<striple>Aeropuerto_de_Ardmore_(Nueva_Zelanda) | NombreDeLaPista | 03R/21L</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Ardmore Airport in New Zealand is operated by the Civil Aviation Authority of New Zealand and is 34 metres above sea level. It has a runway named 03R/21L which is 1,411 long and its third runway has a poaceae surface.</lex>
+			<lex lang="en" lid="Id2">Ardmore Airport (New Zealand) is operated by the Civil Aviation Authority of New Zealand. Its 3rd runway is made of Poaceae and its name is 03R/21L. It is 1411 m long and the airport is 34 m above sea level.</lex>
+			<lex lang="en" lid="Id3">The Civil Aviation Authority of New Zealand is the operating organisation for Ardmore Airport, New Zealand and is situated 34 meters above sea level. The airport's 3rd runway is surfaced with Poaceae and has a 1,411 meter long runway called "03R/21L".</lex>
+			<lex lang="es" lid="Id1">El Aeropuerto de Ardmore, en Nueva Zelanda, está gestionado por la Autoridad de Aviación Civil de Nueva Zelanda y se encuentra a 34 metros sobre el nivel del mar. Tiene una pista denominada 03R/21L de 1.411 metros de longitud y su tercera pista tiene una superficie de gramíneas.</lex>
+			<lex lang="es" lid="Id2">El Aeropuerto de Ardmore (Nueva Zelanda) está gestionado por la Autoridad de Aviación Civil de Nueva Zelanda. Su 3ª pista es de Poaceae y su nombre es 03R/21L. Tiene una longitud de 1411 m y el aeropuerto se encuentra a 34 m sobre el nivel del mar.</lex>
+			<lex lang="es" lid="Id3">La Autoridad de Aviación Civil de Nueva Zelanda es la organización operativa del Aeropuerto de Ardmore, Nueva Zelanda, y está situado a 34 metros sobre el nivel del mar. La tercera pista del aeropuerto está asfaltada con Poaceae y tiene una longitud de 1.411 metros denominada "03R/21L".</lex>
+		</entry>
+		<entry category="Airport" eid="Id21" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+			<originaltripleset>
+				<otriple>Ashgabat_International_Airport | operator | Turkmenistan_Airlines</otriple>
+				<otriple>Ashgabat_International_Airport | location | Ashgabat</otriple>
+				<otriple>Ashgabat_International_Airport | runwayLength | "2989.0"^^xsd:double</otriple>
+				<otriple>Ashgabat_International_Airport | elevation | "210.922"^^xsd:double</otriple>
+				<otriple>Ashgabat_International_Airport | runwayDesignation | "12R/30L"</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Ashgabat_International_Airport | operator | Turkmenistan_Airlines</otriple>
+				<otriple>Ashgabat_International_Airport | location | Ashgabat</otriple>
+				<otriple>Ashgabat_International_Airport | runwayLength | "2989.0"^^xsd:double</otriple>
+				<otriple>Ashgabat_International_Airport | elevation | "211.0"^^xsd:double</otriple>
+				<otriple>Ashgabat_International_Airport | runwayDesignation | "12R/30L"</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Ashgabat_International_Airport | operatingOrganisation | Turkmenistan_Airlines</mtriple>
+				<mtriple>Ashgabat_International_Airport | location | Ashgabat</mtriple>
+				<mtriple>Ashgabat_International_Airport | runwayLength | 2989.0</mtriple>
+				<mtriple>Ashgabat_International_Airport | elevationAboveTheSeaLevelInMetres | 211</mtriple>
+				<mtriple>Ashgabat_International_Airport | runwayName | "12R/30L"</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Aeropuerto_internacional_de_Ashgabad | OrganizaciónOperativa | Turkmenistan_Airlines</striple>
+				<striple>Aeropuerto_internacional_de_Ashgabad | Ubicación | Asjabad</striple>
+				<striple>Aeropuerto_internacional_de_Ashgabad | LongitudDeLaPista | 2989.0</striple>
+				<striple>Aeropuerto_internacional_de_Ashgabad | AltitudSobreElNivelDelMarEnMetros | 211</striple>
+				<striple>Aeropuerto_internacional_de_Ashgabad | NombreDeLaPista | 12R/30L</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Turkmenistan Airlines operates Ashgabat International Airport in Ashgabat. The airport is 211 metres above sea level, has the runway length of 2989.0 and 12R/30L is the runway name.</lex>
+			<lex lang="en" lid="Id2">Ashgabat International Airport is operated by Turkmenistan Airlines. The runway 12R/30L is 2989m long and is 211m a.s.l.</lex>
+			<lex lang="en" lid="Id3">Ashgabat International Airport is located in Ashgabat and is operated byTurkmenistan Airlines. It is 211 metres above sea level and has a runway length of 2989.0. It has a runway named 12R/30L.</lex>
+			<lex lang="es" lid="Id1">Turkmenistan Airlines opera el Aeropuerto Internacional de Ashgabat en Ashgabat. El aeropuerto se encuentra a 211 metros sobre el nivel del mar, tiene una longitud de pista de 2989,0 y 12R/30L es el nombre de la pista.</lex>
+			<lex lang="es" lid="Id2">El Aeropuerto Internacional de Ashgabat está operado por Turkmenistan Airlines. La pista 12R/30L tiene una longitud de 2989 m y una altitud de 211 m.</lex>
+			<lex lang="es" lid="Id3">El Aeropuerto Internacional de Ashgabat está situado en Ashgabat y es operado porTurkmenistan Airlines. Está situado a 211 metros sobre el nivel del mar y tiene una pista de 2989,0 metros de longitud. Tiene una pista denominada 12R/30L.</lex>
+		</entry>
+		<entry category="Airport" eid="Id22" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+			<originaltripleset>
+				<otriple>Atlantic_City_International_Airport | runwayLength | "1872.69"^^xsd:double</otriple>
+				<otriple>Atlantic_City_International_Airport | elevation | "23.0"^^xsd:double</otriple>
+				<otriple>Atlantic_City_International_Airport | operator | Port_Authority_of_New_York_and_New_Jersey</otriple>
+				<otriple>Atlantic_City_International_Airport | icaoLocationIdentifier | "KACY"</otriple>
+				<otriple>Atlantic_City_International_Airport | runwayDesignation | "4/22"</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Atlantic_City_International_Airport | runwayLength | "1872.69"^^xsd:double</otriple>
+				<otriple>Atlantic_City_International_Airport | operator | "Port Authority of New York and New Jersey &amp; SJTA"@en</otriple>
+				<otriple>Atlantic_City_International_Airport | elevation | "23.0"^^xsd:double</otriple>
+				<otriple>Atlantic_City_International_Airport | icaoLocationIdentifier | "KACY"</otriple>
+				<otriple>Atlantic_City_International_Airport | runwayDesignation | "4/22"</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Atlantic_City_International_Airport | runwayLength | "1872.69"^^xsd:double</otriple>
+				<otriple>Atlantic_City_International_Airport | operator | "Port Authority of New York and New Jersey &amp; SJTA"@en</otriple>
+				<otriple>Atlantic_City_International_Airport | elevation | "22.86"^^xsd:double</otriple>
+				<otriple>Atlantic_City_International_Airport | icaoLocationIdentifier | "KACY"</otriple>
+				<otriple>Atlantic_City_International_Airport | runwayDesignation | "4/22"</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Atlantic_City_International_Airport | runwayLength | "1873.0"^^xsd:double</otriple>
+				<otriple>Atlantic_City_International_Airport | elevation | "22.86"^^xsd:double</otriple>
+				<otriple>Atlantic_City_International_Airport | operator | Port_Authority_of_New_York_and_New_Jersey</otriple>
+				<otriple>Atlantic_City_International_Airport | icaoLocationIdentifier | "KACY"</otriple>
+				<otriple>Atlantic_City_International_Airport | runwayDesignation | "4/22"</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Atlantic_City_International_Airport | runwayLength | "1873.0"^^xsd:double</otriple>
+				<otriple>Atlantic_City_International_Airport | operator | "Port Authority of New York and New Jersey &amp; SJTA"@en</otriple>
+				<otriple>Atlantic_City_International_Airport | elevation | "22.86"^^xsd:double</otriple>
+				<otriple>Atlantic_City_International_Airport | icaoLocationIdentifier | "KACY"</otriple>
+				<otriple>Atlantic_City_International_Airport | runwayDesignation | "4/22"</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Atlantic_City_International_Airport | runwayLength | "1872.69"^^xsd:double</otriple>
+				<otriple>Atlantic_City_International_Airport | elevation | "22.86"^^xsd:double</otriple>
+				<otriple>Atlantic_City_International_Airport | operator | Port_Authority_of_New_York_and_New_Jersey</otriple>
+				<otriple>Atlantic_City_International_Airport | icaoLocationIdentifier | "KACY"</otriple>
+				<otriple>Atlantic_City_International_Airport | runwayDesignation | "4/22"</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Atlantic_City_International_Airport | runwayLength | 1873.0</mtriple>
+				<mtriple>Atlantic_City_International_Airport | operatingOrganisation | Port_Authority_of_New_York_and_New_Jersey</mtriple>
+				<mtriple>Atlantic_City_International_Airport | elevationAboveTheSeaLevel | 23.0</mtriple>
+				<mtriple>Atlantic_City_International_Airport | icaoLocationIdentifier | "KACY"</mtriple>
+				<mtriple>Atlantic_City_International_Airport | runwayName | "4/22"</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Aeropuerto_Internacional_de_Atlantic_City | LongitudDeLaPista | 1873.0</striple>
+				<striple>Aeropuerto_Internacional_de_Atlantic_City | OrganizaciónOperativa | Autoridad_Portuaria_de_Nueva_York_y_Nueva_Jersey</striple>
+				<striple>Aeropuerto_Internacional_de_Atlantic_City | ElevaciónSobreElNivelDelMar | 23.0</striple>
+				<striple>Aeropuerto_Internacional_de_Atlantic_City | IdentificadorDeUbicaciónDeLaIcao | KACY</striple>
+				<striple>Aeropuerto_Internacional_de_Atlantic_City | NombreDeLaPista | 4/22</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Atlantic City International Airport has a runway length of 1,873 and is operated by the Port Authority of New York and New Jersey. It is situated 23 metres above sea level, has the runway name of 4/22 and is known by the ICAO location identifier KACY.</lex>
+			<lex lang="en" lid="Id2">Runway 4/22 at Atlantic City International Airport has an elevation of 23m above sea level and its length is 1873. It is operated by Port Authority of New York and New Jersey under the location Identifier of KACY.</lex>
+			<lex lang="en" lid="Id3">The Port Authority of New York and New Jersey is the operating organisation of Atlantic City International airport, which lies 23.0 meters above sea level. The airport's ICAO Location Identifier is KACY. The 4/22 is the name of the runway in Atlantic City International Airport and it measures 1873.</lex>
+			<lex lang="es" lid="Id1">El Aeropuerto Internacional de Atlantic City tiene una pista de 1.873 metros de longitud y está gestionado por la Autoridad Portuaria de Nueva York y Nueva Jersey. Está situado a 23 metros sobre el nivel del mar, tiene el nombre de pista 4/22 y se le conoce por el identificador de ubicación OACI KACY.</lex>
+			<lex lang="es" lid="Id2">La pista 4/22 del Aeropuerto Internacional de Atlantic City tiene una elevación de 23m sobre el nivel del mar y su longitud es de 1873. Está gestionada por la Autoridad Portuaria de Nueva York y Nueva Jersey con el identificador de ubicación KACY.</lex>
+			<lex lang="es" lid="Id3">La Autoridad Portuaria de Nueva York y Nueva Jersey es el organismo gestor del aeropuerto internacional de Atlantic City, situado a 23,0 metros sobre el nivel del mar. El identificador de ubicación OACI del aeropuerto es KACY. La 4/22 es el nombre de la pista del Aeropuerto Internacional de Atlantic City y mide 1873.</lex>
+		</entry>
+		<entry category="Airport" eid="Id23" shape="(X (X (X (X) (X) (X))))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>Belgium | leader | Philippe_of_Belgium</otriple>
+				<otriple>Antwerp_International_Airport | city | Antwerp</otriple>
+				<otriple>Belgium | leaderName | Charles_Michel</otriple>
+				<otriple>Belgium | language | German_language</otriple>
+				<otriple>Antwerp | country | Belgium</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Belgium | leader | Charles_Michel</otriple>
+				<otriple>Belgium | leaderName | Philippe_of_Belgium</otriple>
+				<otriple>Antwerp_International_Airport | city | Antwerp</otriple>
+				<otriple>Belgium | language | German_language</otriple>
+				<otriple>Antwerp | country | Belgium</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Belgium | leader | Charles_Michel</mtriple>
+				<mtriple>Belgium | leader | Philippe_of_Belgium</mtriple>
+				<mtriple>Antwerp_International_Airport | cityServed | Antwerp</mtriple>
+				<mtriple>Belgium | language | German_language</mtriple>
+				<mtriple>Antwerp | country | Belgium</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Bélgica | Líder | Charles_Michel</striple>
+				<striple>Bélgica | Líder | Felipe_I_de_Bélgica</striple>
+				<striple>Aeropuerto_de_Amberes-Deurne | CiudadServida | Amberes</striple>
+				<striple>Bélgica | Idioma | alemán</striple>
+				<striple>Amberes | País | Bélgica</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Antwerp International Airport serves the city of Antwerp which is Belgium. Two of the leaders of which, are Charles Michel and Philippe of Belgium. In Belgium, one of the languages is German.</lex>
+			<lex lang="en" lid="Id2">Antwerp International Airport serves Antwerp in Belgium. Philippe of Belgium and Charles Michel are leaders of Belgium, where German is the language spoken.</lex>
+			<lex lang="es" lid="Id1">El Aeropuerto Internacional de Amberes da servicio a la ciudad de Amberes, en Bélgica. Dos de sus dirigentes son Charles Michel y Philippe de Bélgica. En Bélgica, uno de los idiomas es el alemán.</lex>
+			<lex lang="es" lid="Id2">El Aeropuerto Internacional de Amberes da servicio a Amberes, en Bélgica. Felipe de Bélgica y Charles Michel son los líderes de Bélgica, donde se habla alemán.</lex>
+		</entry>
+		<entry category="Airport" eid="Id24" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>Egg_Harbor_Township,_New_Jersey | isPartOf | New_Jersey</otriple>
+				<otriple>Atlantic_City_International_Airport | elevation | "23.0"^^xsd:double</otriple>
+				<otriple>Atlantic_City_International_Airport | location | Egg_Harbor_Township,_New_Jersey</otriple>
+				<otriple>Egg_Harbor_Township,_New_Jersey | country | United_States</otriple>
+				<otriple>Egg_Harbor_Township,_New_Jersey | subdivisionName | Atlantic_County,_New_Jersey</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Egg_Harbor_Township,_New_Jersey | isPartOf | New_Jersey</otriple>
+				<otriple>Atlantic_City_International_Airport | elevation | "22.86"^^xsd:double</otriple>
+				<otriple>Atlantic_City_International_Airport | location | Egg_Harbor_Township,_New_Jersey</otriple>
+				<otriple>Egg_Harbor_Township,_New_Jersey | country | United_States</otriple>
+				<otriple>Egg_Harbor_Township,_New_Jersey | subdivisionName | Atlantic_County,_New_Jersey</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Egg_Harbor_Township,_New_Jersey | isPartOf | New_Jersey</mtriple>
+				<mtriple>Atlantic_City_International_Airport | elevationAboveTheSeaLevel | 23.0</mtriple>
+				<mtriple>Atlantic_City_International_Airport | location | Egg_Harbor_Township,_New_Jersey</mtriple>
+				<mtriple>Egg_Harbor_Township,_New_Jersey | country | United_States</mtriple>
+				<mtriple>Egg_Harbor_Township,_New_Jersey | isPartOf | Atlantic_County,_New_Jersey</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Municipio_de_Egg_Harbor,_Nueva_Jersey | FormaParteDe | Nueva_Jersey</striple>
+				<striple>Aeropuerto_Internacional_de_Atlantic_City | ElevaciónSobreElNivelDelMar | 23.0</striple>
+				<striple>Aeropuerto_Internacional_de_Atlantic_City | Ubicación | Municipio_de_Egg_Harbor,_Nueva_Jersey</striple>
+				<striple>Municipio_de_Egg_Harbor,_Nueva_Jersey | País | Estados_Unidos</striple>
+				<striple>Municipio_de_Egg_Harbor,_Nueva_Jersey | FormaParteDe | Condado_de_Atlantic</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Atlantic City International Airport is 23 metres above sea level and is located in Egg Harbor Township, Atlantic County, New Jersey, United States.</lex>
+			<lex lang="en" lid="Id2">Atlantic City International Airport is located at 23 metres above sea level in Egg Harbor Township, Atlantic County, New Jersey, United States.</lex>
+			<lex lang="en" lid="Id3">Atlantic City International Airport, which lies 23 metres above sea level, is located in Egg Harbor Township, New Jersey, United States. The Egg Harbor Township is a part of Atlantic County, New Jersey.</lex>
+			<lex lang="es" lid="Id1">El Aeropuerto Internacional de Atlantic City se encuentra a 23 metros sobre el nivel del mar y está situado en Egg Harbor Township, condado de Atlantic, Nueva Jersey, Estados Unidos.</lex>
+			<lex lang="es" lid="Id2">El Aeropuerto Internacional de Atlantic City está situado a 23 metros sobre el nivel del mar en Egg Harbor Township, condado de Atlantic, Nueva Jersey, Estados Unidos.</lex>
+			<lex lang="es" lid="Id3">El Aeropuerto Internacional de Atlantic City, situado a 23 metros sobre el nivel del mar, se encuentra en Egg Harbor Township, Nueva Jersey, Estados Unidos. El municipio de Egg Harbor forma parte del condado de Atlantic, en Nueva Jersey.</lex>
+		</entry>
+		<entry category="Airport" eid="Id25" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>Madrid | isPartOf | Community_of_Madrid</otriple>
+				<otriple>Adolfo_Suárez_Madrid–Barajas_Airport | elevation | "609.6"^^xsd:double</otriple>
+				<otriple>Adolfo_Suárez_Madrid–Barajas_Airport | runwayLength | "3500.0"^^xsd:double</otriple>
+				<otriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | Madrid</otriple>
+				<otriple>Madrid | country | Spain</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Madrid | isPartOf | Community_of_Madrid</otriple>
+				<otriple>Adolfo_Suárez_Madrid–Barajas_Airport | elevation | "610.0"^^xsd:double</otriple>
+				<otriple>Adolfo_Suárez_Madrid–Barajas_Airport | runwayLength | "3499.71"^^xsd:double</otriple>
+				<otriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | Madrid</otriple>
+				<otriple>Madrid | country | Spain</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Madrid | isPartOf | Community_of_Madrid</otriple>
+				<otriple>Adolfo_Suárez_Madrid–Barajas_Airport | elevation | "609.6"^^xsd:double</otriple>
+				<otriple>Adolfo_Suárez_Madrid–Barajas_Airport | runwayLength | "3499.71"^^xsd:double</otriple>
+				<otriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | Madrid</otriple>
+				<otriple>Madrid | country | Spain</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Madrid | isPartOf | Community_of_Madrid</mtriple>
+				<mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | elevationAboveTheSeaLevel | 610.0</mtriple>
+				<mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | runwayLength | 3500.0</mtriple>
+				<mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | Madrid</mtriple>
+				<mtriple>Madrid | country | Spain</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Madrid | FormaParteDe | Comunidad_de_Madrid</striple>
+				<striple>Aeropuerto_Adolfo_Suárez_Madrid-Barajas | ElevaciónSobreElNivelDelMar | 610.0</striple>
+				<striple>Aeropuerto_Adolfo_Suárez_Madrid-Barajas | LongitudDeLaPista | 3500.0</striple>
+				<striple>Aeropuerto_Adolfo_Suárez_Madrid-Barajas | Ubicación | Madrid</striple>
+				<striple>Madrid | País | España</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">The runway length at Adolfo Suarez Madrid-Barajas airport located in Madrid, part of the community of Madrid in Spain, is 3500.0 . The airport is 610 metres above sea level.</lex>
+			<lex lang="en" lid="Id2">Adolfo Suárez Madrid–Barajas Airport is found in Madrid, Spain, Madrid is part of the community of Madrid. The airport has a runway length of 3500 and is 610 metres above sea level.</lex>
+			<lex lang="en" lid="Id3">Adolfo Suárez Madrid–Barajas Airport is located in Madrid, which is part of the Community of Madrid, in Spain. The airport has a runway length of 3,500 and is located 610 metres above sea level.</lex>
+			<lex lang="es" lid="Id1">La longitud de la pista del aeropuerto Adolfo Suárez Madrid-Barajas situado en Madrid, parte de la comunidad de Madrid en España, es de 3500,0 . El aeropuerto se encuentra a 610 metros sobre el nivel del mar.</lex>
+			<lex lang="es" lid="Id2">El aeropuerto Adolfo Suárez Madrid-Barajas se encuentra en Madrid, España, Madrid forma parte de la comunidad de Madrid. El aeropuerto tiene una longitud de pista de 3500 y está a 610 metros sobre el nivel del mar.</lex>
+			<lex lang="es" lid="Id3">El aeropuerto Adolfo Suárez Madrid-Barajas está situado en Madrid, que forma parte de la Comunidad de Madrid, en España. El aeropuerto tiene una longitud de pista de 3.500 y está situado a 610 metros sobre el nivel del mar.</lex>
+		</entry>
+	</entries>
+</benchmark>

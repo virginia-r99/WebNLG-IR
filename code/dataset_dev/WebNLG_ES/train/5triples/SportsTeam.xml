@@ -1,0 +1,1340 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+	<entries>
+		<entry category="SportsTeam" eid="Id1" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>A.C._Lumezzane | ground | Italy</otriple>
+				<otriple>Italy | capital | Rome</otriple>
+				<otriple>Italy | language | Italian_language</otriple>
+				<otriple>Italy | leader | Pietro_Grasso</otriple>
+				<otriple>Italy | demonym | Italians</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>A.C._Lumezzane | ground | Italy</otriple>
+				<otriple>Italy | capital | Rome</otriple>
+				<otriple>Italy | language | Italian_language</otriple>
+				<otriple>Italy | leaderName | Pietro_Grasso</otriple>
+				<otriple>Italy | demonym | Italians</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>A.C._Lumezzane | ground | Italy</mtriple>
+				<mtriple>Italy | capital | Rome</mtriple>
+				<mtriple>Italy | language | Italian_language</mtriple>
+				<mtriple>Italy | leader | Pietro_Grasso</mtriple>
+				<mtriple>Italy | demonym | Italians</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Associazione_Calcio_Lumezzane | Suelo | Italia</striple>
+				<striple>Italia | Capital | Roma</striple>
+				<striple>Italia | Idioma | italiano</striple>
+				<striple>Italia | Líder | Pietro_Grasso</striple>
+				<striple>Italia | Gentilicio | italianos</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">A.C. Lumezzane's ground is in Italy where Pietro Grasso is a leader. The capital of the country is Rome and the Italian language is spoken. People who inhabit Italy are called Italians.</lex>
+			<lex lang="en" lid="Id2">A.C. Lumezzane's ground is in Italy where the Italian language is spoken by the inhabitants who are known as Italians. The leader of the country is Pietro Grasso and the capital city is Rome.</lex>
+			<lex lang="en" lid="Id3">Italy is led by Pietro Grasso, and the Italian language is spoken there. The capital city is Rome and the AC Lumezzane club play in the country. The inhabitants of Italy are known as Italians.</lex>
+			<lex lang="es" lid="Id1">La sede de A.C. Lumezzane está en Italia, donde Pietro Grasso es dirigente. La capital del país es Roma y se habla la lengua Italiana. Las personas que habitan en Italia se llaman Italianos.</lex>
+			<lex lang="es" lid="Id2">El campo del A.C. Lumezzane está en Italia, donde la lengua oficial es el Italiano. El dirigente del país es Pietro Grasso y la capital es Roma.</lex>
+			<lex lang="es" lid="Id3">Italia está dirigida por Pietro Grasso, y en ella se habla la lengua Italiana. La capital es Roma y en el país juega el club AC Lumezzane. A los habitantes de Italia se les conoce como Italianos.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id2" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>A.C._Lumezzane | ground | Italy</otriple>
+				<otriple>Italy | capital | Rome</otriple>
+				<otriple>Italy | officialLanguage | Italian_language</otriple>
+				<otriple>Italy | leader | Pietro_Grasso</otriple>
+				<otriple>Italy | demonym | Italians</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>A.C._Lumezzane | ground | Italy</mtriple>
+				<mtriple>Italy | capital | Rome</mtriple>
+				<mtriple>Italy | officialLanguage | Italian_language</mtriple>
+				<mtriple>Italy | leader | Pietro_Grasso</mtriple>
+				<mtriple>Italy | demonym | Italians</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Associazione_Calcio_Lumezzane | Suelo | Italia</striple>
+				<striple>Italia | Capital | Roma</striple>
+				<striple>Italia | IdiomaOficial | italiano</striple>
+				<striple>Italia | Líder | Pietro_Grasso</striple>
+				<striple>Italia | Gentilicio | italianos</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">A.C. Lumezzane play in Italy, where Rome is the capital and Italians live. It is also where Pietro Grasso is the leader and Italian is the official language.</lex>
+			<lex lang="en" lid="Id2">AC Lumezzane play in Italy where the capital city is Rome and the official language is Italian. The leader of Italy is Pietro Grasso, and people who reside in Italy are known as Italians.</lex>
+			<lex lang="en" lid="Id3">Pietro Grasso leads Italy whose capital is Rome. The language there is Italian and its people are known as Italians. A.C. Lumezzane play in that country.</lex>
+			<lex lang="es" lid="Id1">El A.C. Lumezzane juega en Italia, donde Roma es la capital y viven los Italianos. También es donde Pietro Grasso es el líder y el Italiano es el idioma oficial.</lex>
+			<lex lang="es" lid="Id2">El AC Lumezzane juega en Italia, cuya capital es Roma y cuyo idioma oficial es el Italiano. El líder de Italia es Pietro Grasso, y las personas que residen en Italia se conocen como Italianos.</lex>
+			<lex lang="es" lid="Id3">Pietro Grasso dirige Italia, cuya capital es Roma. Allí el idioma es el Italiano y a sus habitantes se les conoce como Italianos. El A.C. Lumezzane juega en ese país.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id3" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>A.C._Lumezzane | manager | Michele_Marcolini</otriple>
+				<otriple>Michele_Marcolini | team | A.C._Chievo_Verona</otriple>
+				<otriple>A.C._Lumezzane | ground | Italy</otriple>
+				<otriple>Italy | leader | Pietro_Grasso</otriple>
+				<otriple>Michele_Marcolini | clubs | Vicenza_Calcio</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>A.C._Lumezzane | manager | Michele_Marcolini</otriple>
+				<otriple>A.C._Lumezzane | ground | Italy</otriple>
+				<otriple>Michele_Marcolini | clubs | A.C._Chievo_Verona</otriple>
+				<otriple>Italy | leader | Pietro_Grasso</otriple>
+				<otriple>Michele_Marcolini | team | Vicenza_Calcio</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>A.C._Lumezzane | manager | Michele_Marcolini</mtriple>
+				<mtriple>Michele_Marcolini | club | A.C._Chievo_Verona</mtriple>
+				<mtriple>A.C._Lumezzane | ground | Italy</mtriple>
+				<mtriple>Italy | leader | Pietro_Grasso</mtriple>
+				<mtriple>Michele_Marcolini | club | Vicenza_Calcio</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Associazione_Calcio_Lumezzane | Director | Michele_Marcolini</striple>
+				<striple>Michele_Marcolini | Club | A.C._Chievo_Verona</striple>
+				<striple>Associazione_Calcio_Lumezzane | Suelo | Italia</striple>
+				<striple>Italia | Líder | Pietro_Grasso</striple>
+				<striple>Michele_Marcolini | Club | Vicenza_Calcio</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Michele Marcolini has been manager of AC Lumezzane which is located in Italy. He played for Vicenza Calcio, A.C. Chievo Verona. An Italian leader is Pietro Grasso.</lex>
+			<lex lang="en" lid="Id2">Michele Marcolini previously played for Vicenza Calcio but now plays for AC Chievo Verona. He is also the manager of AC Lumezzane who have their ground in Italy where Pietro Grasso is the leader.</lex>
+			<lex lang="en" lid="Id3">AC Lumezzane's ground is in Italy and their manager is Michele Marcolini who plays for A.C. Chievo Verona and is in the Vicenza Calcio Club. The leader of Italy is Pietro Grasso.</lex>
+			<lex lang="es" lid="Id1">Michele Marcolini ha sido manager del AC Lumezzane que se encuentra en Italia. Jugó en el Vicenza Calcio y en el A.C. Chievo Verona. Un dirigente Italiano es Pietro Grasso.</lex>
+			<lex lang="es" lid="Id2">Michele Marcolini jugó anteriormente en el Vicenza Calcio, pero ahora lo hace en el AC Chievo Verona. También es el entrenador del AC Lumezzane, que tiene su campo en Italia, donde Pietro Grasso es el líder.</lex>
+			<lex lang="es" lid="Id3">El campo del AC Lumezzane está en Italia y su entrenador es Michele Marcolini, que juega en el A.C. Chievo Verona y está en el Vicenza Calcio Club. El líder de Italia es Pietro Grasso.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id4" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>A.E_Dimitra_Efxeinoupolis | location | Greece</otriple>
+				<otriple>Greece | capital | Athens</otriple>
+				<otriple>Greece | leader | Nikos_Voutsis</otriple>
+				<otriple>Greece | leaderName | Prokopis_Pavlopoulos</otriple>
+				<otriple>Greece | language | Greek_language</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>A.E_Dimitra_Efxeinoupolis | location | Greece</otriple>
+				<otriple>Greece | capital | Athens</otriple>
+				<otriple>Greece | leaderName | Nikos_Voutsis</otriple>
+				<otriple>Greece | leader | Prokopis_Pavlopoulos</otriple>
+				<otriple>Greece | language | Greek_language</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>A.E_Dimitra_Efxeinoupolis | location | Greece</mtriple>
+				<mtriple>Greece | capital | Athens</mtriple>
+				<mtriple>Greece | leader | Nikos_Voutsis</mtriple>
+				<mtriple>Greece | leader | Prokopis_Pavlopoulos</mtriple>
+				<mtriple>Greece | language | Greek_language</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>A.E_Dimitra_Efxeinoupolis | Ubicación | Grecia</striple>
+				<striple>Grecia | Capital | Atenas</striple>
+				<striple>Grecia | Líder | Nikos_Voutsis</striple>
+				<striple>Grecia | Líder | Prokopis_Pavlopoulos</striple>
+				<striple>Grecia | Idioma | griego</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Nikos Voutsis and Prokopis Pavlopoulos are leaders in Greece where the capital city is Athens and the Greek language is spoken. The country is also the location of the A.E Dimitra Efxeinoupolis club.</lex>
+			<lex lang="en" lid="Id2">The A.E Dimitra Efxeinoupolis club is located in Greece, where the language is Greek. Athens is the capital of Greece, and two of the leaders are Prokopis Pavlopoulos, and Nikos Voutsis.</lex>
+			<lex lang="es" lid="Id1">Nikos Voutsis y Prokopis Pavlopoulos son dirigentes en Grecia, donde la capital es Atenas y se habla la lengua griega. El país es también la sede del club A.E Dimitra Efxeinoupolis.</lex>
+			<lex lang="es" lid="Id2">El club A.E Dimitra Efxeinoupolis se encuentra en Grecia, donde el idioma es el griego. Atenas es la capital de Grecia, y dos de sus dirigentes son Prokopis Pavlopoulos, y Nikos Voutsis.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>A.E_Dimitra_Efxeinoupolis | location | Greece</otriple>
+				<otriple>Greece | currency | Euro</otriple>
+				<otriple>Greece | capital | Athens</otriple>
+				<otriple>Greece | leaderName | Nikos_Voutsis</otriple>
+				<otriple>Greece | leader | Prokopis_Pavlopoulos</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>A.E_Dimitra_Efxeinoupolis | location | Greece</otriple>
+				<otriple>Greece | currency | Euro</otriple>
+				<otriple>Greece | capital | Athens</otriple>
+				<otriple>Greece | leader | Nikos_Voutsis</otriple>
+				<otriple>Greece | leaderName | Prokopis_Pavlopoulos</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>A.E_Dimitra_Efxeinoupolis | location | Greece</mtriple>
+				<mtriple>Greece | currency | Euro</mtriple>
+				<mtriple>Greece | capital | Athens</mtriple>
+				<mtriple>Greece | leader | Nikos_Voutsis</mtriple>
+				<mtriple>Greece | leader | Prokopis_Pavlopoulos</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>A.E_Dimitra_Efxeinoupolis | Ubicación | Grecia</striple>
+				<striple>Grecia | Divisa | euro</striple>
+				<striple>Grecia | Capital | Atenas</striple>
+				<striple>Grecia | Líder | Nikos_Voutsis</striple>
+				<striple>Grecia | Líder | Prokopis_Pavlopoulos</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">A.E Dimitra Efxeinoupolis is located in Greece where the leaders are Nikos Voutsis and Prokopis Pavlopoulos. The country's capital is Athens and their currency is the euro.</lex>
+			<lex lang="en" lid="Id2">Greece is led by Nikos Voutsis and Prokopis Pavlopoulos, the capital city is Athens and the country uses the euro as their currency. It is also the location of the A.E Dimitra Efxeinoupolis club.</lex>
+			<lex lang="en" lid="Id3">The A.E Dimitra Efxeinoupolis club is located in Greece which is led by Nikos Voutsis and Prokopis Pavlopoulos. The capital of the country is Athens and the currency used is the euro.</lex>
+			<lex lang="es" lid="Id1">A.E Dimitra Efxeinoupolis se encuentra en Grecia y sus dirigentes son Nikos Voutsis y Prokopis Pavlopoulos. La capital del país es Atenas y su moneda es el euro.</lex>
+			<lex lang="es" lid="Id2">Grecia está dirigida por Nikos Voutsis y Prokopis Pavlopoulos, su capital es Atenas y el país utiliza el euro como moneda. También es la sede del club A.E Dimitra Efxeinoupolis.</lex>
+			<lex lang="es" lid="Id3">El club A.E Dimitra Efxeinoupolis se encuentra en Grecia y está dirigido por Nikos Voutsis y Prokopis Pavlopoulos. La capital del país es Atenas y la moneda utilizada es el euro.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id6" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>A.E_Dimitra_Efxeinoupolis | location | Greece</otriple>
+				<otriple>Greece | currency | Euro</otriple>
+				<otriple>Greece | leaderName | Alexis_Tsipras</otriple>
+				<otriple>Greece | capital | Athens</otriple>
+				<otriple>Greece | leader | Nikos_Voutsis</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>A.E_Dimitra_Efxeinoupolis | location | Greece</otriple>
+				<otriple>Greece | leader | Alexis_Tsipras</otriple>
+				<otriple>Greece | currency | Euro</otriple>
+				<otriple>Greece | capital | Athens</otriple>
+				<otriple>Greece | leaderName | Nikos_Voutsis</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>A.E_Dimitra_Efxeinoupolis | location | Greece</mtriple>
+				<mtriple>Greece | currency | Euro</mtriple>
+				<mtriple>Greece | leader | Alexis_Tsipras</mtriple>
+				<mtriple>Greece | capital | Athens</mtriple>
+				<mtriple>Greece | leader | Nikos_Voutsis</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>A.E_Dimitra_Efxeinoupolis | Ubicación | Grecia</striple>
+				<striple>Grecia | Divisa | euro</striple>
+				<striple>Grecia | Líder | Alexis_Tsipras</striple>
+				<striple>Grecia | Capital | Atenas</striple>
+				<striple>Grecia | Líder | Nikos_Voutsis</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Two leaders of Greece are Alexis Tsipras and Nikos Voutsis. Athens is its capital and its currency is the euro. A.E Dimitra Efxeinoupolis is located in Greece.</lex>
+			<lex lang="en" lid="Id2">The A.E Dimitra Efxeinoupolis club is located in Greece whose leader is Nikos Voutsis. Athens is the capital of Greece whose currency is the euro. Another leader there is Alexis Tsipras.</lex>
+			<lex lang="en" lid="Id3">A.E Dimitra Efxeinoupolis is located in Greece where the leaders are Alexis Tsipras and Nikos Voutsis. The capital of the country is Athens and the currency used is the euro.</lex>
+			<lex lang="es" lid="Id1">Los dos líderes de Grecia son Alexis Tsipras y Nikos Voutsis. Atenas es su capital y su moneda es el euro. A.E Dimitra Efxeinoupolis se encuentra en Grecia.</lex>
+			<lex lang="es" lid="Id2">El club A.E Dimitra Efxeinoupolis se encuentra en Grecia y su dirigente es Nikos Voutsis. Atenas es la capital de Grecia, cuya moneda es el euro. Otro de sus dirigentes es Alexis Tsipras.</lex>
+			<lex lang="es" lid="Id3">A.E Dimitra Efxeinoupolis se encuentra en Grecia y sus dirigentes son Alexis Tsipras y Nikos Voutsis. La capital del país es Atenas y la moneda utilizada es el euro.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id7" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>A.E_Dimitra_Efxeinoupolis | location | Greece</otriple>
+				<otriple>Greece | leader | Alexis_Tsipras</otriple>
+				<otriple>Greece | currency | Euro</otriple>
+				<otriple>Greece | capital | Athens</otriple>
+				<otriple>Greece | leaderName | Prokopis_Pavlopoulos</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>A.E_Dimitra_Efxeinoupolis | location | Greece</otriple>
+				<otriple>Greece | currency | Euro</otriple>
+				<otriple>Greece | leaderName | Alexis_Tsipras</otriple>
+				<otriple>Greece | capital | Athens</otriple>
+				<otriple>Greece | leader | Prokopis_Pavlopoulos</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>A.E_Dimitra_Efxeinoupolis | location | Greece</mtriple>
+				<mtriple>Greece | currency | Euro</mtriple>
+				<mtriple>Greece | leader | Alexis_Tsipras</mtriple>
+				<mtriple>Greece | capital | Athens</mtriple>
+				<mtriple>Greece | leader | Prokopis_Pavlopoulos</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>A.E_Dimitra_Efxeinoupolis | Ubicación | Grecia</striple>
+				<striple>Grecia | Divisa | euro</striple>
+				<striple>Grecia | Líder | Alexis_Tsipras</striple>
+				<striple>Grecia | Capital | Atenas</striple>
+				<striple>Grecia | Líder | Prokopis_Pavlopoulos</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">The A.E Dimitra Efxeinoupolis club is located in Greece, where the money used is the Euro. Athens is the capital of Greece, and two of the leaders are Alexis Tsipras and Prokopis Pavlopoulos.</lex>
+			<lex lang="en" lid="Id2">The A.E Dimitra Efxeinoupolis club is located in Greece where Alexis Tsipras and Prokopis Pavlopoulos are leaders. The currency used in the country is the euro and the capital is Athens.</lex>
+			<lex lang="en" lid="Id3">Alexis Tsipras heads Greece where Prokopis Pavlopoulos is also a leader. Athens is the capital of Greece and the currency is the Euro. A.E Dimitra Efxeinoupolis is located in Greece.</lex>
+			<lex lang="es" lid="Id1">El club A.E Dimitra Efxeinoupolis se encuentra en Grecia, donde la moneda utilizada es el euro. Atenas es la capital de Grecia, y dos de sus dirigentes son Alexis Tsipras y Prokopis Pavlopoulos.</lex>
+			<lex lang="es" lid="Id2">El club A.E Dimitra Efxeinoupolis se encuentra en Grecia, donde Alexis Tsipras y Prokopis Pavlopoulos son dirigentes. La moneda que se utiliza en el país es el euro y la capital es Atenas.</lex>
+			<lex lang="es" lid="Id3">Alexis Tsipras dirige Grecia, donde también está Prokopis Pavlopoulos. Atenas es la capital de Grecia y la moneda es el euro. A.E Dimitra Efxeinoupolis se encuentra en Grecia.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id8" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>A.E_Dimitra_Efxeinoupolis | location | Greece</otriple>
+				<otriple>Greece | currency | Euro</otriple>
+				<otriple>Greece | leaderName | Alexis_Tsipras</otriple>
+				<otriple>Greece | leader | Nikos_Voutsis</otriple>
+				<otriple>Greece | language | Greek_language</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>A.E_Dimitra_Efxeinoupolis | location | Greece</mtriple>
+				<mtriple>Greece | currency | Euro</mtriple>
+				<mtriple>Greece | leader | Alexis_Tsipras</mtriple>
+				<mtriple>Greece | leader | Nikos_Voutsis</mtriple>
+				<mtriple>Greece | language | Greek_language</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>A.E_Dimitra_Efxeinoupolis | Ubicación | Grecia</striple>
+				<striple>Grecia | Divisa | euro</striple>
+				<striple>Grecia | Líder | Alexis_Tsipras</striple>
+				<striple>Grecia | Líder | Nikos_Voutsis</striple>
+				<striple>Grecia | Idioma | griego</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">A.E Dimitra Efxeinoupolis is located in Greece which is led by Alexis Tsipras and Nikos Voutsis. The language of the country is Greek and the currency is the euro.</lex>
+			<lex lang="en" lid="Id2">The A.E Dimitra Efxeinoupolis club is located in Greece which currently has Alexis Tsipras and Nikos Voutsis as leaders. Here the currency used is the Euro and the main language is Greek.</lex>
+			<lex lang="en" lid="Id3">Nikos Voutsis and Alexis Tsipras, are leaders in Greece, where Greek is spoken and the money used is the Euro. A.E Dimitra Efxeinoupolis is located in Greece.</lex>
+			<lex lang="es" lid="Id1">A.E Dimitra Efxeinoupolis se encuentra en Grecia, país dirigido por Alexis Tsipras y Nikos Voutsis. El idioma del país es el griego y la moneda es el euro.</lex>
+			<lex lang="es" lid="Id2">El club A.E Dimitra Efxeinoupolis se encuentra en Grecia, que actualmente tiene a Alexis Tsipras y Nikos Voutsis como líderes. Aquí la moneda utilizada es el euro y el idioma principal es el griego.</lex>
+			<lex lang="es" lid="Id3">Nikos Voutsis y Alexis Tsipras, son líderes en Grecia, donde se habla griego y el dinero utilizado es el euro. A.E Dimitra Efxeinoupolis se encuentra en Grecia.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id9" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>A.E_Dimitra_Efxeinoupolis | location | Greece</otriple>
+				<otriple>Greece | currency | Euro</otriple>
+				<otriple>Greece | leaderName | Alexis_Tsipras</otriple>
+				<otriple>Greece | leader | Prokopis_Pavlopoulos</otriple>
+				<otriple>Greece | language | Greek_language</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>A.E_Dimitra_Efxeinoupolis | location | Greece</mtriple>
+				<mtriple>Greece | currency | Euro</mtriple>
+				<mtriple>Greece | leader | Alexis_Tsipras</mtriple>
+				<mtriple>Greece | leader | Prokopis_Pavlopoulos</mtriple>
+				<mtriple>Greece | language | Greek_language</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>A.E_Dimitra_Efxeinoupolis | Ubicación | Grecia</striple>
+				<striple>Grecia | Divisa | euro</striple>
+				<striple>Grecia | Líder | Alexis_Tsipras</striple>
+				<striple>Grecia | Líder | Prokopis_Pavlopoulos</striple>
+				<striple>Grecia | Idioma | griego</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">A.E Dimitra Efxeinoupolis is located in Greece, the leader of which is Alexis Tsipras. Another leader is Prokopis Pavlopoulos. In Greece, the currency is the euro and the language is Greek.</lex>
+			<lex lang="en" lid="Id2">Alexis Tsipras heads Greece where Prokopis Pavlopoulos is also a leader. The currency in Greece is the Euro and Greek is spoken. The A.E Dimitra Efxeinoupolis club is located in Greece.</lex>
+			<lex lang="en" lid="Id3">The A.E Dimitra Efxeinoupolis club is located in Greece, where Greek is spoken and the currency is the euro. It is also where two of the leaders are, Prokopis Pavlopoulos and Alexis Tsipras.</lex>
+			<lex lang="es" lid="Id1">A.E Dimitra Efxeinoupolis se encuentra en Grecia, cuyo líder es Alexis Tsipras. Otro líder es Prokopis Pavlopoulos. En Grecia, la moneda es el euro y el idioma es el griego.</lex>
+			<lex lang="es" lid="Id2">Alexis Tsipras dirige Grecia, donde también está Prokopis Pavlopoulos. La moneda en Grecia es el euro y se habla griego. El club A.E Dimitra Efxeinoupolis se encuentra en Grecia.</lex>
+			<lex lang="es" lid="Id3">El club A.E Dimitra Efxeinoupolis se encuentra en Grecia, donde se habla griego y la moneda es el euro. También es donde están dos de sus líderes, Prokopis Pavlopoulos y Alexis Tsipras.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id10" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>A.E_Dimitra_Efxeinoupolis | location | Greece</otriple>
+				<otriple>Greece | currency | Euro</otriple>
+				<otriple>Greece | leaderName | Nikos_Voutsis</otriple>
+				<otriple>Greece | leader | Prokopis_Pavlopoulos</otriple>
+				<otriple>Greece | language | Greek_language</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>A.E_Dimitra_Efxeinoupolis | location | Greece</otriple>
+				<otriple>Greece | currency | Euro</otriple>
+				<otriple>Greece | leader | Nikos_Voutsis</otriple>
+				<otriple>Greece | leaderName | Prokopis_Pavlopoulos</otriple>
+				<otriple>Greece | language | Greek_language</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>A.E_Dimitra_Efxeinoupolis | location | Greece</mtriple>
+				<mtriple>Greece | currency | Euro</mtriple>
+				<mtriple>Greece | leader | Nikos_Voutsis</mtriple>
+				<mtriple>Greece | leader | Prokopis_Pavlopoulos</mtriple>
+				<mtriple>Greece | language | Greek_language</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>A.E_Dimitra_Efxeinoupolis | Ubicación | Grecia</striple>
+				<striple>Grecia | Divisa | euro</striple>
+				<striple>Grecia | Líder | Nikos_Voutsis</striple>
+				<striple>Grecia | Líder | Prokopis_Pavlopoulos</striple>
+				<striple>Grecia | Idioma | griego</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">The A.E Dimitra Efxeinoupolis club is located in Greece where the leaders are Nikos Voutsis and Prokopis Pavlopoulos. The currency used is the euro and the Greek language is spoken in the country.</lex>
+			<lex lang="en" lid="Id2">The A.E Dimitra Efxeinoupolis club is located in Greece. The country which has the leaders, Nikos Voutsis and Prokopis Pavlopoulos. It is also, where Greek is spoken, and the Euro is used.</lex>
+			<lex lang="en" lid="Id3">A.E Dimitra Efxeinoupolis is located in Greece, where the language is Greek, the currency is the euro and its leaders are Nikos Voutsis and Prokopis Pavlopoulos.</lex>
+			<lex lang="es" lid="Id1">El club A.E Dimitra Efxeinoupolis se encuentra en Grecia y sus dirigentes son Nikos Voutsis y Prokopis Pavlopoulos. La moneda utilizada es el euro y en el país se habla la lengua griega.</lex>
+			<lex lang="es" lid="Id2">El club A.E Dimitra Efxeinoupolis se encuentra en Grecia. El país que tiene como dirigentes a Nikos Voutsis y Prokopis Pavlopoulos. Es también, donde se habla griego, y se utiliza el Euro.</lex>
+			<lex lang="es" lid="Id3">A.E Dimitra Efxeinoupolis se encuentra en Grecia, donde el idioma es el griego, la moneda el euro y sus dirigentes son Nikos Voutsis y Prokopis Pavlopoulos.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id11" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>A.E_Dimitra_Efxeinoupolis | location | Greece</otriple>
+				<otriple>Greece | leader | Alexis_Tsipras</otriple>
+				<otriple>Greece | capital | Athens</otriple>
+				<otriple>Greece | leaderName | Nikos_Voutsis</otriple>
+				<otriple>Greece | language | Greek_language</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>A.E_Dimitra_Efxeinoupolis | location | Greece</otriple>
+				<otriple>Greece | leaderName | Alexis_Tsipras</otriple>
+				<otriple>Greece | capital | Athens</otriple>
+				<otriple>Greece | leader | Nikos_Voutsis</otriple>
+				<otriple>Greece | language | Greek_language</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>A.E_Dimitra_Efxeinoupolis | location | Greece</mtriple>
+				<mtriple>Greece | leader | Alexis_Tsipras</mtriple>
+				<mtriple>Greece | capital | Athens</mtriple>
+				<mtriple>Greece | leader | Nikos_Voutsis</mtriple>
+				<mtriple>Greece | language | Greek_language</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>A.E_Dimitra_Efxeinoupolis | Ubicación | Grecia</striple>
+				<striple>Grecia | Líder | Alexis_Tsipras</striple>
+				<striple>Grecia | Capital | Atenas</striple>
+				<striple>Grecia | Líder | Nikos_Voutsis</striple>
+				<striple>Grecia | Idioma | griego</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Alexis Tsipras and Nikos Voutsis are leaders in Greece, where Athens is the capital, Greek is spoken and where A.E Dimitra Efxeinoupolis is located.</lex>
+			<lex lang="en" lid="Id2">The A.E Dimitra Efxeinoupolis club is located in Greece which is led by Alexis Tsipras and Nikos Voutsis. The capital city of the country is Athens and the Greek language is spoken.</lex>
+			<lex lang="en" lid="Id3">A.E Dimitra Efxeinoupolis is located in Greece, where the leaders are Alexis Tsipras and Nikos Voutsis. Greek is spoken in Greece and the capital is Athens.</lex>
+			<lex lang="es" lid="Id1">Alexis Tsipras y Nikos Voutsis son líderes en Grecia, donde Atenas es la capital, se habla griego y donde está A.E Dimitra Efxeinoupolis.</lex>
+			<lex lang="es" lid="Id2">El club A.E Dimitra Efxeinoupolis se encuentra en Grecia y está dirigido por Alexis Tsipras y Nikos Voutsis. La capital del país es Atenas y se habla la lengua griega.</lex>
+			<lex lang="es" lid="Id3">A.E Dimitra Efxeinoupolis se encuentra en Grecia y sus dirigentes son Alexis Tsipras y Nikos Voutsis. En Grecia se habla griego y la capital es Atenas.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id12" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>A.E_Dimitra_Efxeinoupolis | location | Greece</otriple>
+				<otriple>Greece | leaderName | Alexis_Tsipras</otriple>
+				<otriple>Greece | capital | Athens</otriple>
+				<otriple>Greece | leader | Prokopis_Pavlopoulos</otriple>
+				<otriple>Greece | language | Greek_language</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>A.E_Dimitra_Efxeinoupolis | location | Greece</otriple>
+				<otriple>Greece | leader | Alexis_Tsipras</otriple>
+				<otriple>Greece | capital | Athens</otriple>
+				<otriple>Greece | leaderName | Prokopis_Pavlopoulos</otriple>
+				<otriple>Greece | language | Greek_language</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>A.E_Dimitra_Efxeinoupolis | location | Greece</mtriple>
+				<mtriple>Greece | leader | Alexis_Tsipras</mtriple>
+				<mtriple>Greece | capital | Athens</mtriple>
+				<mtriple>Greece | leader | Prokopis_Pavlopoulos</mtriple>
+				<mtriple>Greece | language | Greek_language</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>A.E_Dimitra_Efxeinoupolis | Ubicación | Grecia</striple>
+				<striple>Grecia | Líder | Alexis_Tsipras</striple>
+				<striple>Grecia | Capital | Atenas</striple>
+				<striple>Grecia | Líder | Prokopis_Pavlopoulos</striple>
+				<striple>Grecia | Idioma | griego</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">A.E Dimitra Efxeinoupolis is located in Greece which currently has Alexis Tsipras as head and Prokopis Pavlopoulos as a leader. The capital city here is Athens and the language spoken is Greek.</lex>
+			<lex lang="en" lid="Id2">Prokopis Pavlopoulos and Alexis Tsipras are a leaders in Greece where Athens is the capital and Greek is spoken. A.E Dimitra Efxeinoupolis is located in Greece.</lex>
+			<lex lang="es" lid="Id1">A.E Dimitra Efxeinoupolis se encuentra en Grecia y actualmente cuenta con Alexis Tsipras como presidente y Prokopis Pavlopoulos como líder. La capital es Atenas y el idioma que se habla es el griego.</lex>
+			<lex lang="es" lid="Id2">Prokopis Pavlopoulos y Alexis Tsipras son líderes en Grecia, donde Atenas es la capital y se habla griego. A.E Dimitra Efxeinoupolis se encuentra en Grecia.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id13" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</otriple>
+				<otriple>Blackpool | leaderName | Gordon_Marsden</otriple>
+				<otriple>Stuart_Parker_(footballer) | team | Stockport_County_F.C.</otriple>
+				<otriple>Stuart_Parker_(footballer) | clubs | Runcorn_F.C._Halton</otriple>
+				<otriple>A.F.C._Blackpool | ground | Blackpool</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</mtriple>
+				<mtriple>Blackpool | leader | Gordon_Marsden</mtriple>
+				<mtriple>Stuart_Parker_(footballer) | club | Stockport_County_F.C.</mtriple>
+				<mtriple>Stuart_Parker_(footballer) | club | Runcorn_F.C._Halton</mtriple>
+				<mtriple>A.F.C._Blackpool | ground | Blackpool</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>A.F.C._Blackpool | Director | Stuart_Parker_(futbolista)</striple>
+				<striple>Blackpool | Líder | Gordon_Marsden</striple>
+				<striple>Stuart_Parker_(futbolista) | Club | Stockport_County_Football_Club</striple>
+				<striple>Stuart_Parker_(futbolista) | Club | Runcorn_F.C._Halton</striple>
+				<striple>A.F.C._Blackpool | Suelo | Blackpool</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Gordon Marsden is a leader in Blackpool where AFC Blackpool is located. The club is managed by Stuart Parker whose club was Stockport County but he now plays for Runcorn FC Halton.</lex>
+			<lex lang="en" lid="Id2">Gordon Marsden is the leader in Blackpool which is the location of AFC Blackpool. The club is managed by Stuart Parker who plays for both Runcorn FC Halton and Stockport County FC.</lex>
+			<lex lang="en" lid="Id3">Gordon Marsden is the leader in Blackpool where AFC Blackpool is located. The club is managed by Stuart Parker who was at Stockport County FC but now plays for Runcorn FC Halton.</lex>
+			<lex lang="es" lid="Id1">Gordon Marsden es un dirigente de Blackpool, donde se encuentra el AFC Blackpool. El club está dirigido por Stuart Parker, cuyo club fue el Stockport County, pero ahora juega en el Runcorn FC Halton.</lex>
+			<lex lang="es" lid="Id2">Gordon Marsden es el líder en Blackpool, donde se encuentra el AFC Blackpool. El club está dirigido por Stuart Parker, que juega tanto en el Runcorn FC Halton como en el Stockport County FC.</lex>
+			<lex lang="es" lid="Id3">Gordon Marsden es el líder en Blackpool, donde se encuentra el AFC Blackpool. El club está dirigido por Stuart Parker, que estuvo en el Stockport County FC pero ahora juega en el Runcorn FC Halton.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id14" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</otriple>
+				<otriple>Stuart_Parker_(footballer) | clubs | Chesterfield_F.C.</otriple>
+				<otriple>Blackpool | leaderName | Gordon_Marsden</otriple>
+				<otriple>Stuart_Parker_(footballer) | team | Stockport_County_F.C.</otriple>
+				<otriple>A.F.C._Blackpool | ground | Blackpool</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</mtriple>
+				<mtriple>Stuart_Parker_(footballer) | club | Chesterfield_F.C.</mtriple>
+				<mtriple>Blackpool | leader | Gordon_Marsden</mtriple>
+				<mtriple>Stuart_Parker_(footballer) | club | Stockport_County_F.C.</mtriple>
+				<mtriple>A.F.C._Blackpool | ground | Blackpool</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>A.F.C._Blackpool | Director | Stuart_Parker_(futbolista)</striple>
+				<striple>Stuart_Parker_(futbolista) | Club | Chesterfield_Football_Club</striple>
+				<striple>Blackpool | Líder | Gordon_Marsden</striple>
+				<striple>Stuart_Parker_(futbolista) | Club | Stockport_County_Football_Club</striple>
+				<striple>A.F.C._Blackpool | Suelo | Blackpool</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Stuart Parker is the manager of the A.F.C Blackpool club, which has its ground in Blackpool. The local leader is Gordon Marsden. Parker is also a member of the Chesterfield F.C. and plays for Stockport County F.C.</lex>
+			<lex lang="en" lid="Id2">The leader of Blackpool is Gordon Marsden. Stuart Parker, who once played football for Chesterfield FC and Stockport County FC is the manager of AFC Blackpool, whose ground is located in Blackpool.</lex>
+			<lex lang="es" lid="Id1">Stuart Parker es el entrenador del club A.F.C Blackpool, que tiene su campo en Blackpool. El dirigente local es Gordon Marsden. Parker también es socio del Chesterfield F.C. y juega en el Stockport County F.C.</lex>
+			<lex lang="es" lid="Id2">El dirigente del Blackpool es Gordon Marsden. Stuart Parker, que en su día jugó al fútbol en el Chesterfield FC y en el Stockport County FC, es el entrenador del AFC Blackpool, cuyo campo se encuentra en Blackpool.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id15" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</otriple>
+				<otriple>Stuart_Parker_(footballer) | clubs | Chesterfield_F.C.</otriple>
+				<otriple>Stuart_Parker_(footballer) | team | Blackburn_Rovers_F.C.</otriple>
+				<otriple>Blackpool | leaderName | Gordon_Marsden</otriple>
+				<otriple>A.F.C._Blackpool | ground | Blackpool</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</mtriple>
+				<mtriple>Stuart_Parker_(footballer) | club | Chesterfield_F.C.</mtriple>
+				<mtriple>Stuart_Parker_(footballer) | club | Blackburn_Rovers_F.C.</mtriple>
+				<mtriple>Blackpool | leader | Gordon_Marsden</mtriple>
+				<mtriple>A.F.C._Blackpool | ground | Blackpool</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>A.F.C._Blackpool | Director | Stuart_Parker_(futbolista)</striple>
+				<striple>Stuart_Parker_(futbolista) | Club | Chesterfield_Football_Club</striple>
+				<striple>Stuart_Parker_(futbolista) | Club | Blackburn_Rovers_Football_Club</striple>
+				<striple>Blackpool | Líder | Gordon_Marsden</striple>
+				<striple>A.F.C._Blackpool | Suelo | Blackpool</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Gordon Marsden is the leader in Blackpool where AFC Blackpool have their ground. The club is managed by Stuart Parker who was a footballer for Chesterfield FC and Blackburn Rovers FC.</lex>
+			<lex lang="en" lid="Id2">Stuart Parker is the manager at AFC Blackpool who have their ground in Blackpool which is currently led by Gordon Marsden. He also plays for Blackburn Rovers FC and is attached to Chesterfield FC.</lex>
+			<lex lang="en" lid="Id3">Gordon Marsden is the leader of Blackpool where the ground of AFC Blackpool is located. The club have had Stuart Parker as their manager who has also been at Blackburn Rovers FC and is a member of Chesterfield FC.</lex>
+			<lex lang="es" lid="Id1">Gordon Marsden es el líder en Blackpool, donde el AFC Blackpool tiene su campo. El club está dirigido por Stuart Parker, que fue futbolista del Chesterfield FC y del Blackburn Rovers FC.</lex>
+			<lex lang="es" lid="Id2">Stuart Parker es el entrenador del AFC Blackpool que tiene su campo en Blackpool y que actualmente dirige Gordon Marsden. También juega en el Blackburn Rovers FC y está vinculado al Chesterfield FC.</lex>
+			<lex lang="es" lid="Id3">Gordon Marsden es el dirigente de Blackpool, donde se encuentra el campo del AFC Blackpool. El club ha tenido como entrenador a Stuart Parker, que también ha estado en el Blackburn Rovers FC y pertenece al Chesterfield FC.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id16" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</otriple>
+				<otriple>Stuart_Parker_(footballer) | team | KV_Mechelen</otriple>
+				<otriple>Blackpool | leaderName | Conservative_Party_(UK)</otriple>
+				<otriple>Stuart_Parker_(footballer) | clubs | Blackburn_Rovers_F.C.</otriple>
+				<otriple>A.F.C._Blackpool | ground | Blackpool</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</mtriple>
+				<mtriple>Stuart_Parker_(footballer) | club | KV_Mechelen</mtriple>
+				<mtriple>Blackpool | leader | Conservative_Party_(UK)</mtriple>
+				<mtriple>Stuart_Parker_(footballer) | club | Blackburn_Rovers_F.C.</mtriple>
+				<mtriple>A.F.C._Blackpool | ground | Blackpool</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>A.F.C._Blackpool | Director | Stuart_Parker_(futbolista)</striple>
+				<striple>Stuart_Parker_(futbolista) | Club | KV_Malinas</striple>
+				<striple>Blackpool | Líder | Partido_Conservador</striple>
+				<striple>Stuart_Parker_(futbolista) | Club | Blackburn_Rovers_Football_Club</striple>
+				<striple>A.F.C._Blackpool | Suelo | Blackpool</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Blackpool is where AFC Blackpool's ground is located and where the leader is the Conservative Party (UK). AFC Blackpool has been managed by Stuart Parker who has previous played for Blackburn Rovers FC and KV Mechelen.</lex>
+			<lex lang="en" lid="Id2">Stuart Parker plays for KV Mechelen and the Blackburn Rovers F.C. AFC Blackpool (Blackpool) had Stuart Parker as their manager. The Conservative Party U.K. is the leader of Blackpool.</lex>
+			<lex lang="es" lid="Id1">Blackpool es donde se encuentra el campo del AFC Blackpool y donde el líder es el Partido Conservador (Reino Unido). El AFC Blackpool ha sido dirigido por Stuart Parker, que anteriormente jugó en el Blackburn Rovers FC y en el KV Mechelen.</lex>
+			<lex lang="es" lid="Id2">Stuart Parker juega en el KV Mechelen y en el Blackburn Rovers F.C. El AFC Blackpool (Blackpool) tuvo como entrenador a Stuart Parker. El Partido Conservador del Reino Unido es el líder del Blackpool.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id17" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</otriple>
+				<otriple>Stuart_Parker_(footballer) | team | KV_Mechelen</otriple>
+				<otriple>Blackpool | leaderName | Conservative_Party_(UK)</otriple>
+				<otriple>Stuart_Parker_(footballer) | clubs | Drogheda_United_F.C.</otriple>
+				<otriple>A.F.C._Blackpool | ground | Blackpool</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</mtriple>
+				<mtriple>Stuart_Parker_(footballer) | club | KV_Mechelen</mtriple>
+				<mtriple>Blackpool | leader | Conservative_Party_(UK)</mtriple>
+				<mtriple>Stuart_Parker_(footballer) | club | Drogheda_United_F.C.</mtriple>
+				<mtriple>A.F.C._Blackpool | ground | Blackpool</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>A.F.C._Blackpool | Director | Stuart_Parker_(futbolista)</striple>
+				<striple>Stuart_Parker_(futbolista) | Club | KV_Malinas</striple>
+				<striple>Blackpool | Líder | Partido_Conservador</striple>
+				<striple>Stuart_Parker_(futbolista) | Club | Drogheda_United_Football_Club</striple>
+				<striple>A.F.C._Blackpool | Suelo | Blackpool</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">The Conservative Party UK are the leaders in Blackpool which is the location of the AFC Blackpool home ground. Their manager is Stuart Parker who has represented KV Mechelen FC and also Drogheda United FC.</lex>
+			<lex lang="en" lid="Id2">AFC Blackpool is located in Blackpool where the leader is the Conservative Party (UK). Stuart Parker, who has played at Drogheda United FC and KV Mechelen, has been the manager of AFC Blackpool.</lex>
+			<lex lang="en" lid="Id3">AFC Blackpool (Blackpool) have had Stuart Parker as their manager. Parker (with the Drogheda United F.C.) plays for KV Mechelen. The Conservative Party U.K. is the leader of Blackpool.</lex>
+			<lex lang="es" lid="Id1">El Partido Conservador del Reino Unido es el líder en Blackpool, donde se encuentra el estadio del AFC Blackpool. Su entrenador es Stuart Parker, que ha representado al KV Mechelen FC y al Drogheda United FC.</lex>
+			<lex lang="es" lid="Id2">El AFC Blackpool está situado en Blackpool, donde el líder es el Partido Conservador (Reino Unido). Stuart Parker, que ha jugado en el Drogheda United FC y en el KV Mechelen, ha sido el entrenador del AFC Blackpool.</lex>
+			<lex lang="es" lid="Id3">El AFC Blackpool (Blackpool) ha fichado a Stuart Parker como entrenador. Parker (con el Drogheda United F.C.) juega en el KV Mechelen. El Partido Conservador del Reino Unido es el líder del Blackpool.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id18" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</otriple>
+				<otriple>Stuart_Parker_(footballer) | team | KV_Mechelen</otriple>
+				<otriple>Stuart_Parker_(footballer) | clubs | Drogheda_United_F.C.</otriple>
+				<otriple>A.F.C._Blackpool | ground | Blackpool</otriple>
+				<otriple>Blackpool | leaderName | Labour_Party_(UK)</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</mtriple>
+				<mtriple>Stuart_Parker_(footballer) | club | KV_Mechelen</mtriple>
+				<mtriple>Stuart_Parker_(footballer) | club | Drogheda_United_F.C.</mtriple>
+				<mtriple>A.F.C._Blackpool | ground | Blackpool</mtriple>
+				<mtriple>Blackpool | leader | Labour_Party_(UK)</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>A.F.C._Blackpool | Director | Stuart_Parker_(futbolista)</striple>
+				<striple>Stuart_Parker_(futbolista) | Club | KV_Malinas</striple>
+				<striple>Stuart_Parker_(futbolista) | Club | Drogheda_United_Football_Club</striple>
+				<striple>A.F.C._Blackpool | Suelo | Blackpool</striple>
+				<striple>Blackpool | Líder | Partido_Laborista_(Reino_Unido)</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">AFC Blackpool have their ground in Blackpool where the leader of the council is Labour. Stuart Parker, who has played at Drogheda United FC and KV Mechelen, has been manager of AFC Blackpool.</lex>
+			<lex lang="en" lid="Id2">AFC Blackpool is located in the town of Blackpool, where the leader of the Council is the Labour Party (UK). The manager of AFC Blackpool is Stuart Parker who has previously played football for Drogheda United FC and KV Mechelen.</lex>
+			<lex lang="es" lid="Id1">El AFC Blackpool tiene su sede en Blackpool, donde el líder del ayuntamiento es laborista. Stuart Parker, que ha jugado en el Drogheda United FC y en el KV Mechelen, ha sido entrenador del AFC Blackpool.</lex>
+			<lex lang="es" lid="Id2">El AFC Blackpool está situado en la ciudad de Blackpool, donde el líder del Consejo es el Partido Laborista (Reino Unido). El entrenador del AFC Blackpool es Stuart Parker, que anteriormente jugó al fútbol en el Drogheda United FC y en el KV Mechelen.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id19" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>A.S._Gubbio_1910 | league | Serie_D</otriple>
+				<otriple>Italy | capital | Rome</otriple>
+				<otriple>Italy | leader | Sergio_Mattarella</otriple>
+				<otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+				<otriple>Serie_D | champions | S.S._Robur_Siena</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>A.S._Gubbio_1910 | league | Serie_D</mtriple>
+				<mtriple>Italy | capital | Rome</mtriple>
+				<mtriple>Italy | leader | Sergio_Mattarella</mtriple>
+				<mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+				<mtriple>Serie_D | champions | S.S._Robur_Siena</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>A.S._Gubbio_1910 | Liga | Serie_D</striple>
+				<striple>Italia | Capital | Roma</striple>
+				<striple>Italia | Líder | Sergio_Mattarella</striple>
+				<striple>A.S._Gubbio_1910 | Suelo | Italia</striple>
+				<striple>Serie_D | Campeones | S.S._Robur_Siena</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">AS Gubbio 1910 are located in Italy and play in Serie D whose champions are currently SS Robur Siena. The leader of Italy is Sergio Mattarella and the capital city is Rome.</lex>
+			<lex lang="en" lid="Id2">The champions of Serie D are S.S. Robur Siena in which AS Gubbio 1910 also play. This latter club has their ground in Italy where the leader is Sergio Mattarella and the capital is the city of Rome.</lex>
+			<lex lang="en" lid="Id3">A.S. Gubbio 1910 is in the Serie D league whose previous champions include S S Robur Siena. The grounds of the A.S. Gubbio 1910 are located in Italy which currently has Sergio Mattarella as a leader and Rome is the capital city.</lex>
+			<lex lang="es" lid="Id1">El AS Gubbio 1910 se encuentra en Italia y juega en la Serie D, cuyo campeón es actualmente el SS Robur Siena. El líder de Italia es Sergio Mattarella y la capital es Roma.</lex>
+			<lex lang="es" lid="Id2">El campeón de la Serie D es el S.S. Robur Siena, en el que también juega el AS Gubbio 1910. Este último club tiene su sede en Italia, donde el dirigente es Sergio Mattarella y la capital es la ciudad de Roma.</lex>
+			<lex lang="es" lid="Id3">El A.S. Gubbio 1910 milita en la liga Serie D, cuyos campeones anteriores son el S S Robur Siena. Los terrenos del A.S. Gubbio 1910 se encuentran en Italia, país que actualmente dirige Sergio Mattarella y cuya capital es Roma.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id20" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>A.S._Gubbio_1910 | league | Serie_D</otriple>
+				<otriple>Italy | leader | Pietro_Grasso</otriple>
+				<otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+				<otriple>Italy | language | Italian_language</otriple>
+				<otriple>Serie_D | champions | S.S._Robur_Siena</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>A.S._Gubbio_1910 | league | Serie_D</mtriple>
+				<mtriple>Italy | leader | Pietro_Grasso</mtriple>
+				<mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+				<mtriple>Italy | language | Italian_language</mtriple>
+				<mtriple>Serie_D | champions | S.S._Robur_Siena</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>A.S._Gubbio_1910 | Liga | Serie_D</striple>
+				<striple>Italia | Líder | Pietro_Grasso</striple>
+				<striple>A.S._Gubbio_1910 | Suelo | Italia</striple>
+				<striple>Italia | Idioma | italiano</striple>
+				<striple>Serie_D | Campeones | S.S._Robur_Siena</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">S.S. Robur Siena are champions of Serie D. in which AS Gubbio 1910 also play. The latter club have their home ground located in Italy which is led by Pietro Grasso and uses the Italian language.</lex>
+			<lex lang="en" lid="Id2">The ground of A.S. Gubbio 1910 is located in Italy. The football club play in Serie D, the champions of which are S.S. Robur Siena. Italy is led by Pietro Grasso and the language spoken is Italian.</lex>
+			<lex lang="en" lid="Id3">A.S. Gubbio 1910 (Italy) play in Serie D. S.S. Robur Siena are champions of that serie. Pietro Grasso leads Italy. Italian is the language spoken in Italy.</lex>
+			<lex lang="es" lid="Id1">El S.S. Robur Siena es el campeón de la Serie D. en la que también juega el AS Gubbio 1910. Este último club tiene su sede en Italia, está dirigido por Pietro Grasso y utiliza el idioma Italiano.</lex>
+			<lex lang="es" lid="Id2">El campo del A.S. Gubbio 1910 se encuentra en Italia. El club de fútbol juega en la Serie D, cuyo campeón es el S.S. Robur Siena. Está dirigido por Pietro Grasso y el idioma que se habla es el Italiano.</lex>
+			<lex lang="es" lid="Id3">El A.S. Gubbio 1910 (Italia) juega en la Serie D. El S.S. Robur Siena es el campeón de esa serie. Pietro Grasso dirige a Italia. En Italia se habla Italiano.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id21" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>A.S._Gubbio_1910 | league | Serie_D</otriple>
+				<otriple>Italy | leader | Pietro_Grasso</otriple>
+				<otriple>Italy | capital | Rome</otriple>
+				<otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+				<otriple>Serie_D | champions | S.S._Robur_Siena</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>A.S._Gubbio_1910 | league | Serie_D</mtriple>
+				<mtriple>Italy | leader | Pietro_Grasso</mtriple>
+				<mtriple>Italy | capital | Rome</mtriple>
+				<mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+				<mtriple>Serie_D | champions | S.S._Robur_Siena</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>A.S._Gubbio_1910 | Liga | Serie_D</striple>
+				<striple>Italia | Líder | Pietro_Grasso</striple>
+				<striple>Italia | Capital | Roma</striple>
+				<striple>A.S._Gubbio_1910 | Suelo | Italia</striple>
+				<striple>Serie_D | Campeones | S.S._Robur_Siena</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">S.S. Robur Siena are champions of Serie D in which AS Gubbio 1910 also play. This latter club have their home ground in Italy where the capital city is Rome and the leader is Pietro Grasso.</lex>
+			<lex lang="en" lid="Id2">The ground of A.S. Gubbio 1910 is located in Italy, where the leader is Pietro Grasso and Rome is the capital. A.S. Gubbio 1910 play in Serie D, of which S.S. Robur Siena are champions.</lex>
+			<lex lang="es" lid="Id1">El S.S. Robur Siena es el campeón de la Serie D, en la que también juega el AS Gubbio 1910. Este último club tiene su sede en Italia, donde la capital es Roma y el dirigente es Pietro Grasso.</lex>
+			<lex lang="es" lid="Id2">El campo del A.S. Gubbio 1910 se encuentra en Italia, donde el líder es Pietro Grasso y Roma es la capital. El A.S. Gubbio 1910 juega en la Serie D, de la que es campeón el S.S. Robur Siena.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id22" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>AFC_Ajax_(amateurs) | ground | Sportpark_De_Toekomst</otriple>
+				<otriple>Sportpark_De_Toekomst | operator | AFC_Ajax</otriple>
+				<otriple>Sportpark_De_Toekomst | tenant | Ajax_Youth_Academy</otriple>
+				<otriple>Sportpark_De_Toekomst | owner | AFC_Ajax_N.V.</otriple>
+				<otriple>Sportpark_De_Toekomst | tenants | Jong_Ajax</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>AFC_Ajax_(amateurs) | ground | Sportpark_De_Toekomst</mtriple>
+				<mtriple>Sportpark_De_Toekomst | operator | AFC_Ajax</mtriple>
+				<mtriple>Sportpark_De_Toekomst | tenant | Ajax_Youth_Academy</mtriple>
+				<mtriple>Sportpark_De_Toekomst | owner | AFC_Ajax_N.V.</mtriple>
+				<mtriple>Sportpark_De_Toekomst | tenant | Jong_Ajax</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>AFC_Ajax_(aficionados) | Suelo | Sportpark_De_Toekomst</striple>
+				<striple>Sportpark_De_Toekomst | Operador | Ajax_de_Ámsterdam</striple>
+				<striple>Sportpark_De_Toekomst | Arrendatario | Academia_Juvenil_del_Ajax</striple>
+				<striple>Sportpark_De_Toekomst | Propietario | AFC_Ajax_N.V.</striple>
+				<striple>Sportpark_De_Toekomst | Arrendatario | Jong_Ajax</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Jong Ajax and Ajax Youth Academy are tenants of Sportpark De Toekomst. the home ground of AFC Ajax (amateurs). The ground is operated by AFC Ajax and owned by AFC Ajax NV.</lex>
+			<lex lang="en" lid="Id2">AFC Ajax (amateurs)'s ground is Sportpark De Toekomst which is operated by AFC Ajax and owned by AFC Ajax NV. Jong Ajax and Ajax Youth Academy are both tenants.</lex>
+			<lex lang="en" lid="Id3">AFC Ajax (amateurs)'s ground is Sportpark De Toekomst. It is owned and operated by AFC Ajax N.V. and tenanted by Ajax Youth Academy (Jong Ajax).</lex>
+			<lex lang="es" lid="Id1">El Jong Ajax y la Academia Juvenil del Ajax son inquilinos del Sportpark De Toekomst, el campo del AFC Ajax (aficionados). El campo está gestionado por el AFC Ajax y es propiedad de AFC Ajax NV.</lex>
+			<lex lang="es" lid="Id2">El campo del AFC Ajax (aficionados) es el Sportpark De Toekomst, gestionado por el AFC Ajax y propiedad de AFC Ajax NV. El Jong Ajax y la Academia Juvenil del Ajax son inquilinos.</lex>
+			<lex lang="es" lid="Id3">El campo del AFC Ajax (amateurs) es el Sportpark De Toekomst. Es propiedad y está gestionado por AFC Ajax N.V. y alquilado por Ajax Youth Academy (Jong Ajax).</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id23" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>AZAL_PFK | league | Azerbaijan_Premier_League</otriple>
+				<otriple>Azerbaijan_Premier_League | champions | Qarabağ_FK</otriple>
+				<otriple>AZAL_PFK | capacity | 3500</otriple>
+				<otriple>AZAL_PFK | ground | AZAL_Arena</otriple>
+				<otriple>AZAL_PFK | season | 2014</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>AZAL_PFK | league | Azerbaijan_Premier_League</mtriple>
+				<mtriple>Azerbaijan_Premier_League | champions | Qarabağ_FK</mtriple>
+				<mtriple>AZAL_PFK | numberOfMembers | 3500</mtriple>
+				<mtriple>AZAL_PFK | ground | AZAL_Arena</mtriple>
+				<mtriple>AZAL_PFK | season | 2014</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>AZAL_PFK | Liga | Liga_Premier_de_Azerbaiyán</striple>
+				<striple>Liga_Premier_de_Azerbaiyán | Campeones | FK_Qarabağ</striple>
+				<striple>AZAL_PFK | NúmeroDeMiembros | 3500</striple>
+				<striple>AZAL_PFK | Suelo | Estadio_AZAL</striple>
+				<striple>AZAL_PFK | Temporada | 2014</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Qarabağ FK are the champions of the Azerbaijan Premier League, which AZAL PFK play in. AZAL Arena, is where home matches of AZAL PFK are played. The club has 3500 members, and are in the 2014 season.</lex>
+			<lex lang="en" lid="Id2">AZAL PFK, who play at the AZAL Arena and have a membership of 3500, are in the Azerbaijan Premier League where they competed in 2014. The name of the championship football team in the Azerbaijan Premier League Os the Qarabag FK.</lex>
+			<lex lang="en" lid="Id3">The AZAL PFK, with 3500 members, competes in The Azerbaijan Premier League, with championship team being Qarabag FK. AZAL PFK competed in the 2014 season and play their home matches at the AZAL Arena.</lex>
+			<lex lang="es" lid="Id1">El Qarabağ FK es el campeón de la Premier League de Azerbaiyán, en la que juega el AZAL PFK. AZAL Arena, es donde se juegan los partidos en casa del AZAL PFK. El club cuenta con 3500 socios, y están en la temporada 2014.</lex>
+			<lex lang="es" lid="Id2">El AZAL PFK, que juega en el AZAL Arena y cuenta con 3500 socios, milita en la Premier League de Azerbaiyán, donde compitió en 2014. El nombre del equipo de fútbol campeón de la Premier League de Azerbaiyán Os el Qarabag FK.</lex>
+			<lex lang="es" lid="Id3">El AZAL PFK, con 3500 miembros, compite en la Premier League de Azerbaiyán, siendo el equipo campeón el Qarabag FK. El AZAL PFK compitió en la temporada 2014 y juega sus partidos como local en el AZAL Arena.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id24" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>AZAL_PFK | league | Azerbaijan_Premier_League</otriple>
+				<otriple>Azerbaijan_Premier_League | champions | Qarabağ_FK</otriple>
+				<otriple>AZAL_PFK | season | 2014–15_Azerbaijan_Premier_League</otriple>
+				<otriple>AZAL_PFK | capacity | 3500</otriple>
+				<otriple>AZAL_PFK | ground | AZAL_Arena</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>AZAL_PFK | league | Azerbaijan_Premier_League</mtriple>
+				<mtriple>Azerbaijan_Premier_League | champions | Qarabağ_FK</mtriple>
+				<mtriple>AZAL_PFK | season | 2014–15_Azerbaijan_Premier_League</mtriple>
+				<mtriple>AZAL_PFK | numberOfMembers | 3500</mtriple>
+				<mtriple>AZAL_PFK | ground | AZAL_Arena</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>AZAL_PFK | Liga | Liga_Premier_de_Azerbaiyán</striple>
+				<striple>Liga_Premier_de_Azerbaiyán | Campeones | FK_Qarabağ</striple>
+				<striple>AZAL_PFK | Temporada | Liga_Premier_de_Azerbaiyán_2014/15</striple>
+				<striple>AZAL_PFK | NúmeroDeMiembros | 3500</striple>
+				<striple>AZAL_PFK | Suelo | Estadio_AZAL</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">AZAL Arena, which holds 3500 fans, is the ground of AZAL PFK who played in the Azerbaijan Premier League in 2014-15. Qarabag FK have been champions of this league.</lex>
+			<lex lang="en" lid="Id2">Qarabağ FK are the champions of the Azerbaijan Premier League in which AZAL PFK also competed in 2014-15. AZAL PFK have 3500 members and play their home matches at the AZAL Arena.</lex>
+			<lex lang="es" lid="Id1">El AZAL Arena, con capacidad para 3500 aficionados, es el campo del AZAL PFK, que jugó en la Premier League de Azerbaiyán en 2014-15. El Qarabag FK ha sido campeón de esta liga.</lex>
+			<lex lang="es" lid="Id2">El Qarabağ FK es el campeón de la Premier League de Azerbaiyán, en la que también compitió el AZAL PFK en 2014-15. El AZAL PFK cuenta con 3.500 socios y juega sus partidos como local en el AZAL Arena.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id25" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C</otriple>
+				<otriple>Campeonato_Brasileiro_Série_C | country | Brazil</otriple>
+				<otriple>Agremiação_Sportiva_Arapiraquense | capacity | "17000"^^xsd:nonNegativeInteger</otriple>
+				<otriple>Agremiação_Sportiva_Arapiraquense | ground | Estádio_Municipal_Coaracy_da_Mata_Fonseca</otriple>
+				<otriple>Campeonato_Brasileiro_Série_C | champions | Vila_Nova_Futebol_Clube</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C</otriple>
+				<otriple>Campeonato_Brasileiro_Série_C | country | Brazil</otriple>
+				<otriple>Agremiação_Sportiva_Arapiraquense | capacity | 17000</otriple>
+				<otriple>Agremiação_Sportiva_Arapiraquense | ground | Estádio_Municipal_Coaracy_da_Mata_Fonseca</otriple>
+				<otriple>Campeonato_Brasileiro_Série_C | champions | Vila_Nova_Futebol_Clube</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C</mtriple>
+				<mtriple>Campeonato_Brasileiro_Série_C | country | Brazil</mtriple>
+				<mtriple>Agremiação_Sportiva_Arapiraquense | numberOfMembers | 17000</mtriple>
+				<mtriple>Agremiação_Sportiva_Arapiraquense | ground | Estádio_Municipal_Coaracy_da_Mata_Fonseca</mtriple>
+				<mtriple>Campeonato_Brasileiro_Série_C | champions | Vila_Nova_Futebol_Clube</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Agremiação_Sportiva_Arapiraquense | Liga | Campeonato_Brasileño_de_Serie_C</striple>
+				<striple>Campeonato_Brasileño_de_Serie_C | País | Brasil</striple>
+				<striple>Agremiação_Sportiva_Arapiraquense | NúmeroDeMiembros | 17000</striple>
+				<striple>Agremiação_Sportiva_Arapiraquense | Suelo | Estádio_Municipal_Coaracy_da_Mata_Fonseca</striple>
+				<striple>Campeonato_Brasileño_de_Serie_C | Campeones | Vila_Nova_Futebol_Clube</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Agremiação Sportiva Arapiraquense, whose ground is Estádio Municipal Coaracy da Mata Fonseca, play in the Campeonato Brasileiro Série C league in Brazil. Agremiacao Sportiva Arapiraquense has 17000 members and Vila Nova Futebol Clube have been champions of Campeonato Brasileiro Série C.</lex>
+			<lex lang="en" lid="Id2">Agremiacao Sportiva Arapiraquense's ground is the Estadio Municipal Coaracy da Mata Fonseca, it has 17000 members and play in the Campeonato Brasileiro Série C league, which is based in Brazil and the current champions are Vila Nova Futebol Clube.</lex>
+			<lex lang="en" lid="Id3">Vila Nova Futebol Clube have been champions of Campeonato Brasileiro Série C. league in Brazil. Agremiação Sportiva Arapiraquense, who have 17000 members, also play in the league and have their home ground at Estádio Municipal Coaracy da Mata Fonseca.</lex>
+			<lex lang="es" lid="Id1">El Agremiação Sportiva Arapiraquense, cuyo campo es el Estádio Municipal Coaracy da Mata Fonseca, juega en la liga Campeonato Brasileiro Série C de Brasil. Agremiacao Sportiva Arapiraquense tiene 17000 socios y Vila Nova Futebol Clube ha sido campeón del Campeonato Brasileiro Série C.</lex>
+			<lex lang="es" lid="Id2">El campo del Agremiacao Sportiva Arapiraquense es el Estadio Municipal Coaracy da Mata Fonseca, tiene 17000 socios y juega en la liga Campeonato Brasileiro Série C, que tiene su sede en Brasil y el actual campeón es el Vila Nova Futebol Clube.</lex>
+			<lex lang="es" lid="Id3">El Vila Nova Futebol Clube ha sido campeón de la liga Campeonato Brasileiro Série C. de Brasil. La Agremiação Sportiva Arapiraquense, que cuenta con 17.000 socios, también juega en la liga y tiene su estadio en el Estádio Municipal Coaracy da Mata Fonseca.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id26" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C</otriple>
+				<otriple>Campeonato_Brasileiro_Série_C | country | Brazil</otriple>
+				<otriple>Agremiação_Sportiva_Arapiraquense | capacity | "17000"^^xsd:nonNegativeInteger</otriple>
+				<otriple>Agremiação_Sportiva_Arapiraquense | season | 2015</otriple>
+				<otriple>Campeonato_Brasileiro_Série_C | champions | Vila_Nova_Futebol_Clube</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C</otriple>
+				<otriple>Campeonato_Brasileiro_Série_C | country | Brazil</otriple>
+				<otriple>Agremiação_Sportiva_Arapiraquense | capacity | 17000</otriple>
+				<otriple>Agremiação_Sportiva_Arapiraquense | season | 2015</otriple>
+				<otriple>Campeonato_Brasileiro_Série_C | champions | Vila_Nova_Futebol_Clube</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C</mtriple>
+				<mtriple>Campeonato_Brasileiro_Série_C | country | Brazil</mtriple>
+				<mtriple>Agremiação_Sportiva_Arapiraquense | numberOfMembers | 17000</mtriple>
+				<mtriple>Agremiação_Sportiva_Arapiraquense | season | 2015</mtriple>
+				<mtriple>Campeonato_Brasileiro_Série_C | champions | Vila_Nova_Futebol_Clube</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Agremiação_Sportiva_Arapiraquense | Liga | Campeonato_Brasileño_de_Serie_C</striple>
+				<striple>Campeonato_Brasileño_de_Serie_C | País | Brasil</striple>
+				<striple>Agremiação_Sportiva_Arapiraquense | NúmeroDeMiembros | 17000</striple>
+				<striple>Agremiação_Sportiva_Arapiraquense | Temporada | 2015</striple>
+				<striple>Campeonato_Brasileño_de_Serie_C | Campeones | Vila_Nova_Futebol_Clube</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">The Vila Nova Futebol Clube were champions at the Campeonato Brasileiro Série C league in Brazil. The Agremiação Sportiva Arapiraquense, who have 17000 members, also played in the league in 2015.</lex>
+			<lex lang="en" lid="Id2">Vila Nova Futebol Clube are the champions of Campeonato Brasileiro Serie C. league in Brazil. Agremiação Sportiva Arapiraquense, who have 17000 members also played in the league in 2015.</lex>
+			<lex lang="en" lid="Id3">The Vila Nova Futebol Clube were champions at the Campeonato Brasileiro Série C. based in Brazil. Agremiação Sportiva Arapiraquense, who have 17000 members, also played in the league in 2015.</lex>
+			<lex lang="es" lid="Id1">El Vila Nova Futebol Clube fue campeón de la liga Campeonato Brasileiro Série C de Brasil. La Agremiação Sportiva Arapiraquense, que cuenta con 17000 socios, también jugó en la liga en 2015.</lex>
+			<lex lang="es" lid="Id2">El Vila Nova Futebol Clube es el campeón de la liga Campeonato Brasileiro Serie C. de Brasil. Agremiação Sportiva Arapiraquense, que tiene 17000 miembros también jugó en la liga en 2015.</lex>
+			<lex lang="es" lid="Id3">El Vila Nova Futebol Clube fue campeón del Campeonato Brasileiro Série C. con sede en Brasil. La Agremiação Sportiva Arapiraquense, que cuenta con 17.000 socios, también jugó en la liga en 2015.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id27" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C</otriple>
+				<otriple>Campeonato_Brasileiro_Série_C | country | Brazil</otriple>
+				<otriple>Agremiação_Sportiva_Arapiraquense | season | 2015_Campeonato_Brasileiro_Série_C</otriple>
+				<otriple>Agremiação_Sportiva_Arapiraquense | capacity | 17000</otriple>
+				<otriple>Campeonato_Brasileiro_Série_C | champions | Vila_Nova_Futebol_Clube</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C</otriple>
+				<otriple>Campeonato_Brasileiro_Série_C | country | Brazil</otriple>
+				<otriple>Agremiação_Sportiva_Arapiraquense | capacity | "17000"^^xsd:nonNegativeInteger</otriple>
+				<otriple>Agremiação_Sportiva_Arapiraquense | season | 2015_Campeonato_Brasileiro_Série_C</otriple>
+				<otriple>Campeonato_Brasileiro_Série_C | champions | Vila_Nova_Futebol_Clube</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C</mtriple>
+				<mtriple>Campeonato_Brasileiro_Série_C | country | Brazil</mtriple>
+				<mtriple>Agremiação_Sportiva_Arapiraquense | numberOfMembers | 17000</mtriple>
+				<mtriple>Agremiação_Sportiva_Arapiraquense | season | 2015_Campeonato_Brasileiro_Série_C</mtriple>
+				<mtriple>Campeonato_Brasileiro_Série_C | champions | Vila_Nova_Futebol_Clube</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Agremiação_Sportiva_Arapiraquense | Liga | Campeonato_Brasileño_de_Serie_C</striple>
+				<striple>Campeonato_Brasileño_de_Serie_C | País | Brasil</striple>
+				<striple>Agremiação_Sportiva_Arapiraquense | NúmeroDeMiembros | 17000</striple>
+				<striple>Agremiação_Sportiva_Arapiraquense | Temporada | Campeonato_Brasileño_de_Fútbol_Serie_C_2015</striple>
+				<striple>Campeonato_Brasileño_de_Serie_C | Campeones | Vila_Nova_Futebol_Clube</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Agremiação Sportiva Arapiraquense (with 17000 members) play in Brazil's Campeonato Brasileiro Série C league and competed in the 2015 event. Vila Nova Futebol Clube are the champions of Série C.</lex>
+			<lex lang="en" lid="Id2">Agremiação Sportiva Arapiraquense play in the Brazilian Campeonato Brasileiro Série C league in 2015. It has 17000 members. Champions of the Serie C league is the Vila Nova Futebol Clube.</lex>
+			<lex lang="en" lid="Id3">The Vila Nova Futebol Clube were champions at the Campeonato Brasileiro Série C from Brazil. Agremiação Sportiva Arapiraquense, who have 17000 members, also competed in the league in 2015.</lex>
+			<lex lang="es" lid="Id1">Agremiação Sportiva Arapiraquense (con 17000 socios) juega en la liga Campeonato Brasileiro Série C de Brasil y compitió en la edición de 2015. El Vila Nova Futebol Clube es el campeón de la Série C.</lex>
+			<lex lang="es" lid="Id2">Agremiação Sportiva Arapiraquense juega en la liga Campeonato Brasileiro Série C en 2015. Cuenta con 17000 socios. Campeón de la liga Serie C es el Vila Nova Futebol Clube.</lex>
+			<lex lang="es" lid="Id3">El Vila Nova Futebol Clube fue campeón del Campeonato Brasileiro Série C de Brasil. La Agremiação Sportiva Arapiraquense, que cuenta con 17.000 socios, también compitió en la liga en 2015.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id28" shape="(X (X (X)) (X (X (X))))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</otriple>
+				<otriple>Akron,_Ohio | country | United_States</otriple>
+				<otriple>Akron_Summit_Assault | league | Premier_Development_League</otriple>
+				<otriple>Premier_Development_League | champions | K-W_United_FC</otriple>
+				<otriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</mtriple>
+				<mtriple>Akron,_Ohio | country | United_States</mtriple>
+				<mtriple>Akron_Summit_Assault | league | Premier_Development_League</mtriple>
+				<mtriple>Premier_Development_League | champions | K-W_United_FC</mtriple>
+				<mtriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Akron_Summit_Assault | Suelo | Instituto_St._Vincent-St._Mary</striple>
+				<striple>Akron | País | Estados_Unidos</striple>
+				<striple>Akron_Summit_Assault | Liga | Premier_Liga_de_Desarrollo</striple>
+				<striple>Premier_Liga_de_Desarrollo | Campeones | K-W_United_FC</striple>
+				<striple>Instituto_St._Vincent-St._Mary | Ciudad | Akron</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">St. Vincent-St. Mary High School, which is in Akron, Ohio, in the United States, is the ground of Akron Summit Assault. They play in the Premier Development League, where the champions have been K-W United FC.</lex>
+			<lex lang="en" lid="Id2">St Vincent-St Mary High School, located in Akron, Ohio, US is the home of Akron Summit Assault. They play football in the Premier Development League, of which K-W United FC were champions.</lex>
+			<lex lang="en" lid="Id3">K-W United FC have been champions of the Premier Development League, which Akron Summit Assault play in. their ground is St. Vincent-St. Mary High School in Akron, Ohio, in the U.S.</lex>
+			<lex lang="es" lid="Id1">Vincent-St. Mary High School, que se encuentra en Akron, Ohio, en Estados Unidos, es el campo del Akron Summit Assault. Juegan en la Premier Development League, donde el campeón ha sido el K-W United FC.</lex>
+			<lex lang="es" lid="Id2">El St Vincent-St Mary High School, situado en Akron, Ohio, EE UU, es la sede del Akron Summit Assault. Juegan al fútbol en la Premier Development League, de la que el K-W United FC fue campeón.</lex>
+			<lex lang="es" lid="Id3">El K-W United FC ha sido campeón de la Premier Development League, en la que juega el Akron Summit Assault. Su sede es el St. Vincent-St. Mary High School de Akron, Ohio, en Estados Unidos.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id29" shape="(X (X (X (X) (X) (X))))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</otriple>
+				<otriple>Akron,_Ohio | leaderName | Dan_Horrigan</otriple>
+				<otriple>Akron,_Ohio | country | United_States</otriple>
+				<otriple>Akron,_Ohio | isPartOf | Summit_County,_Ohio</otriple>
+				<otriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</otriple>
+				<otriple>Akron,_Ohio | subdivisionName | Summit_County,_Ohio</otriple>
+				<otriple>Akron,_Ohio | leaderName | Dan_Horrigan</otriple>
+				<otriple>Akron,_Ohio | country | United_States</otriple>
+				<otriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</mtriple>
+				<mtriple>Akron,_Ohio | leader | Dan_Horrigan</mtriple>
+				<mtriple>Akron,_Ohio | country | United_States</mtriple>
+				<mtriple>Akron,_Ohio | isPartOf | Summit_County,_Ohio</mtriple>
+				<mtriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Akron_Summit_Assault | Suelo | Instituto_St._Vincent-St._Mary</striple>
+				<striple>Akron | Líder | Dan_Horrigan</striple>
+				<striple>Akron | País | Estados_Unidos</striple>
+				<striple>Akron | FormaParteDe | Condado_de_Summit,_Ohio</striple>
+				<striple>Instituto_St._Vincent-St._Mary | Ciudad | Akron</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Akron, Ohio is located in the United States, is part of the Summit County and has Dan Horrigan as a leader. Akron is also home to St Vincent-St Mary High School which is the ground of Akron Summit Assault.</lex>
+			<lex lang="en" lid="Id2">St. Vincent–St. Mary High School is located in the city of Akron, Ohio, USA. The school is the ground of Akron Summit Assault. The city is part of Summit County, Ohio. It is led by Dan Horrigan.</lex>
+			<lex lang="en" lid="Id3">Dan Horrigan is the leader in Akron, Summit County, Ohio, United States, where St Vincent-St Mary High School is located. The school is the location for the home ground of Akron Summit Assault.</lex>
+			<lex lang="en" lid="Id4">St. Vincent-St. Mary High School is located in Akron, Summit County, Ohio USA. St Vincent-St Mary High School is the ground of Akron Summit Assault. The leader of Akron, Ohio is a one Dan Horrigan.</lex>
+			<lex lang="en" lid="Id5">Akron Summit Assault's ground is St. Vincent-St. Mary High School, which is located in the city of Akron, Summit County, Ohio, (where the leader is Dan Horrigan), in the United States.</lex>
+			<lex lang="en" lid="Id6">Akron Summit Assault's ground is St. Vincent-St. Mary High School. The school is in the United States in Summit County, in Akron, Ohio where Dan Horrigan is the leader.</lex>
+			<lex lang="es" lid="Id1">Akron, Ohio se encuentra en Estados Unidos, forma parte del condado de Summit y tiene a Dan Horrigan como líder. Akron es también el hogar de St Vincent-St Mary High School que es el terreno de Akron Summit Assault.</lex>
+			<lex lang="es" lid="Id2">Vincent-St. Mary High School se encuentra en la ciudad de Akron, Ohio, EE.UU.. La escuela es el terreno de Akron Summit Assault. La ciudad forma parte del condado de Summit, Ohio. Está dirigido por Dan Horrigan.</lex>
+			<lex lang="es" lid="Id3">Dan Horrigan es el líder de Akron, condado de Summit, Ohio, Estados Unidos, donde se encuentra el instituto St Vincent-St Mary. La escuela es el lugar donde se encuentra el campo del Akron Summit Assault.</lex>
+			<lex lang="es" lid="Id4">St. Vincent-St. Mary High School se encuentra en Akron, condado de Summit, Ohio EE.UU.. St Vincent-St Mary High School es la base de Akron Summit Assault. El lider de Akron, Ohio es un tal Dan Horrigan.</lex>
+			<lex lang="es" lid="Id5">Vincent-St. Mary High School, que se encuentra en la ciudad de Akron, en el condado de Summit, Ohio (donde el líder es Dan Horrigan), en Estados Unidos.</lex>
+			<lex lang="es" lid="Id6">El terreno de Akron Summit Assault es St. Vincent-St. Mary High School. La escuela está en Estados Unidos en el condado de Summit, en Akron, Ohio, donde Dan Horrigan es el líder.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id30" shape="(X (X (X) (X (X) (X))))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</otriple>
+				<otriple>Akron,_Ohio | leaderName | Dan_Horrigan</otriple>
+				<otriple>St._Vincent–St._Mary_High_School | country | United_States</otriple>
+				<otriple>Akron,_Ohio | isPartOf | Summit_County,_Ohio</otriple>
+				<otriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</otriple>
+				<otriple>Akron,_Ohio | subdivisionName | Summit_County,_Ohio</otriple>
+				<otriple>Akron,_Ohio | leaderName | Dan_Horrigan</otriple>
+				<otriple>St._Vincent–St._Mary_High_School | country | United_States</otriple>
+				<otriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</mtriple>
+				<mtriple>Akron,_Ohio | leader | Dan_Horrigan</mtriple>
+				<mtriple>St._Vincent–St._Mary_High_School | country | United_States</mtriple>
+				<mtriple>Akron,_Ohio | isPartOf | Summit_County,_Ohio</mtriple>
+				<mtriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Akron_Summit_Assault | Suelo | Instituto_St._Vincent-St._Mary</striple>
+				<striple>Akron | Líder | Dan_Horrigan</striple>
+				<striple>Instituto_St._Vincent-St._Mary | País | Estados_Unidos</striple>
+				<striple>Akron | FormaParteDe | Condado_de_Summit,_Ohio</striple>
+				<striple>Instituto_St._Vincent-St._Mary | Ciudad | Akron</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">The ground of Akron Summit Assault is located at St Vincent St Mary High School in the city of Akron, Summit County, Ohio, United States, where the leader is Dan Horrigan.</lex>
+			<lex lang="en" lid="Id2">Akron Summit Assault have their ground at St Vincent St Mary High School which is based in Akron, Summit County, Ohio in the United States. Dan Horrigan is the leader of Akron.</lex>
+			<lex lang="en" lid="Id3">Dan Horrigan is the leader of Akron where the home ground of Akron Summit Assault is located at St Vincent St Mary High School in the city of Akron, Summit County, Ohio, United States.</lex>
+			<lex lang="en" lid="Id4">Akron Summit Assault's ground is at St. Vincent-St. Mary High School in Akron, Summit County, Ohio in the U.S. Dan Horrigan is the leader of Akron, Ohio.</lex>
+			<lex lang="en" lid="Id5">Dan Horrigan is the leader of Akron, Summit County, Ohio in the United States. Akron is the location of the home ground of Akron Summit Assault at St Vincent St Mary High School.</lex>
+			<lex lang="en" lid="Id6">St. Vincent St. Mary High School is located in Summit County, Ohio, Akron, Ohio, United States. Its leader is Dan Horrigan and it is the ground of Akron Summit Assault.</lex>
+			<lex lang="es" lid="Id1">La base de Akron Summit Assault se encuentra en el instituto St Vincent St Mary de la ciudad de Akron, en el condado de Summit, Ohio, Estados Unidos, donde el líder es Dan Horrigan.</lex>
+			<lex lang="es" lid="Id2">El Akron Summit Assault tiene su campo en el St Vincent St Mary High School, situado en Akron, en el condado de Summit, Ohio, Estados Unidos. Dan Horrigan es el líder del Akron.</lex>
+			<lex lang="es" lid="Id3">Dan Horrigan es el líder de Akron, donde el campo del Akron Summit Assault está situado en el St Vincent St Mary High School de la ciudad de Akron, en el condado de Summit, Ohio, Estados Unidos.</lex>
+			<lex lang="es" lid="Id4">El terreno de juego de Akron Summit Assault se encuentra en el instituto St. Vincent-St. Mary de Akron, en el condado de Summit, Ohio, en EE.UU. Dan Horrigan es el líder de Akron, Ohio.</lex>
+			<lex lang="es" lid="Id5">Dan Horrigan es el alcalde de Akron, en el condado de Summit, Ohio, Estados Unidos. En Akron se encuentra el campo del Akron Summit Assault, el St Vincent St Mary High School.</lex>
+			<lex lang="es" lid="Id6">Vincent St. Mary High School se encuentra en el condado de Summit, Ohio, Akron, Ohio, Estados Unidos. Su líder es Dan Horrigan y es el terreno de Akron Summit Assault.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id31" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</otriple>
+				<otriple>St._Vincent–St._Mary_High_School | country | United_States</otriple>
+				<otriple>Akron_Summit_Assault | league | Premier_Development_League</otriple>
+				<otriple>Premier_Development_League | champions | K-W_United_FC</otriple>
+				<otriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</mtriple>
+				<mtriple>St._Vincent–St._Mary_High_School | country | United_States</mtriple>
+				<mtriple>Akron_Summit_Assault | league | Premier_Development_League</mtriple>
+				<mtriple>Premier_Development_League | champions | K-W_United_FC</mtriple>
+				<mtriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Akron_Summit_Assault | Suelo | Instituto_St._Vincent-St._Mary</striple>
+				<striple>Instituto_St._Vincent-St._Mary | País | Estados_Unidos</striple>
+				<striple>Akron_Summit_Assault | Liga | Premier_Liga_de_Desarrollo</striple>
+				<striple>Premier_Liga_de_Desarrollo | Campeones | K-W_United_FC</striple>
+				<striple>Instituto_St._Vincent-St._Mary | Ciudad | Akron</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Akron Summit Assault play in the Premier Development League (where K-W United FC were previously champions). The team has their ground at St Vincent-St Mary High School in Akron, Ohio, United States.</lex>
+			<lex lang="en" lid="Id2">K-W United FC have been champions of the Premier Development League, which is the league Akron Summit Assault play in. Akron Summit Assault's ground is St. Vincent-St. Mary High School, in Akron, Ohio, in the United States.</lex>
+			<lex lang="en" lid="Id3">Akron Summit Assault's ground is St. Vincent-St. Mary High School, Akron, Ohio, United States. The team play in the Premier Development League, which has previously been won by K-W United FC.</lex>
+			<lex lang="es" lid="Id1">El Akron Summit Assault juega en la Premier Development League (de la que anteriormente fue campeón el K-W United FC). El equipo tiene su campo en el St Vincent-St Mary High School de Akron, Ohio, Estados Unidos.</lex>
+			<lex lang="es" lid="Id2">El K-W United FC ha sido campeón de la Premier Development League, que es la liga en la que juega el Akron Summit Assault. El campo del Akron Summit Assault es el St. Vincent-St. Mary High School, en Akron, Ohio, en Estados Unidos.</lex>
+			<lex lang="es" lid="Id3">El campo del Akron Summit Assault es el St. Vincent-St. Mary High School, Akron, Ohio, Estados Unidos. El equipo juega en la Premier Development League, que anteriormente ganó el K-W United FC.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id32" shape="(X (X (X) (X (X) (X))))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</otriple>
+				<otriple>St._Vincent–St._Mary_High_School | state | Ohio</otriple>
+				<otriple>Akron,_Ohio | country | United_States</otriple>
+				<otriple>Akron,_Ohio | isPartOf | Summit_County,_Ohio</otriple>
+				<otriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</mtriple>
+				<mtriple>St._Vincent–St._Mary_High_School | state | Ohio</mtriple>
+				<mtriple>Akron,_Ohio | country | United_States</mtriple>
+				<mtriple>Akron,_Ohio | isPartOf | Summit_County,_Ohio</mtriple>
+				<mtriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Akron_Summit_Assault | Suelo | Instituto_St._Vincent-St._Mary</striple>
+				<striple>Instituto_St._Vincent-St._Mary | Estado | Ohio</striple>
+				<striple>Akron | País | Estados_Unidos</striple>
+				<striple>Akron | FormaParteDe | Condado_de_Summit,_Ohio</striple>
+				<striple>Instituto_St._Vincent-St._Mary | Ciudad | Akron</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">St Vincent-St Mary High School in Akron, Summit County, Ohio, USA is the location for the home ground of Akron Summit Assault.</lex>
+			<lex lang="en" lid="Id2">The ground of Akron Summit Assault is located at St. Vincent–St. Mary High School in the city of Akron, Summit County, Ohio, US.</lex>
+			<lex lang="en" lid="Id3">Akron Summit Assault have their ground at St Vincent St Mary High School in the city of Akron, Summit County, Ohio, USA.</lex>
+			<lex lang="es" lid="Id1">El St Vincent-St Mary High School de Akron, en el condado de Summit, Ohio, Estados Unidos, es la sede del Akron Summit Assault.</lex>
+			<lex lang="es" lid="Id2">El terreno de Akron Summit Assault está ubicado en St. Vincent–St. Mary High School en la ciudad de Akron, condado de Summit, Ohio, EE. UU.</lex>
+			<lex lang="es" lid="Id3">El Akron Summit Assault tiene su campo en el St Vincent St Mary High School de la ciudad de Akron, en el condado de Summit, Ohio, Estados Unidos.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id33" shape="(X (X (X) (X (X) (X))))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</otriple>
+				<otriple>St._Vincent–St._Mary_High_School | state | Ohio</otriple>
+				<otriple>Akron,_Ohio | leaderName | Dan_Horrigan</otriple>
+				<otriple>Akron,_Ohio | country | United_States</otriple>
+				<otriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</mtriple>
+				<mtriple>St._Vincent–St._Mary_High_School | state | Ohio</mtriple>
+				<mtriple>Akron,_Ohio | leader | Dan_Horrigan</mtriple>
+				<mtriple>Akron,_Ohio | country | United_States</mtriple>
+				<mtriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Akron_Summit_Assault | Suelo | Instituto_St._Vincent-St._Mary</striple>
+				<striple>Instituto_St._Vincent-St._Mary | Estado | Ohio</striple>
+				<striple>Akron | Líder | Dan_Horrigan</striple>
+				<striple>Akron | País | Estados_Unidos</striple>
+				<striple>Instituto_St._Vincent-St._Mary | Ciudad | Akron</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Akron Summit Assault's ground is at St. Vincent-St. Mary High School in Akron, Ohio, U.S.A. Dan Horrigan is the leader of that city.</lex>
+			<lex lang="en" lid="Id2">Akron Summit Assault's ground is St. Vincent-St. Mary High School which is located in the city of Akron, Ohio (USA). This state is currently led by Dan Horrigan.</lex>
+			<lex lang="es" lid="Id1">El terreno de Akron Summit Assault está en el instituto St. Vincent-St. Mary de Akron, Ohio, EE UU. Dan Horrigan es el líder de esa ciudad.</lex>
+			<lex lang="es" lid="Id2">El campo de Akron Summit Assault es el St. Vincent-St. Mary High School, que se encuentra en la ciudad de Akron, Ohio (EE UU). Este estado está dirigido actualmente por Dan Horrigan.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id34" shape="(X (X (X) (X) (X (X))))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</otriple>
+				<otriple>St._Vincent–St._Mary_High_School | state | Ohio</otriple>
+				<otriple>Akron,_Ohio | leaderName | Dan_Horrigan</otriple>
+				<otriple>St._Vincent–St._Mary_High_School | country | United_States</otriple>
+				<otriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</mtriple>
+				<mtriple>St._Vincent–St._Mary_High_School | state | Ohio</mtriple>
+				<mtriple>Akron,_Ohio | leader | Dan_Horrigan</mtriple>
+				<mtriple>St._Vincent–St._Mary_High_School | country | United_States</mtriple>
+				<mtriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Akron_Summit_Assault | Suelo | Instituto_St._Vincent-St._Mary</striple>
+				<striple>Instituto_St._Vincent-St._Mary | Estado | Ohio</striple>
+				<striple>Akron | Líder | Dan_Horrigan</striple>
+				<striple>Instituto_St._Vincent-St._Mary | País | Estados_Unidos</striple>
+				<striple>Instituto_St._Vincent-St._Mary | Ciudad | Akron</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">St. Vincent-St. Mary High School is in Akron, Ohio U.S and is the home ground for Akron Summit Assault. Dan Horrigan is the leader of Akron, Ohio.</lex>
+			<lex lang="en" lid="Id2">The Akron Summit Assault's ground is St. Vincent-St. Mary High School. The School is located in Akron, Ohio, United States which currently has Dan Horrigan as a leader.</lex>
+			<lex lang="en" lid="Id3">Dan Horrigan is the leader of Akron where Akron Summit Assault have their ground at St Vincent St Mary High School in Ohio, United States.</lex>
+			<lex lang="es" lid="Id1">Vincent-St. Mary High School se encuentra en Akron, Ohio EE.UU. y es la sede del Akron Summit Assault. Dan Horrigan es el líder de Akron, Ohio.</lex>
+			<lex lang="es" lid="Id2">El terreno del Akron Summit Assault es el St. Vincent-St. Mary High School. La Escuela se encuentra en Akron, Ohio, Estados Unidos que actualmente cuenta con Dan Horrigan como líder.</lex>
+			<lex lang="es" lid="Id3">Dan Horrigan es el líder de Akron, donde el Akron Summit Assault tiene su campo en el St Vincent St Mary High School de Ohio, Estados Unidos.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id35" shape="(X (X (X) (X) (X (X))))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</otriple>
+				<otriple>St._Vincent–St._Mary_High_School | state | Ohio</otriple>
+				<otriple>St._Vincent–St._Mary_High_School | country | United_States</otriple>
+				<otriple>Akron,_Ohio | isPartOf | Summit_County,_Ohio</otriple>
+				<otriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</mtriple>
+				<mtriple>St._Vincent–St._Mary_High_School | state | Ohio</mtriple>
+				<mtriple>St._Vincent–St._Mary_High_School | country | United_States</mtriple>
+				<mtriple>Akron,_Ohio | isPartOf | Summit_County,_Ohio</mtriple>
+				<mtriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Akron_Summit_Assault | Suelo | Instituto_St._Vincent-St._Mary</striple>
+				<striple>Instituto_St._Vincent-St._Mary | Estado | Ohio</striple>
+				<striple>Instituto_St._Vincent-St._Mary | País | Estados_Unidos</striple>
+				<striple>Akron | FormaParteDe | Condado_de_Summit,_Ohio</striple>
+				<striple>Instituto_St._Vincent-St._Mary | Ciudad | Akron</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">St. Vincent St. Mary High School is located in Summit County, Ohio in the United States. The Akron Summit Assault ground is at this high school.</lex>
+			<lex lang="en" lid="Id2">Akron Summit Assault have their home ground at St Vincent St Mary High School which is located in the city of Akron, Summit County, Ohio, United States.</lex>
+			<lex lang="en" lid="Id3">St. Vincent–St. Mary High School is located in the city of Akron, Summit County, Ohio, United States and is the location for the home ground of Akron Summit Assault.</lex>
+			<lex lang="es" lid="Id1">Vincent St. Mary High School se encuentra en el condado de Summit, Ohio en los Estados Unidos. El terreno de Akron Summit Assault se encuentra en este instituto.</lex>
+			<lex lang="es" lid="Id2">El Akron Summit Assault tiene su estadio en el St Vincent St Mary High School, situado en la ciudad de Akron, en el condado de Summit, Ohio, Estados Unidos.</lex>
+			<lex lang="es" lid="Id3">Vincent-St. Mary High School se encuentra en la ciudad de Akron, en el condado de Summit, Ohio, Estados Unidos, y es la sede del Akron Summit Assault.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id36" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>Italy | demonym | Italians</otriple>
+				<otriple>Italy | capital | Rome</otriple>
+				<otriple>Italy | leader | Sergio_Mattarella</otriple>
+				<otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+				<otriple>Italy | language | Italian_language</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Italy | demonym | Italians</mtriple>
+				<mtriple>Italy | capital | Rome</mtriple>
+				<mtriple>Italy | leader | Sergio_Mattarella</mtriple>
+				<mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+				<mtriple>Italy | language | Italian_language</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Italia | Gentilicio | italianos</striple>
+				<striple>Italia | Capital | Roma</striple>
+				<striple>Italia | Líder | Sergio_Mattarella</striple>
+				<striple>A.S._Gubbio_1910 | Suelo | Italia</striple>
+				<striple>Italia | Idioma | italiano</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">AS Gubbio 1910 have their ground in Italy where the leader is Sergio Mattarella. The Italian people inhabit the country and speak the Italian language and their capital city is Rome.</lex>
+			<lex lang="en" lid="Id2">Italians are the people who live in Italy, where the language is Italian and Sergio Mattarella is the leader. It is also where the capital is Rome and the ground of A.S. Gubbio 1910 is located.</lex>
+			<lex lang="es" lid="Id1">El AS Gubbio 1910 tiene su sede en Italia, donde el dirigente es Sergio Mattarella. El pueblo Italiano habita el país y habla la lengua Italiana y su capital es Roma.</lex>
+			<lex lang="es" lid="Id2">Los Italianos son las personas que viven en Italia, donde el idioma es el Italiano y Sergio Mattarella es el líder. También es donde está la capital, Roma, y el terreno del A.S. Gubbio 1910.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id37" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>Italy | leaderName | Pietro_Grasso</otriple>
+				<otriple>Italy | capital | Rome</otriple>
+				<otriple>Italy | leader | Sergio_Mattarella</otriple>
+				<otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+				<otriple>Italy | language | Italian_language</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Italy | leader | Pietro_Grasso</mtriple>
+				<mtriple>Italy | capital | Rome</mtriple>
+				<mtriple>Italy | leader | Sergio_Mattarella</mtriple>
+				<mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+				<mtriple>Italy | language | Italian_language</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Italia | Líder | Pietro_Grasso</striple>
+				<striple>Italia | Capital | Roma</striple>
+				<striple>Italia | Líder | Sergio_Mattarella</striple>
+				<striple>A.S._Gubbio_1910 | Suelo | Italia</striple>
+				<striple>Italia | Idioma | italiano</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">The ground of A.S. Gubbio 1910 is located in Italy, where there are leaders called Pietro Grasso and Sergio Mattarella. Italy's capital is Rome and the language spoken in the country is Italian.</lex>
+			<lex lang="en" lid="Id2">Rome is the capital of Italy, where leaders include, Pietro Grasso and Sergio Mattarella. Italian is spoken there and it is also where the ground of A.S. Gubbio 1910 is located.</lex>
+			<lex lang="en" lid="Id3">Pietro Grasso and Sergio Mattarella are two leaders in Italy. Italy's capital is Rome and the language spoken there is Italian. A.S. Gubbio 1910 play in that country.</lex>
+			<lex lang="es" lid="Id1">El campo del A.S. Gubbio 1910 se encuentra en Italia, donde hay dirigentes llamados Pietro Grasso y Sergio Mattarella. La capital de Italia es Roma y el idioma que se habla en el país es el Italiano.</lex>
+			<lex lang="es" lid="Id2">Roma es la capital de Italia, donde se encuentran líderes como Pietro Grasso y Sergio Mattarella. Allí se habla Italiano y se encuentra el campo del A.S. Gubbio 1910.</lex>
+			<lex lang="es" lid="Id3">Pietro Grasso y Sergio Mattarella son dos líderes en Italia. La capital de Italia es Roma y el idioma que allí se habla es el Italiano. El A.S. Gubbio 1910 juega en ese país.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id38" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>Italy | leaderName | Pietro_Grasso</otriple>
+				<otriple>Italy | demonym | Italians</otriple>
+				<otriple>Italy | capital | Rome</otriple>
+				<otriple>Italy | leader | Sergio_Mattarella</otriple>
+				<otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Italy | leader | Pietro_Grasso</mtriple>
+				<mtriple>Italy | demonym | Italians</mtriple>
+				<mtriple>Italy | capital | Rome</mtriple>
+				<mtriple>Italy | leader | Sergio_Mattarella</mtriple>
+				<mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Italia | Líder | Pietro_Grasso</striple>
+				<striple>Italia | Gentilicio | italianos</striple>
+				<striple>Italia | Capital | Roma</striple>
+				<striple>Italia | Líder | Sergio_Mattarella</striple>
+				<striple>A.S._Gubbio_1910 | Suelo | Italia</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">The ground of A.S. Gubbio 1910 is located in Italy, where Italians live. The capital is Rome and two of the leaders are Pietro Grasso, and Sergio Mattarella.</lex>
+			<lex lang="en" lid="Id2">Italy is the location of the home ground of AS Gubbio 1910. The country's leaders are Sergio Mattarella and Pietro Grasso. The inhabitants are known as Italians and the capital city is Rome.</lex>
+			<lex lang="en" lid="Id3">Pietro Grasso and Sergio Mattarella are leaders in Italy. The ground of A.S. Gubbio 1910 is located in Italy where Rome is the capital. The Italian people live in the country.</lex>
+			<lex lang="es" lid="Id1">El campo del A.S. Gubbio 1910 se encuentra en Italia, donde viven los Italianos. La capital es Roma y dos de sus dirigentes son Pietro Grasso, y Sergio Mattarella.</lex>
+			<lex lang="es" lid="Id2">En Italia se encuentra el estadio del AS Gubbio 1910. Los dirigentes del país son Sergio Mattarella y Pietro Grasso. Los habitantes se conocen como Italianos y la capital es Roma.</lex>
+			<lex lang="es" lid="Id3">Pietro Grasso y Sergio Mattarella son dirigentes en Italia. El terreno del A.S. Gubbio 1910 está situado en Italia, cuya capital es Roma. El pueblo Italiano vive en el campo.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id39" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>Italy | leaderName | Pietro_Grasso</otriple>
+				<otriple>Italy | demonym | Italians</otriple>
+				<otriple>Italy | leader | Sergio_Mattarella</otriple>
+				<otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+				<otriple>Italy | language | Italian_language</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Italy | leader | Pietro_Grasso</mtriple>
+				<mtriple>Italy | demonym | Italians</mtriple>
+				<mtriple>Italy | leader | Sergio_Mattarella</mtriple>
+				<mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+				<mtriple>Italy | language | Italian_language</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Italia | Líder | Pietro_Grasso</striple>
+				<striple>Italia | Gentilicio | italianos</striple>
+				<striple>Italia | Líder | Sergio_Mattarella</striple>
+				<striple>A.S._Gubbio_1910 | Suelo | Italia</striple>
+				<striple>Italia | Idioma | italiano</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Italians are the people who live in Italy, where Italian is the language. Two of the leaders there are Pietro Grasso and Sergio Mattarella. Also in Italy, is the ground of A.S. Gubbio 1910.</lex>
+			<lex lang="en" lid="Id2">The ground of A.S. Gubbio 1910 is located in Italy, where Italians live and where the language spoken is Italian. Pietro Grasso and Sergio Mattarella are leaders in Italy.</lex>
+			<lex lang="en" lid="Id3">The ground of A.S. Gubbio 1910 is located in Italy where Pietro Grasso and Sergio Mattarella are leaders and the Italian language is spoken. The inhabitants of Italy are knows as Italians.</lex>
+			<lex lang="es" lid="Id1">Los Italianos son las personas que viven en Italia, cuyo idioma es el Italiano. Dos de sus líderes son Pietro Grasso y Sergio Mattarella. También en Italia, es el terreno de A.S. Gubbio 1910.</lex>
+			<lex lang="es" lid="Id2">El terreno del A.S. Gubbio 1910 se encuentra en Italia, donde viven los Italianos y donde la lengua hablada es el Italiano. Pietro Grasso y Sergio Mattarella son dirigentes en Italia.</lex>
+			<lex lang="es" lid="Id3">El campo del A.S. Gubbio 1910 está situado en Italia, donde Pietro Grasso y Sergio Mattarella son los líderes y se habla la lengua Italiana. Los habitantes de Italia se conocen como Italianos.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id40" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>Italy | leaderName | Pietro_Grasso</otriple>
+				<otriple>Italy | officialLanguage | Italian_language</otriple>
+				<otriple>Italy | capital | Rome</otriple>
+				<otriple>Italy | leader | Sergio_Mattarella</otriple>
+				<otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Italy | leader | Pietro_Grasso</mtriple>
+				<mtriple>Italy | officialLanguage | Italian_language</mtriple>
+				<mtriple>Italy | capital | Rome</mtriple>
+				<mtriple>Italy | leader | Sergio_Mattarella</mtriple>
+				<mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Italia | Líder | Pietro_Grasso</striple>
+				<striple>Italia | IdiomaOficial | italiano</striple>
+				<striple>Italia | Capital | Roma</striple>
+				<striple>Italia | Líder | Sergio_Mattarella</striple>
+				<striple>A.S._Gubbio_1910 | Suelo | Italia</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">The ground of A.S. Gubbio 1910 is located in Italy, where Rome is the capital, Italian is the official language and where there are leaders called Pietro Grasso and Sergio Mattarella.</lex>
+			<lex lang="en" lid="Id2">Pietro Grasso and Sergio Mattarella are both leaders of Italy where Rome is the capital city and the language spoken is Italian. In this country the ground of A.S. Gubbio 1910 is also located.</lex>
+			<lex lang="en" lid="Id3">The ground of A.S. Gubbio 1910 is located in Italy, where Pietro Grasso and Sergio Mattarella are leaders. Italy's capital is Rome, and Italian is the official language.</lex>
+			<lex lang="es" lid="Id1">El campo del A.S. Gubbio 1910 se encuentra en Italia, donde Roma es la capital, el Italiano es el idioma oficial y donde hay dirigentes llamados Pietro Grasso y Sergio Mattarella.</lex>
+			<lex lang="es" lid="Id2">Pietro Grasso y Sergio Mattarella son dirigentes de Italia, donde Roma es la capital y la lengua hablada es el Italiano. En este país también se encuentra el campo del A.S. Gubbio 1910.</lex>
+			<lex lang="es" lid="Id3">El campo del A.S. Gubbio 1910 se encuentra en Italia, donde Pietro Grasso y Sergio Mattarella son los dirigentes. La capital de Italia es Roma, y el Italiano es el idioma oficial.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id41" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>Italy | leader | Pietro_Grasso</otriple>
+				<otriple>Italy | officialLanguage | Italian_language</otriple>
+				<otriple>Italy | demonym | Italians</otriple>
+				<otriple>Italy | capital | Rome</otriple>
+				<otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Italy | leader | Pietro_Grasso</mtriple>
+				<mtriple>Italy | officialLanguage | Italian_language</mtriple>
+				<mtriple>Italy | demonym | Italians</mtriple>
+				<mtriple>Italy | capital | Rome</mtriple>
+				<mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Italia | Líder | Pietro_Grasso</striple>
+				<striple>Italia | IdiomaOficial | italiano</striple>
+				<striple>Italia | Gentilicio | italianos</striple>
+				<striple>Italia | Capital | Roma</striple>
+				<striple>A.S._Gubbio_1910 | Suelo | Italia</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">The ground of A.S. Gubbio 1910 is located in Italy, the country which is inhabited by Italians. The capital of Italy is Rome, the official language is Italian and the leader is Pietro Grasso.</lex>
+			<lex lang="en" lid="Id2">The ground of A.S. Gubbio 1910 is located in Italy, where the people who live there are called Italians. The official language is Italian, the capital is Rome and the country's leader is Pietro Grasso.</lex>
+			<lex lang="en" lid="Id3">Italians inhabit Italy, where the capital is Rome. It is also where Italian is the official language and Pietro Grasso is the leader. The ground of A.S. Gubbio 1910 is located in Italy.</lex>
+			<lex lang="es" lid="Id1">El terreno del A.S. Gubbio 1910 se encuentra en Italia, país habitado por Italianos. La capital de Italia es Roma, el idioma oficial es el Italiano y el líder es Pietro Grasso.</lex>
+			<lex lang="es" lid="Id2">El terreno del A.S. Gubbio 1910 está situado en Italia, donde las personas que viven allí se llaman Italianos. El idioma oficial es el Italiano, la capital es Roma y el dirigente del país es Pietro Grasso.</lex>
+			<lex lang="es" lid="Id3">Los Italianos habitan en Italia, cuya capital es Roma. También es donde el Italiano es la lengua oficial y Pietro Grasso es el líder. El campo del A.S. Gubbio 1910 se encuentra en Italia.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id42" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>Italy | leaderName | Pietro_Grasso</otriple>
+				<otriple>Italy | officialLanguage | Italian_language</otriple>
+				<otriple>Italy | demonym | Italians</otriple>
+				<otriple>Italy | leader | Sergio_Mattarella</otriple>
+				<otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Italy | leader | Pietro_Grasso</mtriple>
+				<mtriple>Italy | officialLanguage | Italian_language</mtriple>
+				<mtriple>Italy | demonym | Italians</mtriple>
+				<mtriple>Italy | leader | Sergio_Mattarella</mtriple>
+				<mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Italia | Líder | Pietro_Grasso</striple>
+				<striple>Italia | IdiomaOficial | italiano</striple>
+				<striple>Italia | Gentilicio | italianos</striple>
+				<striple>Italia | Líder | Sergio_Mattarella</striple>
+				<striple>A.S._Gubbio_1910 | Suelo | Italia</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">AS Gubbio 1910 have their home ground in Italy where Pietro Grasso and Sergio Mattarella are leaders. The official language of the country is Italian, and the Italian people live there.</lex>
+			<lex lang="es" lid="Id1">El AS Gubbio 1910 tiene su sede en Italia, donde dirigen Pietro Grasso y Sergio Mattarella. El idioma oficial del país es el Italiano, y allí viven los Italianos.</lex>
+		</entry>
+		<entry category="SportsTeam" eid="Id43" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+			<originaltripleset>
+				<otriple>Olympic_Stadium_(Athens) | location | Athens</otriple>
+				<otriple>AEK_Athens_F.C. | manager | Gus_Poyet</otriple>
+				<otriple>Gus_Poyet | clubs | Real_Zaragoza</otriple>
+				<otriple>AEK_Athens_F.C. | ground | Olympic_Stadium_(Athens)</otriple>
+				<otriple>Gus_Poyet | team | Chelsea_F.C.</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Olympic_Stadium_(Athens) | location | Athens</mtriple>
+				<mtriple>AEK_Athens_F.C. | manager | Gus_Poyet</mtriple>
+				<mtriple>Gus_Poyet | club | Real_Zaragoza</mtriple>
+				<mtriple>AEK_Athens_F.C. | ground | Olympic_Stadium_(Athens)</mtriple>
+				<mtriple>Gus_Poyet | club | Chelsea_F.C.</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Estadio_Olímpico_de_Atenas | Ubicación | Atenas</striple>
+				<striple>AEK_Atenas_Fútbol_Club | Director | Gustavo_Poyet</striple>
+				<striple>Gustavo_Poyet | Club | Real_Zaragoza</striple>
+				<striple>AEK_Atenas_Fútbol_Club | Suelo | Estadio_Olímpico_de_Atenas</striple>
+				<striple>Gustavo_Poyet | Club | Chelsea_Football_Club</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">The Olympic Stadium (Athens) is the home ground of AEK Athens FC who have been managed by Gus Poyet. His own club is Real Zaragoza and he has played for Chelsea FC.</lex>
+			<lex lang="en" lid="Id2">Located in Athens, the Olympic Stadium is the ground for AEK Athens FC. The manager of which is Gus Poyet, whose club is Real Zaragoza, and who has played for Chelsea F.C.</lex>
+			<lex lang="en" lid="Id3">The Olympic Stadium (in Athens) is the home ground of AEK Athens FC. That football team is managed by Gus Poyet who played for Chelsea F.C. Gus Poyet is also associated with the Real Zaragoza football club.</lex>
+			<lex lang="es" lid="Id1">El Estadio Olímpico (Atenas) es el campo del AEK Atenas FC, dirigido por Gus Poyet. Su propio club es el Real Zaragoza y ha jugado en el Chelsea FC.</lex>
+			<lex lang="es" lid="Id2">Situado en Atenas, el Estadio Olímpico es el campo del AEK Athens FC. Su entrenador es Gus Poyet, cuyo club es el Real Zaragoza, y que ha jugado en el Chelsea F.C.</lex>
+			<lex lang="es" lid="Id3">El Estadio Olímpico (en Atenas) es el campo del AEK Athens FC. Este equipo de fútbol está dirigido por Gus Poyet, que jugó en el Chelsea F.C. Gus Poyet también está vinculado al club de fútbol Real Zaragoza.</lex>
+		</entry>
+	</entries>
+</benchmark>

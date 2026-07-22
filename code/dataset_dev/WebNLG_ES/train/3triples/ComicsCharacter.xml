@@ -1,0 +1,1139 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="ComicsCharacter" eid="Id1" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Airman_(comics) | creator | George_Kapitan</otriple>
+        <otriple>Airman_(comics) | alterEgo | "Drake Stevens"@en</otriple>
+        <otriple>Airman_(comics) | creators | Harry_Sahle</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Airman_(comics) | creator | Harry_Sahle</otriple>
+        <otriple>Airman_(comics) | alterEgo | "Drake Stevens"@en</otriple>
+        <otriple>Airman_(comics) | creators | George_Kapitan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Airman_(comicsCharacter) | creator | Harry_Sahle</mtriple>
+        <mtriple>Airman_(comicsCharacter) | alternativeName | "Drake Stevens"</mtriple>
+        <mtriple>Airman_(comicsCharacter) | creator | George_Kapitan</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Aviador_(personaje_de_cómic) | Creador | Harry_Sahle</striple><striple>Aviador_(personaje_de_cómic) | NombreAlternativo | Drake_Stevens</striple><striple>Aviador_(personaje_de_cómic) | Creador | George_Kapitan</striple></spanishtripleset><lex lang="en" lid="Id1">Airman, AKA Drake Stevens was created by Harry Sahle and George Kapitan.</lex>
+      <lex lang="en" lid="Id2">The alternative name of the comic character Airman is "Drake Stevens". He was created by Harry Sahle and George Kapitan.</lex>
+      <lex lang="en" lid="Id3">The comic character Airman, AKA Drake Stevens was created by Harry Sahle and George Kapitan.</lex>
+    <lex lang="es" lid="Id1">Airman, alias Drake Stevens, fue creado por Harry Sahle y George Kapitan.</lex><lex lang="es" lid="Id2">El nombre alternativo del personaje de cómic Airman es "Drake Stevens". Fue creado por Harry Sahle y George Kapitan.</lex><lex lang="es" lid="Id3">El personaje de cómic Airman, alias Drake Stevens, fue creado por Harry Sahle y George Kapitan.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id2" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Arion_(comics) | creator | Jan_Duursema</otriple>
+        <otriple>Arion_(comics) | alterEgo | "Ahri'ahn"@en</otriple>
+        <otriple>Arion_(comics) | creators | Paul_Kupperberg</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arion_(comics) | creators | Jan_Duursema</otriple>
+        <otriple>Arion_(comics) | creator | Paul_Kupperberg</otriple>
+        <otriple>Arion_(comics) | alterEgo | "Ahri'ahn"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Arion_(comicsCharacter) | creator | Jan_Duursema</mtriple>
+        <mtriple>Arion_(comicsCharacter) | alternativeName | "Ahri'ahn"</mtriple>
+        <mtriple>Arion_(comicsCharacter) | creator | Paul_Kupperberg</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Arion_(personaje_de_cómic) | Creador | Jan_Duursema</striple><striple>Arion_(personaje_de_cómic) | NombreAlternativo | Ahri'ahn</striple><striple>Arion_(personaje_de_cómic) | Creador | Paul_Kupperberg</striple></spanishtripleset><lex lang="en" lid="Id1">Jan Duursema and Paul Kupperberg created the comic book character of Arion who is also known as Ahri'ahn.</lex>
+      <lex lang="en" lid="Id2">The comic book character Arion, aka Ahri'ahn, was created by Jan Duursema and Paul Kupperberg.</lex>
+      <lex lang="en" lid="Id3">The comic character Arion is also known as Ahri'ahn and was created by Jan Duursema and Paul Kupperberg.</lex>
+    <lex lang="es" lid="Id1">Jan Duursema y Paul Kupperberg crearon el personaje de cómic de Arion, también conocido como Ahri'ahn.</lex><lex lang="es" lid="Id2">El personaje de cómic Arion, alias Ahri'ahn, fue creado por Jan Duursema y Paul Kupperberg.</lex><lex lang="es" lid="Id3">El personaje de cómic Arion también es conocido como Ahri'ahn y fue creado por Jan Duursema y Paul Kupperberg.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id3" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Arion_(comics) | creators | Jan_Duursema</otriple>
+        <otriple>Jan_Duursema | awards | Eisner_Award</otriple>
+        <otriple>Arion_(comics) | creator | Paul_Kupperberg</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arion_(comics) | creator | Jan_Duursema</otriple>
+        <otriple>Jan_Duursema | awards | Eisner_Award</otriple>
+        <otriple>Arion_(comics) | creators | Paul_Kupperberg</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Arion_(comicsCharacter) | creator | Jan_Duursema</mtriple>
+        <mtriple>Jan_Duursema | award | Eisner_Award</mtriple>
+        <mtriple>Arion_(comicsCharacter) | creator | Paul_Kupperberg</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Arion_(personaje_de_cómic) | Creador | Jan_Duursema</striple><striple>Jan_Duursema | Premio | Premio_Eisner</striple><striple>Arion_(personaje_de_cómic) | Creador | Paul_Kupperberg</striple></spanishtripleset><lex lang="en" lid="Id1">The comic book character Arion was created by Paul Kupperberg and Jan Duursema, a winner of the Eisner Award.</lex>
+      <lex lang="en" lid="Id2">Jan Duursema won the Eisner Award and is the creator of the comic book character Arion along with Paul Kupperberg.</lex>
+    <lex lang="es" lid="Id1">El personaje de cómic Arion fue creado por Paul Kupperberg y Jan Duursema, ganador del premio Eisner.</lex><lex lang="es" lid="Id2">Jan Duursema ganó el premio Eisner y es el creador del personaje de cómic Arion junto con Paul Kupperberg.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id4" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Asterix_(character) | creators | René_Goscinny</otriple>
+        <otriple>Asterix_(character) | creator | Albert_Uderzo</otriple>
+        <otriple>Asterix_(character) | alterEgo | "Astérix"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asterix_(character) | creator | René_Goscinny</otriple>
+        <otriple>Asterix_(character) | alterEgo | "Astérix"@en</otriple>
+        <otriple>Asterix_(character) | creators | Albert_Uderzo</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asterix_(comicsCharacter) | creator | René_Goscinny</mtriple>
+        <mtriple>Asterix_(comicsCharacter) | alternativeName | "Astérix"</mtriple>
+        <mtriple>Asterix_(comicsCharacter) | creator | Albert_Uderzo</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Astérix_(personaje_de_cómic) | Creador | René_Goscinny</striple><striple>Astérix_(personaje_de_cómic) | NombreAlternativo | Astérix</striple><striple>Astérix_(personaje_de_cómic) | Creador | Albert_Uderzo</striple></spanishtripleset><lex lang="en" lid="Id1">The comic character Asterix, was created by René Goscinny and Albert Uderzo.</lex>
+      <lex lang="en" lid="Id2">Asterix the comic character whose alternative name is Asterix was created by Albert Uderzo and Rene Goscinny.</lex>
+      <lex lang="en" lid="Id3">Asterix, alternatively "Astérix", is a comic book character created by René Goscinny and Albert Uderzo.</lex>
+    <lex lang="es" lid="Id1">El personaje de cómic Astérix fue creado por René Goscinny y Albert Uderzo.</lex><lex lang="es" lid="Id2">Astérix, el personaje de cómic cuyo nombre alternativo es Astérix, fue creado por Albert Uderzo y René Goscinny.</lex><lex lang="es" lid="Id3">Astérix es un personaje de cómic creado por René Goscinny y Albert Uderzo.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id5" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Asterix_(character) | creators | René_Goscinny</otriple>
+        <otriple>René_Goscinny | nationality | French_people</otriple>
+        <otriple>Asterix_(character) | alterEgo | "Astérix"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>René_Goscinny | nationality | French_people</otriple>
+        <otriple>Asterix_(character) | creator | René_Goscinny</otriple>
+        <otriple>Asterix_(character) | alterEgo | "Astérix"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asterix_(comicsCharacter) | creator | René_Goscinny</mtriple>
+        <mtriple>René_Goscinny | nationality | French_people</mtriple>
+        <mtriple>Asterix_(comicsCharacter) | alternativeName | "Astérix"</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Astérix_(personaje_de_cómic) | Creador | René_Goscinny</striple><striple>René_Goscinny | Nacionalidad | franceses</striple><striple>Astérix_(personaje_de_cómic) | NombreAlternativo | Astérix</striple></spanishtripleset><lex lang="en" lid="Id1">Frenchman, Rene Goscinny created Asterix, the comic character who is sometimes called "Astérix".</lex>
+      <lex lang="en" lid="Id2">The comic character Asterix (also known as Astérix), was created by René Goscinny, who is French.</lex>
+      <lex lang="en" lid="Id3">The comic character Asterix, also know as Astérix, was created by the Frenchman René Goscinny.</lex>
+    <lex lang="es" lid="Id1">El francés René Goscinny creó Astérix, el personaje de cómic al que a veces se llama "Astérix".</lex><lex lang="es" lid="Id2">El personaje de cómic Astérix fue creado por el francés René Goscinny.</lex><lex lang="es" lid="Id3">El personaje de cómic Astérix, también conocido como Astérix, fue creado por el francés René Goscinny.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id6" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Aurakles | creators | Dick_Dillin</otriple>
+        <otriple>Aurakles | creator | Len_Wein</otriple>
+        <otriple>Aurakles | alterEgo | "Aurakles"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aurakles | creator | Dick_Dillin</otriple>
+        <otriple>Aurakles | creators | Len_Wein</otriple>
+        <otriple>Aurakles | alterEgo | "Aurakles"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aurakles | creator | Dick_Dillin</mtriple>
+        <mtriple>Aurakles | creator | Len_Wein</mtriple>
+        <mtriple>Aurakles | alternativeName | "Aurakles"</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Aurakles | Creador | Dick_Dillin</striple><striple>Aurakles | Creador | Len_Wein</striple><striple>Aurakles | NombreAlternativo | Aurakles</striple></spanishtripleset><lex lang="en" lid="Id1">The character of Aurakles has the alternative name of Aurakles and was created by Len Wein and Dick Dillin.</lex>
+      <lex lang="en" lid="Id2">Dick Dillin and Len Wein created the character Aurakles.</lex>
+    <lex lang="es" lid="Id1">El personaje de Aurakles tiene el nombre alternativo de Aurakles y fue creado por Len Wein y Dick Dillin.</lex><lex lang="es" lid="Id2">Dick Dillin y Len Wein crearon el personaje Aurakles.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id7" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Dick_Dillin | nationality | United_States</otriple>
+        <otriple>Aurakles | creator | Dick_Dillin</otriple>
+        <otriple>Aurakles | alterEgo | "Aurakles"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aurakles | creators | Dick_Dillin</otriple>
+        <otriple>Dick_Dillin | nationality | United_States</otriple>
+        <otriple>Aurakles | alterEgo | "Aurakles"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aurakles | creator | Dick_Dillin</mtriple>
+        <mtriple>Dick_Dillin | nationality | United_States</mtriple>
+        <mtriple>Aurakles | alternativeName | "Aurakles"</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Aurakles | Creador | Dick_Dillin</striple><striple>Dick_Dillin | Nacionalidad | Estados_Unidos</striple><striple>Aurakles | NombreAlternativo | Aurakles</striple></spanishtripleset><lex lang="en" lid="Id1">Dick Dillin, from the United States, created the comic book character known as Aurakles (alternatively called Aurakles).</lex>
+      <lex lang="en" lid="Id2">The comic book character Aurakles (alternative name Aurakles) was created by Dick Dillin from the United States.</lex>
+    <lex lang="es" lid="Id1">Dick Dillin, de Estados Unidos, creó el personaje de cómic conocido como Aurakles (alternativamente llamado Aurakles).</lex><lex lang="es" lid="Id2">El personaje de cómic Aurakles (nombre alternativo Aurakles) fue creado por el estadounidense Dick Dillin.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id8" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Aurakles | creators | Dick_Dillin</otriple>
+        <otriple>Dick_Dillin | nationality | United_States</otriple>
+        <otriple>Aurakles | creator | Len_Wein</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Dick_Dillin | nationality | United_States</otriple>
+        <otriple>Aurakles | creator | Dick_Dillin</otriple>
+        <otriple>Aurakles | creators | Len_Wein</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aurakles | creator | Dick_Dillin</mtriple>
+        <mtriple>Dick_Dillin | nationality | United_States</mtriple>
+        <mtriple>Aurakles | creator | Len_Wein</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Aurakles | Creador | Dick_Dillin</striple><striple>Dick_Dillin | Nacionalidad | Estados_Unidos</striple><striple>Aurakles | Creador | Len_Wein</striple></spanishtripleset><lex lang="en" lid="Id1">Dick Dillin, an American along with Len Wein were the creators of Aurakles, a fictional character.</lex>
+      <lex lang="en" lid="Id2">The comic book character Aurakles was created by Len Wein and the American Dick Dillin.</lex>
+    <lex lang="es" lid="Id1">El estadounidense Dick Dillin, junto con Len Wein, fueron los creadores de Aurakles, un personaje de ficción.</lex><lex lang="es" lid="Id2">El personaje de cómic Aurakles fue creado por Len Wein y el estadounidense Dick Dillin.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id9" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Auron_(comics) | creators | Karl_Kesel</otriple>
+        <otriple>Auron_(comics) | creator | Marv_Wolfman</otriple>
+        <otriple>Auron_(comics) | fullName | "Lambien"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auron_(comics) | creator | Karl_Kesel</otriple>
+        <otriple>Auron_(comics) | creators | "Marv Wolfman"@en</otriple>
+        <otriple>Auron_(comics) | fullName | "Lambien"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Auron_(comicsCharacter) | creator | Karl_Kesel</mtriple>
+        <mtriple>Auron_(comicsCharacter) | creator | Marv_Wolfman</mtriple>
+        <mtriple>Auron_(comicsCharacter) | fullName | "Lambien"</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Auron_(personaje_de_cómic) | Creador | Karl_Kesel</striple><striple>Auron_(personaje_de_cómic) | Creador | Marv_Wolfman</striple><striple>Auron_(personaje_de_cómic) | NombreCompleto | Lambien</striple></spanishtripleset><lex lang="en" lid="Id1">Marv Wolfman and Karl Kesel are the creators of the comic character Auron, whose full name is Lambien.</lex>
+      <lex lang="en" lid="Id2">The comic character Auron, whose full name is Lambien, was created by Karl Kesel and Marv Wolfman.</lex>
+      <lex lang="en" lid="Id3">Auron, a comic book character whose full name is Lambien, was created by Karl Kesel and Marv Wolfman.</lex>
+    <lex lang="es" lid="Id1">Marv Wolfman y Karl Kesel son los creadores del personaje de cómic Auron, cuyo nombre completo es Lambien.</lex><lex lang="es" lid="Id2">El personaje de cómic Auron, cuyo nombre completo es Lambien, fue creado por Karl Kesel y Marv Wolfman.</lex><lex lang="es" lid="Id3">Auron, personaje de cómic cuyo nombre completo es Lambien, fue creado por Karl Kesel y Marv Wolfman.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id10" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Auron_(comics) | creators | Karl_Kesel</otriple>
+        <otriple>Auron_(comics) | creator | Walt_Simonson</otriple>
+        <otriple>Auron_(comics) | fullName | "Lambien"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auron_(comics) | creator | Karl_Kesel</otriple>
+        <otriple>Auron_(comics) | creators | Walt_Simonson</otriple>
+        <otriple>Auron_(comics) | fullName | "Lambien"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Auron_(comicsCharacter) | creator | Karl_Kesel</mtriple>
+        <mtriple>Auron_(comicsCharacter) | creator | Walt_Simonson</mtriple>
+        <mtriple>Auron_(comicsCharacter) | fullName | "Lambien"</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Auron_(personaje_de_cómic) | Creador | Karl_Kesel</striple><striple>Auron_(personaje_de_cómic) | Creador | Walter_Simonson_(es_un_zombi)</striple><striple>Auron_(personaje_de_cómic) | NombreCompleto | Lambien</striple></spanishtripleset><lex lang="en" lid="Id1">The comic book character Auron, full name Lambien was created by Karl Kesel and Walt Simonson.</lex>
+      <lex lang="en" lid="Id2">Karl Kesel and Walt Simonson created the comic book character of Auron who has the full name Lambien.</lex>
+      <lex lang="en" lid="Id3">The comic character Auron, full name Lambien, was created by Karl Kesel and Walt Simonson.</lex>
+    <lex lang="es" lid="Id1">El personaje de cómic Auron, de nombre completo Lambien, fue creado por Karl Kesel y Walt Simonson.</lex><lex lang="es" lid="Id2">Karl Kesel y Walt Simonson crearon el personaje de cómic de Auron, cuyo nombre completo es Lambien.</lex><lex lang="es" lid="Id3">El personaje de cómic Auron, de nombre completo Lambien, fue creado por Karl Kesel y Walt Simonson.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id11" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Auron_(comics) | creator | Karl_Kesel</otriple>
+        <otriple>Karl_Kesel | nationality | Americans</otriple>
+        <otriple>Auron_(comics) | creators | "Marv Wolfman"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Karl_Kesel | nationality | Americans</otriple>
+        <otriple>Auron_(comics) | creators | Karl_Kesel</otriple>
+        <otriple>Auron_(comics) | creator | Marv_Wolfman</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Auron_(comicsCharacter) | creator | Karl_Kesel</mtriple>
+        <mtriple>Karl_Kesel | nationality | Americans</mtriple>
+        <mtriple>Auron_(comicsCharacter) | creator | Marv_Wolfman</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Auron_(personaje_de_cómic) | Creador | Karl_Kesel</striple><striple>Karl_Kesel | Nacionalidad | Estadounidense</striple><striple>Auron_(personaje_de_cómic) | Creador | Marv_Wolfman</striple></spanishtripleset><lex lang="en" lid="Id1">American Karl Kesel and Marv Wolfman created the comic character Auron.</lex>
+      <lex lang="en" lid="Id2">The comic character Auron was created by Marv Wolfman and American Karl Kesel.</lex>
+      <lex lang="en" lid="Id3">The comic book character Auron was created by Marv Wolfman and Karl Kesel who is an American.</lex>
+    <lex lang="es" lid="Id1">Los Estadounidenses Karl Kesel y Marv Wolfman crearon el personaje de cómic Auron.</lex><lex lang="es" lid="Id2">El personaje de cómic Auron fue creado por Marv Wolfman y el Estadounidense Karl Kesel.</lex><lex lang="es" lid="Id3">El personaje de cómic Auron fue creado por Marv Wolfman y el Estadounidense Karl Kesel.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id12" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Auron_(comics) | creator | Walt_Simonson</otriple>
+        <otriple>Auron_(comics) | creators | "Marv Wolfman"@en</otriple>
+        <otriple>Auron_(comics) | fullName | "Lambien"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auron_(comics) | creator | Marv_Wolfman</otriple>
+        <otriple>Auron_(comics) | creators | Walt_Simonson</otriple>
+        <otriple>Auron_(comics) | fullName | "Lambien"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Auron_(comicsCharacter) | creator | Marv_Wolfman</mtriple>
+        <mtriple>Auron_(comicsCharacter) | creator | Walt_Simonson</mtriple>
+        <mtriple>Auron_(comicsCharacter) | fullName | "Lambien"</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Auron_(personaje_de_cómic) | Creador | Marv_Wolfman</striple><striple>Auron_(personaje_de_cómic) | Creador | Walter_Simonson_(es_un_zombi)</striple><striple>Auron_(personaje_de_cómic) | NombreCompleto | Lambien</striple></spanishtripleset><lex lang="en" lid="Id1">Marv Wolfman and Walt Simonson created the comic book character Auron, whose full name is Lambien.</lex>
+      <lex lang="en" lid="Id2">Auron, a comic character whose full name is Lambien, was created by Marv Wolfman and Walt Simonson.</lex>
+      <lex lang="en" lid="Id3">The comic character Auron, whose full name is Lambien, was created by Marv Wolfman and Walt Simonson.</lex>
+    <lex lang="es" lid="Id1">Marv Wolfman y Walt Simonson crearon el personaje de cómic Auron, cuyo nombre completo es Lambien.</lex><lex lang="es" lid="Id2">Auron, personaje de cómic cuyo nombre completo es Lambien, fue creado por Marv Wolfman y Walt Simonson.</lex><lex lang="es" lid="Id3">El personaje de cómic Auron, cuyo nombre completo es Lambien, fue creado por Marv Wolfman y Walt Simonson.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id13" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>BBC | keyPeople | Rona_Fairhead</otriple>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>BBC | locationCity | Broadcasting_House</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>BBC | keyPerson | Rona_Fairhead</mtriple>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>BBC | city | Broadcasting_House</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>BBC | PersonaClave | Rona_Fairhead</striple><striple>Bananaman | EmitidoPor | BBC</striple><striple>BBC | Ciudad | Broadcasting_House</striple></spanishtripleset><lex lang="en" lid="Id1">Rona Fairhead is the key person for the BBC which broadcast Bananaman and has its home at Broadcasting House in London.</lex>
+      <lex lang="en" lid="Id2">The key person for BBC is Rona Fairhead and it's located in Broadcasting House in London and shows Bananaman TV Series.</lex>
+    <lex lang="es" lid="Id1">Rona Fairhead es la persona clave de la BBC, que emitió Bananaman y tiene su sede en la Broadcasting House de Londres.</lex><lex lang="es" lid="Id2">La persona clave de la BBC es Rona Fairhead y se encuentra en Broadcasting House, en Londres, y emite la serie de televisión Bananaman.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id14" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>BBC | keyPeople | Rona_Fairhead</otriple>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>BBC | locationCity | London</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>BBC | keyPerson | Rona_Fairhead</mtriple>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>BBC | city | London</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>BBC | PersonaClave | Rona_Fairhead</striple><striple>Bananaman | EmitidoPor | BBC</striple><striple>BBC | Ciudad | Londres</striple></spanishtripleset><lex lang="en" lid="Id1">Rona Fairhead is a key person at the BBC, which is located in London. Bananaman was broadcast by the BBC.</lex>
+      <lex lang="en" lid="Id2">The BBC which broadcasted Bananaman is located in London and the key person is Rona Fairhead.</lex>
+      <lex lang="en" lid="Id3">The BBC, where Rona Fairhead was a key person, is located in London and broadcasts Bananaman.</lex>
+    <lex lang="es" lid="Id1">Rona Fairhead es una persona clave en la BBC, que tiene su sede en Londres. Bananaman fue emitido por la BBC.</lex><lex lang="es" lid="Id2">La BBC que emitió Bananaman tiene su sede en Londres y la persona clave es Rona Fairhead.</lex><lex lang="es" lid="Id3">La BBC, donde Rona Fairhead era una persona clave, tiene su sede en Londres y emite Bananaman.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id15" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>BBC | keyPeople | Tony_Hall,_Baron_Hall_of_Birkenhead</otriple>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>BBC | locationCity | Broadcasting_House</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>BBC | keyPerson | Tony_Hall,_Baron_Hall_of_Birkenhead</mtriple>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>BBC | city | Broadcasting_House</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>BBC | PersonaClave | Tony_Hall,_Barón_Hall_de_Birkenhead</striple><striple>Bananaman | EmitidoPor | BBC</striple><striple>BBC | Ciudad | Broadcasting_House</striple></spanishtripleset><lex lang="en" lid="Id1">Tony Hall, Baron Hall of Birkenhead is a key person at the BBC which has headquarters at Broadcasting House and broadcast Bananaman.</lex>
+      <lex lang="en" lid="Id2">Bananaman, the TV series was shown on the BBC which has its home at Broadcasting House in London. A key person at the BBC is Tony Hall, Baron Hall of Birkenhead.</lex>
+      <lex lang="en" lid="Id3">Bananaman, the TV series, was shown on the BBC. Broadcasting House in London is the location of the BBC and a key person there is Tony Hall or Baron Hall of Birkenhead to give him his full title.</lex>
+    <lex lang="es" lid="Id1">Tony Hall, barón Hall de Birkenhead, es una persona clave en la BBC, que tiene su sede en Broadcasting House y emite Bananaman.</lex><lex lang="es" lid="Id2">Bananaman, la serie de televisión, se emitió en la BBC, que tiene su sede en Broadcasting House, en Londres. Una persona clave en la BBC es Tony Hall, barón Hall de Birkenhead.</lex><lex lang="es" lid="Id3">Bananaman, la serie de televisión, se emitió en la BBC. Broadcasting House, en Londres, es la sede de la BBC y una de sus personas clave es Tony Hall o Barón Hall de Birkenhead, para darle su título completo.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id16" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Balder_(comics) | creators | Jack_Kirby</otriple>
+        <otriple>Balder_(comics) | creator | Stan_Lee</otriple>
+        <otriple>Balder_(comics) | alterEgo | "Balder Odinson"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Balder_(comicsCharacter) | creator | Jack_Kirby</mtriple>
+        <mtriple>Balder_(comicsCharacter) | creator | Stan_Lee</mtriple>
+        <mtriple>Balder_(comicsCharacter) | alternativeName | "Balder Odinson"</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Balder_(personaje_de_cómic) | Creador | Jack_Kirby</striple><striple>Balder_(personaje_de_cómic) | Creador | Stan_Lee</striple><striple>Balder_(personaje_de_cómic) | NombreAlternativo | Balder_Odinson</striple></spanishtripleset><lex lang="en" lid="Id1">The comic character of Balder has the alternative name of Balder Odinson and was created by Jack Kirby and Stan Lee.</lex>
+      <lex lang="en" lid="Id2">The comic character of Balder Odinson is also known by the name Balder and was created by Stan Lee and Jack Kirby.</lex>
+      <lex lang="en" lid="Id3">Balder a comic character AKA Balder Odinson, was created by Jack Kirby and Stan Lee.</lex>
+    <lex lang="es" lid="Id1">El personaje de cómic de Balder tiene el nombre alternativo de Balder Odinson y fue creado por Jack Kirby y Stan Lee.</lex><lex lang="es" lid="Id2">El personaje de cómic de Balder Odinson también es conocido por el nombre de Balder y fue creado por Stan Lee y Jack Kirby.</lex><lex lang="es" lid="Id3">Balder, personaje de cómic también conocido como Balder Odinson, fue creado por Jack Kirby y Stan Lee.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id17" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Balder_(comics) | creators | Jack_Kirby</otriple>
+        <otriple>Jack_Kirby | nationality | Americans</otriple>
+        <otriple>Balder_(comics) | alterEgo | "Balder Odinson"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Balder_(comicsCharacter) | creator | Jack_Kirby</mtriple>
+        <mtriple>Jack_Kirby | nationality | Americans</mtriple>
+        <mtriple>Balder_(comicsCharacter) | alternativeName | "Balder Odinson"</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Balder_(personaje_de_cómic) | Creador | Jack_Kirby</striple><striple>Jack_Kirby | Nacionalidad | Estadounidense</striple><striple>Balder_(personaje_de_cómic) | NombreAlternativo | Balder_Odinson</striple></spanishtripleset><lex lang="en" lid="Id1">Balder Odinson - also known as Balder - is a comic character created by the American Jack Kirby.</lex>
+      <lex lang="en" lid="Id2">The American, Jack Kirby created the comic character of Balder who has the alternative name of Balder Odinson.</lex>
+    <lex lang="es" lid="Id1">Balder Odinson -también conocido como Balder- es un personaje de cómic creado por el Estadounidense Jack Kirby.</lex><lex lang="es" lid="Id2">El Estadounidense Jack Kirby creó el personaje de cómic de Balder, cuyo nombre alternativo es Balder Odinson.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id18" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Balder_(comics) | creators | Jack_Kirby</otriple>
+        <otriple>Jack_Kirby | nationality | Americans</otriple>
+        <otriple>Balder_(comics) | creator | Stan_Lee</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Balder_(comicsCharacter) | creator | Jack_Kirby</mtriple>
+        <mtriple>Jack_Kirby | nationality | Americans</mtriple>
+        <mtriple>Balder_(comicsCharacter) | creator | Stan_Lee</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Balder_(personaje_de_cómic) | Creador | Jack_Kirby</striple><striple>Jack_Kirby | Nacionalidad | Estadounidense</striple><striple>Balder_(personaje_de_cómic) | Creador | Stan_Lee</striple></spanishtripleset><lex lang="en" lid="Id1">Stan Lee and American Jack Kirby created the comic character Balder.</lex>
+      <lex lang="en" lid="Id2">Stan Lee and the American, Jack Kirby created the comic character of Balder.</lex>
+    <lex lang="es" lid="Id1">Stan Lee y el Estadounidense Jack Kirby crearon el personaje de cómic Balder.</lex><lex lang="es" lid="Id2">Stan Lee y el Estadounidense Jack Kirby crearon el personaje de cómic de Balder.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id19" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Ballistic_(DC_Comics) | creator | Doug_Moench</otriple>
+        <otriple>Ballistic_(DC_Comics) | alterEgo | "Kelvin Mao"@en</otriple>
+        <otriple>Ballistic_(DC_Comics) | creators | "Michael Manley"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ballistic_(comicsCharacter) | creator | Doug_Moench</mtriple>
+        <mtriple>Ballistic_(comicsCharacter) | alternativeName | "Kelvin Mao"</mtriple>
+        <mtriple>Ballistic_(comicsCharacter) | creator | "Michael Manley"</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Balístico_(personaje_de_cómic) | Creador | Doug_Moench</striple><striple>Balístico_(personaje_de_cómic) | NombreAlternativo | Kelvin_Mao</striple><striple>Balístico_(personaje_de_cómic) | Creador | Michael_Manley</striple></spanishtripleset><lex lang="en" lid="Id1">Ballistic, also known as Kelvin Mao, is a fictional comic superhero created by Michael Manley and Doug Moench.</lex>
+      <lex lang="en" lid="Id2">The comic character, Ballistic (a.k.a. Kelvin Mao) was created by Douglas Moench and Michael Manley.</lex>
+      <lex lang="en" lid="Id3">Ballistic is a fictional comic superhero who is sometimes known as Kelvin Mao and was created by Doug Moench and Michael Manley.</lex>
+    <lex lang="es" lid="Id1">Ballistic, también conocido como Kelvin Mao, es un superhéroe ficticio de cómic creado por Michael Manley y Doug Moench.</lex><lex lang="es" lid="Id2">El personaje de cómic Ballistic (también conocido como Kelvin Mao) fue creado por Douglas Moench y Michael Manley.</lex><lex lang="es" lid="Id3">Ballistic es un superhéroe ficticio de cómic que a veces es conocido como Kelvin Mao y fue creado por Doug Moench y Michael Manley.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id20" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>BBC | locationCity | Broadcasting_House</otriple>
+        <otriple>BBC | foundedBy | John_Reith,_1st_Baron_Reith</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>BBC | city | Broadcasting_House</mtriple>
+        <mtriple>BBC | foundedBy | John_Reith,_1st_Baron_Reith</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Bananaman | EmitidoPor | BBC</striple><striple>BBC | Ciudad | Broadcasting_House</striple><striple>BBC | FundadaPor | John_Reith,_1er_Barón_Reith</striple></spanishtripleset><lex lang="en" lid="Id1">Bananaman the TV series was shown on the BBC which was founded by John Reith, 1st Baron Reith and is located in the Broadcasting House in London.</lex>
+      <lex lang="en" lid="Id2">1st Baron, John Reith was the founder of BBC whose location is the Broadcasting House in London, and Bananaman was shown on the channel.</lex>
+    <lex lang="es" lid="Id1">La serie de televisión Bananaman se emitía en la BBC, fundada por John Reith, 1er Barón Reith, y situada en la Broadcasting House de Londres.</lex><lex lang="es" lid="Id2">1er Barón, John Reith fue el fundador de la BBC, cuya sede es la Broadcasting House de Londres, y Bananaman se emitió en la cadena.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id21" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>BBC | locationCity | London</otriple>
+        <otriple>BBC | foundedBy | John_Reith,_1st_Baron_Reith</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>BBC | city | London</mtriple>
+        <mtriple>BBC | foundedBy | John_Reith,_1st_Baron_Reith</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Bananaman | EmitidoPor | BBC</striple><striple>BBC | Ciudad | Londres</striple><striple>BBC | FundadaPor | John_Reith,_1er_Barón_Reith</striple></spanishtripleset><lex lang="en" lid="Id1">The BBC, which is located in London and broadcast Bananaman, was founded by John Reith 1st Baron Reith.</lex>
+      <lex lang="en" lid="Id2">The BBC, which broadcast Bananaman, is located in London and was founded by John Reith, 1st Baron Reith.</lex>
+    <lex lang="es" lid="Id1">La BBC, que tiene su sede en Londres y emite Bananaman, fue fundada por John Reith 1er Barón Reith.</lex><lex lang="es" lid="Id2">La BBC, que emitió Bananaman, tiene su sede en Londres y fue fundada por John Reith, 1er Barón Reith.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id22" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bananaman | starring | Bill_Oddie</mtriple>
+        <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Bananaman | EmitidoPor | BBC</striple><striple>Bananaman | ProtagonizadaPor | Bill_Oddie</striple><striple>Bananaman | EmitidoPorPrimeraVez | 03-10-1983</striple></spanishtripleset><lex lang="en" lid="Id1">Bill Oddie starred in Bananaman which was broadcast by the BBC and first aired on 3 October 1983.</lex>
+      <lex lang="en" lid="Id2">Bananaman a BBC TV series which stars Bill Oddie first aired on 3rd of October, 1983.</lex>
+      <lex lang="en" lid="Id3">Bill Oddie stars in Bananaman which first aired on 3 October 1983 and was broadcast by the BBC.</lex>
+    <lex lang="es" lid="Id1">Bill Oddie protagonizó Bananaman, emitida por la BBC por primera vez el 3 de octubre de 1983.</lex><lex lang="es" lid="Id2">Bananaman es una serie de televisión de la BBC protagonizada por Bill Oddie que se emitió por primera vez el 3 de octubre de 1983.</lex><lex lang="es" lid="Id3">Bill Oddie protagoniza Bananaman, que se emitió por primera vez el 3 de octubre de 1983 en la BBC.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id23" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | starring | Graeme_Garden</otriple>
+        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bananaman | starring | Graeme_Garden</mtriple>
+        <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Bananaman | EmitidoPor | BBC</striple><striple>Bananaman | ProtagonizadaPor | Graeme_Garden</striple><striple>Bananaman | EmitidoPorPrimeraVez | 03-10-1983</striple></spanishtripleset><lex lang="en" lid="Id1">Graeme Garden stars in Bananaman which is broadcast by the BBC and first aired on 3 October 1983.</lex>
+      <lex lang="en" lid="Id2">Bananaman was first broadcast by the BBC on 3 October 1983 and starred Graeme Garden.</lex>
+      <lex lang="en" lid="Id3">Graeme Garden stars in the TV series of Bananaman which was shown on BBC and first aired on 3 October 1983.</lex>
+    <lex lang="es" lid="Id1">Graeme Garden protagoniza Bananaman, emitida por la BBC por primera vez el 3 de octubre de 1983.</lex><lex lang="es" lid="Id2">Bananaman fue emitida por primera vez por la BBC el 3 de octubre de 1983 y protagonizada por Graeme Garden.</lex><lex lang="es" lid="Id3">Graeme Garden protagoniza la serie de televisión de Bananaman que se emitió en la BBC por primera vez el 3 de octubre de 1983.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id24" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | starring | Jill_Shilling</otriple>
+        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bananaman | starring | Jill_Shilling</mtriple>
+        <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Bananaman | EmitidoPor | BBC</striple><striple>Bananaman | ProtagonizadaPor | Jill_Shilling</striple><striple>Bananaman | EmitidoPorPrimeraVez | 03-10-1983</striple></spanishtripleset><lex lang="en" lid="Id1">Bananaman, starring Jill Shilling, is broadcast by the BBC and first aired on 3rd October 1983.</lex>
+      <lex lang="en" lid="Id2">The BBC broadcast Bananaman, which was first aired on 10/03/1983 and starred Jill Shilling.</lex>
+    <lex lang="es" lid="Id1">Bananaman, protagonizada por Jill Shilling, es emitida por la BBC por primera vez el 3 de octubre de 1983.</lex><lex lang="es" lid="Id2">La BBC emitió Bananaman, que se emitió por primera vez el 10 de marzo de 1983 y estaba protagonizada por Jill Shilling.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id25" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+        <otriple>Bill_Oddie | children | Kate_Hardie</otriple>
+        <otriple>Bill_Oddie | birthPlace | Lancashire</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+        <otriple>Bill_Oddie | child | Kate_Hardie</otriple>
+        <otriple>Bill_Oddie | birthPlace | Lancashire</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Bill_Oddie</mtriple>
+        <mtriple>Bill_Oddie | child | Kate_Hardie</mtriple>
+        <mtriple>Bill_Oddie | birthPlace | Lancashire</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Bananaman | ProtagonizadaPor | Bill_Oddie</striple><striple>Bill_Oddie | Niño | Kate_Hardie</striple><striple>Bill_Oddie | LugarDeNacimiento | Lancashire</striple></spanishtripleset><lex lang="en" lid="Id1">Billie Oddie who starred in Bananaman is Kate Hardie's son and was born in Lancashire.</lex>
+      <lex lang="en" lid="Id2">Bill Oddie, who stars in Bananaman, was born in Lancashire and has a child called Kate Hardie.</lex>
+      <lex lang="en" lid="Id3">Bill Oddie, who starred in Bananaman, was born in Lancashire and has a daughter called Kate Hardie.</lex>
+    <lex lang="es" lid="Id1">Billie Oddie, protagonista de Bananaman, es hijo de Kate Hardie y nació en Lancashire.</lex><lex lang="es" lid="Id2">Bill Oddie, protagonista de Bananaman, nació en Lancashire y tiene una hija llamada Kate Hardie.</lex><lex lang="es" lid="Id3">Bill Oddie, protagonista de Bananaman, nació en Lancashire y tiene una hija llamada Kate Hardie.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id26" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+        <otriple>Bill_Oddie | children | Kate_Hardie</otriple>
+        <otriple>Bill_Oddie | birthPlace | Rochdale</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+        <otriple>Bill_Oddie | child | Kate_Hardie</otriple>
+        <otriple>Bill_Oddie | birthPlace | Rochdale</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Bill_Oddie</mtriple>
+        <mtriple>Bill_Oddie | child | Kate_Hardie</mtriple>
+        <mtriple>Bill_Oddie | birthPlace | Rochdale</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Bananaman | ProtagonizadaPor | Bill_Oddie</striple><striple>Bill_Oddie | Niño | Kate_Hardie</striple><striple>Bill_Oddie | LugarDeNacimiento | Rochdale</striple></spanishtripleset><lex lang="en" lid="Id1">Bill Oddie, who starred in Bananaman, was born in Rochdale and has a child called Kate Hardie.</lex>
+      <lex lang="en" lid="Id2">Billie Oddie starred in Bananaman was born in Rochdale and Kate Hardie is his child.</lex>
+      <lex lang="en" lid="Id3">Bill Oddie, who starred in Bananaman, was born in Rochdale and has a daughter called Kate Hardie.</lex>
+    <lex lang="es" lid="Id1">Bill Oddie, protagonista de Bananaman, nació en Rochdale y tiene una hija llamada Kate Hardie.</lex><lex lang="es" lid="Id2">Billie Oddie, protagonista de Bananaman, nació en Rochdale y Kate Hardie es hija suya.</lex><lex lang="es" lid="Id3">Bill Oddie, protagonista de Bananaman, nació en Rochdale y tiene una hija llamada Kate Hardie.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id27" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Graeme_Garden</otriple>
+        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
+        <otriple>Bananaman | network | "STV"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Graeme_Garden</mtriple>
+        <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
+        <mtriple>Bananaman | broadcastedBy | "STV"</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Bananaman | ProtagonizadaPor | Graeme_Garden</striple><striple>Bananaman | EmitidoPorPrimeraVez | 03-10-1983</striple><striple>Bananaman | EmitidoPor | STV</striple></spanishtripleset><lex lang="en" lid="Id1">Bananaman was broadcasted by STV, starring Graeme Garden it first aired on 3rd October 1983.</lex>
+      <lex lang="en" lid="Id2">Graeme Garden stars in Bananaman which first aired on 3 October 1983 and was broadcast by STV.</lex>
+      <lex lang="en" lid="Id3">Bananaman which first aired 10/03/1983, stars Graeme Garden and was broadcasted by STV.</lex>
+    <lex lang="es" lid="Id1">Bananaman fue emitido por STV, protagonizado por Graeme Garden se emitió por primera vez el 3 de octubre de 1983.</lex><lex lang="es" lid="Id2">Graeme Garden protagoniza Bananaman, que se emitió por primera vez el 3 de octubre de 1983 en STV.</lex><lex lang="es" lid="Id3">Bananaman, que se emitió por primera vez el 10 de marzo de 1983, está protagonizada por Graeme Garden y fue emitida por STV.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id28" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Jill_Shilling</otriple>
+        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
+        <otriple>Bananaman | network | "STV"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Jill_Shilling</mtriple>
+        <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
+        <mtriple>Bananaman | broadcastedBy | "STV"</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Bananaman | ProtagonizadaPor | Jill_Shilling</striple><striple>Bananaman | EmitidoPorPrimeraVez | 03-10-1983</striple><striple>Bananaman | EmitidoPor | STV</striple></spanishtripleset><lex lang="en" lid="Id1">Jill Shilling starred in Bananaman which is broadcast by STV and first aired on 3 October 1983.</lex>
+      <lex lang="en" lid="Id2">Bananaman starred Jill Shilling and first aired on the 3rd of October, 1983 being broadcast by STV.</lex>
+    <lex lang="es" lid="Id1">Jill Shilling protagonizó Bananaman, emitida por STV por primera vez el 3 de octubre de 1983.</lex><lex lang="es" lid="Id2">Bananaman fue protagonizada por Jill Shilling y se emitió por primera vez el 3 de octubre de 1983 en STV.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id29" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Tim_Brooke-Taylor</otriple>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Tim_Brooke-Taylor</mtriple>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Bananaman | ProtagonizadaPor | Tim_Brooke-Taylor</striple><striple>Bananaman | EmitidoPor | BBC</striple><striple>Bananaman | EmitidoPorPrimeraVez | 03-10-1983</striple></spanishtripleset><lex lang="en" lid="Id1">The BBC broadcast Bananaman, which was first aired on 10/03/1983 and starred Tim Brooke-Taylor.</lex>
+      <lex lang="en" lid="Id2">Bananaman which first aired on October 3rd, 1983 on the BBC, starred Tim Brooke-Taylor.</lex>
+    <lex lang="es" lid="Id1">La BBC emitió Bananaman, que se emitió por primera vez el 10 de marzo de 1983 y estaba protagonizada por Tim Brooke-Taylor.</lex><lex lang="es" lid="Id2">Bananaman, que se emitió por primera vez el 3 de octubre de 1983 en la BBC, estaba protagonizada por Tim Brooke-Taylor.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id30" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Tim_Brooke-Taylor</otriple>
+        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
+        <otriple>Bananaman | network | "STV"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Tim_Brooke-Taylor</mtriple>
+        <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
+        <mtriple>Bananaman | broadcastedBy | "STV"</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Bananaman | ProtagonizadaPor | Tim_Brooke-Taylor</striple><striple>Bananaman | EmitidoPorPrimeraVez | 03-10-1983</striple><striple>Bananaman | EmitidoPor | STV</striple></spanishtripleset><lex lang="en" lid="Id1">Bananaman starred Tim Brooke-Taylor and was first broadcast by STV on 3 October 1983.</lex>
+      <lex lang="en" lid="Id2">Tim Brooke-Taylor starred as Bananaman, which was first aired on 10/03/1983 and was broadcast by STV.</lex>
+      <lex lang="en" lid="Id3">Bananaman, starring Tim Brooke-Taylor, was first broadcast by STV on the 3rd October 1983.</lex>
+    <lex lang="es" lid="Id1">Bananaman fue protagonizada por Tim Brooke-Taylor y emitida por primera vez por STV el 3 de octubre de 1983.</lex><lex lang="es" lid="Id2">Tim Brooke-Taylor protagonizó Bananaman, que se emitió por primera vez el 10 de marzo de 1983 y fue emitida por STV.</lex><lex lang="es" lid="Id3">Bananaman, protagonizada por Tim Brooke-Taylor, fue emitida por primera vez por STV el 3 de octubre de 1983.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id31" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Tim_Brooke-Taylor</otriple>
+        <otriple>Bananaman | lastAired | "1986-04-15"^^xsd:date</otriple>
+        <otriple>Bananaman | network | "STV"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Tim_Brooke-Taylor</mtriple>
+        <mtriple>Bananaman | lastAired | "1986-04-15"</mtriple>
+        <mtriple>Bananaman | broadcastedBy | "STV"</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Bananaman | ProtagonizadaPor | Tim_Brooke-Taylor</striple><striple>Bananaman | ÚltimaEmisión | 15-04-1986</striple><striple>Bananaman | EmitidoPor | STV</striple></spanishtripleset><lex lang="en" lid="Id1">Bananaman starred Tim Brooke-Taylor and was broadcast for the last time by STV on 15 April 1986.</lex>
+      <lex lang="en" lid="Id2">Bananaman was broadcasted by STV, it starred Tim Brooke-Taylor and last aired on 15th April 1986.</lex>
+    <lex lang="es" lid="Id1">Bananaman fue protagonizada por Tim Brooke-Taylor y emitida por última vez por STV el 15 de abril de 1986.</lex><lex lang="es" lid="Id2">Bananaman fue emitida por STV, protagonizada por Tim Brooke-Taylor y emitida por última vez el 15 de abril de 1986.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id32" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Baymax | first | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Alan_Tudyk</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | firstAppearanceInFilm | Big_Hero_6_(film)</mtriple>
+        <mtriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Alan_Tudyk</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Baymax | PrimeraApariciónEnElCine | Big_Hero_6_(película)</striple><striple>Big_Hero_6_(película) | Distribuidor | Walt_Disney_Studios_Motion_Pictures</striple><striple>Big_Hero_6_(película) | ProtagonizadaPor | Alan_Tudyk</striple></spanishtripleset><lex lang="en" lid="Id1">Walt Disney Studios Motion Pictures is the distributor of the film Big Hero 6, the film that stars Alan Tudyk and in which the character Baymax makes his first appearance.</lex>
+    <lex lang="es" lid="Id1">Walt Disney Studios Motion Pictures es la distribuidora de la película Big Hero 6, el filme que protagoniza Alan Tudyk y en el que el personaje Baymax hace su primera aparición.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id33" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Baymax | first | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Ryan_Potter</otriple>
+        <otriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | firstAppearanceInFilm | Big_Hero_6_(film)</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Ryan_Potter</mtriple>
+        <mtriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Baymax | PrimeraApariciónEnElCine | Big_Hero_6_(película)</striple><striple>Big_Hero_6_(película) | ProtagonizadaPor | Ryan_Potter</striple><striple>Big_Hero_6_(película) | Distribuidor | Walt_Disney_Studios_Motion_Pictures</striple></spanishtripleset><lex lang="en" lid="Id1">Big Hero 6, distributed by Walt Disney Studios Motion Pictures, starred Ryan Potter and was Baymax's first film appearance.</lex>
+      <lex lang="en" lid="Id2">Big Hero 6 stars Ryan Potter and was Baymax's first film appearance. It was distributed by Walt Disney Studios Motion Pictures.</lex>
+      <lex lang="en" lid="Id3">Baymax first appeared in the Walt Disney Studios distributed film Big Hero 6, starring Ryan Potter.</lex>
+    <lex lang="es" lid="Id1">Big Hero 6, distribuida por Walt Disney Studios Motion Pictures, fue protagonizada por Ryan Potter y supuso la primera aparición cinematográfica de Baymax.</lex><lex lang="es" lid="Id2">Big Hero 6 está protagonizada por Ryan Potter y fue la primera aparición cinematográfica de Baymax. Fue distribuida por Walt Disney Studios Motion Pictures.</lex><lex lang="es" lid="Id3">Baymax apareció por primera vez en la película Big Hero 6, distribuida por Walt Disney Studios y protagonizada por Ryan Potter.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id34" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Baymax | creators | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Baymax | creator | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+        <mtriple>Baymax | creator | Steven_T._Seagle</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Baymax | Serie | Big_Hero_6_(película)</striple><striple>Baymax | Creador | Duncan_Rouleau</striple><striple>Baymax | Creador | Steven_T._Seagle</striple></spanishtripleset><lex lang="en" lid="Id1">Baymax is a character in Big Hero 6 and was created by Duncan Rouleau and Steven T. Seagle.</lex>
+      <lex lang="en" lid="Id2">Steven T Seagle and Duncan Rouleau created the character of Baymax who appeared in Big Hero 6.</lex>
+      <lex lang="en" lid="Id3">Baymax, a character in Big Hero 6, was created by Duncan Rouleau and Steven T. Seagle.</lex>
+    <lex lang="es" lid="Id1">Baymax es un personaje de Big Hero 6 creado por Duncan Rouleau y Steven T. Seagle.</lex><lex lang="es" lid="Id2">Steven T Seagle y Duncan Rouleau crearon el personaje de Baymax, que apareció en Big Hero 6.</lex><lex lang="es" lid="Id3">Baymax, personaje de Big Hero 6, fue creado por Duncan Rouleau y Steven T. Seagle.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id35" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Baymax | voice | Scott_Adsit</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Baymax | creator | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | voice | Scott_Adsit</otriple>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Baymax | creators | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | voice | Scott_Adsit</mtriple>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+        <mtriple>Baymax | creator | Steven_T._Seagle</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Baymax | Voz | Scott_Adsit</striple><striple>Baymax | Creador | Duncan_Rouleau</striple><striple>Baymax | Creador | Steven_T._Seagle</striple></spanishtripleset><lex lang="en" lid="Id1">Baymax was created by Duncan Rouleau and Steven T Seagle and is voiced by Scott Adsit.</lex>
+      <lex lang="en" lid="Id2">Duncan Rouleau and Steven T Seagle created the character of Baymax who is voiced by Scott Adsit.</lex>
+      <lex lang="en" lid="Id3">Scott Adsit voiced the character Baymax which was created by Duncan Rouleau and Steven T. Seagle.</lex>
+    <lex lang="es" lid="Id1">Baymax fue creado por Duncan Rouleau y Steven T Seagle, y Scott Adsit le pone voz.</lex><lex lang="es" lid="Id2">Duncan Rouleau y Steven T Seagle crearon el personaje de Baymax, al que pone voz Scott Adsit.</lex><lex lang="es" lid="Id3">Scott Adsit pone voz al personaje Baymax, creado por Duncan Rouleau y Steven T. Seagle.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id36" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Ben_Urich | creators | Roger_McKenzie_(comics)</otriple>
+        <otriple>Ben_Urich | creator | Gene_Colan</otriple>
+        <otriple>Ben_Urich | fullName | "Benjamin Urich"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ben_Urich | creator | Roger_McKenzie_(comics)</otriple>
+        <otriple>Ben_Urich | creators | Gene_Colan</otriple>
+        <otriple>Ben_Urich | fullName | "Benjamin Urich"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ben_Urich | creator | Roger_McKenzie_(comic_book_writer)</mtriple>
+        <mtriple>Ben_Urich | creator | Gene_Colan</mtriple>
+        <mtriple>Ben_Urich | fullName | "Benjamin Urich"</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Ben_Urich | Creador | Roger_McKenzie_(guionista_de_cómics)</striple><striple>Ben_Urich | Creador | Gene_Colan</striple><striple>Ben_Urich | NombreCompleto | Benjamin_Urich</striple></spanishtripleset><lex lang="en" lid="Id1">The character of Ben Urich, whose full name is Benjamin Urich, was created by Gene Colan and the comic book writer, Roger Mckenzie.</lex>
+      <lex lang="en" lid="Id2">Ben(jamin) Urich was created by the comic book writer Roger McKenzie and Gene Colan.</lex>
+    <lex lang="es" lid="Id1">El personaje de Ben Urich, cuyo nombre completo es Benjamin Urich, fue creado por Gene Colan y el guionista de cómics Roger Mckenzie.</lex><lex lang="es" lid="Id2">Ben(jamin) Urich fue creado por el guionista de cómics Roger McKenzie y Gene Colan.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id37" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Ben_Urich | creators | Roger_McKenzie_(comics)</otriple>
+        <otriple>Ben_Urich | creator | Gene_Colan</otriple>
+        <otriple>Gene_Colan | nationality | Americans</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ben_Urich | creator | Roger_McKenzie_(comics)</otriple>
+        <otriple>Gene_Colan | nationality | Americans</otriple>
+        <otriple>Ben_Urich | creators | Gene_Colan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ben_Urich | creator | Roger_McKenzie_(comic_book_writer)</mtriple>
+        <mtriple>Ben_Urich | creator | Gene_Colan</mtriple>
+        <mtriple>Gene_Colan | nationality | Americans</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Ben_Urich | Creador | Roger_McKenzie_(guionista_de_cómics)</striple><striple>Ben_Urich | Creador | Gene_Colan</striple><striple>Gene_Colan | Nacionalidad | Estadounidense</striple></spanishtripleset><lex lang="en" lid="Id1">The character of Ben Urich was created by the American, Gene Colan, and the comic book writer, Roger McKenzie.</lex>
+      <lex lang="en" lid="Id2">Roger McKenzie and the American, Gene Colan created the comic book character of Ben Urich.</lex>
+      <lex lang="en" lid="Id3">Ben Urich was created by the American, Gene Colan and the comic book writer, Roger McKenzie.</lex>
+    <lex lang="es" lid="Id1">El personaje de Ben Urich fue creado por el Estadounidense Gene Colan y el guionista de cómics Roger McKenzie.</lex><lex lang="es" lid="Id2">Roger McKenzie y el Estadounidense Gene Colan crearon el personaje de cómic de Ben Urich.</lex><lex lang="es" lid="Id3">Ben Urich fue creado por el Estadounidense Gene Colan y el guionista de cómics Roger McKenzie.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id38" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Roger_McKenzie_(comics) | nationality | United_States</otriple>
+        <otriple>Ben_Urich | creators | Roger_McKenzie_(comics)</otriple>
+        <otriple>Ben_Urich | creator | Gene_Colan</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ben_Urich | creator | Roger_McKenzie_(comics)</otriple>
+        <otriple>Roger_McKenzie_(comics) | nationality | United_States</otriple>
+        <otriple>Ben_Urich | creators | Gene_Colan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ben_Urich | creator | Roger_McKenzie_(comic_book_writer)</mtriple>
+        <mtriple>Roger_McKenzie_(comic_book_writer) | nationality | United_States</mtriple>
+        <mtriple>Ben_Urich | creator | Gene_Colan</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Ben_Urich | Creador | Roger_McKenzie_(guionista_de_cómics)</striple><striple>Roger_McKenzie_(guionista_de_cómics) | Nacionalidad | Estados_Unidos</striple><striple>Ben_Urich | Creador | Gene_Colan</striple></spanishtripleset><lex lang="en" lid="Id1">The comic book character Ben Urich was created by Gene Colan and the comic book writer Roger Mckenzie, who is a US national.</lex>
+      <lex lang="en" lid="Id2">Gene Colan and the US National comic book writer, Roger McKenzie created Ben Urich.</lex>
+      <lex lang="en" lid="Id3">The comic book character of Ben Urich was created by Gene Colan and Roger McKenzie who is an American writer of comic books.</lex>
+    <lex lang="es" lid="Id1">El personaje de cómic Ben Urich fue creado por Gene Colan y el guionista Roger Mckenzie, de nacionalidad estadounidense.</lex><lex lang="es" lid="Id2">Gene Colan y el guionista de cómics estadounidense Roger McKenzie crearon a Ben Urich.</lex><lex lang="es" lid="Id3">El personaje de cómic de Ben Urich fue creado por Gene Colan y Roger McKenzie, un guionista de cómics estadounidense.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id39" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Bibbo_Bibbowski | creators | Jerry_Ordway</otriple>
+        <otriple>Jerry_Ordway | nationality | Americans</otriple>
+        <otriple>Bibbo_Bibbowski | creator | Marv_Wolfman</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Jerry_Ordway | nationality | Americans</otriple>
+        <otriple>Bibbo_Bibbowski | creator | Jerry_Ordway</otriple>
+        <otriple>Bibbo_Bibbowski | creators | Marv_Wolfman</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bibbo_Bibbowski | creator | Jerry_Ordway</mtriple>
+        <mtriple>Jerry_Ordway | nationality | Americans</mtriple>
+        <mtriple>Bibbo_Bibbowski | creator | Marv_Wolfman</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Bibbo_Bibbowski | Creador | Jerry_Ordway</striple><striple>Jerry_Ordway | Nacionalidad | Estadounidense</striple><striple>Bibbo_Bibbowski | Creador | Marv_Wolfman</striple></spanishtripleset><lex lang="en" lid="Id1">Bibbo Bibbowski was created by Marv Wolfman and Jerry Ordway who is an American.</lex>
+      <lex lang="en" lid="Id2">Bibbo Bibbowski was created by Marv Wolfman and Jerry Ordway, Jerry Ordway is American.</lex>
+    <lex lang="es" lid="Id1">Bibbo Bibbowski fue creado por Marv Wolfman y Jerry Ordway, que es Estadounidense.</lex><lex lang="es" lid="Id2">Bibbo Bibbowski fue creado por Marv Wolfman y Jerry Ordway, Jerry Ordway es Estadounidense.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id40" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Jamie_Chung</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</mtriple>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Jamie_Chung</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Big_Hero_6_(película) | Distribuidor | Walt_Disney_Studios_Motion_Pictures</striple><striple>Baymax | Serie | Big_Hero_6_(película)</striple><striple>Big_Hero_6_(película) | ProtagonizadaPor | Jamie_Chung</striple></spanishtripleset><lex lang="en" lid="Id1">The distributor of the film Big Hero 6, which stars Jamie Chung, is Walt Disney Studios Motion Pictures. The character Baymax appears in this film.</lex>
+      <lex lang="en" lid="Id2">Big Hero 6, a film distributed by Walt Disney Studios Motion Pictures, starred Jamie Chung and included the character Baymax.</lex>
+    <lex lang="es" lid="Id1">El distribuidor de la película Big Hero 6, protagonizada por Jamie Chung, es Walt Disney Studios Motion Pictures. El personaje Baymax aparece en esta película.</lex><lex lang="es" lid="Id2">Big Hero 6, película distribuida por Walt Disney Studios Motion Pictures, estaba protagonizada por Jamie Chung e incluía al personaje Baymax.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id41" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Maya_Rudolph</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</mtriple>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Maya_Rudolph</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Big_Hero_6_(película) | Distribuidor | Walt_Disney_Studios_Motion_Pictures</striple><striple>Baymax | Serie | Big_Hero_6_(película)</striple><striple>Big_Hero_6_(película) | ProtagonizadaPor | Maya_Rudolph</striple></spanishtripleset><lex lang="en" lid="Id1">Walt Disney Studios Motion Pictures distributed the movie Big Hero 6 which starred Maya Rudolph. Baymax is a character in this film.</lex>
+      <lex lang="en" lid="Id2">Big Hero 6 is distributed by Walt Disney Studios Motion Pictures and has Baymax as a character and stars Maya Rudolph.</lex>
+      <lex lang="en" lid="Id3">Baymax is a character in the film Big Hero 6, which was distributed by Walt Disney Studios Motion Pictures and starred Maya Rudolph.</lex>
+    <lex lang="es" lid="Id1">Walt Disney Studios Motion Pictures distribuyó la película Big Hero 6, protagonizada por Maya Rudolph. Baymax es un personaje de esta película.</lex><lex lang="es" lid="Id2">Big Hero 6 está distribuida por Walt Disney Studios Motion Pictures, cuenta con Baymax como personaje y está protagonizada por Maya Rudolph.</lex><lex lang="es" lid="Id3">Baymax es un personaje de la película Big Hero 6, distribuida por Walt Disney Studios Motion Pictures y protagonizada por Maya Rudolph.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id42" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Alan_Tudyk</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Alan_Tudyk</mtriple>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Big_Hero_6_(película) | Distribuidor | Walt_Disney_Studios_Motion_Pictures</striple><striple>Big_Hero_6_(película) | ProtagonizadaPor | Alan_Tudyk</striple><striple>Baymax | Serie | Big_Hero_6_(película)</striple></spanishtripleset><lex lang="en" lid="Id1">Walt Disney Studios Motion Pictures is the distributor of the film Big Hero 6 that stars Alan Tudyk and in which Baymax is a character.</lex>
+      <lex lang="en" lid="Id2">Big Hero 6 is a Disney Studios Motion Picture which stars Alan Tudyk and has Baymax as a character.</lex>
+      <lex lang="en" lid="Id3">Alan Tudyk stars in the film Big Hero 6 in which Baymax is a character. The film is distributed by Walt Disney Studios Motion Pictures.</lex>
+    <lex lang="es" lid="Id1">Walt Disney Studios Motion Pictures es el distribuidor de la película Big Hero 6 que protagoniza Alan Tudyk y en la que Baymax es un personaje.</lex><lex lang="es" lid="Id2">Big Hero 6 es una película de Disney Studios protagonizada por Alan Tudyk y con Baymax como personaje.</lex><lex lang="es" lid="Id3">Alan Tudyk protagoniza la película Big Hero 6 en la que Baymax es un personaje. La película está distribuida por Walt Disney Studios Motion Pictures.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id43" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | "Mark Desmond"@en</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creators | Tom_Lyle</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creator | Carmine_Infantino</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | "Mark Desmond"@en</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creators | Carmine_Infantino</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creator | Tom_Lyle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Blockbuster_(comicsCharacter) | alternativeName | "Mark Desmond"</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Carmine_Infantino</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Tom_Lyle</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Blockbuster_(personaje_de_cómic) | NombreAlternativo | Mark_Desmond</striple><striple>Blockbuster_(personaje_de_cómic) | Creador | Carmine_Infantino</striple><striple>Blockbuster_(personaje_de_cómic) | Creador | Tom_Lyle</striple></spanishtripleset><lex lang="en" lid="Id1">"Mark Desmond," also known as the comic character Blockbuster, was created by Carmine Infantino and Tom Lyle.</lex>
+      <lex lang="en" lid="Id2">"Mark Desmond" is also known as the comic character Blockbuster who was created by Tom Lyle and Carmine Infantino.</lex>
+      <lex lang="en" lid="Id3">The comic character Blockbuster is also known as Mark Desmond, the character was created by Carmine Infantino and Tom Lyle.</lex>
+    <lex lang="es" lid="Id1">"Mark Desmond", también conocido como el personaje de cómic Blockbuster, fue creado por Carmine Infantino y Tom Lyle.</lex><lex lang="es" lid="Id2">"Mark Desmond" también es conocido como el personaje de cómic Blockbuster, creado por Tom Lyle y Carmine Infantino.</lex><lex lang="es" lid="Id3">El personaje de cómic Blockbuster también es conocido como Mark Desmond, el personaje fue creado por Carmine Infantino y Tom Lyle.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id44" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creator | Gardner_Fox</otriple>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | "Roland Desmond"@en</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creators | Tom_Lyle</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creators | Gardner_Fox</otriple>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | "Roland Desmond"@en</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creator | Tom_Lyle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Gardner_Fox</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | alternativeName | "Roland Desmond"</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Tom_Lyle</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Blockbuster_(personaje_de_cómic) | Creador | Gardner_Fox</striple><striple>Blockbuster_(personaje_de_cómic) | NombreAlternativo | Roland_Desmond</striple><striple>Blockbuster_(personaje_de_cómic) | Creador | Tom_Lyle</striple></spanishtripleset><lex lang="en" lid="Id1">Tom Lyle and Gardner Fox created the comic book character of Blockbuster who has the alternative name of Roland Desmond.</lex>
+      <lex lang="en" lid="Id2">The comic character, Blockbuster, whose alternative name is Roland Desmond, was created by Gardner Fox and Tom Lyle.</lex>
+      <lex lang="en" lid="Id3">The comic book character Blockbuster, whose alter ego is Roland Desmond, was created by Gardner Fox and Tom Lyle.</lex>
+    <lex lang="es" lid="Id1">Tom Lyle y Gardner Fox crearon el personaje de cómic de Blockbuster, que tiene el nombre alternativo de Roland Desmond.</lex><lex lang="es" lid="Id2">El personaje de cómic Blockbuster, cuyo nombre alternativo es Roland Desmond, fue creado por Gardner Fox y Tom Lyle.</lex><lex lang="es" lid="Id3">El personaje de cómic Blockbuster, cuyo alter ego es Roland Desmond, fue creado por Gardner Fox y Tom Lyle.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id45" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creator | Gardner_Fox</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creators | Carmine_Infantino</otriple>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | "Roland Desmond"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creators | Gardner_Fox</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creator | Carmine_Infantino</otriple>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | "Roland Desmond"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Gardner_Fox</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Carmine_Infantino</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | alternativeName | "Roland Desmond"</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Blockbuster_(personaje_de_cómic) | Creador | Gardner_Fox</striple><striple>Blockbuster_(personaje_de_cómic) | Creador | Carmine_Infantino</striple><striple>Blockbuster_(personaje_de_cómic) | NombreAlternativo | Roland_Desmond</striple></spanishtripleset><lex lang="en" lid="Id1">The comic character Blockbuster is also known as Roland Desmond and was created by Gardner Fox and Carmine Infantino.</lex>
+      <lex lang="en" lid="Id2">Roland Desmond is the alternative name for the comic book character Blockbuster, who was created by Carmine Infantino and Gardner Fox.</lex>
+    <lex lang="es" lid="Id1">El personaje de cómic Blockbuster también es conocido como Roland Desmond y fue creado por Gardner Fox y Carmine Infantino.</lex><lex lang="es" lid="Id2">Roland Desmond es el nombre alternativo del personaje de cómic Blockbuster, creado por Carmine Infantino y Gardner Fox.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id46" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creators | Gardner_Fox</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creator | Roger_Stern</otriple>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | "Mark Desmond"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creator | Gardner_Fox</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creators | Roger_Stern</otriple>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | "Mark Desmond"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Gardner_Fox</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Roger_Stern</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | alternativeName | "Mark Desmond"</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Blockbuster_(personaje_de_cómic) | Creador | Gardner_Fox</striple><striple>Blockbuster_(personaje_de_cómic) | Creador | Roger_Stern</striple><striple>Blockbuster_(personaje_de_cómic) | NombreAlternativo | Mark_Desmond</striple></spanishtripleset><lex lang="en" lid="Id1">The comic character Blockbuster is also known as Mark Desmond and was created by Roger Stern and Gardner Fox.</lex>
+      <lex lang="en" lid="Id2">Blockbuster (also known as Mark Desmond) is a comic book character created by Roger Stern and Gardner Fox.</lex>
+      <lex lang="en" lid="Id3">The comic character Blockbuster, aka Mark Desmond, was created by Gardner Fox and Roger Stern.</lex>
+    <lex lang="es" lid="Id1">El personaje de cómic Blockbuster también es conocido como Mark Desmond y fue creado por Roger Stern y Gardner Fox.</lex><lex lang="es" lid="Id2">Blockbuster (también conocido como Mark Desmond) es un personaje de cómic creado por Roger Stern y Gardner Fox.</lex><lex lang="es" lid="Id3">El personaje de cómic Blockbuster, alias Mark Desmond, fue creado por Gardner Fox y Roger Stern.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id47" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creator | Gardner_Fox</otriple>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | "Roland Desmond"@en</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creators | Roger_Stern</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creators | Gardner_Fox</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creator | Roger_Stern</otriple>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | "Roland Desmond"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Gardner_Fox</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Roger_Stern</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | alternativeName | "Roland Desmond"</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Blockbuster_(personaje_de_cómic) | Creador | Gardner_Fox</striple><striple>Blockbuster_(personaje_de_cómic) | Creador | Roger_Stern</striple><striple>Blockbuster_(personaje_de_cómic) | NombreAlternativo | Roland_Desmond</striple></spanishtripleset><lex lang="en" lid="Id1">The comic character, Blockbuster's alternative name is Roland Desmond and was created by Gardner Fox and Roger Stern.</lex>
+      <lex lang="en" lid="Id2">The comic character, Blockbuster (a.k.a. Roland Desmond) was created by Gardner Fox and Roger Stern.</lex>
+    <lex lang="es" lid="Id1">El nombre alternativo del personaje de cómic Blockbuster es Roland Desmond y fue creado por Gardner Fox y Roger Stern.</lex><lex lang="es" lid="Id2">El personaje de cómic Blockbuster (también conocido como Roland Desmond) fue creado por Gardner Fox y Roger Stern.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id48" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creators | Gardner_Fox</otriple>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | "Mark Desmond"@en</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creator | Tom_Lyle</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creator | Gardner_Fox</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creators | Tom_Lyle</otriple>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | "Mark Desmond"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Gardner_Fox</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Tom_Lyle</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | alternativeName | "Mark Desmond"</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Blockbuster_(personaje_de_cómic) | Creador | Gardner_Fox</striple><striple>Blockbuster_(personaje_de_cómic) | Creador | Tom_Lyle</striple><striple>Blockbuster_(personaje_de_cómic) | NombreAlternativo | Mark_Desmond</striple></spanishtripleset><lex lang="en" lid="Id1">The comic book character Blockbuster, aka Mark Desmond, was created by Gardner Fox and Tom Lyle.</lex>
+      <lex lang="en" lid="Id2">The comic character, Blockbuster, has the alternative name, Mark Desmond and was created by Tom Lyle and Gardner Fox.</lex>
+      <lex lang="en" lid="Id3">The comic character, Blockbuster (a.k.a. Mark Desmond) was created by Gardner Fox and Tom Lyle.</lex>
+    <lex lang="es" lid="Id1">El personaje de cómic Blockbuster, alias Mark Desmond, fue creado por Gardner Fox y Tom Lyle.</lex><lex lang="es" lid="Id2">El personaje de cómic, Blockbuster, tiene el nombre alternativo de Mark Desmond y fue creado por Tom Lyle y Gardner Fox.</lex><lex lang="es" lid="Id3">El personaje de cómic Blockbuster (también conocido como Mark Desmond) fue creado por Gardner Fox y Tom Lyle.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id49" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creator | Roger_Stern</otriple>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | "Mark Desmond"@en</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creators | Carmine_Infantino</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Roger_Stern</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | alternativeName | "Mark Desmond"</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Carmine_Infantino</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Blockbuster_(personaje_de_cómic) | Creador | Roger_Stern</striple><striple>Blockbuster_(personaje_de_cómic) | NombreAlternativo | Mark_Desmond</striple><striple>Blockbuster_(personaje_de_cómic) | Creador | Carmine_Infantino</striple></spanishtripleset><lex lang="en" lid="Id1">"Mark Desmond", also known as Blockbuster, is a comic character created by Roger Stern and Carmine Infantino.</lex>
+      <lex lang="en" lid="Id2">Blockbuster is a comic character with the alternative name of Mark Desmond and was created by Carmine Infantino and Roger Stern.</lex>
+      <lex lang="en" lid="Id3">The comic book character Blockbuster, also known as Mark Desmond, was created by Roger Stern and Carmine Infantino.</lex>
+    <lex lang="es" lid="Id1">"Mark Desmond", también conocido como Blockbuster, es un personaje de cómic creado por Roger Stern y Carmine Infantino.</lex><lex lang="es" lid="Id2">Blockbuster es un personaje de cómic con el nombre alternativo de Mark Desmond y fue creado por Carmine Infantino y Roger Stern.</lex><lex lang="es" lid="Id3">El personaje de cómic Blockbuster, también conocido como Mark Desmond, fue creado por Roger Stern y Carmine Infantino.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id50" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creator | Roger_Stern</otriple>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | "Mark Desmond"@en</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creators | Tom_Lyle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Roger_Stern</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | alternativeName | "Mark Desmond"</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Tom_Lyle</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Blockbuster_(personaje_de_cómic) | Creador | Roger_Stern</striple><striple>Blockbuster_(personaje_de_cómic) | NombreAlternativo | Mark_Desmond</striple><striple>Blockbuster_(personaje_de_cómic) | Creador | Tom_Lyle</striple></spanishtripleset><lex lang="en" lid="Id1">"Mark Desmond" is also known as the comic character Blockbuster who was created by Roger Stern and Tom Lyle.</lex>
+      <lex lang="en" lid="Id2">Tom Lyle and Roger Stern created the comic character Blockbuster who has the alternative name of Mark Desmond.</lex>
+      <lex lang="en" lid="Id3">The comic character Blockbuster, with the alternative name Mark Desmond, was created by Tom Lyle and Roger Stern.</lex>
+    <lex lang="es" lid="Id1">"Mark Desmond" también es conocido como el personaje de cómic Blockbuster, creado por Roger Stern y Tom Lyle.</lex><lex lang="es" lid="Id2">Tom Lyle y Roger Stern crearon el personaje de cómic Blockbuster, cuyo nombre alternativo es Mark Desmond.</lex><lex lang="es" lid="Id3">El personaje de cómic Blockbuster, con el nombre alternativo de Mark Desmond, fue creado por Tom Lyle y Roger Stern.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id51" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Ernie_Colón</otriple>
+        <otriple>Ernie_Colón | nationality | Puerto_Ricans</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Dan_Mishkin</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Dan_Mishkin</otriple>
+        <otriple>Ernie_Colón | nationality | Puerto_Ricans</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Ernie_Colón</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Dan_Mishkin</mtriple>
+        <mtriple>Ernie_Colón | nationality | Puerto_Ricans</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Ernie_Colón</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Bolt_(personaje_de_cómic) | Creador | Dan_Mishkin</striple><striple>Ernie_Colón | Nacionalidad | puertorriqueños</striple><striple>Bolt_(personaje_de_cómic) | Creador | Ernie_Colón</striple></spanishtripleset><lex lang="en" lid="Id1">Ernie Colon, a Puerto Rican national created Bolt along with Dan Mishkin.</lex>
+      <lex lang="en" lid="Id2">Dan Mishkin and the Puerto Rican national Ernie Colon created the comic character of Bolt.</lex>
+      <lex lang="en" lid="Id3">The comic character Bolt was created by Dan Mishkin and Ernie Colon who is Puerto Rican.</lex>
+    <lex lang="es" lid="Id1">Ernie Colon, de nacionalidad puertorriqueña, creó Bolt junto con Dan Mishkin.</lex><lex lang="es" lid="Id2">Dan Mishkin y el puertorriqueño Ernie Colon crearon el personaje cómico de Bolt.</lex><lex lang="es" lid="Id3">El personaje de cómic Bolt fue creado por Dan Mishkin y Ernie Colon, que es puertorriqueño.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id52" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Gary_Cohn_(comics)</otriple>
+        <otriple>Ernie_Colón | nationality | Puerto_Ricans</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Ernie_Colón</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Ernie_Colón</otriple>
+        <otriple>Ernie_Colón | nationality | Puerto_Ricans</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Gary_Cohn_(comics)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Ernie_Colón</mtriple>
+        <mtriple>Ernie_Colón | nationality | Puerto_Ricans</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Gary_Cohn_(comics)</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Bolt_(personaje_de_cómic) | Creador | Ernie_Colón</striple><striple>Ernie_Colón | Nacionalidad | puertorriqueños</striple><striple>Bolt_(personaje_de_cómic) | Creador | Gary_Cohn</striple></spanishtripleset><lex lang="en" lid="Id1">The comic character Bolt was created by Gary Cohn and Ernie Colon, the latter of which is a Puerto Rican national.</lex>
+      <lex lang="en" lid="Id2">The comic character of Bolt was created by Gary Cohn and the Puerto Rican national, Ernie Colon.</lex>
+      <lex lang="en" lid="Id3">Gary Cohn and the Puerto Rican national, Ernie Colon created the comic character Bolt.</lex>
+    <lex lang="es" lid="Id1">El personaje cómico Bolt fue creado por Gary Cohn y Ernie Colon, este último de nacionalidad puertorriqueña.</lex><lex lang="es" lid="Id2">El personaje cómico de Bolt fue creado por Gary Cohn y el puertorriqueño Ernie Colon.</lex><lex lang="es" lid="Id3">Gary Cohn y el puertorriqueño Ernie Colon crearon el personaje cómico Bolt.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id53" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creator | Paris_Cullins</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | "Larry Bolatinsky"@en</otriple>
+        <otriple>Bolt_(DC_Comics) | creators | Gary_Cohn_(comics)</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Paris_Cullins</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | "Larry Bolatinsky"@en</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Gary_Cohn_(comics)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Paris_Cullins</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | alternativeName | "Larry Bolatinsky"</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Gary_Cohn_(comics)</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Bolt_(personaje_de_cómic) | Creador | Paris_Cullins</striple><striple>Bolt_(personaje_de_cómic) | NombreAlternativo | Larry_Bolatinsky</striple><striple>Bolt_(personaje_de_cómic) | Creador | Gary_Cohn</striple></spanishtripleset><lex lang="en" lid="Id1">The comic book character Bolt, with the alternative name Larry Bolatinsky, was created by Gary Cohn and Paris Cullins.</lex>
+      <lex lang="en" lid="Id2">The comic character Bolt, who has the alternative name of Larry Bolatinsky, was created by Paris Cullins and Gary Cohn.</lex>
+      <lex lang="en" lid="Id3">The creators of Bolt, the comic character with the alternative name of Larry Bolatinsky, are Gary Cohn and Paris Cullins.</lex>
+    <lex lang="es" lid="Id1">El personaje de cómic Bolt, con el nombre alternativo de Larry Bolatinsky, fue creado por Gary Cohn y Paris Cullins.</lex><lex lang="es" lid="Id2">El personaje de cómic Bolt, cuyo nombre alternativo es Larry Bolatinsky, fue creado por Paris Cullins y Gary Cohn.</lex><lex lang="es" lid="Id3">Los creadores de Bolt, el personaje de cómic con el nombre alternativo de Larry Bolatinsky, son Gary Cohn y Paris Cullins.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id54" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Paris_Cullins</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Ernie_Colón</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | "Larry Bolatinsky"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creator | Paris_Cullins</otriple>
+        <otriple>Bolt_(DC_Comics) | creators | Ernie_Colón</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | "Larry Bolatinsky"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Paris_Cullins</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Ernie_Colón</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | alternativeName | "Larry Bolatinsky"</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Bolt_(personaje_de_cómic) | Creador | Paris_Cullins</striple><striple>Bolt_(personaje_de_cómic) | Creador | Ernie_Colón</striple><striple>Bolt_(personaje_de_cómic) | NombreAlternativo | Larry_Bolatinsky</striple></spanishtripleset><lex lang="en" lid="Id1">Larry Bolatinsky is the alternative name for the comic character, Bolt who was created by Ernie Colon and Paris Cullins.</lex>
+      <lex lang="en" lid="Id2">Larry Bolatinsky is the alternative name for the comic character, Bolt who was created by Paris Cullins and Ernie Colon.</lex>
+      <lex lang="en" lid="Id3">Bolt, a comic character AKA Larry Bolatinsky, was created by Paris Cullins and Ernie Colon.</lex>
+    <lex lang="es" lid="Id1">Larry Bolatinsky es el nombre alternativo del personaje de cómic Bolt, creado por Ernie Colon y Paris Cullins.</lex><lex lang="es" lid="Id2">Larry Bolatinsky es el nombre alternativo del personaje de cómic Bolt, creado por Paris Cullins y Ernie Colon.</lex><lex lang="es" lid="Id3">Bolt, personaje de cómic alias Larry Bolatinsky, fue creado por Paris Cullins y Ernie Colon.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id55" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Paris_Cullins</otriple>
+        <otriple>Ernie_Colón | nationality | Puerto_Ricans</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Ernie_Colón</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creator | Paris_Cullins</otriple>
+        <otriple>Bolt_(DC_Comics) | creators | Ernie_Colón</otriple>
+        <otriple>Ernie_Colón | nationality | Puerto_Ricans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Paris_Cullins</mtriple>
+        <mtriple>Ernie_Colón | nationality | Puerto_Ricans</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Ernie_Colón</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Bolt_(personaje_de_cómic) | Creador | Paris_Cullins</striple><striple>Ernie_Colón | Nacionalidad | puertorriqueños</striple><striple>Bolt_(personaje_de_cómic) | Creador | Ernie_Colón</striple></spanishtripleset><lex lang="en" lid="Id1">Bolt is a comic character created by Paris Cullins and the Puerto Rican national, Ernie Colon.</lex>
+      <lex lang="en" lid="Id2">Puerto Rican Ernie Colon and Paris Cullins created the comic character Bolt.</lex>
+      <lex lang="en" lid="Id3">Ernie Colón is a national of Puerto Rico so he is considered Puerto Rican and along with Paris Cullins is the creator of the comic character Bolt.</lex>
+    <lex lang="es" lid="Id1">Bolt es un personaje de cómic creado por Paris Cullins y el puertorriqueño Ernie Colon.</lex><lex lang="es" lid="Id2">El puertorriqueño Ernie Colon y Paris Cullins crearon el personaje de cómic Bolt.</lex><lex lang="es" lid="Id3">Ernie Colón es nacional de Puerto Rico por lo que se le considera puertorriqueño y junto con Paris Cullins es el creador del personaje de cómic Bolt.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id56" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Paris_Cullins | nationality | United_States</otriple>
+        <otriple>Bolt_(DC_Comics) | creators | Dan_Mishkin</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Paris_Cullins</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Paris_Cullins</otriple>
+        <otriple>Paris_Cullins | nationality | United_States</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Dan_Mishkin</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Paris_Cullins</mtriple>
+        <mtriple>Paris_Cullins | nationality | United_States</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Dan_Mishkin</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Bolt_(personaje_de_cómic) | Creador | Paris_Cullins</striple><striple>Paris_Cullins | Nacionalidad | Estados_Unidos</striple><striple>Bolt_(personaje_de_cómic) | Creador | Dan_Mishkin</striple></spanishtripleset><lex lang="en" lid="Id1">The comic character Bolt was created by Dan Mishkin and Paris Cullins who is an American.</lex>
+      <lex lang="en" lid="Id2">The comic character Bolt, was created by Paris Cullins from the United States and Dan Mishkin.</lex>
+      <lex lang="en" lid="Id3">The comic character of Bolt was created by Dan Mishkin and the US National, Paris Cullins.</lex>
+    <lex lang="es" lid="Id1">El personaje de cómic Bolt fue creado por Dan Mishkin y Paris Cullins, que es estadounidense.</lex><lex lang="es" lid="Id2">El personaje de cómic Bolt, fue creado por Paris Cullins de Estados Unidos y Dan Mishkin.</lex><lex lang="es" lid="Id3">El personaje de cómic de Bolt fue creado por Dan Mishkin y la estadounidense Paris Cullins.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id57" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Paris_Cullins | nationality | United_States</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Paris_Cullins</otriple>
+        <otriple>Bolt_(DC_Comics) | creators | Ernie_Colón</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Paris_Cullins</otriple>
+        <otriple>Paris_Cullins | nationality | United_States</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Ernie_Colón</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Paris_Cullins</mtriple>
+        <mtriple>Paris_Cullins | nationality | United_States</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Ernie_Colón</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Bolt_(personaje_de_cómic) | Creador | Paris_Cullins</striple><striple>Paris_Cullins | Nacionalidad | Estados_Unidos</striple><striple>Bolt_(personaje_de_cómic) | Creador | Ernie_Colón</striple></spanishtripleset><lex lang="en" lid="Id1">Ernie Colon and Paris Cullins created the comic character Bolt. Cullins is from the US.</lex>
+      <lex lang="en" lid="Id2">Bolt was created by Ernie Colon and Paris Cullins who is an American.</lex>
+      <lex lang="en" lid="Id3">The comic character of Bolt is created by Ernie Colon and the US National, Paris Cullins.</lex>
+    <lex lang="es" lid="Id1">Ernie Colon y Paris Cullins crearon el personaje de cómic Bolt. Cullins es estadounidense.</lex><lex lang="es" lid="Id2">Bolt fue creado por Ernie Colon y Paris Cullins, que es estadounidense.</lex><lex lang="es" lid="Id3">El personaje cómico de Bolt ha sido creado por Ernie Colon y el estadounidense Paris Cullins.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id58" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Paris_Cullins</otriple>
+        <otriple>Paris_Cullins | nationality | United_States</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Gary_Cohn_(comics)</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Paris_Cullins | nationality | United_States</otriple>
+        <otriple>Bolt_(DC_Comics) | creators | Gary_Cohn_(comics)</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Paris_Cullins</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Paris_Cullins</mtriple>
+        <mtriple>Paris_Cullins | nationality | United_States</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Gary_Cohn_(comics)</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Bolt_(personaje_de_cómic) | Creador | Paris_Cullins</striple><striple>Paris_Cullins | Nacionalidad | Estados_Unidos</striple><striple>Bolt_(personaje_de_cómic) | Creador | Gary_Cohn</striple></spanishtripleset><lex lang="en" lid="Id1">The comic book writer Gary Cohn and US National Paris Cullins created the comic character of Bolt.</lex>
+      <lex lang="en" lid="Id2">The comic character Bolt was created by Paris Cullins and Gary Cohn, the former being a United States national.</lex>
+    <lex lang="es" lid="Id1">El guionista de cómics Gary Cohn y el estadounidense Paris Cullins crearon el personaje de cómic de Bolt.</lex><lex lang="es" lid="Id2">El personaje de cómic Bolt fue creado por Paris Cullins y Gary Cohn, el primero de nacionalidad estadounidense.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id59" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Black_Knight_(Dane_Whitman) | creators | John_Buscema</otriple>
+        <otriple>Black_Knight_(Dane_Whitman) | creator | Roy_Thomas</otriple>
+        <otriple>Black_Knight_(Dane_Whitman) | alterEgo | "Dane Whitman"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Black_Knight_(Dane_Whitman) | creator | John_Buscema</otriple>
+        <otriple>Black_Knight_(Dane_Whitman) | creators | Roy_Thomas</otriple>
+        <otriple>Black_Knight_(Dane_Whitman) | alterEgo | "Dane Whitman"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dane_Whitman_Black_Knight_(comicsCharacter) | creator | John_Buscema</mtriple>
+        <mtriple>Dane_Whitman_Black_Knight_(comicsCharacter) | creator | Roy_Thomas</mtriple>
+        <mtriple>Dane_Whitman_Black_Knight_(comicsCharacter) | alternativeName | "Dane Whitman"</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Dane_Whitman_Caballero_Negro_(personaje_de_cómic) | Creador | John_Buscema</striple><striple>Dane_Whitman_Caballero_Negro_(personaje_de_cómic) | Creador | Roy_Thomas</striple><striple>Dane_Whitman_Caballero_Negro_(personaje_de_cómic) | NombreAlternativo | Dane_Whitman</striple></spanishtripleset><lex lang="en" lid="Id1">The comic character Dane Whitman Black Knight, created by Roy Thomas and John Buscema, is also known as simply Dane Whitman.</lex>
+      <lex lang="en" lid="Id2">Dane Whitman, aka Black Knight, was created by John Buscema and Roy Thomas.</lex>
+    <lex lang="es" lid="Id1">El personaje de cómic Dane Whitman Caballero Negro, creado por Roy Thomas y John Buscema, también es conocido simplemente como Dane Whitman.</lex><lex lang="es" lid="Id2">Dane Whitman, alias Caballero Negro, fue creado por John Buscema y Roy Thomas.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id60" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>John_Buscema | nationality | Americans</otriple>
+        <otriple>Black_Knight_(Dane_Whitman) | creator | John_Buscema</otriple>
+        <otriple>Black_Knight_(Dane_Whitman) | creators | Roy_Thomas</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Black_Knight_(Dane_Whitman) | creators | John_Buscema</otriple>
+        <otriple>John_Buscema | nationality | Americans</otriple>
+        <otriple>Black_Knight_(Dane_Whitman) | creator | Roy_Thomas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dane_Whitman_Black_Knight_(comicsCharacter) | creator | John_Buscema</mtriple>
+        <mtriple>John_Buscema | nationality | Americans</mtriple>
+        <mtriple>Dane_Whitman_Black_Knight_(comicsCharacter) | creator | Roy_Thomas</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Dane_Whitman_Caballero_Negro_(personaje_de_cómic) | Creador | John_Buscema</striple><striple>John_Buscema | Nacionalidad | Estadounidense</striple><striple>Dane_Whitman_Caballero_Negro_(personaje_de_cómic) | Creador | Roy_Thomas</striple></spanishtripleset><lex lang="en" lid="Id1">The comic character, Dane Whitman Black Knight was created by Roy Thomas and the American, John Buscema.</lex>
+      <lex lang="en" lid="Id2">The comic book character Dane Whitman, also known as the Black Knight, was created by Roy Thomas and the American, John Buscema in the comics genre.</lex>
+    <lex lang="es" lid="Id1">El personaje de cómic Dane Whitman Caballero Negro fue creado por Roy Thomas y el Estadounidense John Buscema.</lex><lex lang="es" lid="Id2">El personaje de cómic Dane Whitman, también conocido como el Caballero Negro, fue creado por Roy Thomas y el Estadounidense John Buscema en el género del cómic.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id61" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | creators | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Baymax | creator | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Duncan_Rouleau | nationality | Americans</mtriple>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+        <mtriple>Baymax | creator | Steven_T._Seagle</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Duncan_Rouleau | Nacionalidad | Estadounidense</striple><striple>Baymax | Creador | Duncan_Rouleau</striple><striple>Baymax | Creador | Steven_T._Seagle</striple></spanishtripleset><lex lang="en" lid="Id1">Baymax was created by Steven T Seagle and the American, Duncan Rouleau.</lex>
+      <lex lang="en" lid="Id2">Baymax was created by Steven T. Seagle and Duncan Rouleau who is an American.</lex>
+    <lex lang="es" lid="Id1">Baymax fue creado por Steven T Seagle y el Estadounidense Duncan Rouleau.</lex><lex lang="es" lid="Id2">Baymax fue creado por Steven T. Seagle y el Estadounidense Duncan Rouleau.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id62" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Auron_(comics) | creator | Karl_Kesel</otriple>
+        <otriple>Karl_Kesel | nationality | Americans</otriple>
+        <otriple>Auron_(comics) | fullName | "Lambien"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Karl_Kesel | nationality | Americans</otriple>
+        <otriple>Auron_(comics) | fullName | "Lambien"@en</otriple>
+        <otriple>Auron_(comics) | creators | Karl_Kesel</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Karl_Kesel | nationality | Americans</mtriple>
+        <mtriple>Auron_(comicsCharacter) | fullName | "Lambien"</mtriple>
+        <mtriple>Auron_(comicsCharacter) | creator | Karl_Kesel</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Karl_Kesel | Nacionalidad | Estadounidense</striple><striple>Auron_(personaje_de_cómic) | NombreCompleto | Lambien</striple><striple>Auron_(personaje_de_cómic) | Creador | Karl_Kesel</striple></spanishtripleset><lex lang="en" lid="Id1">The comic character Auron's full name is Lambien and he was created by the American, Karl Kesel.</lex>
+      <lex lang="en" lid="Id2">Auron - full name Lambien - is a comic character created by the American Karl Kesel.</lex>
+    <lex lang="es" lid="Id1">El nombre completo del personaje de cómic Auron es Lambien y fue creado por el Estadounidense Karl Kesel.</lex><lex lang="es" lid="Id2">Auron -de nombre completo Lambien- es un personaje de cómic creado por el Estadounidense Karl Kesel.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id63" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Black_Pirate | creator | Sheldon_Moldoff</otriple>
+        <otriple>Sheldon_Moldoff | nationality | Americans</otriple>
+        <otriple>Black_Pirate | alterEgo | "Jon Valor"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Sheldon_Moldoff | nationality | Americans</otriple>
+        <otriple>Black_Pirate | creators | Sheldon_Moldoff</otriple>
+        <otriple>Black_Pirate | alterEgo | "Jon Valor"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sheldon_Moldoff | nationality | Americans</mtriple>
+        <mtriple>Black_Pirate | creator | Sheldon_Moldoff</mtriple>
+        <mtriple>Black_Pirate | alternativeName | "Jon Valor"</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Sheldon_Moldoff | Nacionalidad | Estadounidense</striple><striple>Pirata_negro | Creador | Sheldon_Moldoff</striple><striple>Pirata_negro | NombreAlternativo | Jon_Valor</striple></spanishtripleset><lex lang="en" lid="Id1">American Sheldon Moldoff created the Black Pirate who is sometimes known as Jon Valor.</lex>
+      <lex lang="en" lid="Id2">Sheldon Moldoff, an American national is the creator of Black Pirate AKA Jon Valor.</lex>
+    <lex lang="es" lid="Id1">El Estadounidense Sheldon Moldoff creó al Pirata Negro, conocido a veces como Jon Valor.</lex><lex lang="es" lid="Id2">Sheldon Moldoff, de nacionalidad Estadounidense, es el creador de Black Pirate AKA Jon Valor.</lex></entry>
+    <entry category="ComicsCharacter" eid="Id64" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Sheldon_Moldoff | nationality | Americans</otriple>
+        <otriple>Black_Pirate | creators | Sheldon_Moldoff</otriple>
+        <otriple>Sheldon_Moldoff | awards | Inkpot_Award</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Black_Pirate | creator | Sheldon_Moldoff</otriple>
+        <otriple>Sheldon_Moldoff | nationality | Americans</otriple>
+        <otriple>Sheldon_Moldoff | awards | Inkpot_Award</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sheldon_Moldoff | nationality | Americans</mtriple>
+        <mtriple>Black_Pirate | creator | Sheldon_Moldoff</mtriple>
+        <mtriple>Sheldon_Moldoff | award | Inkpot_Award</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Sheldon_Moldoff | Nacionalidad | Estadounidense</striple><striple>Pirata_negro | Creador | Sheldon_Moldoff</striple><striple>Sheldon_Moldoff | Premio | Premio_Inkpot</striple></spanishtripleset><lex lang="en" lid="Id1">The American, Sheldon Moldoff, won the Inkpot Award for creating the Black Pirate.</lex>
+      <lex lang="en" lid="Id2">The Black Pirate was created by the American Sheldon Moldoff, who went on to win the Inkpot Award.</lex>
+      <lex lang="en" lid="Id3">Sheldon Moldoff was an American National who won the Inkpot Award and created the Black Pirate.</lex>
+    <lex lang="es" lid="Id1">El Estadounidense Sheldon Moldoff ganó el premio Inkpot por la creación del Pirata Negro.</lex><lex lang="es" lid="Id2">El Pirata Negro fue creado por el Estadounidense Sheldon Moldoff, que llegó a ganar el premio Inkpot.</lex><lex lang="es" lid="Id3">Sheldon Moldoff fue un nacional Estadounidense que ganó el Premio Inkpot y creó el Pirata Negro.</lex></entry>
+  </entries>
+</benchmark>

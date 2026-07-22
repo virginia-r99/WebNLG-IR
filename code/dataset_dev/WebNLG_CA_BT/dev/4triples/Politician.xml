@@ -1,0 +1,1397 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Politician" eid="Id1" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Aaron_S._Daggett | battles | American_Civil_War</otriple>
+        <otriple>Aaron_S._Daggett | award | Purple_Heart</otriple>
+        <otriple>Aaron_S._Daggett | deathPlace | West_Roxbury</otriple>
+        <otriple>Aaron_S._Daggett | birthPlace | Maine</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_S._Daggett | battle | American_Civil_War</mtriple>
+        <mtriple>Aaron_S._Daggett | award | Purple_Heart</mtriple>
+        <mtriple>Aaron_S._Daggett | deathPlace | West_Roxbury</mtriple>
+        <mtriple>Aaron_S._Daggett | birthPlace | Maine</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aaron_S._Daggett | Batalla | guerra_de_Secesión</striple>
+        <striple>Aaron_S._Daggett | Premio | Corazón_Púrpura</striple>
+        <striple>Aaron_S._Daggett | LugarDeLaMuerte | West_Roxbury</striple>
+        <striple>Aaron_S._Daggett | LugarDeNacimiento | Maine</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Aaron_S._Daggett | battle | American_Civil_War</bttriple>
+        <bttriple>Aaron_S._Daggett | award | Purple_Heart</bttriple>
+        <bttriple>Aaron_S._Daggett | deathPlace | West_Roxbury</bttriple>
+        <bttriple>Aaron_S._Daggett | birthPlace | Maine</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Aaron_Smith_Daggett | Batalla | Guerra_Civil_dels_Estats_Units</ctriple>
+        <ctriple>Aaron_Smith_Daggett | Premi | Cor_Porpra</ctriple>
+        <ctriple>Aaron_Smith_Daggett | LlocDeLaMort | West_Roxbury</ctriple>
+        <ctriple>Aaron_Smith_Daggett | LlocDeNaixement | Maine</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Aaron S Daggett was born in Maine and died in West Roxbury. He fought in the American Civil War and was awarded the Purple Heart.</lex>
+      <lex lang="en" lid="Id2">Maine born Aaron S Daggett fought in the American Civil War, was awarded the Purple Heart and died in West Roxbury.</lex>
+      <lex lang="en" lid="Id3">American Civil War soldier and Purple Heart recipient Aaron S. Daggett, was born in Maine and died in West Roxbury.</lex>
+      <lex lang="es" lid="Id1">Aaron S Daggett nació en Maine y murió en West Roxbury. Luchó en la Guerra Civil estadounidense y fue condecorado con el Corazón Púrpura.</lex>
+      <lex lang="es" lid="Id2">Aaron S Daggett, nacido en Maine, luchó en la Guerra Civil estadounidense, fue condecorado con el Corazón Púrpura y murió en West Roxbury.</lex>
+      <lex lang="es" lid="Id3">Aaron S. Daggett, soldado de la Guerra Civil estadounidense y condecorado con el Corazón Púrpura, nació en Maine y murió en West Roxbury.</lex>
+      <lex lang="ca" lid="Id1">Aaron S. Daggett va néixer a Maine i va morir a West Roxbury. Va lluitar a la Guerra Civil dels Estats Units i va rebre el Cor Porpra.</lex>
+      <lex lang="ca" lid="Id2">Aaron S Daggett, nascut a Maine, va lluitar a la Guerra Civil Americana, va ser guardonat amb el Cor Púrpura i va morir a West Roxbury.</lex>
+      <lex lang="ca" lid="Id3">Soldat de la Guerra Civil Americana i destinatari del Cor Púrpura Aaron S. Daggett, va néixer a Maine i va morir a West Roxbury.</lex>
+      <lex lang="en_bt" lid="Id1">Aaron S. Daggett was born in Maine and died in West Roxbury. He fought in the American Civil War and received the Purple Heart.</lex>
+      <lex lang="en_bt" lid="Id2">Aaron S. Daggett, born in Maine, fought in the American Civil War, was awarded the Purple Heart and died in West Roxbury.</lex>
+      <lex lang="en_bt" lid="Id3">American Civil War soldier and Purple Heart recipient Aaron S. Daggett, was born in Maine and died in West Roxbury.</lex>
+      </entry>
+    <entry category="Politician" eid="Id2" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Aaron_S._Daggett | battles | Battle_of_the_Wilderness</otriple>
+        <otriple>Aaron_S._Daggett | award | Purple_Heart</otriple>
+        <otriple>Aaron_S._Daggett | deathPlace | West_Roxbury</otriple>
+        <otriple>Aaron_S._Daggett | birthPlace | Maine</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_S._Daggett | battle | Battle_of_the_Wilderness</mtriple>
+        <mtriple>Aaron_S._Daggett | award | Purple_Heart</mtriple>
+        <mtriple>Aaron_S._Daggett | deathPlace | West_Roxbury</mtriple>
+        <mtriple>Aaron_S._Daggett | birthPlace | Maine</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aaron_S._Daggett | Batalla | Batalla_de_la_espesura</striple>
+        <striple>Aaron_S._Daggett | Premio | Corazón_Púrpura</striple>
+        <striple>Aaron_S._Daggett | LugarDeLaMuerte | West_Roxbury</striple>
+        <striple>Aaron_S._Daggett | LugarDeNacimiento | Maine</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Aaron_S._Daggett | battle | Battle_of_the_Wilderness</bttriple>
+        <bttriple>Aaron_S._Daggett | award | Purple_Heart</bttriple>
+        <bttriple>Aaron_S._Daggett | deathPlace | West_Roxbury</bttriple>
+        <bttriple>Aaron_S._Daggett | birthPlace | Maine</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Aaron_Smith_Daggett | Batalla | batalla_de_Wilderness</ctriple>
+        <ctriple>Aaron_Smith_Daggett | Premi | Cor_Porpra</ctriple>
+        <ctriple>Aaron_Smith_Daggett | LlocDeLaMort | West_Roxbury</ctriple>
+        <ctriple>Aaron_Smith_Daggett | LlocDeNaixement | Maine</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Born in Maine, Aaron S. Daggett; fought in the Battle of the Wilderness, was awarded the Purple Heart, and died in West Roxbury.</lex>
+      <lex lang="en" lid="Id2">Born in Maine, Aaron S. Daggett fought in the Battle of the Wilderness, awarded the Purple Heart, and died in West Roxbury.</lex>
+      <lex lang="en" lid="Id3">Aaron S Daggett was born in Maine and died in West Roxbury. He fought in the Battle of the Wilderness and was awarded the Purple Heart.</lex>
+      <lex lang="es" lid="Id1">Aaron S. Daggett, nacido en Maine, luchó en la batalla de Wilderness, fue condecorado con el Corazón Púrpura y murió en West Roxbury.</lex>
+      <lex lang="es" lid="Id2">Nacido en Maine, Aaron S. Daggett luchó en la batalla de Wilderness, fue condecorado con el Corazón Púrpura y murió en West Roxbury.</lex>
+      <lex lang="es" lid="Id3">Aaron S Daggett nació en Maine y murió en West Roxbury. Luchó en la batalla de Wilderness y fue condecorado con el Corazón Púrpura.</lex>
+      <lex lang="ca" lid="Id1">Nascut a Maine, Aaron S. Daggett; va lluitar a la Batalla de la Selva, va ser guardonat amb el Cor Púrpura, i va morir a West Roxbury.</lex>
+      <lex lang="ca" lid="Id2">Nascut a Maine, Aaron S. Daggett va lluitar a la Batalla de la Selva, va ser guardonat amb el Cor Púrpura, i va morir a West Roxbury.</lex>
+      <lex lang="ca" lid="Id3">L'Aaron S. Daggett va néixer a Maine i va morir a West Roxbury. Va lluitar a la batalla de Wilderness i va rebre el Cor Porpra.</lex>
+      <lex lang="en_bt" lid="Id1">Born in Maine, Aaron S. Daggett; fought in the Battle of the Wilderness, was awarded the Purple Heart, and died in West Roxbury.</lex>
+      <lex lang="en_bt" lid="Id2">Born in Maine, Aaron S. Daggett fought in the Battle of the Wilderness, was awarded the Purple Heart, and died in West Roxbury.</lex>
+      <lex lang="en_bt" lid="Id3">Aaron S. Daggett was born in Maine and died in West Roxbury, fought at the Battle of Wilderness and was awarded the Purple Heart.</lex>
+      </entry>
+    <entry category="Politician" eid="Id3" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Ab_Klink | almaMater | Leiden_University</otriple>
+        <otriple>Ab_Klink | office | "Member of the House of Representatives"</otriple>
+        <otriple>Ab_Klink | party | Christian_Democratic_Appeal</otriple>
+        <otriple>Ab_Klink | birthPlace | Stellendam</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Ab_Klink | office | "Member of the House of Representatives"</otriple>
+        <otriple>Ab_Klink | party | Christian_Democratic_Appeal</otriple>
+        <otriple>Ab_Klink | birthPlace | Stellendam</otriple>
+        <otriple>Ab_Klink | almaMater | "Leiden University"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ab_Klink | office | "Member of the House of Representatives"</mtriple>
+        <mtriple>Ab_Klink | party | Christian_Democratic_Appeal</mtriple>
+        <mtriple>Ab_Klink | birthPlace | Stellendam</mtriple>
+        <mtriple>Ab_Klink | almaMater | Leiden_University</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Ab_Klink | Oficina | Miembro_de_la_Cámara_de_Representantes</striple>
+        <striple>Ab_Klink | Fiesta | Llamada_Democristiana</striple>
+        <striple>Ab_Klink | LugarDeNacimiento | Stellendam</striple>
+        <striple>Ab_Klink | AlmaMáter | Universidad_de_Leiden</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Ab_Klink | office | "Member of the House of Representatives"</bttriple>
+        <bttriple>Ab_Klink | party | Christian_Democratic_Appeal</bttriple>
+        <bttriple>Ab_Klink | birthPlace | Stellendam</bttriple>
+        <bttriple>Ab_Klink | almaMater | Leiden_University</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Ab_Klink | Oficina | membre_de_la_Cambra_de_Representants_de_les_Filipines</ctriple>
+        <ctriple>Ab_Klink | Festa | Crida_Demòcrata_Cristiana</ctriple>
+        <ctriple>Ab_Klink | LlocDeNaixement | Stellendam</ctriple>
+        <ctriple>Ab_Klink | AlmaMater | Universitat_de_Leiden</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Ab Klink was born in Stellendam and graduated from Leiden University. He belongs to the Christian Democratic Appeal party and worked as a Member of the House of Representatives.</lex>
+      <lex lang="en" lid="Id2">Ab Klink was born in Stellendam and attended Leiden University. He belongs to the Christian Democratic Appeal Party and worked as a Member of the House of Representatives.</lex>
+      <lex lang="en" lid="Id3">Leiden University is where Stellendam born Ab Klink studied. He belongs to the Christian Democratic Appeal party and worked as a Member of the House of Representatives.</lex>
+      <lex lang="es" lid="Id1">Ab Klink nació en Stellendam y se licenció en la Universidad de Leiden. Pertenece al partido Apelación Demócrata Cristiana y trabajó como diputado en la Cámara de Representantes.</lex>
+      <lex lang="es" lid="Id2">Ab Klink nació en Stellendam y estudió en la Universidad de Leiden. Pertenece al Partido de la Apelación Demócrata Cristiana y trabajó como diputado en la Cámara de Representantes.</lex>
+      <lex lang="es" lid="Id3">Ab Klink, nacido en Stellendam, estudió en la Universidad de Leiden. Pertenece al partido Apelación Demócrata Cristiana y fue diputado en la Cámara de Representantes.</lex>
+      <lex lang="ca" lid="Id1">Ab Klink va néixer a Stellendam i es va graduar a la Universitat de Leiden. Pertany al partit Christian Democratic Appeal i va treballar com a membre de la Cambra de Representants.</lex>
+      <lex lang="ca" lid="Id2">Ab Klink va néixer a Stellendam i va estudiar a la Universitat de Leiden. Pertany al Partit d'Apel·lació Democràtica Cristiana i va treballar com a membre de la Cambra de Representants.</lex>
+      <lex lang="ca" lid="Id3">Stellendam va néixer a la Universitat de Leiden, on va estudiar Ab Klink. Pertany al partit Christian Democratic Appeal i va treballar com a membre de la Cambra de Representants.</lex>
+      <lex lang="en_bt" lid="Id1">Ab Klink was born in Stellendam and graduated from the University of Leiden. He belongs to the Christian Democratic Appeal party and worked as a member of the House of Representatives.</lex>
+      <lex lang="en_bt" lid="Id2">Ab Klink was born in Stellendam and studied at the University of Leiden. He belongs to the Christian Democratic Appeal Party and worked as a member of the House of Representatives.</lex>
+      <lex lang="en_bt" lid="Id3">Stellendam was born at the University of Leiden, where he studied Ab Klink. He belongs to the Christian Democratic Appeal party and worked as a member of the House of Representatives.</lex>
+      </entry>
+    <entry category="Politician" eid="Id4" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Abdul_Taib_Mahmud | party | Parti_Pesaka_Bumiputera_Bersatu</otriple>
+        <otriple>Abdul_Taib_Mahmud | region | Asajaya</otriple>
+        <otriple>Abdul_Taib_Mahmud | residence | Kuching</otriple>
+        <otriple>Abdul_Taib_Mahmud | birthPlace | Miri,_Malaysia</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abdul_Taib_Mahmud | party | Parti_Pesaka_Bumiputera_Bersatu</mtriple>
+        <mtriple>Abdul_Taib_Mahmud | region | Asajaya</mtriple>
+        <mtriple>Abdul_Taib_Mahmud | residence | Kuching</mtriple>
+        <mtriple>Abdul_Taib_Mahmud | birthPlace | Miri,_Malaysia</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Abdul_Taib_Mahmud | Fiesta | Parti_Pesaka_Bumiputera_Bersatu</striple>
+        <striple>Abdul_Taib_Mahmud | Región | Asajaya</striple>
+        <striple>Abdul_Taib_Mahmud | Residencia | Kuching</striple>
+        <striple>Abdul_Taib_Mahmud | LugarDeNacimiento | Miri,_Malasia</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Abdul_Taib_Mahmud | party | Parti_Pesaka_Bumiputera_Bersatu</bttriple>
+        <bttriple>Abdul_Taib_Mahmud | region | Asajaya</bttriple>
+        <bttriple>Abdul_Taib_Mahmud | residence | Kuching</bttriple>
+        <bttriple>Abdul_Taib_Mahmud | birthPlace | Miri,_Malaysia</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Abdul_Taib_Mahmud | Festa | Parti_Pesaka_Bumiputera_Bersatu</ctriple>
+        <ctriple>Abdul_Taib_Mahmud | Regió | Asajaya</ctriple>
+        <ctriple>Abdul_Taib_Mahmud | Residència | Kuching</ctriple>
+        <ctriple>Abdul_Taib_Mahmud | LlocDeNaixement | Miri,_Malàisia</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Abdul Taib Mahmud was born in Miri, Malaysia and he lives in Kuching. His party is the Parti Pesaka Bumiputera Bersatu and he represented Asajaya.</lex>
+      <lex lang="en" lid="Id2">Mirir, Malaysia born Abdul Taib Mahmud, who lives in Kuching, represented the Asajaya region and was a member of the Parti Pesaka Bumiputera Bersatu.</lex>
+      <lex lang="en" lid="Id3">Abdul Taib Mahmud, who was born in Miri, Malaysia and lives in Kuching, was a member of the Parti Pesaka Bumiputera Bersatu and represented Asajaya.</lex>
+      <lex lang="es" lid="Id1">Abdul Taib Mahmud nació en Miri (Malasia) y vive en Kuching. Su partido es el Parti Pesaka Bumiputera Bersatu y representaba a Asajaya.</lex>
+      <lex lang="es" lid="Id2">Mirir, nacido en Malasia, Abdul Taib Mahmud, residente en Kuching, representaba a la región de Asajaya y era miembro del Parti Pesaka Bumiputera Bersatu.</lex>
+      <lex lang="es" lid="Id3">Abdul Taib Mahmud, nacido en Miri (Malasia) y residente en Kuching, era miembro del Parti Pesaka Bumiputera Bersatu y representaba a Asajaya.</lex>
+      <lex lang="ca" lid="Id1">Abdul Taib Mahmud va néixer a Miri, Malàisia i viu a Kuching. El seu partit és el Parti Pesaka Bumiputera Bersatu i representa Asajaya.</lex>
+      <lex lang="ca" lid="Id2">Mirir, nascut a Malàisia Abdul Taib Mahmud, que viu a Kuching, representava la regió d'Asajaya i era membre del Parti Pesaka Bumiputera Bersatu.</lex>
+      <lex lang="ca" lid="Id3">Abdul Taib Mahmud, que va néixer a Miri, Malàisia i viu a Kuching, era membre del Parti Pesaka Bumiputera Bersatu i representava Asajaya.</lex>
+      <lex lang="en_bt" lid="Id1">Abdul Taib Mahmud was born in Miri, Malaysia and lives in Kuching. His party is the Parti Pesaka Bumiputera Bersatu and represents Asajaya.</lex>
+      <lex lang="en_bt" lid="Id2">Mirir, born in Malaysia Abdul Taib Mahmud, who lives in Kuching, represented the Asajaya region and was a member of the Parti Pesaka Bumiputera Bersatu.</lex>
+      <lex lang="en_bt" lid="Id3">Abdul Taib Mahmud, who was born in Miri, Malaysia and lives in Kuching, was a member of the Parti Pesaka Bumiputera Bersatu and represented Asajaya.</lex>
+      </entry>
+    <entry category="Politician" eid="Id5" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Abdul_Taib_Mahmud | party | Parti_Pesaka_Bumiputera_Bersatu</otriple>
+        <otriple>Abdul_Taib_Mahmud | region | Kota_Samarahan</otriple>
+        <otriple>Abdul_Taib_Mahmud | birthPlace | Kingdom_of_Sarawak</otriple>
+        <otriple>Abdul_Taib_Mahmud | residence | "Demak Jaya, Jalan Bako, Kuching, Sarawak"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abdul_Taib_Mahmud | party | Parti_Pesaka_Bumiputera_Bersatu</mtriple>
+        <mtriple>Abdul_Taib_Mahmud | region | Kota_Samarahan</mtriple>
+        <mtriple>Abdul_Taib_Mahmud | birthPlace | Kingdom_of_Sarawak</mtriple>
+        <mtriple>Abdul_Taib_Mahmud | residence | "Demak Jaya, Jalan Bako, Kuching, Sarawak"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Abdul_Taib_Mahmud | Fiesta | Parti_Pesaka_Bumiputera_Bersatu</striple>
+        <striple>Abdul_Taib_Mahmud | Región | Kota_Samarahan</striple>
+        <striple>Abdul_Taib_Mahmud | LugarDeNacimiento | Reino_de_Sarawak</striple>
+        <striple>Abdul_Taib_Mahmud | Residencia | Demak_Jaya,_Jalan_Bako,_Kuching,_Sarawak</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Abdul_Taib_Mahmud | party | Parti_Pesaka_Bumiputera_Bersatu</bttriple>
+        <bttriple>Abdul_Taib_Mahmud | region | Kota_Samarahan</bttriple>
+        <bttriple>Abdul_Taib_Mahmud | birthPlace | Kingdom_of_Sarawak</bttriple>
+        <bttriple>Abdul_Taib_Mahmud | residence | "Demak Jaya, Jalan Bako, Kuching, Sarawak"</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Abdul_Taib_Mahmud | Festa | Parti_Pesaka_Bumiputera_Bersatu</ctriple>
+        <ctriple>Abdul_Taib_Mahmud | Regió | Samarkandkazakhstan._kgm</ctriple>
+        <ctriple>Abdul_Taib_Mahmud | LlocDeNaixement | Regne_de_Sarawak</ctriple>
+        <ctriple>Abdul_Taib_Mahmud | Residència | Demak_Jaya,_Jalan_Bako,_Kuching,_Sarawak</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Abdul Taib Mahmud, who was born in the Kingdom of Sarawak and who lived in Demak Jaya, Jalan Bako, Kuching, Sarawak, represented Kota Samarahan and was a member of the Parti Pesaka Bumiputera Bersatu.</lex>
+      <lex lang="en" lid="Id2">Abdul Taib Mahmud belongs to the Parti Pesaka Bumiputera Bersatu and represented Kota Samarahan. He was born in the Kingdom of Sarawak and lived in Demak Jaya, Jalan Bako, Kuching, Sarawak.</lex>
+      <lex lang="es" lid="Id1">Abdul Taib Mahmud, nacido en el Reino de Sarawak y residente en Demak Jaya, Jalan Bako, Kuching, Sarawak, representaba a Kota Samarahan y era miembro del Parti Pesaka Bumiputera Bersatu.</lex>
+      <lex lang="es" lid="Id2">Abdul Taib Mahmud pertenece al Parti Pesaka Bumiputera Bersatu y representaba a Kota Samarahan. Nació en el Reino de Sarawak y vivió en Demak Jaya, Jalan Bako, Kuching, Sarawak.</lex>
+      <lex lang="ca" lid="Id1">Abdul Taib Mahmud, que va néixer al Regne de Sarawak i que va viure a Demak Jaya, Jalan Bako, Kuching, Sarawak, representava Kota Samarahan i era membre del Parti Pesaka Bumiputera Bersatu.</lex>
+      <lex lang="ca" lid="Id2">Abdul Taib Mahmud pertany al Parti Pesaka Bumiputera Bersatu i va representar Kota Samarahan. Va néixer al Regne de Sarawak i va viure a Demak Jaya, Jalan Bako, Kuching, Sarawak.</lex>
+      <lex lang="en_bt" lid="Id1">Abdul Taib Mahmud, who was born in the Kingdom of Sarawak and lived in Demak Jaya, Jalan Bako, Kuching, Sarawak, represented Kota Samarahan and was a member of the Parti Pesaka Bumiputera Bersatu.</lex>
+      <lex lang="en_bt" lid="Id2">Abdul Taib Mahmud belongs to the Parti Pesaka Bumiputera Bersatu and represented Kota Samarahan. He was born in the Kingdom of Sarawak and lived in Demak Jaya, Jalan Bako, Kuching, Sarawak.</lex>
+      </entry>
+    <entry category="Politician" eid="Id6" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Abdul_Taib_Mahmud | successor | Adenan_Satem</otriple>
+        <otriple>Adenan_Satem | birthPlace | Japanese_occupation_of_British_Borneo</otriple>
+        <otriple>Abdul_Taib_Mahmud | party | Parti_Pesaka_Bumiputera_Bersatu</otriple>
+        <otriple>Abdul_Taib_Mahmud | residence | Kuching</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abdul_Taib_Mahmud | successor | Adenan_Satem</mtriple>
+        <mtriple>Adenan_Satem | birthPlace | Japanese_occupation_of_British_Borneo</mtriple>
+        <mtriple>Abdul_Taib_Mahmud | party | Parti_Pesaka_Bumiputera_Bersatu</mtriple>
+        <mtriple>Abdul_Taib_Mahmud | residence | Kuching</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Abdul_Taib_Mahmud | Sucesor | Adenan_Satem</striple>
+        <striple>Adenan_Satem | LugarDeNacimiento | Ocupación_japonesa_de_Borneo</striple>
+        <striple>Abdul_Taib_Mahmud | Fiesta | Parti_Pesaka_Bumiputera_Bersatu</striple>
+        <striple>Abdul_Taib_Mahmud | Residencia | Kuching</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Abdul_Taib_Mahmud | successor | Adenan_Satem</bttriple>
+        <bttriple>Adenan_Satem | birthPlace | Japanese_occupation_of_British_Borneo</bttriple>
+        <bttriple>Abdul_Taib_Mahmud | party | Parti_Pesaka_Bumiputera_Bersatu</bttriple>
+        <bttriple>Abdul_Taib_Mahmud | residence | Kuching</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Abdul_Taib_Mahmud | Successor | Adenan_Satem</ctriple>
+        <ctriple>Adenan_Satem | LlocDeNaixement | Ocupació_japonesa_de_Borneo_Britànic</ctriple>
+        <ctriple>Abdul_Taib_Mahmud | Festa | Parti_Pesaka_Bumiputera_Bersatu</ctriple>
+        <ctriple>Abdul_Taib_Mahmud | Residència | Kuching</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Japanese occupied British Borneo was the birthplace of Adenan Satem, who succeeded Abdul Taib Mahmud. Abdul Taib Mahmud resides in Kuching, and his party is the Parti Pesaka Bumiputera Bersatu.</lex>
+      <lex lang="en" lid="Id2">Adenan Satem succeeded Abdul Taib Mahmud, whose party is the Parti Pesaka Bumiputera Bersatu. Abdul Taib Mahmud resides in Kuching. Japanese Occupation of British Borneo is the birth place of Adenan Satem.</lex>
+      <lex lang="en" lid="Id3">Parti Pesaka Bumiputera Bersatu member Abdul Taib Mahmud, succeeded by Adenan Satem, lived in Kuching. Satem was born in Japanese Occupied British Borneo.</lex>
+      <lex lang="es" lid="Id1">En el Borneo británico ocupado por los japoneses nació Adenan Satem, sucesor de Abdul Taib Mahmud. Abdul Taib Mahmud reside en Kuching, y su partido es el Parti Pesaka Bumiputera Bersatu.</lex>
+      <lex lang="es" lid="Id2">Adenan Satem sucedió a Abdul Taib Mahmud, cuyo partido es el Parti Pesaka Bumiputera Bersatu. Abdul Taib Mahmud reside en Kuching. Adenan Satem nació en el Borneo Británico ocupado por los japoneses.</lex>
+      <lex lang="es" lid="Id3">El miembro del Parti Pesaka Bumiputera Bersatu Abdul Taib Mahmud, sucedido por Adenan Satem, vivía en Kuching. Satem nació en el Borneo británico ocupado por los japoneses.</lex>
+      <lex lang="ca" lid="Id1">El Borneo Britànic ocupat pels japonesos va ser el lloc de naixement d'Adenan Satem, que va succeir Abdul Taib Mahmud. Abdul Taib Mahmud resideix a Kuching i el seu partit és el Parti Pesaka Bumiputera Bersatu.</lex>
+      <lex lang="ca" lid="Id2">Adenan Satem va succeir Abdul Taib Mahmud, el partit del qual és el Parti Pesaka Bumiputera Bersatu. Abdul Taib Mahmud resideix a Kuching. L'ocupació japonesa de Borneo britànic és el lloc de naixement d'Adenan Satem.</lex>
+      <lex lang="ca" lid="Id3">El membre del Parti Pesaka Bumiputera Bersatu Abdul Taib Mahmud, succeït per Adenan Satem, va viure a Kuching.Satem va néixer a Borneo britànic ocupat pels japonesos.</lex>
+      <lex lang="en_bt" lid="Id1">Japanese-occupied British Borneo was the birthplace of Adenan Satem, who succeeded Abdul Taib Mahmud. Abdul Taib Mahmud resides in Kuching and his party is the Parti Pesaka Bumiputera Bersatu.</lex>
+      <lex lang="en_bt" lid="Id2">Adenan Satem succeeded Abdul Taib Mahmud, whose party is the Parti Pesaka Bumiputera Bersatu. Abdul Taib Mahmud resides in Kuching. The Japanese occupation of British Borneo is Adenan Satem's birthplace.</lex>
+      <lex lang="en_bt" lid="Id3">Parti Pesaka Bumiputera Bersatu Member Abdul Taib Mahmud, succeeded by Adenan Satem, lived in Kuching.Satem was born in Japanese-occupied British Borneo.</lex>
+      </entry>
+    <entry category="Politician" eid="Id7" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Abdul_Taib_Mahmud | successor | Adenan_Satem</otriple>
+        <otriple>Adenan_Satem | birthPlace | Japanese_occupation_of_British_Borneo</otriple>
+        <otriple>Abdul_Taib_Mahmud | residence | Sarawak</otriple>
+        <otriple>Abdul_Taib_Mahmud | party | "Barisan Ra'ayat Jati Sarawak"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abdul_Taib_Mahmud | successor | Adenan_Satem</mtriple>
+        <mtriple>Adenan_Satem | birthPlace | Japanese_occupation_of_British_Borneo</mtriple>
+        <mtriple>Abdul_Taib_Mahmud | residence | Sarawak</mtriple>
+        <mtriple>Abdul_Taib_Mahmud | party | "Barisan Ra'ayat Jati Sarawak"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Abdul_Taib_Mahmud | Sucesor | Adenan_Satem</striple>
+        <striple>Adenan_Satem | LugarDeNacimiento | Ocupación_japonesa_de_Borneo</striple>
+        <striple>Abdul_Taib_Mahmud | Residencia | Sarawak</striple>
+        <striple>Abdul_Taib_Mahmud | Fiesta | Barisan_Ra'ayat_Jati_Sarawak</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Abdul_Taib_Mahmud | successor | Adenan_Satem</bttriple>
+        <bttriple>Adenan_Satem | birthPlace | Japanese_occupation_of_British_Borneo</bttriple>
+        <bttriple>Abdul_Taib_Mahmud | residence | Sarawak</bttriple>
+        <bttriple>Abdul_Taib_Mahmud | party | "Barisan Ra'ayat Jati Sarawak"</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Abdul_Taib_Mahmud | Successor | Adenan_Satem</ctriple>
+        <ctriple>Adenan_Satem | LlocDeNaixement | Ocupació_japonesa_de_Borneo_Britànic</ctriple>
+        <ctriple>Abdul_Taib_Mahmud | Residència | Sarawak</ctriple>
+        <ctriple>Abdul_Taib_Mahmud | Festa | Barisan_Ra'ayat_Jati_Sarawak</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Adenan Satem was born in Japanese Occupied British Borneo. His successor was Abdul Taib Mahmud, who, resides in Sarawak and is a member of the "Barisan Ra'ayat Jati Sarawak" party.</lex>
+      <lex lang="en" lid="Id2">Japanese occupied, British Borneo, was the birthplace of Adenan Satem, who succeeded Abdul Taib Mahmud. Abdul Taib Mahmud is a member of Barisan Ra'ayat Jati Sarawak party and resides in Sarawak.</lex>
+      <lex lang="en" lid="Id3">Abdul Taib Mahmud, a member of the Barisan Ra'ayat Jati Sarawak party, lives in Sarawak. He was succeeded by Adenan Satem, who was born in the Japanese Occupation of British Borneo.</lex>
+      <lex lang="es" lid="Id1">Adenan Satem nació en el Borneo británico ocupado por los japoneses. Su sucesor fue Abdul Taib Mahmud, que reside en Sarawak y es miembro del partido "Barisan Ra'ayat Jati Sarawak".</lex>
+      <lex lang="es" lid="Id2">En el Borneo británico ocupado por los japoneses nació Adenan Satem, sucesor de Abdul Taib Mahmud. Abdul Taib Mahmud es miembro del partido Barisan Ra'ayat Jati Sarawak y reside en Sarawak.</lex>
+      <lex lang="es" lid="Id3">Abdul Taib Mahmud, miembro del partido Barisan Ra'ayat Jati Sarawak, vive en Sarawak. Le sucedió Adenan Satem, nacido en la ocupación japonesa del Borneo británico.</lex>
+      <lex lang="ca" lid="Id1">Adenan Satem va néixer al Borneo britànic ocupat pels japonesos. El seu successor va ser Abdul Taib Mahmud, que resideix a Sarawak i és membre del partit "Barisan Ra'ayat Jati Sarawak".</lex>
+      <lex lang="ca" lid="Id2">Borneo britànic, ocupat pels japonesos, va ser el lloc de naixement d'Adenan Satem, que va succeir Abdul Taib Mahmud, membre del partit Barisan Ra'ayat Jati Sarawak i resident a Sarawak.</lex>
+      <lex lang="ca" lid="Id3">Abdul Taib Mahmud, membre del partit Barisan Ra'ayat Jati Sarawak, viu a Sarawak i va ser succeït per Adenan Satem, nascut durant l'ocupació japonesa de Borneo Britànic.</lex>
+      <lex lang="en_bt" lid="Id1">Adenan Satem was born in Japanese-occupied British Borneo. His successor was Abdul Taib Mahmud, who resides in Sarawak and is a member of the "Barisan Ra'ayat Jati Sarawak" party.</lex>
+      <lex lang="en_bt" lid="Id2">British Borneo, occupied by the Japanese, was the birthplace of Adenan Satem, who succeeded Abdul Taib Mahmud, a member of the Barisan Ra'ayat Jati Sarawak party and resident of Sarawak.</lex>
+      <lex lang="en_bt" lid="Id3">Abdul Taib Mahmud, a member of the Barisan Ra'ayat Jati Sarawak party, lives in Sarawak and was succeeded by Adenan Satem, born during the Japanese occupation of British Borneo.</lex>
+      </entry>
+    <entry category="Politician" eid="Id8" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Abel_Caballero | monarch | Juan_Carlos_I_of_Spain</otriple>
+        <otriple>Juan_Carlos_I_of_Spain | predecessor | Francisco_Franco</otriple>
+        <otriple>Abel_Caballero | primeminister | Felipe_González</otriple>
+        <otriple>Abel_Caballero | birthPlace | Spain</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abel_Caballero | inOfficeWhileMonarch | Juan_Carlos_I_of_Spain</mtriple>
+        <mtriple>Juan_Carlos_I_of_Spain | predecessor | Francisco_Franco</mtriple>
+        <mtriple>Abel_Caballero | inOfficeWhilePrimeMinister | Felipe_González</mtriple>
+        <mtriple>Abel_Caballero | birthPlace | Spain</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Abel_Caballero | EnElCargoMientrasElMonarca | Juan_Carlos_I_de_España</striple>
+        <striple>Juan_Carlos_I_de_España | Predecesor | Francisco_Franco</striple>
+        <striple>Abel_Caballero | EnElCargoMientrasElPrimerMinistro | Felipe_González</striple>
+        <striple>Abel_Caballero | LugarDeNacimiento | España</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Abel_Caballero | inOfficeWhileMonarch | Juan_Carlos_I_of_Spain</bttriple>
+        <bttriple>Juan_Carlos_I_of_Spain | predecessor | Francisco_Franco</bttriple>
+        <bttriple>Abel_Caballero | inOfficeWhilePrimeMinister | Felipe_González</bttriple>
+        <bttriple>Abel_Caballero | birthPlace | Spain</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Abel_Ramón_Caballero_Álvarez | AL'oficinaMentreMonarch | Joan_Carles_I_d'Espanya</ctriple>
+        <ctriple>Joan_Carles_I_d'Espanya | Predecessor | Francisco_Franco_Bahamonde</ctriple>
+        <ctriple>Abel_Ramón_Caballero_Álvarez | EnCàrrecMentrePrimerMinistre | Felipe_González_Márquez</ctriple>
+        <ctriple>Abel_Ramón_Caballero_Álvarez | LlocDeNaixement | Espanya</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Born in Spain, Abel Caballero was in office while Felipe González was Prime Minister. That was also when Juan Carlos I of Spain, successor to Francisco Franco, was Monarch.</lex>
+      <lex lang="en" lid="Id2">Abel Caballero was born in Spain and was in office when Felipe Gonzalez was prime minister and during the reign of Juan Carlos I of Spain. Juan Carlos was succeeded by Francisco Franco.</lex>
+      <lex lang="en" lid="Id3">Spanish-born Abel Caballero was in office while Felipe Gonzalez was Prime Minister and Juan Carlos I of Spain was Monarch. Carlos succeeded Francisco Franco as Monarch.</lex>
+      <lex lang="en" lid="Id4">Spanish born Abel Caballero was in office at the time that Felipe Gonzalez was Prime Minister and Juan Carlos I of Spain was King. The King was preceded as leader by Francisco Franco.</lex>
+      <lex lang="es" lid="Id1">Nacido en España, Abel Caballero ocupó el cargo mientras Felipe González era Presidente del Gobierno. Fue también cuando Juan Carlos I de España, sucesor de Francisco Franco, era Monarca.</lex>
+      <lex lang="es" lid="Id2">Abel Caballero nació en España y ocupó el cargo cuando Felipe González era Presidente del Gobierno y durante el reinado de Juan Carlos I de España. A Juan Carlos le sucedió Francisco Franco.</lex>
+      <lex lang="es" lid="Id3">El español Abel Caballero ocupó el cargo mientras Felipe González era Presidente del Gobierno y Juan Carlos I de España era Monarca. Carlos sucedió a Francisco Franco como Monarca.</lex>
+      <lex lang="es" lid="Id4">El español Abel Caballero ocupó el cargo en la época en que Felipe González era Presidente del Gobierno y Juan Carlos I de España era Rey. El Rey fue precedido como líder por Francisco Franco.</lex>
+      <lex lang="ca" lid="Id1">Abel Caballero, nascut a Espanya, va ocupar el càrrec mentre Felipe González era primer ministre, i també quan Juan Carlos I d'Espanya, successor de Francisco Franco, era monarca.</lex>
+      <lex lang="ca" lid="Id2">Abel Caballero va néixer a Espanya i va ocupar el càrrec quan Felipe González era primer ministre i durant el regnat de Joan Carles I d'Espanya, que va ser succeït per Francisco Franco.</lex>
+      <lex lang="ca" lid="Id3">Abel Caballero, de naixement espanyol, va ocupar el càrrec mentre Felipe González era Primer Ministre i Joan Carles I d'Espanya era Monarca.</lex>
+      <lex lang="ca" lid="Id4">Abel Caballero, nascut a Espanya, estava en el càrrec en el moment en què Felipe González era Primer Ministre i Joan Carles I d'Espanya era Rei. El Rei va ser precedit com a líder per Francisco Franco.</lex>
+      <lex lang="en_bt" lid="Id1">Abel Caballero, born in Spain, held the post while Felipe González was Prime Minister, and also when Juan Carlos I of Spain, successor to Francisco Franco, was monarch.</lex>
+      <lex lang="en_bt" lid="Id2">Abel Caballero was born in Spain and held office when Felipe González was prime minister and during the reign of Juan Carlos I of Spain, who was succeeded by Francisco Franco.</lex>
+      <lex lang="en_bt" lid="Id3">Abel Caballero, of Spanish birth, held the office while Felipe González was Prime Minister and Juan Carlos I of Spain was Monarch.</lex>
+      <lex lang="en_bt" lid="Id4">Abel Caballero, born in Spain, was in office at the time when Felipe González was Prime Minister and Juan Carlos I of Spain was King. The King was preceded as leader by Francisco Franco.</lex>
+      </entry>
+    <entry category="Politician" eid="Id9" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Abel_Caballero | office | "Member of theCongress of Deputies"</otriple>
+        <otriple>Abel_Caballero | birthPlace | Galicia_(Spain)</otriple>
+        <otriple>Abel_Caballero | placeOfBirth | Spain</otriple>
+        <otriple>Abel_Caballero | party | Spanish_Socialist_Workers'_Party</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abel_Caballero | office | "Member of the Congress of Deputies"</mtriple>
+        <mtriple>Abel_Caballero | birthPlace | Galicia_(Spain)</mtriple>
+        <mtriple>Abel_Caballero | birthPlace | Spain</mtriple>
+        <mtriple>Abel_Caballero | party | Spanish_Socialist_Workers'_Party</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Abel_Caballero | Oficina | Miembro_del_Congreso_de_los_Diputados</striple>
+        <striple>Abel_Caballero | LugarDeNacimiento | Galicia_(España)</striple>
+        <striple>Abel_Caballero | LugarDeNacimiento | España</striple>
+        <striple>Abel_Caballero | Fiesta | Partido_Socialista_Obrero_Español</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Abel_Caballero | office | "Member of the Congress of Deputies"</bttriple>
+        <bttriple>Abel_Caballero | birthPlace | Galicia_(Spain)</bttriple>
+        <bttriple>Abel_Caballero | birthPlace | Spain</bttriple>
+        <bttriple>Abel_Caballero | party | Spanish_Socialist_Workers'_Party</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Abel_Ramón_Caballero_Álvarez | Oficina | diputat_al_Congrés_dels_Diputats</ctriple>
+        <ctriple>Abel_Ramón_Caballero_Álvarez | LlocDeNaixement | Galícia_(Espanya)</ctriple>
+        <ctriple>Abel_Ramón_Caballero_Álvarez | LlocDeNaixement | Espanya</ctriple>
+        <ctriple>Abel_Ramón_Caballero_Álvarez | Festa | Partit_Socialista_Obrer_Espanyol</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Abel Caballero was born in Galicia, Spain, belongs to the Spanish Socialist Workers' Party, and worked as a Member of the Congress of Deputies.</lex>
+      <lex lang="en" lid="Id2">Abel Caballero, who belongs to the Spanish Socialist Workers' Party, is a member of the Congress of Deputies. Caballero was born in Galicia, Spain.</lex>
+      <lex lang="en" lid="Id3">Abel Caballero was born in Galicia in Spain. He worked as a Member of the Congress of Deputies and is a member of the Spanish Socialist Workers' Party.</lex>
+      <lex lang="es" lid="Id1">Abel Caballero nació en Galicia (España), pertenece al Partido Socialista Obrero Español y fue diputado en el Congreso de los Diputados.</lex>
+      <lex lang="es" lid="Id2">Abel Caballero, que pertenece al Partido Socialista Obrero Español, es diputado en el Congreso de los Diputados. Caballero nació en Galicia, España.</lex>
+      <lex lang="es" lid="Id3">Abel Caballero nació en Galicia, España. Trabajó como diputado en el Congreso de los Diputados y es miembro del Partido Socialista Obrero Español.</lex>
+      <lex lang="ca" lid="Id1">Abel Caballero va néixer a Galícia, Espanya, pertany al Partit Socialista Obrer Espanyol i va treballar com a membre del Congrés dels Diputats.</lex>
+      <lex lang="ca" lid="Id2">Abel Caballero, que pertany al Partit Socialista Obrer Espanyol, és membre del Congrés dels Diputats. Caballero va néixer a Galícia, Espanya.</lex>
+      <lex lang="ca" lid="Id3">Abel Caballero va néixer a Galícia, Espanya. Ha treballat com a membre del Congrés dels Diputats i és membre del Partit Socialista Obrer Espanyol.</lex>
+      <lex lang="en_bt" lid="Id1">Abel Caballero was born in Galicia, Spain, belongs to the Spanish Socialist Workers' Party and worked as a member of the Congress of Deputies.</lex>
+      <lex lang="en_bt" lid="Id2">Abel Caballero, who belongs to the Spanish Socialist Workers' Party, is a member of the Congress of Deputies. Caballero was born in Galicia, Spain.</lex>
+      <lex lang="en_bt" lid="Id3">Abel Caballero was born in Galicia, Spain. He has worked as a member of the Congress of Deputies and is a member of the Spanish Socialist Workers' Party.</lex>
+      </entry>
+    <entry category="Politician" eid="Id10" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Abel_Caballero | office | "Minister of Transport"</otriple>
+        <otriple>Abel_Caballero | birthPlace | Ponteareas</otriple>
+        <otriple>Abel_Caballero | placeOfBirth | Spain</otriple>
+        <otriple>Abel_Caballero | party | Spanish_Socialist_Workers'_Party</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abel_Caballero | office | "Minister of Transport"</mtriple>
+        <mtriple>Abel_Caballero | birthPlace | Ponteareas</mtriple>
+        <mtriple>Abel_Caballero | birthPlace | Spain</mtriple>
+        <mtriple>Abel_Caballero | party | Spanish_Socialist_Workers'_Party</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Abel_Caballero | Oficina | Ministro_de_Transportes</striple>
+        <striple>Abel_Caballero | LugarDeNacimiento | Puenteareas</striple>
+        <striple>Abel_Caballero | LugarDeNacimiento | España</striple>
+        <striple>Abel_Caballero | Fiesta | Partido_Socialista_Obrero_Español</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Abel_Caballero | office | "Minister of Transport"</bttriple>
+        <bttriple>Abel_Caballero | birthPlace | Ponteareas</bttriple>
+        <bttriple>Abel_Caballero | birthPlace | Spain</bttriple>
+        <bttriple>Abel_Caballero | party | Spanish_Socialist_Workers'_Party</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Abel_Ramón_Caballero_Álvarez | Oficina | Ministre_de_Transport</ctriple>
+        <ctriple>Abel_Ramón_Caballero_Álvarez | LlocDeNaixement | Ponteareas</ctriple>
+        <ctriple>Abel_Ramón_Caballero_Álvarez | LlocDeNaixement | Espanya</ctriple>
+        <ctriple>Abel_Ramón_Caballero_Álvarez | Festa | Partit_Socialista_Obrer_Espanyol</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Ponteareas, Spain, is the birthplace of Abel Caballero, a member of the Spanish Socialist Workers' Party, who, was the Minister of Transport.</lex>
+      <lex lang="en" lid="Id2">Abel Caballero was born in Ponteareas in Spain. He belongs to the Spanish Socialist Workers' Party and worked as the Minister of Transport.</lex>
+      <lex lang="en" lid="Id3">Abel Caballero was born in Spain in Ponteareas and was the Minister of Transport. He was also a member of the Spanish Socialist Workers' Party.</lex>
+      <lex lang="en" lid="Id4">Abel Caballero was born in Ponteareas in Spain. He belonged to the Spanish Socialist Workers' Party and worked as the Minister of Transport.</lex>
+      <lex lang="es" lid="Id1">Ponteareas, España, es el lugar de nacimiento de Abel Caballero, miembro del Partido Socialista Obrero Español, que fue Ministro de Transportes.</lex>
+      <lex lang="es" lid="Id2">Abel Caballero nació en Ponteareas, España. Pertenece al Partido Socialista Obrero Español y fue Ministro de Transportes.</lex>
+      <lex lang="es" lid="Id3">Abel Caballero nació en España en Ponteareas y fue Ministro de Transportes. También fue miembro del Partido Socialista Obrero Español.</lex>
+      <lex lang="es" lid="Id4">Abel Caballero nació en Ponteareas, España. Perteneció al Partido Socialista Obrero Español y fue Ministro de Transportes.</lex>
+      <lex lang="ca" lid="Id1">Ponteareas, Espanya, és el lloc de naixement d'Abel Caballero, membre del Partit Socialista Obrer Espanyol, que va ser ministre de transport.</lex>
+      <lex lang="ca" lid="Id2">Abel Caballero va néixer a Ponteareas, Espanya. Pertany al Partit Socialista Obrer Espanyol i ha treballat com a ministre de transports.</lex>
+      <lex lang="ca" lid="Id3">Abel Caballero va néixer a Espanya a Ponteareas i va ser ministre de Transport. També va ser membre del Partit Socialista Obrer espanyol.</lex>
+      <lex lang="ca" lid="Id4">Abel Caballero va néixer a Ponteareas, va pertànyer al Partit Socialista Obrer Espanyol i va treballar com a ministre de Transports.</lex>
+      <lex lang="en_bt" lid="Id1">Ponteareas, Spain, is the birthplace of Abel Caballero, a member of the Spanish Socialist Workers' Party, who was Minister of Transport.</lex>
+      <lex lang="en_bt" lid="Id2">Abel Caballero was born in Ponteareas, Spain, belongs to the Spanish Socialist Workers' Party and has served as Minister of Transport.</lex>
+      <lex lang="en_bt" lid="Id3">Abel Caballero was born in Spain in Ponteareas and served as Minister of Transport and was a member of the Spanish Socialist Workers' Party.</lex>
+      <lex lang="en_bt" lid="Id4">Abel Caballero was born in Ponteareas, belonged to the Spanish Socialist Workers' Party and worked as Minister of Transport.</lex>
+      </entry>
+    <entry category="Politician" eid="Id11" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | office | "Member of theConnecticut Senatefrom the26th District"</otriple>
+        <otriple>Abner_W._Sibal | party | Republican_Party_(United_States)</otriple>
+        <otriple>Abner_W._Sibal | successor | Donald_J._Irwin</otriple>
+        <otriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | party | Republican_Party_(United_States)</otriple>
+        <otriple>Abner_W._Sibal | successor | Donald_J._Irwin</otriple>
+        <otriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</otriple>
+        <otriple>Abner_W._Sibal | office | "Member of the Connecticut Senate from the 26th District"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_W._Sibal | office | "Member of the Connecticut Senate from the 26th District"</mtriple>
+        <mtriple>Abner_W._Sibal | party | Republican_Party_(United_States)</mtriple>
+        <mtriple>Abner_W._Sibal | successor | Donald_J._Irwin</mtriple>
+        <mtriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Abner_W._Sibal | Oficina | Miembro_del_Senado_de_Connecticut_por_el_distrito_26</striple>
+        <striple>Abner_W._Sibal | Fiesta | Partido_Republicano_(Estados_Unidos)</striple>
+        <striple>Abner_W._Sibal | Sucesor | Donald_J._Irwin</striple>
+        <striple>Abner_W._Sibal | LugarDeNacimiento | Ridgewood,_Queens</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Abner_W._Sibal | office | "Member of the Connecticut Senate from the 26th District"</bttriple>
+        <bttriple>Abner_W._Sibal | party | Republican_Party_(United_States)</bttriple>
+        <bttriple>Abner_W._Sibal | successor | Donald_J._Irwin</bttriple>
+        <bttriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Abner_W._Sibal | Oficina | Membre_del_Senat_de_Connecticut_del_26è_districte</ctriple>
+        <ctriple>Abner_W._Sibal | Festa | Partit_Republicà_(Estats_Units)</ctriple>
+        <ctriple>Abner_W._Sibal | Successor | Donald_J._Irwin</ctriple>
+        <ctriple>Abner_W._Sibal | LlocDeNaixement | Ridgewood,_Queens</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Born in Ridgewood, Queens, Abner W. Sibal was a member of the Republican party of the United States. Abner W. Sibal was a member of the Connecticut Senate from the 26th District and was the predecessor to, Donald J. Irwin.</lex>
+      <lex lang="en" lid="Id2">Abner W. Sibal; was born in Ridgewood, Queens, was a member of the Republican party of the United States, was a member of the Connecticut Senate from the 26th District, and was succeeded by, Donald J. Irwin.</lex>
+      <lex lang="en" lid="Id3">Abner W. Sibal was born in Ridgewood Queens, he was a member of the Republican party and a member of the Connecticut Senate from the 26th District, his successor was Donald J. Irwin.</lex>
+      <lex lang="es" lid="Id1">Nacido en Ridgewood, Queens, Abner W. Sibal fue miembro del Partido Republicano de Estados Unidos. Abner W. Sibal fue miembro del Senado de Connecticut por el distrito 26 y fue el predecesor de Donald J. Irwin.</lex>
+      <lex lang="es" lid="Id2">Abner W. Sibal; nació en Ridgewood, Queens, fue miembro del partido Republicano de los Estados Unidos, fue miembro del Senado de Connecticut por el Distrito 26, y fue sucedido por, Donald J. Irwin.</lex>
+      <lex lang="es" lid="Id3">Abner W. Sibal nació en Ridgewood Queens, fue miembro del partido Republicano y miembro del Senado de Connecticut por el Distrito 26, su sucesor fue Donald J. Irwin.</lex>
+      <lex lang="ca" lid="Id1">Nascut a Ridgewood, Queens, Abner W. Sibal va ser membre del Partit Republicà dels Estats Units. Abner W. Sibal va ser membre del Senat de Connecticut pel 26è Districte i va ser el predecessor de Donald J. Irwin.</lex>
+      <lex lang="ca" lid="Id2">Abner W. Sibal; va néixer a Ridgewood, Queens, va ser membre del partit republicà dels Estats Units, va ser membre del Senat de Connecticut del 26è districte, i va ser succeït per Donald J. Irwin.</lex>
+      <lex lang="ca" lid="Id3">Abner W. Sibal va néixer a Ridgewood Queens, va ser membre del partit republicà i membre del Senat de Connecticut pel 26è districte, el seu successor va ser Donald J. Irwin.</lex>
+      <lex lang="en_bt" lid="Id1">Born in Ridgewood, Queens, Abner W. Sibal was a member of the United States Republican Party. Abner W. Sibal was a member of the Connecticut Senate for the 26th District and was the predecessor of Donald J. Irwin.</lex>
+      <lex lang="en_bt" lid="Id2">Abner W. Sibal; born in Ridgewood, Queens, was a member of the United States Republican Party, was a member of the Connecticut Senate from the 26th district, and was succeeded by Donald J. Irwin.</lex>
+      <lex lang="en_bt" lid="Id3">Abner W. Sibal was born in Ridgewood Queens, was a member of the Republican Party and a member of the Connecticut Senate for the 26th district, his successor was Donald J. Irwin.</lex>
+      </entry>
+    <entry category="Politician" eid="Id12" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Abraham_A._Ribicoff | office | "United States Secretary of Health, Education, and Welfare"</otriple>
+        <otriple>Abraham_A._Ribicoff | successor | John_N._Dempsey</otriple>
+        <otriple>Abraham_A._Ribicoff | deathPlace | New_York_City</otriple>
+        <otriple>Abraham_A._Ribicoff | birthPlace | United_States</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abraham_A._Ribicoff | office | "United States Secretary of Health, Education, and Welfare"</mtriple>
+        <mtriple>Abraham_A._Ribicoff | successor | John_N._Dempsey</mtriple>
+        <mtriple>Abraham_A._Ribicoff | deathPlace | New_York_City</mtriple>
+        <mtriple>Abraham_A._Ribicoff | birthPlace | United_States</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Abraham_A._Ribicoff | Oficina | Secretario_de_Sanidad,_Educación_y_Bienestar_Social_de_Estados_Unidos</striple>
+        <striple>Abraham_A._Ribicoff | Sucesor | John_N._Dempsey</striple>
+        <striple>Abraham_A._Ribicoff | LugarDeLaMuerte | Nueva_York</striple>
+        <striple>Abraham_A._Ribicoff | LugarDeNacimiento | Estados_Unidos</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Abraham_A._Ribicoff | office | "United States Secretary of Health, Education, and Welfare"</bttriple>
+        <bttriple>Abraham_A._Ribicoff | successor | John_N._Dempsey</bttriple>
+        <bttriple>Abraham_A._Ribicoff | deathPlace | New_York_City</bttriple>
+        <bttriple>Abraham_A._Ribicoff | birthPlace | United_States</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Abraham_A._Ribicoff | Oficina | Secretari_de_Salut,_Educació_i_Benestar_dels_Estats_Units</ctriple>
+        <ctriple>Abraham_A._Ribicoff | Successor | John_N._Dempsey</ctriple>
+        <ctriple>Abraham_A._Ribicoff | LlocDeLaMort | Nova_York</ctriple>
+        <ctriple>Abraham_A._Ribicoff | LlocDeNaixement | Estats_Units_d'Amèrica</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">John N Dempsey's predecessor Abraham A Ribicoff was born in the United States, worked as the United States Secretary of Health, Education and Welfare and died in New York City.</lex>
+      <lex lang="en" lid="Id2">Abraham A Ribicoff, who was born in the US and died in New York City, worked as the United States Secretary of Health, Education and Welfare and was succeeded by John N Dempsey.</lex>
+      <lex lang="en" lid="Id3">United States Secretary of Health, Education and Welfare member Abraham A Ribicoff, born in the U.S and died in New York City, preceded John N Dempsey.</lex>
+      <lex lang="es" lid="Id1">El predecesor de John N. Dempsey, Abraham A. Ribicoff, nació en Estados Unidos, trabajó como Secretario de Sanidad, Educación y Bienestar Social y murió en Nueva York.</lex>
+      <lex lang="es" lid="Id2">Abraham A Ribicoff, nacido en Estados Unidos y fallecido en Nueva York, fue Secretario de Sanidad, Educación y Bienestar Social de Estados Unidos y le sucedió John N Dempsey.</lex>
+      <lex lang="es" lid="Id3">Abraham A Ribicoff, Secretario de Sanidad, Educación y Bienestar Social de Estados Unidos, nacido en EE.UU. y fallecido en Nueva York, precedió a John N Dempsey.</lex>
+      <lex lang="ca" lid="Id1">El predecessor de John N Dempsey, Abraham A Ribicoff, va néixer als Estats Units, va treballar com a Secretari de Salut, Educació i Benestar dels Estats Units i va morir a la ciutat de Nova York.</lex>
+      <lex lang="ca" lid="Id2">Abraham A Ribicoff, que va néixer als Estats Units i va morir a la ciutat de Nova York, va treballar com a Secretari de Salut, Educació i Benestar dels Estats Units i va ser succeït per John N Dempsey.</lex>
+      <lex lang="ca" lid="Id3">El membre del Secretari de Salut, Educació i Benestar dels Estats Units Abraham A. Ribicoff, nascut als EUA i mort a la ciutat de Nova York, va precedir a John N. Dempsey.</lex>
+      <lex lang="en_bt" lid="Id1">John N Dempsey's predecessor, Abraham A Ribicoff, was born in the United States, served as United States Secretary of Health, Education, and Welfare, and died in New York City.</lex>
+      <lex lang="en_bt" lid="Id2">Abraham A. Ribicoff, who was born in the United States and died in New York City, served as United States Secretary of Health, Education, and Welfare and was succeeded by John N. Dempsey.</lex>
+      <lex lang="en_bt" lid="Id3">U.S. Secretary of Health, Education, and Welfare Abraham A. Ribicoff, born in the U.S. and died in New York City, preceded John N. Dempsey.</lex>
+      </entry>
+    <entry category="Politician" eid="Id13" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Adam_Holloway | battles | Gulf_War</otriple>
+        <otriple>Gulf_War | commander | Colin_Powell</otriple>
+        <otriple>Adam_Holloway | birthPlace | "Faversham, Kent, England"@en</otriple>
+        <otriple>Adam_Holloway | militaryBranch | Grenadier_Guards</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_Holloway | battle | Gulf_War</mtriple>
+        <mtriple>Gulf_War | commander | Colin_Powell</mtriple>
+        <mtriple>Adam_Holloway | birthPlace | "Faversham, Kent, England"</mtriple>
+        <mtriple>Adam_Holloway | militaryBranch | Grenadier_Guards</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Adam_Holloway | Batalla | Guerra_del_Golfo</striple>
+        <striple>Guerra_del_Golfo | Comandante | Colin_Powell</striple>
+        <striple>Adam_Holloway | LugarDeNacimiento | Faversham,_Kent,_Inglaterra</striple>
+        <striple>Adam_Holloway | RamaMilitar | Grenadier_Guards</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Adam_Holloway | battle | Gulf_War</bttriple>
+        <bttriple>Gulf_War | commander | Colin_Powell</bttriple>
+        <bttriple>Adam_Holloway | birthPlace | "Faversham, Kent, England"</bttriple>
+        <bttriple>Adam_Holloway | militaryBranch | Grenadier_Guards</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Adam_Holloway | Batalla | guerra_del_Golf</ctriple>
+        <ctriple>guerra_del_Golf | Comandant | Colin_Powell</ctriple>
+        <ctriple>Adam_Holloway | LlocDeNaixement | Faversham,_Kent,_Anglaterra</ctriple>
+        <ctriple>Adam_Holloway | BrancaMilitar | Grenadier_Guards</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Adam Holloway, born in Faversham, in Kent, England, served in the Grenadier Guards and was involved in the battles of the Gulf War under the commander, Colin Powell.</lex>
+      <lex lang="en" lid="Id2">Adam Holloway was born in Faversham, Kent, England and he served in the Grenadier Guards. He was involved in Gulf War battles where Colin Powell was a commander.</lex>
+      <lex lang="es" lid="Id1">Adam Holloway, nacido en Faversham, en Kent (Inglaterra), sirvió en la Guardia de Granaderos y participó en las batallas de la Guerra del Golfo bajo las órdenes del comandante Colin Powell.</lex>
+      <lex lang="es" lid="Id2">Adam Holloway nació en Faversham (Kent, Inglaterra) y sirvió en la Guardia de Granaderos. Participó en batallas de la Guerra del Golfo en las que Colin Powell era comandante.</lex>
+      <lex lang="ca" lid="Id1">Adam Holloway, nascut a Faversham, a Kent, Anglaterra, va servir a la Guàrdia de Granaders i va estar involucrat en les batalles de la Guerra del Golf sota el comandant, Colin Powell.</lex>
+      <lex lang="ca" lid="Id2">Adam Holloway va néixer a Faversham, Kent, Anglaterra i va servir a la Guàrdia de Granaders, va participar en les batalles de la Guerra del Golf, on Colin Powell va ser comandant.</lex>
+      <lex lang="en_bt" lid="Id1">Adam Holloway, born in Faversham, Kent, England, served in the Grenadier Guards and was involved in the Gulf War battles under commander, Colin Powell.</lex>
+      <lex lang="en_bt" lid="Id2">Adam Holloway was born in Faversham, Kent, England and served in the Grenadier Guards, participating in the battles of the Gulf War, where Colin Powell was commander.</lex>
+      </entry>
+    <entry category="Politician" eid="Id14" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Adam_Koc | battles | Polish–Soviet_War</otriple>
+        <otriple>Poland | language | Kashubian_language</otriple>
+        <otriple>Polish–Soviet_War | commander | Joseph_Stalin</otriple>
+        <otriple>Adam_Koc | nationality | Poland</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_Koc | battle | Polish–Soviet_War</mtriple>
+        <mtriple>Poland | language | Kashubian_language</mtriple>
+        <mtriple>Polish–Soviet_War | commander | Joseph_Stalin</mtriple>
+        <mtriple>Adam_Koc | nationality | Poland</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Adam_Koc | Batalla | guerra_polaco-soviética</striple>
+        <striple>Polonia | Idioma | casubio</striple>
+        <striple>guerra_polaco-soviética | Comandante | Iósif_Stalin</striple>
+        <striple>Adam_Koc | Nacionalidad | Polonia</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Adam_Koc | battle | Polish–Soviet_War</bttriple>
+        <bttriple>Poland | language | Kashubian_language</bttriple>
+        <bttriple>Polish–Soviet_War | commander | Joseph_Stalin</bttriple>
+        <bttriple>Adam_Koc | nationality | Poland</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Adam_Koc | Batalla | Guerra_polonesosoviètica</ctriple>
+        <ctriple>Polònia | Llengua | Kashubian_language</ctriple>
+        <ctriple>Guerra_polonesosoviètica | Comandant | Ióssif_Stalin</ctriple>
+        <ctriple>Adam_Koc | Nacionalitat | Polònia</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Pole Adam Koc fought in the Polish–Soviet War. A commander of that war was Joseph Stalin and one of the languages spoken in Poland is Kashubian.</lex>
+      <lex lang="en" lid="Id2">Adam Koc's nationality is Polish and he fought in the Polish-Soviet War. Joseph Stalin was a commander in that war. The Kashubian language is spoken in Poland.</lex>
+      <lex lang="en" lid="Id3">Adam Koc is from Poland, where the Kashubian language is spoken. He fought in the Polish-Soviet War where Joseph Stalin was a commander.</lex>
+      <lex lang="es" lid="Id1">El polaco Adam Koc luchó en la guerra polaco-soviética. Un comandante de esa guerra fue José Stalin y una de las lenguas habladas en Polonia es el casubio.</lex>
+      <lex lang="es" lid="Id2">Adam Koc es de nacionalidad polaca y luchó en la guerra polaco-soviética. José Stalin fue comandante en esa guerra. En Polonia se habla la lengua casubia.</lex>
+      <lex lang="es" lid="Id3">Adam Koc es polaco, donde se habla la lengua casubia. Luchó en la guerra polaco-soviética en la que José Stalin era comandante.</lex>
+      <lex lang="ca" lid="Id1">El polonès Adam Koc va lluitar a la Guerra Poloneso-Soviètica. Un dels comandants d'aquesta guerra va ser Ióssif Stalin i una de les llengües parlades a Polònia és el casubià.</lex>
+      <lex lang="ca" lid="Id2">Adam Koc era de nacionalitat polonesa i va lluitar a la guerra poloneso-soviètica. Joseph Stalin va ser un dels comandants d'aquesta guerra. A Polònia es parla el caixubi.</lex>
+      <lex lang="ca" lid="Id3">Adam Koc és de Polònia, on es parla la llengua kashubia. Va lluitar a la guerra poloneso- soviètica on Ióssif Stalin va ser un comandant.</lex>
+      <lex lang="en_bt" lid="Id1">The Polish Adam Koc fought in the Polish-Soviet War. One of the commanders of this war was Joseph Stalin and one of the languages spoken in Poland is Casubian.</lex>
+      <lex lang="en_bt" lid="Id2">Adam Koc was of Polish nationality and fought in the Polish-Soviet War. Joseph Stalin was one of the commanders in that war. Kashubian is spoken in Poland.</lex>
+      <lex lang="en_bt" lid="Id3">Adam Koc is from Poland, where the Kashubian language is spoken. He fought in the Polish-Soviet War where Joseph Stalin was a commander.</lex>
+      </entry>
+    <entry category="Politician" eid="Id15" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Adam_Koc | battles | Polish–Soviet_War</otriple>
+        <otriple>Poland | language | Polish_language</otriple>
+        <otriple>Polish–Soviet_War | commander | Joseph_Stalin</otriple>
+        <otriple>Adam_Koc | nationality | Poland</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_Koc | battle | Polish–Soviet_War</mtriple>
+        <mtriple>Poland | language | Polish_language</mtriple>
+        <mtriple>Polish–Soviet_War | commander | Joseph_Stalin</mtriple>
+        <mtriple>Adam_Koc | nationality | Poland</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Adam_Koc | Batalla | guerra_polaco-soviética</striple>
+        <striple>Polonia | Idioma | polaco</striple>
+        <striple>guerra_polaco-soviética | Comandante | Iósif_Stalin</striple>
+        <striple>Adam_Koc | Nacionalidad | Polonia</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Adam_Koc | battle | Polish–Soviet_War</bttriple>
+        <bttriple>Poland | language | Polish_language</bttriple>
+        <bttriple>Polish–Soviet_War | commander | Joseph_Stalin</bttriple>
+        <bttriple>Adam_Koc | nationality | Poland</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Adam_Koc | Batalla | Guerra_polonesosoviètica</ctriple>
+        <ctriple>Polònia | Llengua | Llengua_polonesa</ctriple>
+        <ctriple>Guerra_polonesosoviètica | Comandant | Ióssif_Stalin</ctriple>
+        <ctriple>Adam_Koc | Nacionalitat | Polònia</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Adam Koc is a national of Poland where the language used is Polish. He was involved in battles of the Polish-Soviet war during which Joseph Stalin was a commander.</lex>
+      <lex lang="en" lid="Id2">Adam Koc, a Polish nationalist, fought in the Polish-Soviet War. Joseph Stalin was a commander in that war. The Polish language is used in Poland.</lex>
+      <lex lang="es" lid="Id1">Adam Koc es nacional de Polonia, donde se habla polaco. Participó en batallas de la guerra polaco-soviética durante la cual José Stalin fue comandante.</lex>
+      <lex lang="es" lid="Id2">Adam Koc, nacionalista polaco, luchó en la guerra polaco-soviética. José Stalin fue comandante en esa guerra. En Polonia se utiliza la lengua polaca.</lex>
+      <lex lang="ca" lid="Id1">L' Adam Koc és un nacional de Polònia on l' idioma utilitzat és el polonès. Va estar involucrat en batalles de la guerra polonesa- soviètica durant la qual Ióssif Stalin va ser un comandant.</lex>
+      <lex lang="ca" lid="Id2">Adam Koc, un nacionalista polonès, va lluitar a la guerra polonesa- soviètica. Joseph Stalin va ser un comandant en aquesta guerra. El polonès s' usa a Polònia.</lex>
+      <lex lang="en_bt" lid="Id1">Adam Koc is a national of Poland where the language used is Polish. He was involved in battles of the Polish-Soviet War during which Joseph Stalin was a commander.</lex>
+      <lex lang="en_bt" lid="Id2">Adam Koc, a Polish nationalist, fought in the Polish-Soviet War. Joseph Stalin was a commander in that war. Polish is used in Poland.</lex>
+      </entry>
+    <entry category="Politician" eid="Id16" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Adam_Koc | battles | Polish–Soviet_War</otriple>
+        <otriple>Poland | language | Polish_language</otriple>
+        <otriple>Polish–Soviet_War | commander | Leon_Trotsky</otriple>
+        <otriple>Adam_Koc | nationality | Poland</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_Koc | battle | Polish–Soviet_War</mtriple>
+        <mtriple>Poland | language | Polish_language</mtriple>
+        <mtriple>Polish–Soviet_War | commander | Leon_Trotsky</mtriple>
+        <mtriple>Adam_Koc | nationality | Poland</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Adam_Koc | Batalla | guerra_polaco-soviética</striple>
+        <striple>Polonia | Idioma | polaco</striple>
+        <striple>guerra_polaco-soviética | Comandante | León_Trotski</striple>
+        <striple>Adam_Koc | Nacionalidad | Polonia</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Adam_Koc | battle | Polish–Soviet_War</bttriple>
+        <bttriple>Poland | language | Polish_language</bttriple>
+        <bttriple>Polish–Soviet_War | commander | Leon_Trotsky</bttriple>
+        <bttriple>Adam_Koc | nationality | Poland</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Adam_Koc | Batalla | Guerra_polonesosoviètica</ctriple>
+        <ctriple>Polònia | Llengua | Llengua_polonesa</ctriple>
+        <ctriple>Guerra_polonesosoviètica | Comandant | Lev_Trotski</ctriple>
+        <ctriple>Adam_Koc | Nacionalitat | Polònia</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Adam Koc was born in Poland and fought in the Polish-Soviet war. Leon Trotsky was the commender in this war.</lex>
+      <lex lang="en" lid="Id2">The Polish language is used in Poland and Adam Koc is of Polish nationality. He fought in the Polish–Soviet War where Leon Trotsky was a commander.</lex>
+      <lex lang="en" lid="Id3">Polish–Soviet War veteran Adam Koc was born in Poland (Polish language). The Polish-Soviet War commander was Leon Trotsky.</lex>
+      <lex lang="es" lid="Id1">Adam Koc nació en Polonia y luchó en la guerra polaco-soviética. León Trotsky fue el comandante en esta guerra.</lex>
+      <lex lang="es" lid="Id2">En Polonia se habla polaco y Adam Koc es de nacionalidad polaca. Luchó en la guerra polaco-soviética, en la que León Trotsky era comandante.</lex>
+      <lex lang="es" lid="Id3">El veterano de la guerra polaco-soviética Adam Koc nació en Polonia (lengua polaca). El comandante de la guerra polaco-soviética fue León Trotsky.</lex>
+      <lex lang="ca" lid="Id1">Adam Koc va néixer a Polònia i va lluitar en la guerra polonesa-soviètica.</lex>
+      <lex lang="ca" lid="Id2">La llengua polonesa s'utilitza a Polònia i Adam Koc és de nacionalitat polonesa. Va lluitar a la Guerra Poloneso-Soviètica on Leon Trotski va ser un comandant.</lex>
+      <lex lang="ca" lid="Id3">Adam Koc, veterà de la guerra poloneso-soviètica, va néixer a Polònia. El comandant de la guerra poloneso-soviètica va ser Lev Trotski.</lex>
+      <lex lang="en_bt" lid="Id1">Adam Koc was born in Poland and fought in the Polish-Soviet War.</lex>
+      <lex lang="en_bt" lid="Id2">The Polish language is used in Poland and Adam Koc is of Polish nationality. He fought in the Polish-Soviet War where Leon Trotsky was a commander.</lex>
+      <lex lang="en_bt" lid="Id3">Adam Koc, a veteran of the Polish-Soviet War, was born in Poland. The commander of the Polish-Soviet War was Lev Trotsky.</lex>
+      </entry>
+    <entry category="Politician" eid="Id17" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Adam_Koc | battles | Polish–Soviet_War</otriple>
+        <otriple>Polish–Soviet_War | isPartOfMilitaryConflict | Russian_Civil_War</otriple>
+        <otriple>Polish–Soviet_War | commander | Joseph_Stalin</otriple>
+        <otriple>Adam_Koc | birthPlace | Congress_Poland</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_Koc | battle | Polish–Soviet_War</mtriple>
+        <mtriple>Polish–Soviet_War | isPartOfMilitaryConflict | Russian_Civil_War</mtriple>
+        <mtriple>Polish–Soviet_War | commander | Joseph_Stalin</mtriple>
+        <mtriple>Adam_Koc | birthPlace | Congress_Poland</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Adam_Koc | Batalla | guerra_polaco-soviética</striple>
+        <striple>guerra_polaco-soviética | FormaParteDeUnConflictoMilitar | guerra_civil_rusa</striple>
+        <striple>guerra_polaco-soviética | Comandante | Iósif_Stalin</striple>
+        <striple>Adam_Koc | LugarDeNacimiento | Zarato_de_Polonia_(1815-1915)</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Adam_Koc | battle | Polish–Soviet_War</bttriple>
+        <bttriple>Polish–Soviet_War | isPartOfMilitaryConflict | Russian_Civil_War</bttriple>
+        <bttriple>Polish–Soviet_War | commander | Joseph_Stalin</bttriple>
+        <bttriple>Adam_Koc | birthPlace | Congress_Poland</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Adam_Koc | Batalla | Guerra_polonesosoviètica</ctriple>
+        <ctriple>Guerra_polonesosoviètica | ÉsPartD'unConflicteMilitar | Guerra_Civil_Russa</ctriple>
+        <ctriple>Guerra_polonesosoviètica | Comandant | Ióssif_Stalin</ctriple>
+        <ctriple>Adam_Koc | LlocDeNaixement | Tsarat_de_Polònia</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Adam Koc, born in Congress Poland, was involved in battles in the Polish–Soviet War. Joseph Stalin was a commander at the Polish-Soviet War, which was a conflict within the Russian Civil War.</lex>
+      <lex lang="en" lid="Id2">Adam Koc was born in Congress, Poland, and was involved in battles in the Polish–Soviet War. This war was part of the Russian Civil War military conflict and Joseph Stalin was one of the commanders.</lex>
+      <lex lang="en" lid="Id3">Adam Koc was born in Congress in Poland and fought in the Polish-Soviet War which was part of the Russian Civil War military conflict. A commander in this war was Joseph Stalin.</lex>
+      <lex lang="es" lid="Id1">Adam Koc, nacido en el Congreso de Polonia, participó en batallas de la Guerra Polaco-Soviética. José Stalin fue comandante en la Guerra Polaco-Soviética, que fue un conflicto dentro de la Guerra Civil Rusa.</lex>
+      <lex lang="es" lid="Id2">Adam Koc nació en Congress, Polonia, y participó en batallas de la Guerra Polaco-Soviética. Esta guerra formaba parte del conflicto militar de la Guerra Civil Rusa y Joseph Stalin era uno de los comandantes.</lex>
+      <lex lang="es" lid="Id3">Adam Koc nació en el Congreso de Polonia y luchó en la Guerra Polaco-Soviética, que formaba parte del conflicto militar de la Guerra Civil Rusa. Un comandante en esta guerra fue Joseph Stalin.</lex>
+      <lex lang="ca" lid="Id1">Adam Koc, nascut al Congrés de Polònia, va estar involucrat en les batalles de la Guerra Poloneso-Soviètica, en la qual Ióssif Stalin va ser un comandant, que va ser un conflicte dins de la Guerra Civil Russa.</lex>
+      <lex lang="ca" lid="Id2">Adam Koc va néixer a Congres, Polònia, i va estar involucrat en les batalles de la guerra polonesa-soviètica.</lex>
+      <lex lang="ca" lid="Id3">Adam Koc va néixer a Congress a Polònia i va lluitar a la Guerra Poloneso- Soviètica que va ser part del conflicte militar de la Guerra Civil Russa. Un comandant en aquesta guerra va ser Ióssif Stalin.</lex>
+      <lex lang="en_bt" lid="Id1">Adam Koc, born in Congress Poland, was involved in the battles of the Polish-Soviet War, in which Joseph Stalin was a commander, which was a conflict within the Russian Civil War.</lex>
+      <lex lang="en_bt" lid="Id2">Adam Koc was born in Congres, Poland, and was involved in the battles of the Polish-Soviet War.</lex>
+      <lex lang="en_bt" lid="Id3">Adam Koc was born in Congress in Poland and fought in the Polish-Soviet War which was part of the military conflict of the Russian Civil War. A commander in this war was Joseph Stalin.</lex>
+      </entry>
+    <entry category="Politician" eid="Id18" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Adonis_Georgiadis | birthPlace | Greece</otriple>
+        <otriple>Adonis_Georgiadis | office | Ministry_of_Economy,_Development_and_Tourism_(Greece)</otriple>
+        <otriple>Adonis_Georgiadis | placeOfBirth | Athens</otriple>
+        <otriple>Adonis_Georgiadis | successor | Makis_Voridis</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Adonis_Georgiadis | birthPlace | Athens</otriple>
+        <otriple>Adonis_Georgiadis | placeOfBirth | Greece</otriple>
+        <otriple>Adonis_Georgiadis | office | Ministry_of_Economy,_Development_and_Tourism_(Greece)</otriple>
+        <otriple>Adonis_Georgiadis | successor | Makis_Voridis</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adonis_Georgiadis | birthPlace | Athens</mtriple>
+        <mtriple>Adonis_Georgiadis | birthPlace | Greece</mtriple>
+        <mtriple>Adonis_Georgiadis | office | Ministry_of_Economy,_Development_and_Tourism_(Greece)</mtriple>
+        <mtriple>Adonis_Georgiadis | successor | Makis_Voridis</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Adonis_Georgiades | LugarDeNacimiento | Atenas</striple>
+        <striple>Adonis_Georgiades | LugarDeNacimiento | Grecia</striple>
+        <striple>Adonis_Georgiades | Oficina | Ministerio_de_Economía,_Desarrollo_y_Turismo_(Grecia)</striple>
+        <striple>Adonis_Georgiades | Sucesor | Makis_Voridis</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Adonis_Georgiadis | birthPlace | Athens</bttriple>
+        <bttriple>Adonis_Georgiadis | birthPlace | Greece</bttriple>
+        <bttriple>Adonis_Georgiadis | office | Ministry_of_Economy,_Development_and_Tourism_(Greece)</bttriple>
+        <bttriple>Adonis_Georgiadis | successor | Makis_Voridis</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Adonis_Georgiadis | LlocDeNaixement | Athens</ctriple>
+        <ctriple>Adonis_Georgiadis | LlocDeNaixement | Grècia</ctriple>
+        <ctriple>Adonis_Georgiadis | Oficina | Ministeri_d'_Economia,_Desenvolupament_i_Turisme_(Grècia)</ctriple>
+        <ctriple>Adonis_Georgiadis | Successor | Makis_Voridis</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Adonis Georgiadis was born in Athens, Greece and worked for the Ministry of Economy, Development and Tourism in Greece. He was succeeded by Makis Voridis.</lex>
+      <lex lang="en" lid="Id2">Adonis Georgiadis, who was born in Athens Greece worked for the Ministry of Economy, Development and Tourism and his successor was Makis Voridis.</lex>
+      <lex lang="en" lid="Id3">Adonis Georgiadis was born in Athens, Greece and worked at the Ministry of Economy, Development and Tourism. He was succeeded by Makis Voridis.</lex>
+      <lex lang="es" lid="Id1">Adonis Georgiadis nació en Atenas (Grecia) y trabajó para el Ministerio de Economía, Desarrollo y Turismo griego. Le sucedió Makis Voridis.</lex>
+      <lex lang="es" lid="Id2">Adonis Georgiadis, nacido en Atenas (Grecia), trabajó en el Ministerio de Economía, Desarrollo y Turismo, y su sucesor fue Makis Voridis.</lex>
+      <lex lang="es" lid="Id3">Adonis Georgiadis nació en Atenas (Grecia) y trabajó en el Ministerio de Economía, Desarrollo y Turismo. Le sucedió Makis Voridis.</lex>
+      <lex lang="ca" lid="Id1">Adonis Georgiadis va néixer a Atenes, Grècia, i va treballar per al Ministeri d'Economia, Desenvolupament i Turisme de Grècia. El va succeir Makis Voridis.</lex>
+      <lex lang="ca" lid="Id2">Adonis Georgiadis, que va néixer a Atenes Grècia va treballar per al Ministeri d'Economia, Desenvolupament i Turisme i el seu successor va ser Makis Voridis.</lex>
+      <lex lang="ca" lid="Id3">Adonis Georgiadis va néixer a Atenes, Grècia, i va treballar al Ministeri d'Economia, Desenvolupament i Turisme. El va succeir Makis Voridis.</lex>
+      <lex lang="en_bt" lid="Id1">Adonis Georgiadis was born in Athens, Greece, and worked for the Greek Ministry of Economy, Development and Tourism. He was succeeded by Makis Voridis.</lex>
+      <lex lang="en_bt" lid="Id2">Adonis Georgiadis, who was born in Athens Greece worked for the Ministry of Economy, Development and Tourism and his successor was Makis Voridis.</lex>
+      <lex lang="en_bt" lid="Id3">Adonis Georgiadis was born in Athens, Greece, and worked in the Ministry of Economy, Development and Tourism. He was succeeded by Makis Voridis.</lex>
+      </entry>
+    <entry category="Politician" eid="Id19" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Adonis_Georgiadis | primeminister | Antonis_Samaras</otriple>
+        <otriple>Antonis_Samaras | successor | Konstantinos_Mitsotakis</otriple>
+        <otriple>New_Democracy_(Greece) | colour | Blue</otriple>
+        <otriple>Adonis_Georgiadis | party | New_Democracy_(Greece)</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Adonis_Georgiadis | primeMinister | Antonis_Samaras</otriple>
+        <otriple>Antonis_Samaras | successor | Konstantinos_Mitsotakis</otriple>
+        <otriple>New_Democracy_(Greece) | colour | Blue</otriple>
+        <otriple>Adonis_Georgiadis | party | New_Democracy_(Greece)</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adonis_Georgiadis | inOfficeWhilePrimeMinister | Antonis_Samaras</mtriple>
+        <mtriple>Antonis_Samaras | successor | Konstantinos_Mitsotakis</mtriple>
+        <mtriple>New_Democracy_(Greece) | colour | Blue</mtriple>
+        <mtriple>Adonis_Georgiadis | party | New_Democracy_(Greece)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Adonis_Georgiades | EnElCargoMientrasElPrimerMinistro | Antonis_Samarás</striple>
+        <striple>Antonis_Samarás | Sucesor | Konstantínos_Mitsotákis</striple>
+        <striple>Nueva_Democracia_(Grecia) | Color | azul</striple>
+        <striple>Adonis_Georgiades | Fiesta | Nueva_Democracia_(Grecia)</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Adonis_Georgiadis | inOfficeWhilePrimeMinister | Antonis_Samaras</bttriple>
+        <bttriple>Antonis_Samaras | successor | Konstantinos_Mitsotakis</bttriple>
+        <bttriple>New_Democracy_(Greece) | colour | Blue</bttriple>
+        <bttriple>Adonis_Georgiadis | party | New_Democracy_(Greece)</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Adonis_Georgiadis | EnCàrrecMentrePrimerMinistre | Antonis_Samaràs</ctriple>
+        <ctriple>Antonis_Samaràs | Successor | Konstantinos_Mitsotakis</ctriple>
+        <ctriple>Nova_Democràcia_(Grècia) | Color | Blue</ctriple>
+        <ctriple>Adonis_Georgiadis | Festa | Nova_Democràcia_(Grècia)</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Adonis Georgiadis, a member of the Greek New Democracy Party (the party's colour is blue), was in office while Antonis Samaras was Prime Minister. Konstantinos Mitsotakis was the successor to Antonis Samaras.</lex>
+      <lex lang="en" lid="Id2">Adonis Georgiadis, is a member of the Greek New Democracy Party, the colour of which is blue. Adonis Georgiadis was in office while Antonis Samaras, was Prime Minister. Konstantinos Mitsotakis was the successor to Antonis Samaras.</lex>
+      <lex lang="en" lid="Id3">Adonis Georgiadis was a member of the New Democracy Party in Greece under Prime Minister Antonis Samaras. Samaras was succeeded by Konstantinos Mitsotakis and the party's colours are blue.</lex>
+      <lex lang="es" lid="Id1">Adonis Georgiadis, miembro del partido griego Nueva Democracia (el color del partido es el azul), ocupó el cargo mientras Antonis Samaras era Primer Ministro. Konstantinos Mitsotakis fue el sucesor de Antonis Samaras.</lex>
+      <lex lang="es" lid="Id2">Adonis Georgiadis, es miembro del partido griego Nueva Democracia, cuyo color es el azul. Adonis Georgiadis ocupó el cargo mientras Antonis Samaras era Primer Ministro. Konstantinos Mitsotakis fue el sucesor de Antonis Samaras.</lex>
+      <lex lang="es" lid="Id3">Adonis Georgiadis fue miembro del partido Nueva Democracia en Grecia bajo el mandato del Primer Ministro Antonis Samaras. A Samarás le sucedió Konstantinos Mitsotakis y los colores del partido son el azul.</lex>
+      <lex lang="ca" lid="Id1">Adonis Georgiadis, membre del Partit Nova Democràcia (el color del partit és el blau), va ocupar el càrrec mentre Antonis Samaras era Primer Ministre, i Konstantinos Mitsotakis va ser el successor d'Antonis Samaras.</lex>
+      <lex lang="ca" lid="Id2">Adonis Georgiadis és membre del partit grec Nova Democràcia, el color del qual és el blau. Adonis Georgiadis va ocupar el càrrec mentre Antonis Samaras era primer ministre. Konstantinos Mitsotakis va ser el successor d'Antonis Samaras.</lex>
+      <lex lang="ca" lid="Id3">Adonis Georgiadis va ser membre del Partit Nova Democràcia a Grècia sota el primer ministre Antonis Samaras, que va ser succeït per Konstantinos Mitsotakis, i els colors del partit són el blau.</lex>
+      <lex lang="en_bt" lid="Id1">Adonis Georgiadis, a member of the New Democracy Party (the party color is blue), held the office while Antonis Samaras was Prime Minister, and Konstantinos Mitsotakis was Antonis Samaras' successor.</lex>
+      <lex lang="en_bt" lid="Id2">Adonis Georgiadis is a member of the Greek party New Democracy, whose color is blue. Adonis Georgiadis held the position while Antonis Samaras was prime minister. Konstantinos Mitsotakis was Antonis Samaras' successor.</lex>
+      <lex lang="en_bt" lid="Id3">Adonis Georgiadis was a member of the New Democracy Party in Greece under Prime Minister Antonis Samaras, who was succeeded by Konstantinos Mitsotakis, and the party colors are blue.</lex>
+      </entry>
+    <entry category="Politician" eid="Id20" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Airey_Neave | battles | Battle_of_France</otriple>
+        <otriple>Airey_Neave | birthPlace | Knightsbridge</otriple>
+        <otriple>Airey_Neave | activeYearsStartDate | "1974-03-04"^^xsd:date</otriple>
+        <otriple>Airey_Neave | activeYearsEndDate | "1979-03-30"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Airey_Neave | battle | Battle_of_France</mtriple>
+        <mtriple>Airey_Neave | birthPlace | Knightsbridge</mtriple>
+        <mtriple>Airey_Neave | activeYearsStartDate | 1974-03-04</mtriple>
+        <mtriple>Airey_Neave | activeYearsEndDate | 1979-03-30</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Airey_Neave | Batalla | batalla_de_Francia</striple>
+        <striple>Airey_Neave | LugarDeNacimiento | Knightsbridge</striple>
+        <striple>Airey_Neave | AñosActivosFechaDeInicio | 04-03-1974</striple>
+        <striple>Airey_Neave | AñosActivosFechaFin | 30-03-1979</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Airey_Neave | battle | Battle_of_France</bttriple>
+        <bttriple>Airey_Neave | birthPlace | Knightsbridge</bttriple>
+        <bttriple>Airey_Neave | activeYearsStartDate | 1974-03-04</bttriple>
+        <bttriple>Airey_Neave | activeYearsEndDate | 1979-03-30</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Airey_Neave | Batalla | batalla_de_França</ctriple>
+        <ctriple>Airey_Neave | LlocDeNaixement | Knightsbridge</ctriple>
+        <ctriple>Airey_Neave | AnysActiusDataD'inici | 1974-03-04</ctriple>
+        <ctriple>Airey_Neave | DataDeFinalitzacióD'anysActiva | 1979-03-30</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Born in Knightsbridge, Airey Neave; began his career on March 4th 1974, fought in the Battle of France, and ended his career on 30th March 1979.</lex>
+      <lex lang="en" lid="Id2">Airey Neave was born in Knightsbridge and began his career on March 4th 1974. He fought in the Battle of France and ended his career on March 30th 1979.</lex>
+      <lex lang="en" lid="Id3">Knightsbridge born Airey Neave, who fought in the Battle of France, had a career which lasted from March 4th 1974 to 30th March 1979.</lex>
+      <lex lang="es" lid="Id1">Nacido en Knightsbridge, Airey Neave; comenzó su carrera el 4 de marzo de 1974, luchó en la Batalla de Francia y la terminó el 30-03-1979.</lex>
+      <lex lang="es" lid="Id2">Airey Neave nació en Knightsbridge y comenzó su carrera el 4 de marzo de 1974. Luchó en la Batalla de Francia y terminó su carrera el 30-03-1979.</lex>
+      <lex lang="es" lid="Id3">Airey Neave, nacido en Knightsbridge y que luchó en la Batalla de Francia, tuvo una carrera que duró desde el 4 de marzo de 1974 hasta el 30-03-1979.</lex>
+      <lex lang="ca" lid="Id1">Nascut a Knightsbridge, Airey Neave; va començar la seva carrera el 4 de març de 1974, va lluitar a la Batalla de França i va acabar la seva carrera el 30 de març de 1979.</lex>
+      <lex lang="ca" lid="Id2">Airey Neave va néixer a Knightsbridge i va començar la seva carrera el 4 de març de 1974, va lluitar a la Batalla de França i va acabar la seva carrera el 30 de març de 1979.</lex>
+      <lex lang="ca" lid="Id3">Airey Neave, nascut a Knightsbridge, que va lluitar a la Batalla de França, va tenir una carrera que va durar del 4 de març de 1974 al 30 de març de 1979.</lex>
+      <lex lang="en_bt" lid="Id1">Born in Knightsbridge, Airey Neave; began his career on 4 March 1974, fought in the Battle of France and ended his career on 30 March 1979.</lex>
+      <lex lang="en_bt" lid="Id2">Airey Neave was born in Knightsbridge and began his career on 4 March 1974, fought in the Battle of France and ended his career on 30 March 1979.</lex>
+      <lex lang="en_bt" lid="Id3">Airey Neave, born in Knightsbridge, who fought in the Battle of France, had a career that lasted from 4 March 1974 to 30 March 1979.</lex>
+      </entry>
+    <entry category="Politician" eid="Id21" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Airey_Neave | battles | World_War_II</otriple>
+        <otriple>Airey_Neave | birthPlace | Knightsbridge</otriple>
+        <otriple>Airey_Neave | activeYearsStartDate | "1953-06-30"^^xsd:date</otriple>
+        <otriple>Airey_Neave | activeYearsEndDate | "1979-03-30"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Airey_Neave | battle | World_War_II</mtriple>
+        <mtriple>Airey_Neave | birthPlace | Knightsbridge</mtriple>
+        <mtriple>Airey_Neave | activeYearsStartDate | 1953-06-30</mtriple>
+        <mtriple>Airey_Neave | activeYearsEndDate | 1979-03-30</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Airey_Neave | Batalla | Segunda_Guerra_Mundial</striple>
+        <striple>Airey_Neave | LugarDeNacimiento | Knightsbridge</striple>
+        <striple>Airey_Neave | AñosActivosFechaDeInicio | 30-06-1953</striple>
+        <striple>Airey_Neave | AñosActivosFechaFin | 30-03-1979</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Airey_Neave | battle | World_War_II</bttriple>
+        <bttriple>Airey_Neave | birthPlace | Knightsbridge</bttriple>
+        <bttriple>Airey_Neave | activeYearsStartDate | 1953-06-30</bttriple>
+        <bttriple>Airey_Neave | activeYearsEndDate | 1979-03-30</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Airey_Neave | Batalla | Segona_Guerra_Mundial</ctriple>
+        <ctriple>Airey_Neave | LlocDeNaixement | Knightsbridge</ctriple>
+        <ctriple>Airey_Neave | AnysActiusDataD'inici | 1953-06-30</ctriple>
+        <ctriple>Airey_Neave | DataDeFinalitzacióD'anysActiva | 1979-03-30</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Airey Neave was born in Knightsbridge, England and fought in World War Two. He started his career on June 30th, 1953 and ended it on March 30th, 1979.</lex>
+      <lex lang="en" lid="Id2">Knightsbridge born Airey Neave fought in World War II. His career began on 30th June 1953 and ended on 30th March 1979.</lex>
+      <lex lang="en" lid="Id3">World War II veteran Airey Neave was born in Knightsbridge. He began his career 06/30/1953 and retired 03/30/1979.</lex>
+      <lex lang="es" lid="Id1">Airey Neave nació en Knightsbridge, Inglaterra, y luchó en la Segunda Guerra Mundial. Comenzó su carrera el 30-06-1953 y la terminó el 30-03-1979.</lex>
+      <lex lang="es" lid="Id2">Airey Neave, nacido en Knightsbridge, luchó en la Segunda Guerra Mundial. Su carrera comenzó el 30-06-1953 y terminó el 30-03-1979.</lex>
+      <lex lang="es" lid="Id3">Airey Neave, veterano de la Segunda Guerra Mundial, nació en Knightsbridge. Comenzó su carrera el 30/06/1953 y se jubiló el 30/03/1979.</lex>
+      <lex lang="ca" lid="Id1">Airey Neave va néixer a Knightsbridge, Anglaterra, i va lluitar a la Segona Guerra Mundial. Va començar la seva carrera el 30 de juny de 1953 i la va acabar el 30 de març de 1979.</lex>
+      <lex lang="ca" lid="Id2">Airey Neave, nascut a Knightsbridge, va lluitar a la Segona Guerra Mundial. La seva carrera va començar el 30 de juny de 1953 i va acabar el 30 de març de 1979.</lex>
+      <lex lang="ca" lid="Id3">El veterà de la Segona Guerra Mundial Airey Neave va néixer a Knightsbridge. Va començar la seva carrera el 30/06/1953 i es va retirar el 30/03/1979.</lex>
+      <lex lang="en_bt" lid="Id1">Airey Neave was born in Knightsbridge, England, and fought in World War II. He began his career on 30 June 1953 and ended it on 30 March 1979.</lex>
+      <lex lang="en_bt" lid="Id2">Airey Neave, born in Knightsbridge, fought in World War II. His career began on 30 June 1953 and ended on 30 March 1979.</lex>
+      <lex lang="en_bt" lid="Id3">World War II veteran Airey Neave was born in Knightsbridge. He began his career on 30/06/1953 and retired on 30/03/1979.</lex>
+      </entry>
+    <entry category="Politician" eid="Id22" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Albert_B._White | birthYear | "1856"^^xsd:gYear</otriple>
+        <otriple>Albert_B._White | dateOfBirth | "1856-09-22"^^xsd:date</otriple>
+        <otriple>Albert_B._White | placeOfDeath | Parkersburg,_West_Virginia</otriple>
+        <otriple>Albert_B._White | dateOfDeath | "1941-07-03"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Albert_B._White | birthYear | 1856</mtriple>
+        <mtriple>Albert_B._White | birthDate | 1856-09-22</mtriple>
+        <mtriple>Albert_B._White | deathPlace | Parkersburg,_West_Virginia</mtriple>
+        <mtriple>Albert_B._White | deathDate | 1941-07-03</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Albert_B._White | AñoDeNacimiento | 1856</striple>
+        <striple>Albert_B._White | FechaDeNacimiento | 22-09-1856</striple>
+        <striple>Albert_B._White | LugarDeLaMuerte | Parkersburg,_Virginia_Occidental</striple>
+        <striple>Albert_B._White | FechaDeDefunción | 03-07-1941</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Albert_B._White | birthYear | 1856</bttriple>
+        <bttriple>Albert_B._White | birthDate | 1856-09-22</bttriple>
+        <bttriple>Albert_B._White | deathPlace | Parkersburg,_West_Virginia</bttriple>
+        <bttriple>Albert_B._White | deathDate | 1941-07-03</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Albert_B._White | AnyDeNaixement | 1856</ctriple>
+        <ctriple>Albert_B._White | DataDeNaixement | 1856-09-22</ctriple>
+        <ctriple>Albert_B._White | LlocDeLaMort | Parkersburg,_Virgínia_Occidental</ctriple>
+        <ctriple>Albert_B._White | DataDeMort | 1941-07-03</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Born on 22nd September 1856, Albert B. White died on the 1941-07-03, in Parkersburg, West Virginia.</lex>
+      <lex lang="en" lid="Id2">Albert B White was born on 22nd September 1856 and he died in Parkersburg, West Virginia on 1941-07-03.</lex>
+      <lex lang="en" lid="Id3">Albert B White was born on 22nd September 1856 and died on the 3rd July 1941 in Parkersburg, West Virginia.</lex>
+      <lex lang="es" lid="Id1">Nacido el 22-09-1856, Albert B. White murió el 03-07-1941, en Parkersburg, West Virginia.</lex>
+      <lex lang="es" lid="Id2">Albert B White nació el 22-09-1856 y falleció en Parkersburg, West Virginia el 03-07-1941.</lex>
+      <lex lang="es" lid="Id3">Albert B White nació el 22-09-1856 y falleció el 03-07-1941 en Parkersburg, West Virginia.</lex>
+      <lex lang="ca" lid="Id1">Nascut el 22 de setembre de 1856, Albert B. White va morir el 3 de juliol de 1941 a Parkersburg, Virgínia Occidental.</lex>
+      <lex lang="ca" lid="Id2">Albert B. White va néixer el 22 de setembre de 1856 i va morir a Parkersburg, Virgínia Occidental el 3 de juliol de 1941.</lex>
+      <lex lang="ca" lid="Id3">Albert B. White va néixer el 22 de setembre de 1856 i va morir el 3 de juliol de 1941 a Parkersburg, Virgínia Occidental.</lex>
+      <lex lang="en_bt" lid="Id1">Born on September 22, 1856, Albert B. White died on July 3, 1941 in Parkersburg, West Virginia.</lex>
+      <lex lang="en_bt" lid="Id2">Albert B. White was born on September 22, 1856 and died in Parkersburg, West Virginia on July 3, 1941.</lex>
+      <lex lang="en_bt" lid="Id3">Albert B. White was born on September 22, 1856 and died on July 3, 1941 in Parkersburg, West Virginia.</lex>
+      </entry>
+    <entry category="Politician" eid="Id23" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Albert_Jennings_Fountain | deathPlace | Doña_Ana_County,_New_Mexico</otriple>
+        <otriple>Albert_Jennings_Fountain | placeOfDeath | United_States</otriple>
+        <otriple>Albert_Jennings_Fountain | birthPlace | New_York</otriple>
+        <otriple>Albert_Jennings_Fountain | placeOfBirth | Staten_Island</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Albert_Jennings_Fountain | deathPlace | Doña_Ana_County,_New_Mexico</mtriple>
+        <mtriple>Albert_Jennings_Fountain | deathPlace | United_States</mtriple>
+        <mtriple>Albert_Jennings_Fountain | birthPlace | New_York</mtriple>
+        <mtriple>Albert_Jennings_Fountain | birthPlace | Staten_Island</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Albert_Jennings_Fountain | LugarDeLaMuerte | Condado_de_Doña_Ana,_Nuevo_México</striple>
+        <striple>Albert_Jennings_Fountain | LugarDeLaMuerte | Estados_Unidos</striple>
+        <striple>Albert_Jennings_Fountain | LugarDeNacimiento | New_York</striple>
+        <striple>Albert_Jennings_Fountain | LugarDeNacimiento | Staten_Island</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Albert_Jennings_Fountain | deathPlace | Doña_Ana_County,_New_Mexico</bttriple>
+        <bttriple>Albert_Jennings_Fountain | deathPlace | United_States</bttriple>
+        <bttriple>Albert_Jennings_Fountain | birthPlace | New_York</bttriple>
+        <bttriple>Albert_Jennings_Fountain | birthPlace | Staten_Island</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Albert_Jennings_Fountain | LlocDeLaMort | Comtat_de_Doña_Ana,_New_Mexico</ctriple>
+        <ctriple>Albert_Jennings_Fountain | LlocDeLaMort | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Albert_Jennings_Fountain | LlocDeNaixement | Nova_York</ctriple>
+        <ctriple>Albert_Jennings_Fountain | LlocDeNaixement | Staten_Island</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Staten Island (New York) is the birth place of Albert Jennings Fountain who died in Dona Ana County, New Mexico, in the United States.</lex>
+      <lex lang="en" lid="Id2">Albert Jennings Fountain was born in Staten Island, New York and died in Dona Ana County, New Mexico, United States.</lex>
+      <lex lang="en" lid="Id3">Albert Jennings Fountain, born in Staten Island, New York, died in Dona Ana County, New Mexico, United States.</lex>
+      <lex lang="es" lid="Id1">Staten Island (Nueva York) es el lugar de nacimiento de Albert Jennings Fountain, que murió en el condado de Doña Ana, Nuevo México, en Estados Unidos.</lex>
+      <lex lang="es" lid="Id2">Albert Jennings Fountain nació en Staten Island, Nueva York y murió en Dona Ana County, Nuevo México, Estados Unidos.</lex>
+      <lex lang="es" lid="Id3">Albert Jennings Fountain, nacido en Staten Island, Nueva York, fallecido en Dona Ana County, Nuevo México, Estados Unidos.</lex>
+      <lex lang="ca" lid="Id1">Staten Island (Nova York) és el lloc de naixement d'Albert Jennings Fountain que va morir al comtat de Dona Ana, Nou Mèxic, als Estats Units.</lex>
+      <lex lang="ca" lid="Id2">Albert Jennings Fountain va néixer a Staten Island, Nova York i va morir al comtat de Dona Ana, Nou Mèxic, Estats Units.</lex>
+      <lex lang="ca" lid="Id3">Albert Jennings Fountain, nascut a Staten Island, Nova York, va morir al comtat de Dona Ana, Nou Mèxic, Estats Units.</lex>
+      <lex lang="en_bt" lid="Id1">Staten Island (New York) is the birthplace of Albert Jennings Fountain who died in Dona Ana County, New Mexico, United States.</lex>
+      <lex lang="en_bt" lid="Id2">Albert Jennings Fountain was born in Staten Island, New York and died in Dona Ana County, New Mexico, United States.</lex>
+      <lex lang="en_bt" lid="Id3">Albert Jennings Fountain, born in Staten Island, New York, died in Dona Ana County, New Mexico, United States.</lex>
+      </entry>
+    <entry category="Politician" eid="Id24" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Alberto_Teisaire | profession | Rear_admiral</otriple>
+        <otriple>Alberto_Teisaire | successor | Isaac_Rojas</otriple>
+        <otriple>Alberto_Teisaire | birthPlace | Mendoza,_Argentina</otriple>
+        <otriple>Alberto_Teisaire | dateOfBirth | "1891-05-20"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alberto_Teisaire | profession | Rear_admiral</mtriple>
+        <mtriple>Alberto_Teisaire | successor | Isaac_Rojas</mtriple>
+        <mtriple>Alberto_Teisaire | birthPlace | Mendoza,_Argentina</mtriple>
+        <mtriple>Alberto_Teisaire | birthDate | 1891-05-20</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alberto_Teisseire | Profesión | contralmirante</striple>
+        <striple>Alberto_Teisseire | Sucesor | Isaac_Francisco_Rojas</striple>
+        <striple>Alberto_Teisseire | LugarDeNacimiento | Mendoza</striple>
+        <striple>Alberto_Teisseire | FechaDeNacimiento | 20-05-1891</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Alberto_Teisaire | profession | Rear_admiral</bttriple>
+        <bttriple>Alberto_Teisaire | successor | Isaac_Rojas</bttriple>
+        <bttriple>Alberto_Teisaire | birthPlace | Mendoza,_Argentina</bttriple>
+        <bttriple>Alberto_Teisaire | birthDate | 1891-05-20</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Alberto_Teisaire | Professió | rear_admiral</ctriple>
+        <ctriple>Alberto_Teisaire | Successor | Isaac_Rojas</ctriple>
+        <ctriple>Alberto_Teisaire | LlocDeNaixement | Mendoza,_Argentina</ctriple>
+        <ctriple>Alberto_Teisaire | DataDeNaixement | 1891-05-20</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Alberto Teisaire, born on May 20, 1891, was a Rear Admiral originating from Mendoza, Argentina. He preceded Isaac Rojas.</lex>
+      <lex lang="en" lid="Id2">Alberto teisaire was born in Mendoza, Argentina on May 20th, 1891, and worked as a Rear Admiral, later succeeded by Isaac Rojas.</lex>
+      <lex lang="en" lid="Id3">Alberto Teisaire was born on May 20th 1891 in Mendoza, Argentina and became a Rear Admiral. He was succeeded by Isaac Rojas.</lex>
+      <lex lang="es" lid="Id1">Alberto Teisaire, nacido el 20-05-1891, era un contralmirante originario de Mendoza, Argentina. Precedió a Isaac Rojas.</lex>
+      <lex lang="es" lid="Id2">Alberto teisaire nació en Mendoza, Argentina, el 20-05-1891, y ejerció de contralmirante, sucediéndole más tarde Isaac Rojas.</lex>
+      <lex lang="es" lid="Id3">Alberto Teisaire nació el 20-05-1891 en Mendoza (Argentina) y llegó a ser contralmirante. Le sucedió Isaac Rojas.</lex>
+      <lex lang="ca" lid="Id1">Alberto Teisaire, nascut el 20 de maig de 1891, va ser un contraalmirall originari de Mendoza, Argentina, que va precedir Isaac Rojas.</lex>
+      <lex lang="ca" lid="Id2">Alberto Teisaire va néixer a Mendoza, Argentina, el 20 de maig de 1891, i va treballar com a contraalmirall, més tard succeït per Isaac Rojas.</lex>
+      <lex lang="ca" lid="Id3">Alberto Teisaire va néixer el 20 de maig de 1891 a Mendoza, Argentina, i va esdevenir contraalmirall. El va succeir Isaac Rojas.</lex>
+      <lex lang="en_bt" lid="Id1">Alberto Teisaire, born 20 May 1891, was a rear admiral from Mendoza, Argentina, who preceded Isaac Rojas.</lex>
+      <lex lang="en_bt" lid="Id2">Alberto Teisaire was born in Mendoza, Argentina, on May 20, 1891, and worked as a rear admiral, later succeeded by Isaac Rojas.</lex>
+      <lex lang="en_bt" lid="Id3">Alberto Teisaire was born on May 20, 1891 in Mendoza, Argentina, and became Rear Admiral. He was succeeded by Isaac Rojas.</lex>
+      </entry>
+    <entry category="Politician" eid="Id25" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Alfons_Gorbach | placeOfDeath | Styria</otriple>
+        <otriple>Alfons_Gorbach | deathPlace | Austria</otriple>
+        <otriple>Alfons_Gorbach | birthPlace | Austria-Hungary</otriple>
+        <otriple>Alfons_Gorbach | placeOfBirth | Imst</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfons_Gorbach | deathPlace | Styria</mtriple>
+        <mtriple>Alfons_Gorbach | deathPlace | Austria</mtriple>
+        <mtriple>Alfons_Gorbach | birthPlace | Austria-Hungary</mtriple>
+        <mtriple>Alfons_Gorbach | birthPlace | Imst</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alfons_Gorbach | LugarDeLaMuerte | Estiria</striple>
+        <striple>Alfons_Gorbach | LugarDeLaMuerte | Austria</striple>
+        <striple>Alfons_Gorbach | LugarDeNacimiento | Imperio_austrohúngaro</striple>
+        <striple>Alfons_Gorbach | LugarDeNacimiento | Imst</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Alphonse_Gorbach | deathPlace | Styria</bttriple>
+        <bttriple>Alphonse_Gorbach | deathPlace | Austria</bttriple>
+        <bttriple>Alphonse_Gorbach | birthPlace | Austria-Hungary</bttriple>
+        <bttriple>Alphonse_Gorbach | birthPlace | Imst</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Alfons_Gorbach | LlocDeLaMort | Estíria</ctriple>
+        <ctriple>Alfons_Gorbach | LlocDeLaMort | Àustria</ctriple>
+        <ctriple>Alfons_Gorbach | LlocDeNaixement | Àustria-Hongria</ctriple>
+        <ctriple>Alfons_Gorbach | LlocDeNaixement | Imst</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Alfons Gorbach was born in Austria-Hungary, in Imst and died in Styria, in Austria.</lex>
+      <lex lang="en" lid="Id2">Alfons Gorbach was born in Imst in Austria-Hungary and died in Styria, Austria.</lex>
+      <lex lang="en" lid="Id3">Alfons Gorbach was born in Imst, Austria-Hungary and died in Styria, Austria.</lex>
+      <lex lang="es" lid="Id1">Alfons Gorbach nació en Austria-Hungría, en Imst, y murió en Estiria, en Austria.</lex>
+      <lex lang="es" lid="Id2">Alfons Gorbach nació en Imst (Austria-Hungría) y murió en Estiria (Austria).</lex>
+      <lex lang="es" lid="Id3">Alfons Gorbach nació en Imst (Austria-Hungría) y falleció en Estiria (Austria).</lex>
+      <lex lang="ca" lid="Id1">Alfons Gorbach va néixer a Àustria-Hongria, a Imst i va morir a Estíria, a Àustria.</lex>
+      <lex lang="ca" lid="Id2">Alfons Gorbach va néixer a Imst a Àustria-Hongria i va morir a Estíria, Àustria.</lex>
+      <lex lang="ca" lid="Id3">Alfons Gorbach va néixer a Imst, Àustria-Hongria i va morir a Estíria, Àustria.</lex>
+      <lex lang="en_bt" lid="Id1">Alfons Gorbach was born in Imst, Austria-Hungary and died in Styria, Austria.</lex>
+      <lex lang="en_bt" lid="Id2">Alfons Gorbach was born in Imst in Austria-Hungary and died in Styria, Austria.</lex>
+      <lex lang="en_bt" lid="Id3">Alfons Gorbach was born in Imst, Austria-Hungary and died in Styria, Austria.</lex>
+      </entry>
+    <entry category="Politician" eid="Id26" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Alfons_Gorbach | placeOfDeath | Styria</otriple>
+        <otriple>Alfons_Gorbach | deathPlace | Graz</otriple>
+        <otriple>Alfons_Gorbach | birthPlace | Austria-Hungary</otriple>
+        <otriple>Alfons_Gorbach | placeOfBirth | Tyrol_(state)</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfons_Gorbach | deathPlace | Styria</mtriple>
+        <mtriple>Alfons_Gorbach | deathPlace | Graz</mtriple>
+        <mtriple>Alfons_Gorbach | birthPlace | Austria-Hungary</mtriple>
+        <mtriple>Alfons_Gorbach | birthPlace | Tyrol_(state)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alfons_Gorbach | LugarDeLaMuerte | Estiria</striple>
+        <striple>Alfons_Gorbach | LugarDeLaMuerte | Graz</striple>
+        <striple>Alfons_Gorbach | LugarDeNacimiento | Imperio_austrohúngaro</striple>
+        <striple>Alfons_Gorbach | LugarDeNacimiento | Tirol_(Estado)</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Alphonse_Gorbach | deathPlace | Styria</bttriple>
+        <bttriple>Alphonse_Gorbach | deathPlace | Graz</bttriple>
+        <bttriple>Alphonse_Gorbach | birthPlace | Austria-Hungary</bttriple>
+        <bttriple>Alphonse_Gorbach | birthPlace | Tyrol_(state)</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Alfons_Gorbach | LlocDeLaMort | Estíria</ctriple>
+        <ctriple>Alfons_Gorbach | LlocDeLaMort | Graz</ctriple>
+        <ctriple>Alfons_Gorbach | LlocDeNaixement | Àustria-Hongria</ctriple>
+        <ctriple>Alfons_Gorbach | LlocDeNaixement | Tirol_(estat)</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Alfons Gorbach was born in Austria-Hungary in the state of Tyrol. He died in Styria in Graz.</lex>
+      <lex lang="en" lid="Id2">Alfons Gorbach was born in Austria-Hungary in Tyrol state. He died in Styria in Graz.</lex>
+      <lex lang="en" lid="Id3">Alfons Gorbach was born in the County of Tyrol in Austria-Hungary and died in Styria, Graz.</lex>
+      <lex lang="es" lid="Id1">Alfons Gorbach nació en Austria-Hungría, en el estado de Tirol. Murió en Estiria, en Graz.</lex>
+      <lex lang="es" lid="Id2">Alfons Gorbach nació en Austria-Hungría, en el estado de Tirol. Murió en Estiria, en Graz.</lex>
+      <lex lang="es" lid="Id3">Alfons Gorbach nació en el condado de Tirol, en Austria-Hungría, y murió en Estiria, Graz.</lex>
+      <lex lang="ca" lid="Id1">Alfons Gorbach va néixer a Àustria-Hongria, a l'estat del Tirol. Va morir a Estíria, a Graz.</lex>
+      <lex lang="ca" lid="Id2">Alfons Gorbach va néixer a Àustria-Hongria, a l'estat del Tirol, i va morir a Estíria, a Graz.</lex>
+      <lex lang="ca" lid="Id3">Alfons Gorbach va néixer al comtat de Tirol a Àustria-Hongria i va morir a Estíria, Graz.</lex>
+      <lex lang="en_bt" lid="Id1">Alfons Gorbach was born in Austria-Hungary, in the state of Tyrol, and died in Styria, in Graz.</lex>
+      <lex lang="en_bt" lid="Id2">Alfons Gorbach was born in Austria-Hungary, in the state of Tyrol, and died in Styria, in Graz.</lex>
+      <lex lang="en_bt" lid="Id3">Alfons Gorbach was born in the county of Tyrol in Austria-Hungary and died in Styria, Graz.</lex>
+      </entry>
+    <entry category="Politician" eid="Id27" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Alfred_N._Phillips | militaryBranch | United_States_Army</otriple>
+        <otriple>United_States_Army | battles | Whiskey_Rebellion</otriple>
+        <otriple>Alfred_N._Phillips | birthPlace | Connecticut</otriple>
+        <otriple>Alfred_N._Phillips | office | "Member of the"@en</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Alfred_N._Phillips | militaryBranch | United_States_Army</otriple>
+        <otriple>United_States_Army | battles | Whiskey_Rebellion</otriple>
+        <otriple>Alfred_N._Phillips | birthPlace | Connecticut</otriple>
+        <otriple>Alfred_N._Phillips | office | "from Connecticut's 4th district"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_N._Phillips | militaryBranch | United_States_Army</mtriple>
+        <mtriple>United_States_Army | battle | Whiskey_Rebellion</mtriple>
+        <mtriple>Alfred_N._Phillips | birthPlace | Connecticut</mtriple>
+        <mtriple>Alfred_N._Phillips | office | "Member of the U.S. House of Representatives from Connecticut's 4th district"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alfred_N._Phillips | RamaMilitar | Ejército_de_los_Estados_Unidos</striple>
+        <striple>Ejército_de_los_Estados_Unidos | Batalla | Rebelión_del_Whisky</striple>
+        <striple>Alfred_N._Phillips | LugarDeNacimiento | Connecticut</striple>
+        <striple>Alfred_N._Phillips | Oficina | Miembro_de_la_Cámara_de_Representantes_de_EE.UU._por_el_4º_distrito_de_Connecticut</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Alfred_N._Phillips | militaryBranch | United_States_Army</bttriple>
+        <bttriple>United_States_Army | battle | Whiskey_Rebellion</bttriple>
+        <bttriple>Alfred_N._Phillips | birthPlace | Connecticut</bttriple>
+        <bttriple>Alfred_N._Phillips | office | "Member of the U.S. House of Representatives from Connecticut's 4th district"</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Alfred_N._Phillips | BrancaMilitar | Exèrcit_dels_Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Exèrcit_dels_Estats_Units_d'Amèrica | Batalla | Rebel·lió_del_Whisky</ctriple>
+        <ctriple>Alfred_N._Phillips | LlocDeNaixement | Connecticut</ctriple>
+        <ctriple>Alfred_N._Phillips | Oficina | Membre_de_la_Cambra_de_Representants_dels_Estats_Units_del_4è_districte_de_Connecticut</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Connecticut born Alfred N Phillips, who served in the US Army, fought in the battle called Whiskey Rebellion. He was later a Member of the U.S. House of Representatives from Connecticut's 4th district.</lex>
+      <lex lang="en" lid="Id2">Connecticut born Alfred N Phillips served in the US Army and fought in the Whiskey Rebellion battle. He was later a Member of the U.S. House of Representatives from Connecticut's 4th district.</lex>
+      <lex lang="en" lid="Id3">U.S. House of Representatives, 4th District, Connecticut member Alfred N Phillips (born: Connecticut) was a US Army veteran. The Whiskey Rebellion was fought by the United States Army.</lex>
+      <lex lang="es" lid="Id1">Alfred N Phillips, nacido en Connecticut, sirvió en el ejército estadounidense y luchó en la batalla llamada Rebelión del Whiskey. Posteriormente fue miembro de la Cámara de Representantes de EE.UU. por el distrito 4 de Connecticut.</lex>
+      <lex lang="es" lid="Id2">Alfred N Phillips, nacido en Connecticut, sirvió en el ejército estadounidense y luchó en la batalla de la Rebelión del Whiskey. Posteriormente fue miembro de la Cámara de Representantes de EE.UU. por el distrito 4 de Connecticut.</lex>
+      <lex lang="es" lid="Id3">Alfred N Phillips (nacido en Connecticut), miembro de la Cámara de Representantes de los Estados Unidos, 4º Distrito, Connecticut, fue un veterano del Ejército de los Estados Unidos. La Rebelión del Whiskey fue combatida por el Ejército de los Estados Unidos.</lex>
+      <lex lang="ca" lid="Id1">Nascut a Connecticut, Alfred N Phillips, que va servir a l'exèrcit dels Estats Units, va lluitar en la batalla anomenada Rebel·lió del Whiskey.</lex>
+      <lex lang="ca" lid="Id2">Nascut a Connecticut, Alfred N. Phillips va servir a l'exèrcit dels EUA i va lluitar a la batalla de Whiskey. Més endavant va esdevenir membre de la Cambra de Representants dels EUA pel 4t districte de Connecticut.</lex>
+      <lex lang="ca" lid="Id3">El membre de la Cambra de Representants dels EUA del 4t Districte de Connecticut, Alfred N. Phillips (nascut a Connecticut) era un veterà de l'exèrcit dels EUA. La Rebel·lió del Whisky va ser combatuda per l'exèrcit dels EUA.</lex>
+      <lex lang="en_bt" lid="Id1">Born in Connecticut, Alfred N Phillips, who served in the United States Army, fought in the battle called the Whiskey Rebellion.</lex>
+      <lex lang="en_bt" lid="Id2">Born in Connecticut, Alfred N. Phillips served in the U.S. Army and fought in the Battle of Whiskey. He later became a member of the U.S. House of Representatives for the 4th District of Connecticut.</lex>
+      <lex lang="en_bt" lid="Id3">The U.S. House of Representatives member for the 4th District of Connecticut, Alfred N. Phillips (born in Connecticut) was a veteran of the U.S. Army. The Whiskey Rebellion was fought by the U.S. Army.</lex>
+      </entry>
+    <entry category="Politician" eid="Id28" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Allan_Shivers | party | Democratic_Party_(United_States)</otriple>
+        <otriple>Allan_Shivers | successor | Price_Daniel</otriple>
+        <otriple>Allan_Shivers | birthPlace | Lufkin,_Texas</otriple>
+        <otriple>Allan_Shivers | office | "Governor of Texas"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Allan_Shivers | party | Democratic_Party_(United_States)</mtriple>
+        <mtriple>Allan_Shivers | successor | Price_Daniel</mtriple>
+        <mtriple>Allan_Shivers | birthPlace | Lufkin,_Texas</mtriple>
+        <mtriple>Allan_Shivers | office | "Governor of Texas"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Allan_Shivers | Fiesta | Partido_Demócrata_(Estados_Unidos)</striple>
+        <striple>Allan_Shivers | Sucesor | Price_Daniel</striple>
+        <striple>Allan_Shivers | LugarDeNacimiento | Lufkin,_Texas</striple>
+        <striple>Allan_Shivers | Oficina | gobernador_de_Texas</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Allan_Shivers | party | Democratic_Party_(United_States)</bttriple>
+        <bttriple>Allan_Shivers | successor | Price_Daniel</bttriple>
+        <bttriple>Allan_Shivers | birthPlace | Lufkin,_Texas</bttriple>
+        <bttriple>Allan_Shivers | office | "Governor of Texas"</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Allan_Shivers | Festa | Partit_Demòcrata_(Estats_Units)</ctriple>
+        <ctriple>Allan_Shivers | Successor | Price_Daniel</ctriple>
+        <ctriple>Allan_Shivers | LlocDeNaixement | Lufkin,_Texas</ctriple>
+        <ctriple>Allan_Shivers | Oficina | Governador_de_Texas</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Allan Shivers was born in Lufkin, Texas and served in the Democratic Party in the U.S. He worked as the Governor of Texas and was succeeded by, Price Daniel.</lex>
+      <lex lang="en" lid="Id2">U.S. Democratic Party member and Texas Governor, Allan Shivers, was born in Lufkin, Texas. He was succeeded by Price Daniel.</lex>
+      <lex lang="en" lid="Id3">United States Democratic Party member and Governor of Texas Allan Shivers was born in Lufkin, Texas and succeeded by Price Daniel.</lex>
+      <lex lang="es" lid="Id1">Allan Shivers nació en Lufkin (Texas) y militó en el Partido Demócrata de Estados Unidos. Fue Gobernador de Texas y le sucedió Price Daniel.</lex>
+      <lex lang="es" lid="Id2">Allan Shivers, miembro del Partido Demócrata y Gobernador de Texas, nació en Lufkin, Texas. Le sucedió Price Daniel.</lex>
+      <lex lang="es" lid="Id3">Miembro del Partido Demócrata de Estados Unidos y Gobernador de Texas, Allan Shivers nació en Lufkin, Texas, y fue sucedido por Price Daniel.</lex>
+      <lex lang="ca" lid="Id1">Allan Shivers va néixer a Lufkin, Texas i va servir en el Partit Demòcrata als EUA. Va treballar com a governador de Texas i va ser succeït per, Price Daniel.</lex>
+      <lex lang="ca" lid="Id2">Membre del Partit Demòcrata dels Estats Units i Governador de Texas, Allan Shivers, va néixer a Lufkin, Texas, i va ser succeït per Price Daniel.</lex>
+      <lex lang="ca" lid="Id3">Membre del Partit Demòcrata dels Estats Units i governador de Texas Allan Shivers va néixer a Lufkin, Texas i va ser succeït per Price Daniel.</lex>
+      <lex lang="en_bt" lid="Id1">Allan Shivers was born in Lufkin, Texas and served in the Democratic Party in the U.S. He served as Governor of Texas and was succeeded by, Price Daniel.</lex>
+      <lex lang="en_bt" lid="Id2">Democratic Party member of the United States and Governor of Texas, Allan Shivers, was born in Lufkin, Texas, and was succeeded by Price Daniel.</lex>
+      <lex lang="en_bt" lid="Id3">United States Democratic Party member and Texas governor Allan Shivers was born in Lufkin, Texas and was succeeded by Price Daniel.</lex>
+      </entry>
+    <entry category="Politician" eid="Id29" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Alvah_Sabin | party | Whig_Party_(United_States)</otriple>
+        <otriple>Whig_Party_(United_States) | leader | Daniel_Webster</otriple>
+        <otriple>Alvah_Sabin | region | Vermont</otriple>
+        <otriple>Vermont | largestCity | Burlington,_Vermont</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alvah_Sabin | party | Whig_Party_(United_States)</mtriple>
+        <mtriple>Whig_Party_(United_States) | leader | Daniel_Webster</mtriple>
+        <mtriple>Alvah_Sabin | region | Vermont</mtriple>
+        <mtriple>Vermont | largestCity | Burlington,_Vermont</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alvah_Sabin | Fiesta | Partido_Whig_(Estados_Unidos)</striple>
+        <striple>Partido_Whig_(Estados_Unidos) | Líder | Daniel_Webster</striple>
+        <striple>Alvah_Sabin | Región | Vermont</striple>
+        <striple>Vermont | CiudadMásGrande | Burlington,_Vermont</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Alvah_Sabin | party | Whig_Party_(United_States)</bttriple>
+        <bttriple>Whig_Party_(United_States) | leader | Daniel_Webster</bttriple>
+        <bttriple>Alvah_Sabin | region | Vermont</bttriple>
+        <bttriple>Vermont | largestCity | Burlington,_Vermont</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Alvah_Sabin | Festa | Partit_Whig_(Estats_Units)</ctriple>
+        <ctriple>Partit_Whig_(Estats_Units) | Líder | Daniel_Webster</ctriple>
+        <ctriple>Alvah_Sabin | Regió | Vermont</ctriple>
+        <ctriple>Vermont | CiutatMésGran | Burlington,_Vermont</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The largest city in Vermont is Burlington and Alvah Sabin represented Vermont because he belongs to the Whig Party (United States). Daniel Webster was a leader of the Whig Party in the United States.</lex>
+      <lex lang="en" lid="Id2">Alvah Sabin was a member of the Whig Party of the United States and he represented Vermont, whose biggest city is Burlington. Daniel Webster was a leader of the Whig Party in the United States.</lex>
+      <lex lang="en" lid="Id3">Whig Party of the United States was led by Daniel Webster. Member Alvah Sabin represented Burlington and the rest of Vermont.</lex>
+      <lex lang="es" lid="Id1">La ciudad más grande de Vermont es Burlington y Alvah Sabin representó a Vermont por pertenecer al Partido Whig (Estados Unidos). Daniel Webster fue líder del Partido Whig en Estados Unidos.</lex>
+      <lex lang="es" lid="Id2">Alvah Sabin fue miembro del Partido Whig de Estados Unidos y representó a Vermont, cuya ciudad más grande es Burlington. Daniel Webster fue líder del Partido Whig de Estados Unidos.</lex>
+      <lex lang="es" lid="Id3">El Partido Whig de Estados Unidos estaba liderado por Daniel Webster. El diputado Alvah Sabin representaba a Burlington y al resto de Vermont.</lex>
+      <lex lang="ca" lid="Id1">La ciutat més gran de Vermont és Burlington i Alvah Sabin va representar Vermont perquè pertany al Partit Whig (Estats Units). Daniel Webster va ser un líder del Partit Whig als Estats Units.</lex>
+      <lex lang="ca" lid="Id2">Alvah Sabin va ser membre del Partit Whig dels Estats Units i va representar Vermont, la ciutat més gran del qual és Burlington. Daniel Webster va ser un líder del Partit Whig dels Estats Units.</lex>
+      <lex lang="ca" lid="Id3">El Partit Whig dels Estats Units va ser liderat per Daniel Webster. El membre Alvah Sabin representava Burlington i la resta de Vermont.</lex>
+      <lex lang="en_bt" lid="Id1">Burlington is the largest city in Vermont, and Alvah Sabin represented Vermont as a member of the Whig Party. Daniel Webster was a leader of the Whig Party in the United States.</lex>
+      <lex lang="en_bt" lid="Id2">Alvah Sabin was a member of the Whig Party of the United States and represented Vermont, whose largest city is Burlington. Daniel Webster was a leader of the Whig Party of the United States.</lex>
+      <lex lang="en_bt" lid="Id3">The Whig Party of the United States was led by Daniel Webster. Member Alvah Sabin represented Burlington and the rest of Vermont.</lex>
+      </entry>
+    <entry category="Politician" eid="Id30" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Alvah_Sabin | region | Vermont's_3rd_congressional_district</otriple>
+        <otriple>Vermont | largestCity | Burlington,_Vermont</otriple>
+        <otriple>Alvah_Sabin | state | Vermont</otriple>
+        <otriple>Alvah_Sabin | deathPlace | Sycamore,_Illinois</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Alvah_Sabin | region | Vermont's_3rd_congressional_district</otriple>
+        <otriple>Vermont | largestCity | Burlington,_Vermont</otriple>
+        <otriple>Alvah_Sabin | state | Vermont</otriple>
+        <otriple>Alvah_Sabin | placeOfDeath | Sycamore,_Illinois</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alvah_Sabin | region | Vermont's_3rd_congressional_district</mtriple>
+        <mtriple>Vermont | largestCity | Burlington,_Vermont</mtriple>
+        <mtriple>Alvah_Sabin | state | Vermont</mtriple>
+        <mtriple>Alvah_Sabin | deathPlace | Sycamore,_Illinois</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alvah_Sabin | Región | 3er_distrito_electoral_de_Vermont</striple>
+        <striple>Vermont | CiudadMásGrande | Burlington,_Vermont</striple>
+        <striple>Alvah_Sabin | Estado | Vermont</striple>
+        <striple>Alvah_Sabin | LugarDeLaMuerte | Sycamore</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Alvah_Sabin | region | Vermont's_3rd_congressional_district</bttriple>
+        <bttriple>Vermont | largestCity | Burlington,_Vermont</bttriple>
+        <bttriple>Alvah_Sabin | state | Vermont</bttriple>
+        <bttriple>Alvah_Sabin | deathPlace | Sycamore,_Illinois</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Alvah_Sabin | Regió | 3r_districte_congressional_de_Vermont</ctriple>
+        <ctriple>Vermont | CiutatMésGran | Burlington,_Vermont</ctriple>
+        <ctriple>Alvah_Sabin | Estat | Vermont</ctriple>
+        <ctriple>Alvah_Sabin | LlocDeLaMort | Sycamore,_Illinois</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Alvah Sabin was from Vermont where the largest city is Burlington. He represented Vermont's 3rd Congressional District and eventually died in Sycamore, Illinois.</lex>
+      <lex lang="en" lid="Id2">Alvah Sabin represented Vermont's 3rd Congressional District. The state's largest city is Burlington and Sabin died in Sycamore, Illinois.</lex>
+      <lex lang="es" lid="Id1">Alvah Sabin era de Vermont, donde la ciudad más grande es Burlington. Representó al Tercer Distrito del Congreso de Vermont y murió en Sycamore, Illinois.</lex>
+      <lex lang="es" lid="Id2">Alvah Sabin representó al 3er distrito congresual de Vermont. La ciudad más grande del estado es Burlington y Sabin murió en Sycamore, Illinois.</lex>
+      <lex lang="ca" lid="Id1">Alvah Sabin era de Vermont, on la ciutat més gran és Burlington. Va representar el 3r districte del Congrés de Vermont i va morir a Sycamore, Illinois.</lex>
+      <lex lang="ca" lid="Id2">Alvah Sabin va representar el 3r districte del Congrés de Vermont. La ciutat més gran de l'estat és Burlington i Sabin va morir a Sycamore, Illinois.</lex>
+      <lex lang="en_bt" lid="Id1">Alvah Sabin was from Vermont, where the largest city is Burlington. He represented Vermont's 3rd congressional district and died in Sycamore, Illinois.</lex>
+      <lex lang="en_bt" lid="Id2">Alvah Sabin represented Vermont's 3rd congressional district. The state's largest city is Burlington, and Sabin died in Sycamore, Illinois.</lex>
+      </entry>
+    <entry category="Politician" eid="Id31" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+        <otriple>Abraham_A._Ribicoff | birthPlace | ","@en</otriple>
+        <otriple>Abraham_A._Ribicoff | spouse | "Ruth Ribicoff"@en</otriple>
+        <otriple>Abraham_A._Ribicoff | nationality | United_States</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+        <mtriple>Abraham_A._Ribicoff | birthPlace | New_Britain,_Connecticut</mtriple>
+        <mtriple>Abraham_A._Ribicoff | spouse | "Ruth Ribicoff"</mtriple>
+        <mtriple>Abraham_A._Ribicoff | nationality | United_States</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Estados_Unidos | GrupoÉtnico | pueblos_nativos_de_los_Estados_Unidos</striple>
+        <striple>Abraham_A._Ribicoff | LugarDeNacimiento | New_Britain,_Connecticut</striple>
+        <striple>Abraham_A._Ribicoff | Cónyuge | Ruth_Ribicoff</striple>
+        <striple>Abraham_A._Ribicoff | Nacionalidad | Estados_Unidos</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</bttriple>
+        <bttriple>Abraham_A._Ribicoff | birthPlace | New_Britain,_Connecticut</bttriple>
+        <bttriple>Abraham_A._Ribicoff | spouse | "Ruth Ribicoff"</bttriple>
+        <bttriple>Abraham_A._Ribicoff | nationality | United_States</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Estats_Units_d'Amèrica | GrupÈtnic | amerindis_dels_Estats_Units</ctriple>
+        <ctriple>Abraham_A._Ribicoff | LlocDeNaixement | Nova_Bretanya,_Connecticut</ctriple>
+        <ctriple>Abraham_A._Ribicoff | Cònjuge | Ruth_Ribicoff</ctriple>
+        <ctriple>Abraham_A._Ribicoff | Nacionalitat | Estats_Units_d'Amèrica</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Native Americans are an ethnic group in the U.S. where in New Britain, Connecticut, Abraham A Ribicoff was born. U.S. Abraham A. Ribicoff's spouse is Ruth Ribicoff.</lex>
+      <lex lang="en" lid="Id2">Abraham A Ribicoff was born in New Britain, Connecticut and his nationality is American. He was married to Ruth Ribicoff. Native Americans are an ethnic group in the U.S.</lex>
+      <lex lang="en" lid="Id3">American Abraham A. Ribicoff was born in New Britain, Connecticut and is married to Ruth Ribicoff. One of the ethnic groups in the U.S. are Native Americans.</lex>
+      <lex lang="es" lid="Id1">Los nativos americanos son un grupo étnico de los EE. UU., donde nació Abraham A. Ribicoff en New Britain, Connecticut. La esposa de Abraham A. Ribicoff es Ruth Ribicoff.</lex>
+      <lex lang="es" lid="Id2">Abraham A Ribicoff nació en New Britain, Connecticut y su nacionalidad es estadounidense. Estuvo casado con Ruth Ribicoff. Los nativos americanos son un grupo étnico de Estados Unidos.</lex>
+      <lex lang="es" lid="Id3">El estadounidense Abraham A. Ribicoff nació en New Britain, Connecticut, y está casado con Ruth Ribicoff. Uno de los grupos étnicos de Estados Unidos son los nativos americanos.</lex>
+      <lex lang="ca" lid="Id1">Els natius americans són un grup ètnic dels Estats Units on a Nova Bretanya, Connecticut, va néixer Abraham A. Ribicoff. L'esposa d'Abraham A. Ribicoff és Ruth Ribicoff.</lex>
+      <lex lang="ca" lid="Id2">Abraham A Ribicoff va néixer a Nova Bretanya, Connecticut i la seva nacionalitat és americana. Es va casar amb Ruth Ribicoff. Els nadius americans són un grup ètnic dels EUA.</lex>
+      <lex lang="ca" lid="Id3">L'americà Abraham A. Ribicoff va néixer a Nova Bretanya, Connecticut i està casat amb Ruth Ribicoff. Un dels grups ètnics dels Estats Units són els nadius americans.</lex>
+      <lex lang="en_bt" lid="Id1">Native Americans are an ethnic group of the United States where in New Britain, Connecticut, Abraham A. Ribicoff was born. Abraham A. Ribicoff's wife is Ruth Ribicoff.</lex>
+      <lex lang="en_bt" lid="Id2">Abraham A Ribicoff was born in New Britain, Connecticut and is an American. He married Ruth Ribicoff. Native Americans are an ethnic group in the United States.</lex>
+      <lex lang="en_bt" lid="Id3">American Abraham A. Ribicoff was born in New Britain, Connecticut and is married to Ruth Ribicoff. One of the ethnic groups in the United States is Native Americans.</lex>
+      </entry>
+    </entries>
+  </benchmark>

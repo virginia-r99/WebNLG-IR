@@ -1,0 +1,979 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="MeanOfTransportation" eid="Id1" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>A-Rosa_Luna | MeanOfTransportation/length | "125800.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+        <otriple>A-Rosa_Luna | christeningDate | "2005-04-07"^^xsd:date</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>A-Rosa_Luna | shipChristened | "2005-04-07"^^xsd:date</otriple>
+        <otriple>A-Rosa_Luna | MeanOfTransportation/length | "125800.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A-Rosa_Luna | christeningDate | 2005-04-07</mtriple>
+        <mtriple>A-Rosa_Luna | length | 125800.0 (millimetres)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>A-Rosa_Luna | FechaDeBautizo | 07-04-2005</striple>
+        <striple>A-Rosa_Luna | Longitud | 125800,0_(milímetros)</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>A-Rosa_Luna | christeningDate | 2005-04-07</bttriple>
+        <bttriple>A-Rosa_Luna | length | 125800.0 (millimetres)</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>A-Rosa_Luna | ChristeningDate | 2005-04-07</ctriple>
+        <ctriple>A-Rosa_Luna | Longitud | 125800.0_(mil·límetres)</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">A-Rosa Luna is 125800.0 millimetres long and was christened on April 7th, 2005.</lex>
+      <lex lang="en" lid="Id2">The A-Rosa Luna was christened on the 7th of April 2005 and is 125800.0 mm in length.</lex>
+      <lex lang="en" lid="Id3">The A-Rosa Luna is 125800.0 millimetres in length and was christened on the 7th of April 2005.</lex>
+      <lex lang="es" lid="Id1">A-Rosa Luna mide 125800,0 milímetros y fue bautizada el 07-04-2005.</lex>
+      <lex lang="es" lid="Id2">El A-Rosa Luna fue bautizado el 07-04-2005 y mide 125800,0 mm de eslora.</lex>
+      <lex lang="es" lid="Id3">El A-Rosa Luna tiene 125800,0 milímetros de eslora y fue bautizado el 07-04-2005.</lex>
+      <lex lang="ca" lid="Id1">A-Rosa Luna fa 125.800 mil·límetres de llarg i va ser batejat el 7 d'abril de 2005.</lex>
+      <lex lang="ca" lid="Id2">L'A-Rosa Luna va ser batejat el 7 d'abril de 2005 i té 125800,0 mm de longitud.</lex>
+      <lex lang="ca" lid="Id3">L'A-Rosa Luna té 125800.0 mil·límetres de longitud i va ser batejat el 7 d'abril de 2005.</lex>
+      <lex lang="en_bt" lid="Id1">A-Rosa Luna is 125,800 millimetres long and was christened on April 7, 2005.</lex>
+      <lex lang="en_bt" lid="Id2">The A-Rosa Luna was christened on 7 April 2005 and is 125800,0 mm long.</lex>
+      <lex lang="en_bt" lid="Id3">The A-Rosa Luna is 125800.0 millimetres long and was christened on 7 April 2005.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id2" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>A-Rosa_Luna | shipClass | Cruise_ship</otriple>
+        <otriple>A-Rosa_Luna | MeanOfTransportation/length | "125800.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A-Rosa_Luna | shipClass | Cruise_ship</mtriple>
+        <mtriple>A-Rosa_Luna | length | 125800.0 (millimetres)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>A-Rosa_Luna | ClaseDeBuque | crucero</striple>
+        <striple>A-Rosa_Luna | Longitud | 125800,0_(milímetros)</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>A-Rosa_Luna | shipClass | Cruise_ship</bttriple>
+        <bttriple>A-Rosa_Luna | length | 125800.0 (millimetres)</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>A-Rosa_Luna | ClasseDeVaixell | creuer</ctriple>
+        <ctriple>A-Rosa_Luna | Longitud | 125800.0_(mil·límetres)</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The A-Rosa Luna is 125800.0 millimetres in length and classed as a cruise ship.</lex>
+      <lex lang="en" lid="Id2">The A-Rosa Luna which is 125.8 metres long, is classed as a Cruise ship.</lex>
+      <lex lang="en" lid="Id3">The A-Rosa Luna cruise ship is 125800.0 millimetres in length.</lex>
+      <lex lang="es" lid="Id1">El A-Rosa Luna tiene 125800,0 milímetros de longitud y está clasificado como crucero.</lex>
+      <lex lang="es" lid="Id2">El A-Rosa Luna, de 125,8 metros de longitud, está clasificado como crucero.</lex>
+      <lex lang="es" lid="Id3">El crucero A-Rosa Luna tiene 125800,0 milímetros de longitud.</lex>
+      <lex lang="ca" lid="Id1">L'A-Rosa Luna té 125800.0 mil·límetres de llargada i està classificat com un vaixell de creuer.</lex>
+      <lex lang="ca" lid="Id2">L'A-Rosa Luna, que té 125,8 metres de llarg, està classificat com un vaixell de creuers.</lex>
+      <lex lang="ca" lid="Id3">El vaixell de creuer A-Rosa Luna té 125800.0 mil·límetres de llargada.</lex>
+      <lex lang="en_bt" lid="Id1">The A-Rosa Luna is 125800.0 millimetres long and is classified as a cruise ship.</lex>
+      <lex lang="en_bt" lid="Id2">The A-Rosa Luna, which is 125.8 metres long, is classified as a cruise ship.</lex>
+      <lex lang="en_bt" lid="Id3">The cruise ship A-Rosa Luna is 125800.0 millimetres long.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id3" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>AIDA_Cruises | location | Rostock</otriple>
+        <otriple>AIDAluna | operator | AIDA_Cruises</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AIDA_Cruises | location | Rostock</mtriple>
+        <mtriple>AIDAluna | operator | AIDA_Cruises</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>AIDA_Cruises | Ubicación | Rostock</striple>
+        <striple>AIDAluna | Operador | AIDA_Cruises</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>AIDA_Cruises | location | Rostock</bttriple>
+        <bttriple>AIDAluna | operator | AIDA_Cruises</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>AIDA_Cruises | Ubicació | Rostock</ctriple>
+        <ctriple>AIDAluna | Operador | AIDA_Cruises</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The AIDAluna is operated by AIDA Cruises which are located at Rostock.</lex>
+      <lex lang="en" lid="Id2">AIDA Cruises, located in Rostock, are the operator of the ship AIDAluna.</lex>
+      <lex lang="en" lid="Id3">AIDAluna is operated by AIDA Cruises from Rostock.</lex>
+      <lex lang="es" lid="Id1">El AIDAluna está operado por AIDA Cruises, con sede en Rostock.</lex>
+      <lex lang="es" lid="Id2">AIDA Cruises, con sede en Rostock, es el operador del buque AIDAluna.</lex>
+      <lex lang="es" lid="Id3">AIDAluna está operado por AIDA Cruises desde Rostock.</lex>
+      <lex lang="ca" lid="Id1">L'AIDAluna és operat per AIDA Cruises, amb seu a Rostock.</lex>
+      <lex lang="ca" lid="Id2">AIDA Cruises, amb seu a Rostock, és l'operador del vaixell AIDAluna.</lex>
+      <lex lang="ca" lid="Id3">AIDAluna és operat per AIDA Cruises des de Rostock.</lex>
+      <lex lang="en_bt" lid="Id1">The AIDAluna is operated by AIDA Cruises, based in Rostock.</lex>
+      <lex lang="en_bt" lid="Id2">AIDA Cruises, based in Rostock, is the operator of the ship AIDAluna.</lex>
+      <lex lang="en_bt" lid="Id3">AIDAluna is operated by AIDA Cruises from Rostock.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id4" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>AIDAstella | shipChristened | "--03-16"^^xsd:gMonthDay</otriple>
+        <otriple>AIDAstella | MeanOfTransportation/length | "253260.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>AIDAstella | MeanOfTransportation/length | "253260.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+        <otriple>AIDAstella | christeningDate | "2013-03-16"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AIDAstella | christeningDate | 2013-03-16</mtriple>
+        <mtriple>AIDAstella | length | 253260.0 (millimetres)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>AIDAstella | FechaDeBautizo | 16-03-2013</striple>
+        <striple>AIDAstella | Longitud | 253260.0_(milímetros)</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>AIDAstella | christeningDate | 2013-03-16</bttriple>
+        <bttriple>AIDAstella | length | 253260.0 (millimetres)</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>AIDAstella | ChristeningDate | 2013-03-16</ctriple>
+        <ctriple>AIDAstella | Longitud | 253260.0_(mil·límetres)</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The AIDAstella is 253.26m long and was launched March 16th 2013.</lex>
+      <lex lang="en" lid="Id2">The AIDAstella was christened on the 16th of March, 2013 and is 253260.0 millimetres long.</lex>
+      <lex lang="en" lid="Id3">AIDAstella is 253260.0 millimetres in length and was christened on 2013-03-16.</lex>
+      <lex lang="es" lid="Id1">El AIDAstella tiene 253,26 m de longitud y fue botado el 16-03-2013.</lex>
+      <lex lang="es" lid="Id2">El AIDAstella fue bautizado el 16-03-2013 y mide 253260,0 milímetros de longitud.</lex>
+      <lex lang="es" lid="Id3">AIDAstella mide 253260,0 milímetros y fue bautizada el 16-03-2013.</lex>
+      <lex lang="ca" lid="Id1">L'AIDAstella té 253,26m de llarg i va ser llançat el 16 de març de 2013.</lex>
+      <lex lang="ca" lid="Id2">L'AIDAstella va ser batejat el 16 de març de 2013 i té 253260,0 mil·límetres de llargada.</lex>
+      <lex lang="ca" lid="Id3">AIDAstella té 253260.0 mil·límetres de longitud i va ser batejat el 2013-03-16.</lex>
+      <lex lang="en_bt" lid="Id1">AIDAstella is 253.26m long and was launched on 16 March 2013.</lex>
+      <lex lang="en_bt" lid="Id2">The AIDAstella was christened on 16 March 2013 and is 253,260.0 millimetres long.</lex>
+      <lex lang="en_bt" lid="Id3">AIDAstella is 253260.0 millimetres long and was christened on 2013-03-16.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id5" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>ALCO_RS-3 | builder | Montreal_Locomotive_Works</otriple>
+        <otriple>ALCO_RS-3 | enginetype | Four-stroke_engine</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>ALCO_RS-3 | builder | Montreal_Locomotive_Works</mtriple>
+        <mtriple>ALCO_RS-3 | engine | Four-stroke_engine</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>ALCO_RS-3 | Constructor | Montreal_Locomotive_Woks</striple>
+        <striple>ALCO_RS-3 | Motor | Ciclo_de_cuatro_tiempos</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>ALCO_RS-3 | builder | Montreal_Locomotive_Works</bttriple>
+        <bttriple>ALCO_RS-3 | engine | Four-stroke_engine</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>ALCO_RS-_3Constellation_name_(optional) | Constructor | Montreal_Locomotive_Works</ctriple>
+        <ctriple>ALCO_RS-_3Constellation_name_(optional) | Motor | motor_de_quatre_temps</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Montreal Locomotive Works is the builder of the ALCO RS-3 which has a four-stroke engine.</lex>
+      <lex lang="en" lid="Id2">The ALCO RS-3 built by the Montreal Locomotive Works has a four-stroke engine.</lex>
+      <lex lang="en" lid="Id3">The ALCO RS-3 has a four-stroke engine and was built by the Montreal Locomotive Works.</lex>
+      <lex lang="es" lid="Id1">Montreal Locomotive Works es el constructor de la ALCO RS-3, que tiene un motor de cuatro tiempos.</lex>
+      <lex lang="es" lid="Id2">La ALCO RS-3 construida por Montreal Locomotive Works tiene un motor de cuatro tiempos.</lex>
+      <lex lang="es" lid="Id3">El ALCO RS-3 tiene un motor de cuatro tiempos y fue construido por Montreal Locomotive Works.</lex>
+      <lex lang="ca" lid="Id1">Montreal Locomotive Works és el constructor de l'ALCO RS-3 que té un motor de quatre temps.</lex>
+      <lex lang="ca" lid="Id2">L'ALCO RS-3 construït per la Montreal Locomotive Works té un motor de quatre temps.</lex>
+      <lex lang="ca" lid="Id3">L'ALCO RS-3 té un motor de quatre temps i va ser construït per Montreal Locomotive Works.</lex>
+      <lex lang="en_bt" lid="Id1">Montreal Locomotive Works is the builder of the ALCO RS-3 which has a four-stroke engine.</lex>
+      <lex lang="en_bt" lid="Id2">The ALCO RS-3 built by the Montreal Locomotive Works has a four-stroke engine.</lex>
+      <lex lang="en_bt" lid="Id3">The ALCO RS-3 has a four-stroke engine and was built by Montreal Locomotive Works.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id6" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>ALV_X-1 | manufacturer | Alliant_Techsystems</otriple>
+        <otriple>Alliant_Techsystems | product | AGM-88_HARM</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>ALV_X-1 | manufacturer | Alliant_Techsystems</mtriple>
+        <mtriple>Alliant_Techsystems | product | AGM-88_HARM</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>ALV_X-1 | Fabricante | Alliant_Techsystems</striple>
+        <striple>Alliant_Techsystems | Producto | AGM-88_HARM</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>ALV_X-1 | manufacturer | Alliant_Techsystems</bttriple>
+        <bttriple>Alliant_Techsystems | product | AGM-88_HARM</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>ALV_X-1 | Fabricant | Alliant_Techsystems</ctriple>
+        <ctriple>Alliant_Techsystems | Producte | AGM-88_HARM</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Alliant Techsystems makes the ALV X-1 and also produces the AgM-88 HARM.</lex>
+      <lex lang="en" lid="Id2">AGM-88 HARM is produced by Alliant Techsystems which is the manufacturer of the ALV X-1.</lex>
+      <lex lang="en" lid="Id3">The ALV X-1 and the AGM-88 HARM were manufactured by Alliant Techsystems.</lex>
+      <lex lang="es" lid="Id1">Alliant Techsystems fabrica el ALV X-1 y también el AGM-88 HARM.</lex>
+      <lex lang="es" lid="Id2">AGM-88 HARM es producido por Alliant Techsystems que es el fabricante del ALV X-1.</lex>
+      <lex lang="es" lid="Id3">El ALV X-1 y el AGM-88 HARM fueron fabricados por Alliant Techsystems.</lex>
+      <lex lang="ca" lid="Id1">Alliant Techsystems fabrica l'ALV X-1 i també produeix l'AgM-88 HARM.</lex>
+      <lex lang="ca" lid="Id2">L'AGM-88 HARM és produït per Alliant Techsystems, que és el fabricant de l'ALV X-1.</lex>
+      <lex lang="ca" lid="Id3">L'ALV X-1 i l'AGM-88 HARM van ser fabricats per Alliant Techsystems.</lex>
+      <lex lang="en_bt" lid="Id1">Alliant Techsystems manufactures the ALV X-1 and also produces the AgM-88 HARM.</lex>
+      <lex lang="en_bt" lid="Id2">The AGM-88 HARM is produced by Alliant Techsystems, which is the manufacturer of the ALV X-1.</lex>
+      <lex lang="en_bt" lid="Id3">The ALV X-1 and the AGM-88 HARM were manufactured by Alliant Techsystems.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id7" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>AMC_Matador | designer | Richard_A._Teague</otriple>
+        <otriple>Richard_A._Teague | employer | Chrysler</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>AMC_Matador | designCompany | Richard_A._Teague</otriple>
+        <otriple>Richard_A._Teague | employer | Chrysler</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AMC_Matador | designer | Richard_A._Teague</mtriple>
+        <mtriple>Richard_A._Teague | employer | Chrysler</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>AMC_Matador | Diseñador | Richard_A._Teague</striple>
+        <striple>Richard_A._Teague | Empresario | Chrysler</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>AMC_Matador | designer | Richard_A._Teague</bttriple>
+        <bttriple>Richard_A._Teague | employer | Chrysler</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>AMC_Matador | Dissenyador | Richard_A._Teague</ctriple>
+        <ctriple>Richard_A._Teague | Ocupador | Chrysler</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Richard A. Teague is employed by Chrysler and designed the AMC Matador.</lex>
+      <lex lang="en" lid="Id2">Richard A. Teague is the Chrysler employee who designed the AMC Matador.</lex>
+      <lex lang="en" lid="Id3">The AMC Matador was designed by Richard A Teague who works for Chrysler.</lex>
+      <lex lang="es" lid="Id1">Richard A. Teague trabaja para Chrysler y diseñó el AMC Matador.</lex>
+      <lex lang="es" lid="Id2">Richard A. Teague es el empleado de Chrysler que diseñó el AMC Matador.</lex>
+      <lex lang="es" lid="Id3">El AMC Matador fue diseñado por Richard A Teague que trabaja para Chrysler.</lex>
+      <lex lang="ca" lid="Id1">Richard A. Teague és empleat per Chrysler i va dissenyar l'AMC Matador.</lex>
+      <lex lang="ca" lid="Id2">Richard A. Teague és l'empleat de Chrysler que va dissenyar l'AMC Matador.</lex>
+      <lex lang="ca" lid="Id3">L'AMC Matador va ser dissenyat per Richard A. Teague que treballa per a Chrysler.</lex>
+      <lex lang="en_bt" lid="Id1">Richard A. Teague is employed by Chrysler and designed the AMC Matador.</lex>
+      <lex lang="en_bt" lid="Id2">Richard A. Teague is the Chrysler employee who designed the AMC Matador.</lex>
+      <lex lang="en_bt" lid="Id3">The AMC Matador was designed by Richard A. Teague who works for Chrysler.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id8" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>AMC_Matador | designer | Richard_A._Teague</otriple>
+        <otriple>Richard_A._Teague | employer | General_Motors</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Richard_A._Teague | employer | General_Motors</otriple>
+        <otriple>AMC_Matador | designCompany | Richard_A._Teague</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AMC_Matador | designer | Richard_A._Teague</mtriple>
+        <mtriple>Richard_A._Teague | employer | General_Motors</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>AMC_Matador | Diseñador | Richard_A._Teague</striple>
+        <striple>Richard_A._Teague | Empresario | General_Motors</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>AMC_Matador | designer | Richard_A._Teague</bttriple>
+        <bttriple>Richard_A._Teague | employer | General_Motors</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>AMC_Matador | Dissenyador | Richard_A._Teague</ctriple>
+        <ctriple>Richard_A._Teague | Ocupador | General_Motors</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Richard A. Teague, who works for General Motors, designed the AMC Matador.</lex>
+      <lex lang="en" lid="Id2">Richard A Teague works for General Motors and designed the AMC Matador.</lex>
+      <lex lang="en" lid="Id3">The AMC Matador was designed by Richard A Teague who is employed by General Motors.</lex>
+      <lex lang="es" lid="Id1">Richard A. Teague, que trabaja para General Motors, diseñó el AMC Matador.</lex>
+      <lex lang="es" lid="Id2">Richard A. Teague trabaja para General Motors y diseñó el AMC Matador.</lex>
+      <lex lang="es" lid="Id3">El AMC Matador fue diseñado por Richard A Teague, empleado de General Motors.</lex>
+      <lex lang="ca" lid="Id1">Richard A. Teague, que treballa per a General Motors, va dissenyar l'AMC Matador.</lex>
+      <lex lang="ca" lid="Id2">Richard A. Teague treballa per a General Motors i va dissenyar l'AMC Matador.</lex>
+      <lex lang="ca" lid="Id3">L'AMC Matador va ser dissenyat per Richard A Teague que és empleat per General Motors.</lex>
+      <lex lang="en_bt" lid="Id1">Richard A. Teague, who works for General Motors, designed the AMC Matador.</lex>
+      <lex lang="en_bt" lid="Id2">Richard A. Teague works for General Motors and designed the AMC Matador.</lex>
+      <lex lang="en_bt" lid="Id3">The AMC Matador was designed by Richard A Teague who is employed by General Motors.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id9" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>ARA_Veinticinco_de_Mayo_(V-2) | length | "192.0"^^xsd:double</otriple>
+        <otriple>ARA_Veinticinco_de_Mayo_(V-2) | country | Argentina</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>ARA_Veinticinco_de_Mayo_(V-2) | length | 192000.0 (millimetres)</mtriple>
+        <mtriple>ARA_Veinticinco_de_Mayo_(V-2) | country | Argentina</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>ARA_Veinticinco_de_Mayo_(V-2) | Longitud | 192000.0_(milímetros)</striple>
+        <striple>ARA_Veinticinco_de_Mayo_(V-2) | País | Argentina</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>ARA_Veinticinco_de_Mayo_(V-2) | length | 192000.0 (millimetres)</bttriple>
+        <bttriple>ARA_Veinticinco_de_Mayo_(V-2) | country | Argentina</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>ARA_Veinticinco_de_Mayo_(V-2) | Longitud | 192000.0_(mil·límetres)</ctriple>
+        <ctriple>ARA_Veinticinco_de_Mayo_(V-2) | País | Argentina</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The ARA Veinticinco de Mayo (V-2) is 192000.0 millimetres long and comes from Argentina.</lex>
+      <lex lang="en" lid="Id2">The ARA Veinticinco de Mayo (V-2) which is derived from Argentina has a length of 192000 millimetres.</lex>
+      <lex lang="en" lid="Id3">The ARA Veinticinco de Mayo (V-2) is from Argentina and has a length of 192000 millimetres.</lex>
+      <lex lang="es" lid="Id1">El ARA Veinticinco de Mayo (V-2) mide 192000,0 milímetros y procede de Argentina.</lex>
+      <lex lang="es" lid="Id2">El ARA Veinticinco de Mayo (V-2) procedente de Argentina tiene una longitud de 192000 milímetros.</lex>
+      <lex lang="es" lid="Id3">El ARA Veinticinco de Mayo (V-2) procede de Argentina y tiene una longitud de 192000 milímetros.</lex>
+      <lex lang="ca" lid="Id1">L'ARA Veinticinco de Mayo (V-2) té 192000.0 mil·límetres de llargada i prové de l'Argentina.</lex>
+      <lex lang="ca" lid="Id2">L'ARA Veinticinco de Mayo (V-2), que es deriva de l'Argentina, té una longitud de 192000 mil·límetres.</lex>
+      <lex lang="ca" lid="Id3">L'ARA Veinticinco de Mayo (V-2) és d'Argentina i té una longitud de 192000 mil·límetres.</lex>
+      <lex lang="en_bt" lid="Id1">The ARA Veinticinco de Mayo (V-2) is 192000.0 millimetres long and comes from Argentina.</lex>
+      <lex lang="en_bt" lid="Id2">The ARA Veinticinco de Mayo (V-2), which is derived from Argentina, has a length of 192000 millimetres.</lex>
+      <lex lang="en_bt" lid="Id3">The ARA Veinticinco de Mayo (V-2) is from Argentina and has a length of 192000 millimetres.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id10" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Abarth_1000_GT_Coupé | designer | Gruppo_Bertone</otriple>
+        <otriple>Abarth_1000_GT_Coupé | manufacturer | Abarth</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Abarth_1000_GT_Coupé | designer | "Bertone"@en</otriple>
+        <otriple>Abarth_1000_GT_Coupé | manufacturer | Abarth</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abarth_1000_GT_Coupé | designCompany | Gruppo_Bertone</mtriple>
+        <mtriple>Abarth_1000_GT_Coupé | manufacturer | Abarth</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Abarth_1000_GT_Coupé | EmpresaDeDiseño | Gruppo_Bertone</striple>
+        <striple>Abarth_1000_GT_Coupé | Fabricante | Abarth</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Abarth_1000_GT_Coupé | designCompany | Gruppo_Bertone</bttriple>
+        <bttriple>Abarth_1000_GT_Coupé | manufacturer | Abarth</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Abarth_1000_GT_Coupé | CompanyiaDeDisseny | Gruppo_Bertone</ctriple>
+        <ctriple>Abarth_1000_GT_Coupé | Fabricant | Abarth</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The Abarth 1000 GT Coupe was made by Abarth and designed by Gruppo Bertone.</lex>
+      <lex lang="en" lid="Id2">The Abarth 1000 GT Coupé was manufactured by Abarth and designed by Gruppo Bertone.</lex>
+      <lex lang="en" lid="Id3">The Abarth 1000 GT Coupé was designed by Gruppo Bertone and made by Abarth.</lex>
+      <lex lang="es" lid="Id1">El Abarth 1000 GT Coupé fue fabricado por Abarth y diseñado por el Gruppo Bertone.</lex>
+      <lex lang="es" lid="Id2">El Abarth 1000 GT Coupé fue manufacturado por Abarth y diseñado por el Gruppo Bertone.</lex>
+      <lex lang="es" lid="Id3">El Abarth 1000 GT Coupé fue diseñado por el Gruppo Bertone y fabricado por Abarth.</lex>
+      <lex lang="ca" lid="Id1">L'Abarth 1000 GT Coupe va ser fabricat per Abarth i dissenyat per Gruppo Bertone.</lex>
+      <lex lang="ca" lid="Id2">L'Abarth 1000 GT Coupé va ser fabricat per Abarth i dissenyat per Gruppo Bertone.</lex>
+      <lex lang="ca" lid="Id3">L'Abarth 1000 GT Coupé va ser dissenyat per Gruppo Bertone i fabricat per Abarth.</lex>
+      <lex lang="en_bt" lid="Id1">The Abarth 1000 GT Coupe was manufactured by Abarth and designed by Gruppo Bertone.</lex>
+      <lex lang="en_bt" lid="Id2">The Abarth 1000 GT Coupé was manufactured by Abarth and designed by Gruppo Bertone.</lex>
+      <lex lang="en_bt" lid="Id3">The Abarth 1000 GT Coupé was designed by Gruppo Bertone and manufactured by Abarth.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id11" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Acura_TLX | manufacturer | Honda</otriple>
+        <otriple>Acura_TLX | engine | Honda_J_engine</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acura_TLX | manufacturer | Honda</mtriple>
+        <mtriple>Acura_TLX | engine | Honda_J_engine</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Acura_TLX | Fabricante | Honda</striple>
+        <striple>Acura_TLX | Motor | Honda_J_series</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Acura_TLX | manufacturer | Honda</bttriple>
+        <bttriple>Acura_TLX | engine | Honda_J_engine</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Acura_TLX | Fabricant | Honda</ctriple>
+        <ctriple>Acura_TLX | Motor | Motor_Honda_J</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Honda is the manufacturer of the Acura TLX and has a Honda J engine.</lex>
+      <lex lang="en" lid="Id2">Honda makes the Acura TLX which has the Honda J engine type.</lex>
+      <lex lang="en" lid="Id3">The Honda manufactured, Acura TLX, has a Honda J type engine.</lex>
+      <lex lang="es" lid="Id1">Honda es el fabricante del Acura TLX y tiene un motor Honda J.</lex>
+      <lex lang="es" lid="Id2">Honda fabrica el Acura TLX que tiene el tipo de motor Honda J.</lex>
+      <lex lang="es" lid="Id3">El Honda manufacturado, Acura TLX, tiene un motor Honda tipo J.</lex>
+      <lex lang="ca" lid="Id1">Honda és el fabricant de l'Acura TLX i té un motor Honda J.</lex>
+      <lex lang="ca" lid="Id2">Honda fabrica l'Acura TLX que té el tipus de motor Honda J.</lex>
+      <lex lang="ca" lid="Id3">L'Honda fabricat, Acura TLX, té un motor de tipus Honda J.</lex>
+      <lex lang="en_bt" lid="Id1">Honda is the manufacturer of the Acura TLX and has a Honda J engine.</lex>
+      <lex lang="en_bt" lid="Id2">Honda manufactures the Acura TLX which has the Honda J engine type.</lex>
+      <lex lang="en_bt" lid="Id3">The Honda manufactured, Acura TLX, has a Honda J-type engine.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id12" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Acura_TLX | manufacturer | Honda</otriple>
+        <otriple>Acura_TLX | engine | Acura_TLX__5</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Acura_TLX | manufacturer | Honda</otriple>
+        <otriple>Acura_TLX | engine | Inline-four_engine</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acura_TLX | manufacturer | Honda</mtriple>
+        <mtriple>Acura_TLX | engine | Inline-four_engine</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Acura_TLX | Fabricante | Honda</striple>
+        <striple>Acura_TLX | Motor | Motor_de_cuatro_cilindros_en_línea</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Acura_TLX | manufacturer | Honda</bttriple>
+        <bttriple>Acura_TLX | engine | Inline-four_engine</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Acura_TLX | Fabricant | Honda</ctriple>
+        <ctriple>Acura_TLX | Motor | Motor_en_línia_de_quatre</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Honda is the manufacturer of the Acura TLX which has an Inline-four engine.</lex>
+      <lex lang="en" lid="Id2">The Acura TLX has an Inline-four engine and is made by Honda.</lex>
+      <lex lang="en" lid="Id3">The Acura TLX which has an Inline-four engine is manufactured by Honda.</lex>
+      <lex lang="es" lid="Id1">Honda es el fabricante del Acura TLX, que tiene un motor de cuatro cilindros en línea.</lex>
+      <lex lang="es" lid="Id2">El Acura TLX tiene un motor de cuatro cilindros en línea y está fabricado por Honda.</lex>
+      <lex lang="es" lid="Id3">El Acura TLX, que tiene un motor de cuatro cilindros en línea, está manufacturado por Honda.</lex>
+      <lex lang="ca" lid="Id1">Honda és el fabricant de l'Acura TLX que té un motor en línia-quatre.</lex>
+      <lex lang="ca" lid="Id2">L'Acura TLX té un motor de quatre cilindres en línia i és fabricat per Honda.</lex>
+      <lex lang="ca" lid="Id3">L'Acura TLX que té un motor en línia-quatre és fabricat per Honda.</lex>
+      <lex lang="en_bt" lid="Id1">Honda is the manufacturer of the Acura TLX which has an inline-four engine.</lex>
+      <lex lang="en_bt" lid="Id2">The Acura TLX has an inline four-cylinder engine and is manufactured by Honda.</lex>
+      <lex lang="en_bt" lid="Id3">The Acura TLX which has an inline-four engine is manufactured by Honda.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id13" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Aleksey_Chirikov_(icebreaker) | shipBuilder | Finland</otriple>
+        <otriple>Finland | leaderName | Sauli_Niinistö</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Finland | leader | Sauli_Niinistö</otriple>
+        <otriple>Aleksey_Chirikov_(icebreaker) | builder | Finland</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Aleksey_Chirikov_(icebreaker) | builder | Finland</otriple>
+        <otriple>Finland | leaderName | Sauli_Niinistö</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksey_Chirikov_(icebreaker) | builder | Finland</mtriple>
+        <mtriple>Finland | leader | Sauli_Niinistö</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aleksey_Chirikov_(rompehielos) | Constructor | Finlandia</striple>
+        <striple>Finlandia | Líder | Sauli_Niinistö</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Aleksey_Chirikov_(icebreaker) | builder | Finland</bttriple>
+        <bttriple>Finland | leader | Sauli_Niinistö</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Aleksey_Chirikov_(trencaglaç) | Constructor | Finlàndia</ctriple>
+        <ctriple>Finlàndia | Líder | Sauli_Niinistö</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The icebreaker Aleksey Chirikov was built in Finland, where Sauli Niinisto is a leader.</lex>
+      <lex lang="en" lid="Id2">The icebreaker ship Aleksey Chirikov was built in Finland which is led by Sauli Niinisto.</lex>
+      <lex lang="en" lid="Id3">Aleksey Chirikov, an icebreaker, was built in Finland whose leader is Sauli Niinistö.</lex>
+      <lex lang="es" lid="Id1">El rompehielos Aleksey Chirikov se construyó en Finlandia, donde gobierna Sauli Niinisto.</lex>
+      <lex lang="es" lid="Id2">El buque rompehielos Aleksey Chirikov fue construido en Finlandia, país que dirige Sauli Niinisto.</lex>
+      <lex lang="es" lid="Id3">El rompehielos Aleksey Chirikov se construyó en Finlandia, cuyo líder es Sauli Niinistö.</lex>
+      <lex lang="ca" lid="Id1">El trencaglaç Aleksey Chirikov va ser construït a Finlàndia, on Sauli Niinisto és un líder.</lex>
+      <lex lang="ca" lid="Id2">El vaixell trencaglaç Aleksey Chirikov va ser construït a Finlàndia i està dirigit per Sauli Niinisto.</lex>
+      <lex lang="ca" lid="Id3">Aleksey Chirikov, un trencaglaç, va ser construït a Finlàndia el líder del qual és Sauli Niinistö.</lex>
+      <lex lang="en_bt" lid="Id1">The icebreaker Aleksey Chirikov was built in Finland, where Sauli Niinisto is a leader.</lex>
+      <lex lang="en_bt" lid="Id2">The icebreaker Aleksey Chirikov was built in Finland and is headed by Sauli Niinisto.</lex>
+      <lex lang="en_bt" lid="Id3">Aleksey Chirikov, an icebreaker, was built in Finland whose leader is Sauli Niinistö.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id14" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aleksey_Chirikov_(icebreaker) | shipBeam | "21.2"^^xsd:double</otriple>
+        <otriple>Aleksey_Chirikov_(icebreaker) | builder | Arctech_Helsinki_Shipyard</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksey_Chirikov_(icebreaker) | shipBeam | 21.2</mtriple>
+        <mtriple>Aleksey_Chirikov_(icebreaker) | builder | Arctech_Helsinki_Shipyard</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aleksey_Chirikov_(rompehielos) | VigaDelBuque | 21.2</striple>
+        <striple>Aleksey_Chirikov_(rompehielos) | Constructor | Astillero_Arctech_Helsinki</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Aleksey_Chirikov_(icebreaker) | shipBeam | 21.2</bttriple>
+        <bttriple>Aleksey_Chirikov_(icebreaker) | builder | Arctech_Helsinki_Shipyard</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Aleksey_Chirikov_(trencaglaç) | BeamDeVaixell | 21.2</ctriple>
+        <ctriple>Aleksey_Chirikov_(trencaglaç) | Constructor | Arctech_Estació_Naval_d'Helsinki</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The icebreaker Aleksey Chirikov was built at the Arctech Helsinki shipyard has a ship beam of 21.2m.</lex>
+      <lex lang="en" lid="Id2">Arctech Helsinki Shipyard built the icebreaker, Aleksey Chirikov and has a ship beam of 21.2 metres.</lex>
+      <lex lang="en" lid="Id3">Arctech Helsinki Shipyard built the icebreaker, Aleksey Chirikov, whose ship beam is 21.2.</lex>
+      <lex lang="es" lid="Id1">El rompehielos Aleksey Chirikov, construido en los astilleros Arctech de Helsinki, tiene una manga de 21,2 m.</lex>
+      <lex lang="es" lid="Id2">El astillero Arctech Helsinki construyó el rompehielos Aleksey Chirikov y tiene una manga de 21,2 metros.</lex>
+      <lex lang="es" lid="Id3">El astillero Arctech Helsinki construyó el rompehielos Aleksey Chirikov, cuya manga es de 21,2 m.</lex>
+      <lex lang="ca" lid="Id1">El trencaglaç Aleksey Chirikov va ser construït a la drassanes Arctech Helsinki té un feix de vaixell de 21,2 m.</lex>
+      <lex lang="ca" lid="Id2">Arctech Helsinki Shipyard va construir el trencaglaç, Aleksey Chirikov i té una nau de 21,2 metres.</lex>
+      <lex lang="ca" lid="Id3">Arctech Helsinki Shipyard va construir el trencaglaç, Aleksey Chirikov, el feix del qual és de 21,2.</lex>
+      <lex lang="en_bt" lid="Id1">The icebreaker Aleksey Chirikov was built at the Arctech Helsinki shipyard and has a ship beam of 21.2 m.</lex>
+      <lex lang="en_bt" lid="Id2">Arctech Helsinki Shipyard built the icebreaker, Aleksey Chirikov and has a 21.2-metre ship.</lex>
+      <lex lang="en_bt" lid="Id3">Arctech Helsinki Shipyard built the icebreaker, Aleksey Chirikov, whose beam is 21.2.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id15" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alfa_Romeo_164 | related | Fiat_Croma</otriple>
+        <otriple>Alfa_Romeo_164 | assembly | Milan</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Fiat_Croma</mtriple>
+        <mtriple>Alfa_Romeo_164 | assembly | Milan</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alfa_Romeo_164 | MediosDeTransporteRelacionados | Fiat_Croma</striple>
+        <striple>Alfa_Romeo_164 | Montaje | Milán</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Fiat_Croma</bttriple>
+        <bttriple>Alfa_Romeo_164 | assembly | Milan</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Alfa_Romeo_164 | MitjàDeTransportRelacionat | Fiat_Croma</ctriple>
+        <ctriple>Alfa_Romeo_164 | Assemblea | Milan</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The Alfa Romeo 164, which was assembled in Milan, and the Fiat Croma are related means of transportation.</lex>
+      <lex lang="en" lid="Id2">The Alfa Romeo 164, assembled in Milan, and the Fiat Croma are related means of transportation.</lex>
+      <lex lang="en" lid="Id3">Milan assembled, Alfa Romeo 164, is a similar means of transport to the Fiat Croma.</lex>
+      <lex lang="es" lid="Id1">El Alfa Romeo 164, que se ensamblaba en Milán, y el Fiat Croma son medios de transporte relacionados.</lex>
+      <lex lang="es" lid="Id2">El Alfa Romeo 164, ensamblado en Milán, y el Fiat Croma son medios de transporte relacionados.</lex>
+      <lex lang="es" lid="Id3">Ensamblado en Milán, el Alfa Romeo 164 es un medio de transporte similar al Fiat Croma.</lex>
+      <lex lang="ca" lid="Id1">L'Alfa Romeo 164, que es va muntar a Milà, i el Fiat Croma són mitjans de transport relacionats.</lex>
+      <lex lang="ca" lid="Id2">L'Alfa Romeo 164, assemblat a Milà, i el Fiat Croma són mitjans de transport relacionats.</lex>
+      <lex lang="ca" lid="Id3">Milà assemblat, Alfa Romeo 164, és un mitjà de transport similar al Fiat Croma.</lex>
+      <lex lang="en_bt" lid="Id1">The Alfa Romeo 164, which was assembled in Milan, and the Fiat Croma are related means of transport.</lex>
+      <lex lang="en_bt" lid="Id2">The Alfa Romeo 164, assembled in Milan, and the Fiat Croma are related vehicles.</lex>
+      <lex lang="en_bt" lid="Id3">Milan assembled, Alfa Romeo 164, is a vehicle similar to the Fiat Croma.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id16" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Alhambra_(1855) | powerType | Humphrys,_Tennant_and_Dykes</otriple>
+        <otriple>Humphrys,_Tennant_and_Dykes | location | Deptford</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alhambra | powerType | Humphrys,_Tennant_and_Dykes</mtriple>
+        <mtriple>Humphrys,_Tennant_and_Dykes | location | Deptford</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alhambra | TipoDePotencia | Humphrys,_Tennant_y_Dykes</striple>
+        <striple>Humphrys,_Tennant_y_Dykes | Ubicación | Deptford</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Alhambra | powerType | Humphrys,_Tennant_and_Dykes</bttriple>
+        <bttriple>Humphrys,_Tennant_and_Dykes | location | Deptford</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Alhambra | TipusDePotència | Humphrys,_Tennant_i_Dykes</ctriple>
+        <ctriple>Humphrys,_Tennant_i_Dykes | Ubicació | Deptford</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Humphrys, Tennant and Dykes are located in Deptford and power the Alhambra.</lex>
+      <lex lang="en" lid="Id2">Humphrys, Tennant and Dykes is in Deptford and the Alhambra is powered by one of their engines.</lex>
+      <lex lang="en" lid="Id3">The Alhambra is powered by a Humphrys, Tennant and Dykes engine, they are located in Deptford.</lex>
+      <lex lang="es" lid="Id1">Humphrys, Tennant y Dykes se encuentran en Deptford e impulsan la Alhambra.</lex>
+      <lex lang="es" lid="Id2">Humphrys, Tennant and Dykes está en Deptford y el Alhambra funciona con uno de sus motores.</lex>
+      <lex lang="es" lid="Id3">El Alhambra está propulsado por un motor Humphrys, Tennant and Dykes, que se encuentra en Deptford.</lex>
+      <lex lang="ca" lid="Id1">Humphrys, Tennant i Dykes es troben a Deptford i alimenten l'Alhambra.</lex>
+      <lex lang="ca" lid="Id2">Humphrys, Tennant i Dykes està a Deptford i l'Alhambra està impulsada per un dels seus motors.</lex>
+      <lex lang="ca" lid="Id3">L'Alhambra està impulsada per un motor Humphrys, Tennant i Dykes, que es troben a Deptford.</lex>
+      <lex lang="en_bt" lid="Id1">Humphrys, Tennant and Dykes meet at Deptford and feed the Alhambra.</lex>
+      <lex lang="en_bt" lid="Id2">Humphrys, Tennant and Dykes is at Deptford and the Alhambra is powered by one of their engines.</lex>
+      <lex lang="en_bt" lid="Id3">The Alhambra is powered by a Humphrys, Tennant and Dykes engine, which is located in Deptford.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id17" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alhambra_(1855) | shipBeam | "8.3 m"@en</otriple>
+        <otriple>Alhambra_(1855) | shipLaunch | "1855-05-31"^^xsd:date</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Alhambra_(1855) | shipBeam | "8.3"^^xsd:double</otriple>
+        <otriple>Alhambra_(1855) | shipLaunch | "1855-05-31"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alhambra | shipBeam | 8.3 m</mtriple>
+        <mtriple>Alhambra | shipLaunch | 1855-05-31</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alhambra | VigaDelBuque | 8.3_m</striple>
+        <striple>Alhambra | BotaduraDelBuque | 31-05-1855</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Alhambra | shipBeam | 8.3 m</bttriple>
+        <bttriple>Alhambra | shipLaunch | 1855-05-31</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Alhambra | BeamDeVaixell | 8._3_m</ctriple>
+        <ctriple>Alhambra | LançamentDeVaixell | 1855-05-31</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The Alhambra was launched May 31st 1855 and had a beam of 8.3m.</lex>
+      <lex lang="en" lid="Id2">The ship. Alhambra. was launched on the 31st May 1855 and has a ship beam of 8.3m.</lex>
+      <lex lang="en" lid="Id3">The Alhambra, with an 8.3m ship beam, was launched May 31, 1955.</lex>
+      <lex lang="es" lid="Id1">El Alhambra fue botado el 31 de mayo de 1855 y tenía una manga de 8,3 m.</lex>
+      <lex lang="es" lid="Id2">El buque Alhambra fue botado el 31 de mayo de 1855 y tiene una manga de 8,3 m.</lex>
+      <lex lang="es" lid="Id3">El Alhambra, con una manga de 8,3 m, fue botado el 31 de mayo de 1955.</lex>
+      <lex lang="ca" lid="Id1">L'Alhambra va ser llançada el 31 de maig de 1855 i tenia una traça de 8,3 metres.</lex>
+      <lex lang="ca" lid="Id2">El vaixell, l'Alhambra, va ser llançat el 31 de maig de 1855 i té un radi de 8,3 metres.</lex>
+      <lex lang="ca" lid="Id3">L'Alhambra, amb un feix de 8,3 m, va ser llançat el 31 de maig de 1955.</lex>
+      <lex lang="en_bt" lid="Id1">The Alhambra was launched on 31 May 1855 and had a beam of 8.3 metres.</lex>
+      <lex lang="en_bt" lid="Id2">The ship, the Alhambra, was launched on 31 May 1855 and has a radius of 8.3 metres.</lex>
+      <lex lang="en_bt" lid="Id3">The Alhambra, with a beam of 8.3 m, was launched on 31 May 1955.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id18" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | transmission | "single plate clutch, separate 4-speed gearbox all-silent"</otriple>
+        <otriple>Alvis_Speed_25 | engine | Alvis_Speed_25__2</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | engine | "3571.0"^^&lt;http://dbpedia.org/datatype/cubicCentimetre&gt;</otriple>
+        <otriple>Alvis_Speed_25 | transmission | "single plate clutch, separate 4-speed gearbox all-silent and \n\nall-syncromesh, centre change lever, open tubular propellor\n shaft with metal joints , spiral bevel fully floating back axle"@en</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | transmission | "and all-syncromesh, centre change lever, open tubular propellor shaft"</otriple>
+        <otriple>Alvis_Speed_25 | engine | "4387.0"^^&lt;http://dbpedia.org/datatype/cubicCentimetre&gt;</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | transmission | "with metal joints (arranged in a straight line), spiral bevel fully floating back axle"</otriple>
+        <otriple>Alvis_Speed_25 | engine | Alvis_Speed_25__2</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | transmission | "single plate clutch, separate 4-speed gearbox all-silent"</otriple>
+        <otriple>Alvis_Speed_25 | engine | "3571.0"^^&lt;http://dbpedia.org/datatype/cubicCentimetre&gt;</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alvis_Speed_25 | transmission | "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle"</mtriple>
+        <mtriple>Alvis_Speed_25 | engine | 4387.0 (cubicCentimetres)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alvis_Speed_25 | Transmisión | embrague_monoplato,_caja_de_cambios_independiente_de_4_velocidades_totalmente_silenciosa_y_sincronizada,_palanca_de_cambio_central,_eje_de_la_hélice_tubular_abierto_con_juntas_metálicas_,_eje_trasero_cónico_espiral_totalmente_flotante</striple>
+        <striple>Alvis_Speed_25 | Motor | 4387,0_(centímetros_cúbicos)</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Alvis_Speed_25 | transmission | "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle"</bttriple>
+        <bttriple>Alvis_Speed_25 | engine | 4387.0 (cubicCentimetres)</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Alvis_Speed_25 | Transmissió | embragatge_d'una_sola_placa,_caixa_de_canvis_separada_de_4_velocitats_completament_silenciosa_i_completament_sincronitzada,_palanca_de_canvi_central,_eix_d'hèlix_tubular_obert_amb_juntes_metàl·liques,_eix_posterior_completament_flotant_amb_bisell_espiral</ctriple>
+        <ctriple>Alvis_Speed_25 | Motor | 4387.0_(centímetres_cúbics)</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The Alvis Speed 25 has a 4387.00 cc engine and an impressive transmission coined as "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, spiral bevel fully floating back axle".</lex>
+      <lex lang="en" lid="Id2">The Alvis Speed 25 has an engine of 4387 cubic centimeters and a transmission system comprising a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and spiral bevel fully floating back axle.</lex>
+      <lex lang="en" lid="Id3">The Alvis Speed 25, which has a 4387.0 cubic centimetres engine, has a transmission system that comprises of a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and spiral bevel fully floating back axle.</lex>
+      <lex lang="es" lid="Id1">El Alvis Speed 25 tiene un motor de 4387,00 cc y una impresionante transmisión acuñada como "embrague monoplato, caja de cambios independiente de 4 velocidades totalmente silenciosa y sincronizada, palanca de cambio central, eje de la hélice tubular abierto con juntas metálicas, eje trasero cónico en espiral totalmente flotante".</lex>
+      <lex lang="es" lid="Id2">El Alvis Speed 25 tiene un motor de 4.387 centímetros cúbicos y un sistema de transmisión compuesto por embrague monoplato, caja de cambios independiente de 4 velocidades totalmente silenciosa y sincronizada, palanca de cambio central, eje de la hélice tubular abierto con juntas metálicas y eje trasero cónico espiral totalmente flotante.</lex>
+      <lex lang="es" lid="Id3">El Alvis Speed 25, con un motor de 4.387,0 centímetros cúbicos, tiene un sistema de transmisión que consta de embrague monoplato, caja de cambios independiente de 4 velocidades totalmente silenciosa y sincronizada, palanca de cambio central, eje propulsor tubular abierto con juntas metálicas y eje trasero cónico espiral totalmente flotante.</lex>
+      <lex lang="ca" lid="Id1">L'Alvis Speed 25 té un motor de 4.387,00 cc i una impressionant transmissió anomenada "embragatge de placa única, caixa de canvis separada de 4 velocitats completament silenciosa i completament sincronitzada, palanca de canvi central, eix propulsor tubular obert amb juntes metàl·liques, eix posterior completament flotant amb engranatge helicoïdal".</lex>
+      <lex lang="ca" lid="Id2">L'Alvis Speed 25 té un motor de 4387 centímetres cúbics i un sistema de transmissió que comprèn un embolatge d'una sola placa, una caixa de canvis separada de 4 velocitats totalment silenciosa i totalment sincròmica, una palanca de canvi de centre, un eix d'hélice tubular obert amb juntes metàl·liques i un eix posterior completament flotant en espiral.</lex>
+      <lex lang="ca" lid="Id3">L'Alvis Speed 25, que té un motor de 4387,0 centímetres cúbics, té un sistema de transmissió que consta d'un embragatge de placa única, caixa de canvis de 4 velocitats separades, totes silencioses i totes sincronitzades, palanca de canvi de centre, eix d'hélice tubular obert amb juntes metàl·liques i eix posterior en espiral totalment flotant.</lex>
+      <lex lang="en_bt" lid="Id1">The Alvis Speed 25 has a 4.387.00 cc engine and an impressive transmission called "single plate clutch, separate 4-speed fully silent and fully synchronized gearbox, central shift lever, open tubular propeller axle with metallic joints, fully floating rear axle with helical gear".</lex>
+      <lex lang="en_bt" lid="Id2">The Alvis Speed 25 has a 4387 cm³ engine and a transmission system comprising a single-plate clutch, a fully silent and fully synchronous 4-speed separate gearbox, a center shift lever, an open tubular propeller shaft with metal joints and a fully spiral floating rear axle.</lex>
+      <lex lang="en_bt" lid="Id3">The Alvis Speed 25, which has a 4387.0 cubic centimeter engine, has a transmission system consisting of a single-plate clutch, 4-speed gearbox, all silent and all synchronized, center shift lever, open tubular propeller shaft with metallic joints and fully floating spiral rear axle.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id19" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>American_Motors | fate | Eagle_(automobile)</otriple>
+        <otriple>AMC_Matador | manufacturer | American_Motors</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_Motors | fate | Eagle_(automobile)</mtriple>
+        <mtriple>AMC_Matador | manufacturer | American_Motors</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>American_Motors | Destino | Eagle_(automóvil)</striple>
+        <striple>AMC_Matador | Fabricante | American_Motors</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>American_Motors | fate | Eagle_(automobile)</bttriple>
+        <bttriple>AMC_Matador | manufacturer | American_Motors</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>American_Motors | ElDestí | Àguila_(automòbil)</ctriple>
+        <ctriple>AMC_Matador | Fabricant | American_Motors</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Eagle was the successor for American Motors who make the AMC Matador.</lex>
+      <lex lang="en" lid="Id2">American Motors Co, who manufactured the AMC Matador, was succeeded by Eagle.</lex>
+      <lex lang="en" lid="Id3">American Motors Co was succeeded by Eagle and manufactured AMC Matador.</lex>
+      <lex lang="es" lid="Id1">Eagle fue el sucesor de American Motors que hizo el AMC Matador.</lex>
+      <lex lang="es" lid="Id2">American Motors Co, que fabricó el AMC Matador, fue sucedida por Eagle.</lex>
+      <lex lang="es" lid="Id3">American Motors Co fue sucedida por Eagle y fabricó el AMC Matador.</lex>
+      <lex lang="ca" lid="Id1">Eagle va ser el successor d'American Motors que va fabricar l'AMC Matador.</lex>
+      <lex lang="ca" lid="Id2">American Motors Co, que va fabricar l'AMC Matador, va ser succeïda per Eagle.</lex>
+      <lex lang="ca" lid="Id3">American Motors Co va ser succeïda per Eagle i va fabricar l'AMC Matador.</lex>
+      <lex lang="en_bt" lid="Id1">Eagle was the successor to American Motors which manufactured the AMC Matador.</lex>
+      <lex lang="en_bt" lid="Id2">American Motors Co., which manufactured the AMC Matador, was succeeded by Eagle.</lex>
+      <lex lang="en_bt" lid="Id3">American Motors Co was succeeded by Eagle and manufactured the AMC Matador.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id20" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Antares_(rocket) | comparable | Delta_II</otriple>
+        <otriple>Antares_(rocket) | sites | Mid-Atlantic_Regional_Spaceport_Launch_Pad_0</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Antares_(rocket) | comparable | Delta_II</mtriple>
+        <mtriple>Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport_Launch_Pad_0</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Antares_(cohete) | Comparable | Delta_II</striple>
+        <striple>Antares_(cohete) | LugarDeLanzamiento | Plataforma_de_lanzamiento_0_del_Puerto_Espacial_Regional_del_Atlántico_Medio</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Antares_(rocket) | comparable | Delta_II</bttriple>
+        <bttriple>Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport_Launch_Pad_0</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Antares_(coet) | Comparable | Delta_II</ctriple>
+        <ctriple>Antares_(coet) | LlocDeLlançament | plataforma_de_llançament_0</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The Antares rocket is comparable with the Delta II and was launched at the Mid-Atlantic Regional Spaceport Launch Pad 0.</lex>
+      <lex lang="en" lid="Id2">Comparable with the Delta II, the Antares rocket, was launched from the Mid-Atlantic Regional Spaceport Launch Pad 0.</lex>
+      <lex lang="en" lid="Id3">The Antares rocket, launched from the Mid-Atlantic Regional Spaceport Launch Pad 0, is similar to the Delta II rocket.</lex>
+      <lex lang="es" lid="Id1">El cohete Antares es comparable al Delta II y fue lanzado en la plataforma 0 del Mid-Atlantic Regional Spaceport.</lex>
+      <lex lang="es" lid="Id2">Comparable con el Delta II, el cohete Antares se lanzó desde la plataforma de lanzamiento 0 del Mid-Atlantic Regional Spaceport.</lex>
+      <lex lang="es" lid="Id3">El cohete Antares, lanzado desde la Plataforma de Lanzamiento 0 del Puerto Espacial Regional del Atlántico Medio, es similar al cohete Delta II.</lex>
+      <lex lang="ca" lid="Id1">El coet Antares és comparable amb el Delta II i va ser llançat des del Mid-Atlantic Regional Spaceport Launch Pad 0.</lex>
+      <lex lang="ca" lid="Id2">Comparable amb el Delta II, el coet Antares, va ser llançat des del Mid-Atlantic Regional Spaceport Launch Pad 0.</lex>
+      <lex lang="ca" lid="Id3">El coet Antares, llançat des del Mid-Atlantic Regional Spaceport Launch Pad 0, és similar al coet Delta II.</lex>
+      <lex lang="en_bt" lid="Id1">The Antares rocket is comparable to the Delta II and was launched from the Mid-Atlantic Regional Spaceport Launch Pad 0.</lex>
+      <lex lang="en_bt" lid="Id2">Comparable to the Delta II, the Antares rocket was launched from the Mid-Atlantic Regional Spaceport Launch Pad 0.</lex>
+      <lex lang="en_bt" lid="Id3">The Antares rocket, launched from the Mid-Atlantic Regional Spaceport Launch Pad 0, is similar to the Delta II rocket.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id21" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Antares_(rocket) | maidenFlight | "2014-01-09"^^xsd:date</otriple>
+        <otriple>Antares_(rocket) | sites | Mid-Atlantic_Regional_Spaceport</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Antares_(rocket) | maidenFlight | 2014-01-09</mtriple>
+        <mtriple>Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Antares_(cohete) | VueloInaugural | 09-01-2014</striple>
+        <striple>Antares_(cohete) | LugarDeLanzamiento | Puerto_espacial_regional_del_Atlántico_Medio</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Antares_(rocket) | maidenFlight | 2014-01-09</bttriple>
+        <bttriple>Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Antares_(coet) | MaidenFlight | 2014-01-09</ctriple>
+        <ctriple>Antares_(coet) | LlocDeLlançament | Mid-Atlantic_Regional_Spaceport</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The Antares rocket is launched from the Mid-Atlantic Regional Spaceport and its first voyage was on January 9th 2014.</lex>
+      <lex lang="en" lid="Id2">The Antares rocket had its maiden flight on January 9th 2014 and was launched from the Mid-Atlantic Regional Spaceport.</lex>
+      <lex lang="en" lid="Id3">The rocker Antares was launched on its maiden flight from the Mid-Atlantic Regional Spaceport on 9 January 2014.</lex>
+      <lex lang="es" lid="Id1">El cohete Antares se lanza desde el Mid-Atlantic Regional Spaceport y su primer viaje tuvo lugar el 9 de enero de 2014.</lex>
+      <lex lang="es" lid="Id2">El cohete Antares realizó su vuelo inaugural el 9 de enero de 2014 y fue lanzado desde el Mid-Atlantic Regional Spaceport.</lex>
+      <lex lang="es" lid="Id3">El cohete Antares fue lanzado en su vuelo inaugural desde el Mid-Atlantic Regional Spaceport el 9 de enero de 2014.</lex>
+      <lex lang="ca" lid="Id1">El coet Antares és llançat des del Mid-Atlantic Regional Spaceport i el seu primer viatge va ser el 9 de gener de 2014.</lex>
+      <lex lang="ca" lid="Id2">El coet Antares va tenir el seu primer vol el 9 de gener de 2014 i va ser llançat des del Mid-Atlantic Regional Spaceport.</lex>
+      <lex lang="ca" lid="Id3">El rocker Antares va ser llançat en el seu primer vol des del Mid-Atlantic Regional Spaceport el 9 de gener de 2014.</lex>
+      <lex lang="en_bt" lid="Id1">The Antares rocket is launched from the Mid-Atlantic Regional Spaceport and its first flight was on January 9, 2014.</lex>
+      <lex lang="en_bt" lid="Id2">The Antares rocket had its first flight on January 9, 2014 and was launched from the Mid-Atlantic Regional Spaceport.</lex>
+      <lex lang="en_bt" lid="Id3">The Antares rocket was launched on its first flight from the Mid-Atlantic Regional Spaceport on January 9, 2014.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id22" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Ariane_5 | manufacturer | Airbus_Defence_and_Space</otriple>
+        <otriple>Airbus_Defence_and_Space | parentCompany | Airbus_Group</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Ariane_5 | manufacturer | Airbus_Defence_and_Space</otriple>
+        <otriple>Airbus_Defence_and_Space | parent | Airbus_Group</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ariane_5 | manufacturer | Airbus_Defence_and_Space</mtriple>
+        <mtriple>Airbus_Defence_and_Space | parentCompany | Airbus_Group</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Ariane_5 | Fabricante | Airbus_Defence_and_Space</striple>
+        <striple>Airbus_Defence_and_Space | EmpresaMatriz | Grupo_Airbus</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Ariane_5 | manufacturer | Airbus_Defence_and_Space</bttriple>
+        <bttriple>Airbus_Defence_and_Space | parentCompany | Airbus_Group</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Ariane_5 | Fabricant | Airbus_Defence_and_Space</ctriple>
+        <ctriple>Airbus_Defence_and_Space | EmpresaMatriu | Airbus_Group</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Airbus Group is the parent company of Airbus Defence and Space; where Ariane 5 was manufactured.</lex>
+      <lex lang="en" lid="Id2">The Airbus Group is the parent company of Airbus Defence and Space who manufactured the Ariane 5.</lex>
+      <lex lang="en" lid="Id3">The Airbus Defence and Space, whose parent company is Airbus Group, made the Ariane 5.</lex>
+      <lex lang="es" lid="Id1">Airbus Group es la empresa matriz de Airbus Defence and Space, donde se fabricó el Ariane 5.</lex>
+      <lex lang="es" lid="Id2">Airbus Group es la empresa matriz de Airbus Defence and Space, que fabricó el Ariane 5.</lex>
+      <lex lang="es" lid="Id3">Airbus Defence and Space, cuya empresa matriz es Airbus Group, fabricó el Ariane 5.</lex>
+      <lex lang="ca" lid="Id1">Airbus Group és la companyia matriu d'Airbus Defence and Space; on es va fabricar l'Ariane 5.</lex>
+      <lex lang="ca" lid="Id2">L'Airbus Group és la companyia mare d'Airbus Defence and Space que va fabricar l'Ariane 5.</lex>
+      <lex lang="ca" lid="Id3">L'Airbus Defence and Space, la companyia mare de la qual és l'Airbus Group, va fabricar l'Ariane 5.</lex>
+      <lex lang="en_bt" lid="Id1">Airbus Group is the parent company of Airbus Defence and Space; where the Ariane 5 was manufactured.</lex>
+      <lex lang="en_bt" lid="Id2">The Airbus Group is the parent company of Airbus Defence and Space, which built the Ariane 5.</lex>
+      <lex lang="en_bt" lid="Id3">Airbus Defence and Space, the parent company of which is the Airbus Group, manufactured the Ariane 5.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id23" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aston_Martin_V8 | related | Aston_Martin_RHAM/1</otriple>
+        <otriple>Aston_Martin_V8 | successor | Aston_Martin_Virage</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_RHAM/1</mtriple>
+        <mtriple>Aston_Martin_V8 | successor | Aston_Martin_Virage</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aston_Martin_V8 | MediosDeTransporteRelacionados | Aston_Martin_RHAM/1</striple>
+        <striple>Aston_Martin_V8 | Sucesor | Aston_Martin_Virage</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_RHAM/1</bttriple>
+        <bttriple>Aston_Martin_V8 | successor | Aston_Martin_Virage</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Aston_Martin_V8 | MitjàDeTransportRelacionat | Aston_Martin_RHAM/1</ctriple>
+        <ctriple>Aston_Martin_V8 | Successor | Aston_Martin_Virage</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The Aston Martin Virage succeeded the Aston Martin V8 which is a related means of transport to the Aston Martin RHAM/1.</lex>
+      <lex lang="en" lid="Id2">The Aston Martin V8, which was succeeded by the Aston Martin Virage, and the Aston Martin RHAM/1 are related means of transportation.</lex>
+      <lex lang="en" lid="Id3">The Aston Martin Virage succeeded the Aston Martin V8 which is related to the Aston Martin RHAM/1.</lex>
+      <lex lang="es" lid="Id1">El Aston Martin Virage sucedió al Aston Martin V8, que es un medio de transporte relacionado con el Aston Martin RHAM/1.</lex>
+      <lex lang="es" lid="Id2">El Aston Martin V8, al que sucedió el Aston Martin Virage, y el Aston Martin RHAM/1 son medios de transporte relacionados.</lex>
+      <lex lang="es" lid="Id3">El Aston Martin Virage sucedió al Aston Martin V8, emparentado con el Aston Martin RHAM/1.</lex>
+      <lex lang="ca" lid="Id1">L'Aston Martin Virage va succeir l'Aston Martin V8, que és un mitjà de transport relacionat amb l'Aston Martin RHAM/1.</lex>
+      <lex lang="ca" lid="Id2">L'Aston Martin V8, que va ser succeït per l'Aston Martin Virage, i l'Aston Martin RHAM/1 són mitjans de transport relacionats.</lex>
+      <lex lang="ca" lid="Id3">L'Aston Martin Virage va succeir a l'Aston Martin V8, que està relacionat amb l'Aston Martin RHAM/1.</lex>
+      <lex lang="en_bt" lid="Id1">The Aston Martin Virage succeeded the Aston Martin V8, which is a vehicle related to the Aston Martin RHAM/1.</lex>
+      <lex lang="en_bt" lid="Id2">The Aston Martin V8, which was succeeded by the Aston Martin Virage, and the Aston Martin RHAM/1 are related vehicles.</lex>
+      <lex lang="en_bt" lid="Id3">The Aston Martin Virage succeeded the Aston Martin V8, which is related to the Aston Martin RHAM/1.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id24" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Atlas_II | sites | Cape_Canaveral_Air_Force_Station</otriple>
+        <otriple>Atlas_II | manufacturer | Lockheed_Martin</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atlas_II | launchSite | Cape_Canaveral_Air_Force_Station</mtriple>
+        <mtriple>Atlas_II | manufacturer | Lockheed_Martin</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Atlas_II | LugarDeLanzamiento | Estación_de_las_Fuerzas_Aéreas_de_Cabo_Cañaveral</striple>
+        <striple>Atlas_II | Fabricante | Lockheed_Martin</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Atlas_II | launchSite | Cape_Canaveral_Air_Force_Station</bttriple>
+        <bttriple>Atlas_II | manufacturer | Lockheed_Martin</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Atlas_II | LlocDeLlançament | Estació_de_la_Força_Aèria_de_Cape_Canaveral</ctriple>
+        <ctriple>Atlas_II | Fabricant | Lockheed_Martin</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The Lockheed Martin manufactured Atlas II was launched from Cape Canaveral Air Force Station.</lex>
+      <lex lang="en" lid="Id2">The Atlas II, manufactured by Lockheed Martin, was launched from Cape Canaveral Air Force Station.</lex>
+      <lex lang="en" lid="Id3">The Atlas II was manufactured by Lockheed Martin and launched from the Cape Canaveral Air Force Station.</lex>
+      <lex lang="es" lid="Id1">El Atlas II, fabricado por Lockheed Martin, fue lanzado desde la Estación Aérea de Cabo Cañaveral.</lex>
+      <lex lang="es" lid="Id2">El Atlas II, manufacturado por Lockheed Martin, fue lanzado desde la Estación Aérea de Cabo Cañaveral.</lex>
+      <lex lang="es" lid="Id3">El Atlas II fue fabricado por Lockheed Martin y lanzado desde la Estación Aérea de Cabo Cañaveral.</lex>
+      <lex lang="ca" lid="Id1">L'Atlas II fabricat per Lockheed Martin va ser llançat des de la Estació de la Força Aèria de Cap Canaveral.</lex>
+      <lex lang="ca" lid="Id2">L'Atlas II, fabricat per Lockheed Martin, va ser llançat des de l'Estació de la Força Aèria de Cap Canaveral.</lex>
+      <lex lang="ca" lid="Id3">L'Atlas II va ser fabricat per Lockheed Martin i llançat des de l'Estació de la Força Aèria de Cap Canaveral.</lex>
+      <lex lang="en_bt" lid="Id1">The Atlas II manufactured by Lockheed Martin was launched from Cape Canaveral Air Force Station.</lex>
+      <lex lang="en_bt" lid="Id2">The Atlas II, manufactured by Lockheed Martin, was launched from Cape Canaveral Air Force Station.</lex>
+      <lex lang="en_bt" lid="Id3">The Atlas II was manufactured by Lockheed Martin and launched from Cape Canaveral Air Force Station.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id25" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Audi_A1 | manufacturer | Audi</otriple>
+        <otriple>Audi | subsidiary | Ducati</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Audi_A1 | manufacturer | Audi</mtriple>
+        <mtriple>Audi | subsidiary | Ducati</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Audi_A1 | Fabricante | Audi</striple>
+        <striple>Audi | Filial | Ducati</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Audi_A1 | manufacturer | Audi</bttriple>
+        <bttriple>Audi | subsidiary | Ducati</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Audi_A1 | Fabricant | Audi</ctriple>
+        <ctriple>Audi | Subsidiària | Ducati</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Audi A1 is made by Audi who also own Ducati.</lex>
+      <lex lang="en" lid="Id2">The Audi A1 is made by Audi who also own Ducati.</lex>
+      <lex lang="en" lid="Id3">Ducati is a subsidiary of Audi, which is the manufacturer of the Audi A1.</lex>
+      <lex lang="es" lid="Id1">El Audi A1 está fabricado por Audi, que también es propietaria de Ducati.</lex>
+      <lex lang="es" lid="Id2">El Audi A1 está manufacturado por Audi, que también es propietaria de Ducati.</lex>
+      <lex lang="es" lid="Id3">Ducati es una filial de Audi, fabricante del Audi A1.</lex>
+      <lex lang="ca" lid="Id1">L'Audi A1 és fabricat per Audi que també és propietari de Ducati.</lex>
+      <lex lang="ca" lid="Id2">L'Audi A1 és fabricat per Audi que també és propietari de Ducati.</lex>
+      <lex lang="ca" lid="Id3">Ducati és una filial d'Audi, que és el fabricant de l'Audi A1.</lex>
+      <lex lang="en_bt" lid="Id1">The Audi A1 is manufactured by Audi which also owns Ducati.</lex>
+      <lex lang="en_bt" lid="Id2">The Audi A1 is manufactured by Audi which also owns Ducati.</lex>
+      <lex lang="en_bt" lid="Id3">Ducati is a subsidiary of Audi, which is the manufacturer of the Audi A1.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id26" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Audi_A1 | manufacturer | Audi</otriple>
+        <otriple>Audi_A1 | relatedMeanOfTransportation | SEAT_Ibiza</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Audi_A1 | manufacturer | Audi</mtriple>
+        <mtriple>Audi_A1 | relatedMeanOfTransportation | SEAT_Ibiza</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Audi_A1 | Fabricante | Audi</striple>
+        <striple>Audi_A1 | MediosDeTransporteRelacionados | SEAT_Ibiza</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Audi_A1 | manufacturer | Audi</bttriple>
+        <bttriple>Audi_A1 | relatedMeanOfTransportation | SEAT_Ibiza</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Audi_A1 | Fabricant | Audi</ctriple>
+        <ctriple>Audi_A1 | MitjàDeTransportRelacionat | SEAT_Ibiza</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The Seat Ibiza and the Audi A1, built by Audi, are both cars.</lex>
+      <lex lang="en" lid="Id2">The Seat Ibiza and the Audi manufactured Audi A1 are both cars and therefore a related means of transportation.</lex>
+      <lex lang="en" lid="Id3">The Audi A1, which is manufactured by Audi, and the Seat Ibiza are similar means of transport.</lex>
+      <lex lang="es" lid="Id1">Tanto el Seat Ibiza como el Audi A1, fabricados por Audi, son turismos.</lex>
+      <lex lang="es" lid="Id2">Tanto el Seat Ibiza como el Audi A1, fabricado por Audi, son turismos y, por tanto, medios de transporte afines.</lex>
+      <lex lang="es" lid="Id3">El Audi A1, fabricado por Audi, y el Seat Ibiza son medios de transporte similares.</lex>
+      <lex lang="ca" lid="Id1">El Seat Ibiza i l'Audi A1, construïts per Audi, són ambdós cotxes.</lex>
+      <lex lang="ca" lid="Id2">El Seat Ibiza i l'Audi A1 fabricat per Audi són tots dos cotxes i, per tant, un mitjà de transport relacionat.</lex>
+      <lex lang="ca" lid="Id3">L'Audi A1, que és fabricat per Audi, i el Seat Ibiza són mitjans de transport similars.</lex>
+      <lex lang="en_bt" lid="Id1">The Seat Ibiza and the Audi A1, built by Audi, are both cars.</lex>
+      <lex lang="en_bt" lid="Id2">The Seat Ibiza and the Audi A1 manufactured by Audi are both cars and therefore a related means of transport.</lex>
+      <lex lang="en_bt" lid="Id3">The Audi A1, which is manufactured by Audi, and the Seat Ibiza are similar means of transport.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id27" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Caterpillar_Inc. | keyPerson | Douglas_R._Oberhelman</otriple>
+        <otriple>AIDAluna | powerType | Caterpillar_Inc.</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Caterpillar_Inc. | keyPerson | Douglas_R._Oberhelman</mtriple>
+        <mtriple>AIDAluna | powerType | Caterpillar_Inc.</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Caterpillar_Inc. | PersonaClave | Douglas_R._Oberhelman</striple>
+        <striple>AIDAluna | TipoDePotencia | Caterpillar_Inc.</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Caterpillar_Inc. | keyPerson | Douglas_R._Oberhelman</bttriple>
+        <bttriple>AIDAluna | powerType | Caterpillar_Inc.</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Caterpillar_Tractor_Company | PersonaClau | Douglas_R._Oberhelman</ctriple>
+        <ctriple>AIDAluna | TipusDePotència | Caterpillar_Tractor_Company</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Douglas R Oberhelman is a person at Caterpillar Inc. where the AIDAluna is manufactured.</lex>
+      <lex lang="en" lid="Id2">The power type of the AIDAluna is an engine manufactured by Caterpillar Inc where Douglas R Oberhelman is a key person.</lex>
+      <lex lang="en" lid="Id3">Douglas R. Oberhelman is a key person at Caterpillar Inc. who provide the engine power for the AIDAluna.</lex>
+      <lex lang="es" lid="Id1">Douglas R Oberhelman es una persona de Caterpillar Inc. donde se fabrica la AIDAluna.</lex>
+      <lex lang="es" lid="Id2">El tipo de potencia del AIDAluna es un motor fabricado por Caterpillar Inc, donde Douglas R Oberhelman es una persona clave.</lex>
+      <lex lang="es" lid="Id3">Douglas R. Oberhelman es una persona clave en Caterpillar Inc., que proporciona la potencia de motor para el AIDAluna.</lex>
+      <lex lang="ca" lid="Id1">Douglas R Oberhelman és una persona de Caterpillar Inc. on es fabrica l'AIDAluna.</lex>
+      <lex lang="ca" lid="Id2">El tipus de potència de l'AIDAluna és un motor fabricat per Caterpillar Inc on Douglas R Oberhelman és una persona clau.</lex>
+      <lex lang="ca" lid="Id3">Douglas R. Oberhelman és una persona clau a Caterpillar Inc. que proporciona la potència del motor per a l'AIDAluna.</lex>
+      <lex lang="en_bt" lid="Id1">Douglas R Oberhelman is a person at Caterpillar Inc. where AIDAluna is manufactured.</lex>
+      <lex lang="en_bt" lid="Id2">The power type of the AIDAluna is an engine manufactured by Caterpillar Inc. where Douglas R Oberhelman is a key person.</lex>
+      <lex lang="en_bt" lid="Id3">Douglas R. Oberhelman is a key person at Caterpillar Inc. who provides the engine power for the AIDAluna.</lex>
+      </entry>
+    </entries>
+  </benchmark>

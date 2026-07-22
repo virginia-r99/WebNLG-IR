@@ -1,0 +1,1457 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Artist" eid="Id1" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Aaron_Bertram | associatedMusicalArtist | Kids_Imagine_Nation</otriple>
+        <otriple>Aaron_Bertram | associatedActs | Suburban_Legends</otriple>
+        <otriple>Suburban_Legends | bandMember | Brian_Robertson_(trombonist)</otriple>
+        <otriple>Aaron_Bertram | genre | Ska_punk</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Aaron_Bertram | associatedMusicalArtist | Kids_Imagine_Nation</otriple>
+        <otriple>Aaron_Bertram | associatedBand | Suburban_Legends</otriple>
+        <otriple>Suburban_Legends | bandMember | Brian_Robertson_(trombonist)</otriple>
+        <otriple>Aaron_Bertram | genre | Ska_punk</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Aaron_Bertram | associatedMusicalArtist | Suburban_Legends</otriple>
+        <otriple>Aaron_Bertram | associatedActs | Kids_Imagine_Nation</otriple>
+        <otriple>Suburban_Legends | bandMember | Brian_Robertson_(trombonist)</otriple>
+        <otriple>Aaron_Bertram | genre | Ska_punk</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Bertram | associatedBand/associatedMusicalArtist | Kids_Imagine_Nation</mtriple>
+        <mtriple>Aaron_Bertram | associatedBand/associatedMusicalArtist | Suburban_Legends</mtriple>
+        <mtriple>Suburban_Legends | bandMember | Brian_Robertson_(trombonist)</mtriple>
+        <mtriple>Aaron_Bertram | genre | Ska_punk</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aaron_Bertram | BandaAsociada/artistaMusicalAsociado | Kids_Imagine_Nation</striple>
+        <striple>Aaron_Bertram | BandaAsociada/artistaMusicalAsociado | Suburban_Legends</striple>
+        <striple>Suburban_Legends | MiembroDeLaBanda | Brian_Robertson_(trombonista)</striple>
+        <striple>Aaron_Bertram | Género | ska_punk</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Aaron_Bertram | associatedBand/associatedMusicalArtist | Kids_Imagine_Nation</bttriple>
+        <bttriple>Aaron_Bertram | associatedBand/associatedMusicalArtist | Suburban_Legends</bttriple>
+        <bttriple>Suburban_Legends | bandMember | Brian_Robertson_(trombonist)</bttriple>
+        <bttriple>Aaron_Bertram | genre | Ska_punk</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Aaron_Bertram | BandaAssociada/artistaMusicalAssociat | Els_nens_imaginen_una_nació</ctriple>
+        <ctriple>Aaron_Bertram | BandaAssociada/artistaMusicalAssociat | Legendes_Suburbanes</ctriple>
+        <ctriple>Legendes_Suburbanes | MembreDeLaBanda | Brian_Robertson_(trombonista)</ctriple>
+        <ctriple>Aaron_Bertram | Gènere | ska_punk</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Aaron Bertram performs ska punk music and is an artist with the band Kids Imagine Nation and also the Suburban Legends band where Brian Robertson is the trombonist.</lex>
+      <lex lang="en" lid="Id2">Aaron Bertram plays for the Kids Imagine Nation band and his musical genre is Ska punk. He also plays for the Suburban Legends band in which Brian Robertson plays the trombone.</lex>
+      <lex lang="en" lid="Id3">Aaron Bertram plays for the Kids Imagine Nation band, as well as the Ska Suburban Legends band where trombonist Brian Robertson plays.</lex>
+      <lex lang="es" lid="Id1">Aaron Bertram interpreta música ska punk y es artista del grupo Kids Imagine Nation y también de la banda Suburban Legends, en la que Brian Robertson es el trombonista.</lex>
+      <lex lang="es" lid="Id2">Aaron Bertram toca en la banda Kids Imagine Nation y su género musical es el Ska punk. También toca en la banda Suburban Legends, en la que Brian Robertson toca el trombón.</lex>
+      <lex lang="es" lid="Id3">Aaron Bertram toca en la banda Kids Imagine Nation, así como en la banda Ska Suburban Legends, donde toca el trombonista Brian Robertson.</lex>
+      <lex lang="ca" lid="Id1">Aaron Bertram interpreta música ska punk i és un artista amb la banda Kids Imagine Nation i també la banda Suburban Legends on Brian Robertson és el trombonista.</lex>
+      <lex lang="ca" lid="Id2">Aaron Bertram toca per a la banda Kids Imagine Nation i el seu gènere musical és el ska punk. També toca per a la banda Suburban Legends en la qual Brian Robertson toca el trombó.</lex>
+      <lex lang="ca" lid="Id3">Aaron Bertram toca per a la banda Kids Imagine Nation, així com la banda Ska Suburban Legends on toca el trombonista Brian Robertson.</lex>
+      <lex lang="en_bt" lid="Id1">Aaron Bertram plays ska punk music and is an artist with the band Kids Imagine Nation and also the band Suburban Legends where Brian Robertson is the trombonist.</lex>
+      <lex lang="en_bt" lid="Id2">Aaron Bertram plays for the band Kids Imagine Nation and their musical genre is ska punk. He also plays for the band Suburban Legends in which Brian Robertson plays the trombone.</lex>
+      <lex lang="en_bt" lid="Id3">Aaron Bertram plays for the band Kids Imagine Nation, as well as the Ska band Suburban Legends where trombonist Brian Robertson plays.</lex>
+      </entry>
+    <entry category="Artist" eid="Id2" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Aaron_Deer | background | "solo_singer"</otriple>
+        <otriple>Aaron_Deer | genre | Psychedelia</otriple>
+        <otriple>Aaron_Deer | hometown | Indianapolis</otriple>
+        <otriple>Aaron_Deer | origin | Indiana</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Aaron_Deer | genre | Psychedelia</otriple>
+        <otriple>Aaron_Deer | hometown | Indianapolis</otriple>
+        <otriple>Aaron_Deer | background | "solo_singer"@en</otriple>
+        <otriple>Aaron_Deer | origin | Indiana</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Deer | background | "solo_singer"</mtriple>
+        <mtriple>Aaron_Deer | genre | Psychedelia</mtriple>
+        <mtriple>Aaron_Deer | origin | Indianapolis</mtriple>
+        <mtriple>Aaron_Deer | origin | Indiana</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aaron_Deer | Fondo | cantante_solista</striple>
+        <striple>Aaron_Deer | Género | psicodelia</striple>
+        <striple>Aaron_Deer | Origen | Indianápolis</striple>
+        <striple>Aaron_Deer | Origen | Indiana</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Aaron_Deer | background | "solo_singer"</bttriple>
+        <bttriple>Aaron_Deer | genre | Psychedelia</bttriple>
+        <bttriple>Aaron_Deer | origin | Indianapolis</bttriple>
+        <bttriple>Aaron_Deer | origin | Indiana</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Aaron_Deer | Antecedents | cantant_en_solitari</ctriple>
+        <ctriple>Aaron_Deer | Gènere | psicodèlia</ctriple>
+        <ctriple>Aaron_Deer | Origen | Indianàpolis</ctriple>
+        <ctriple>Aaron_Deer | Origen | Indiana</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Psychedelia solo singer Aaron Deer is from Indianapolis, Indiana.</lex>
+      <lex lang="en" lid="Id2">Coming from Indianapolis, Indiana, Aaron Deer, has a background as a solo singer and performs Psychedelia music.</lex>
+      <lex lang="en" lid="Id3">Solo singerAaron Deer, performs Psychedelia music and is from Indianapolis, Indiana.</lex>
+      <lex lang="es" lid="Id1">El cantante solista de psicodelia Aaron Deer es de Indianápolis, Indiana.</lex>
+      <lex lang="es" lid="Id2">Procedente de Indianápolis, Indiana, Aaron Deer, tiene experiencia como cantante solista e interpreta música de Psicodelia.</lex>
+      <lex lang="es" lid="Id3">Cantante solistaAaron Deer, interpreta música psicodélica y es de Indianápolis, Indiana.</lex>
+      <lex lang="ca" lid="Id1">El cantant solista de Psychedelia Aaron Deer és d'Indianapolis, Indiana.</lex>
+      <lex lang="ca" lid="Id2">Venint d'Indianapolis, Indiana, Aaron Deer, té un passat com a cantant en solitari i interpreta música psicodèlica.</lex>
+      <lex lang="ca" lid="Id3">El cantant en solitari Aaron Deer, interpreta música psicodèlica i és d'Indianapolis, Indiana.</lex>
+      <lex lang="en_bt" lid="Id1">Psychedelia lead singer Aaron Deer is from Indianapolis, Indiana.</lex>
+      <lex lang="en_bt" lid="Id2">Coming from Indianapolis, Indiana, Aaron Deer has a background as a solo singer and performs psychedelic music.</lex>
+      <lex lang="en_bt" lid="Id3">Solo singer Aaron Deer plays psychedelic music and is from Indianapolis, Indiana.</lex>
+      </entry>
+    <entry category="Artist" eid="Id3" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Aaron_Turner | associatedBand | Old_Man_Gloom</otriple>
+        <otriple>Aaron_Turner | associatedMusicalArtist | Lotus_Eaters_(band)</otriple>
+        <otriple>Aaron_Turner | genre | Electroacoustic_music</otriple>
+        <otriple>Aaron_Turner | activeYearsStartYear | "1995"^^xsd:gYear</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Old_Man_Gloom</mtriple>
+        <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Lotus_Eaters_(band)</mtriple>
+        <mtriple>Aaron_Turner | genre | Electroacoustic_music</mtriple>
+        <mtriple>Aaron_Turner | activeYearsStartYear | 1995</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aaron_Turner | BandaAsociada/artistaMusicalAsociado | Old_Man_Gloom</striple>
+        <striple>Aaron_Turner | BandaAsociada/artistaMusicalAsociado | Lotus_Eaters_(banda)</striple>
+        <striple>Aaron_Turner | Género | Música_electroacústica</striple>
+        <striple>Aaron_Turner | AñosActivosAñoDeInicio | 1995</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Old_Man_Gloom</bttriple>
+        <bttriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Lotus_Eaters_(band)</bttriple>
+        <bttriple>Aaron_Turner | genre | Electroacoustic_music</bttriple>
+        <bttriple>Aaron_Turner | activeYearsStartYear | 1995</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Aaron_Turner | BandaAssociada/artistaMusicalAssociat | L'home_vell_sombria</ctriple>
+        <ctriple>Aaron_Turner | BandaAssociada/artistaMusicalAssociat | Lotus_Eaters_(grup)</ctriple>
+        <ctriple>Aaron_Turner | Gènere | música_electroacústica</ctriple>
+        <ctriple>Aaron_Turner | AnysActiusAnyD'inici | 1995</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Electroacoustic musician Aaron Turner is in the Lotus Eaters and was with Old Man Gloom. He began his career in 1995.</lex>
+      <lex lang="en" lid="Id2">Aaron Turner started performing in 1995. He is an electroacoustic musician and played in the Lotus Eaters and Old Man Gloom bands.</lex>
+      <lex lang="en" lid="Id3">Aaron Turner began his career in 1995 and plays electroacoustic music in Lotus Eaters band and the Old Man Gloom band.</lex>
+      <lex lang="es" lid="Id1">El músico electroacústico Aaron Turner forma parte de los Lotus Eaters y estuvo con Old Man Gloom. Comenzó su carrera en 1995.</lex>
+      <lex lang="es" lid="Id2">Aaron Turner empezó a actuar en 1995. Es músico electroacústico y ha tocado en los grupos Lotus Eaters y Old Man Gloom.</lex>
+      <lex lang="es" lid="Id3">Aaron Turner comenzó su carrera en 1995 y toca música electroacústica en el grupo Lotus Eaters y en la banda Old Man Gloom.</lex>
+      <lex lang="ca" lid="Id1">El músic electroacústic Aaron Turner és dels Lotus Eaters i va estar amb Old Man Gloom. Va començar la seva carrera el 1995.</lex>
+      <lex lang="ca" lid="Id2">Aaron Turner va començar a actuar el 1995. És un músic electroacústic i va tocar en les bandes Lotus Eaters i Old Man Gloom.</lex>
+      <lex lang="ca" lid="Id3">Aaron Turner va començar la seva carrera el 1995 i toca música electroacústica en la banda Lotus Eaters i la banda Old Man Gloom.</lex>
+      <lex lang="en_bt" lid="Id1">Electroacoustic musician Aaron Turner is of the Lotus Eaters and was with Old Man Gloom. He began his career in 1995.</lex>
+      <lex lang="en_bt" lid="Id2">Aaron Turner began performing in 1995. He is an electroacoustic musician and played in the bands Lotus Eaters and Old Man Gloom.</lex>
+      <lex lang="en_bt" lid="Id3">Aaron Turner began his career in 1995 and plays electroacoustic music in the band Lotus Eaters and the band Old Man Gloom.</lex>
+      </entry>
+    <entry category="Artist" eid="Id4" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Aaron_Turner | associatedBand | Twilight_(band)</otriple>
+        <otriple>Aaron_Turner | associatedMusicalArtist | Lotus_Eaters_(band)</otriple>
+        <otriple>Aaron_Turner | genre | Post-metal</otriple>
+        <otriple>Aaron_Turner | activeYearsStartYear | "1995"^^xsd:gYear</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Twilight_(band)</mtriple>
+        <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Lotus_Eaters_(band)</mtriple>
+        <mtriple>Aaron_Turner | genre | Post-metal</mtriple>
+        <mtriple>Aaron_Turner | activeYearsStartYear | 1995</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aaron_Turner | BandaAsociada/artistaMusicalAsociado | Twilight_(banda)</striple>
+        <striple>Aaron_Turner | BandaAsociada/artistaMusicalAsociado | Lotus_Eaters_(banda)</striple>
+        <striple>Aaron_Turner | Género | Post-metal</striple>
+        <striple>Aaron_Turner | AñosActivosAñoDeInicio | 1995</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Twilight_(band)</bttriple>
+        <bttriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Lotus_Eaters_(band)</bttriple>
+        <bttriple>Aaron_Turner | genre | Post-metal</bttriple>
+        <bttriple>Aaron_Turner | activeYearsStartYear | 1995</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Aaron_Turner | BandaAssociada/artistaMusicalAssociat | Twilight_(grup)</ctriple>
+        <ctriple>Aaron_Turner | BandaAssociada/artistaMusicalAssociat | Lotus_Eaters_(grup)</ctriple>
+        <ctriple>Aaron_Turner | Gènere | post-metal</ctriple>
+        <ctriple>Aaron_Turner | AnysActiusAnyD'inici | 1995</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Aaron Turner played with the band Twilight and now in the Lotus Eaters. He started performing in 1995 in the post-metal genre.</lex>
+      <lex lang="en" lid="Id2">Post Metal musician, Aaron Turner, began performing in 1995 and has played with such bands as Twilight and The Lotus Eaters.</lex>
+      <lex lang="en" lid="Id3">Post-metal musician Aaron Turner, who began performing in 1995, has played with the bands Twilight and the Lotus Eaters.</lex>
+      <lex lang="es" lid="Id1">Aaron Turner tocó con la banda Twilight y ahora en los Lotus Eaters. Comenzó a actuar en 1995 en el género Post-metal.</lex>
+      <lex lang="es" lid="Id2">El músico de Post Metal, Aaron Turner, comenzó a actuar en 1995 y ha tocado con bandas como Twilight y The Lotus Eaters.</lex>
+      <lex lang="es" lid="Id3">El músico de Post-metal Aaron Turner, que empezó a actuar en 1995, ha tocado con las bandas Twilight y The Lotus Eaters.</lex>
+      <lex lang="ca" lid="Id1">Aaron Turner va tocar amb la banda Twilight i ara amb els Lotus Eaters. Va començar a actuar l'any 1995 en el gènere post-metall.</lex>
+      <lex lang="ca" lid="Id2">El músic de post-metal, Aaron Turner, va començar a actuar el 1995 i ha tocat amb bandes com Twilight i The Lotus Eaters.</lex>
+      <lex lang="ca" lid="Id3">El músic de post-metal Aaron Turner, que va començar a actuar el 1995, ha tocat amb les bandes Twilight i Lotus Eaters.</lex>
+      <lex lang="en_bt" lid="Id1">Aaron Turner played with the band Twilight and now with the Lotus Eaters. He began performing in 1995 in the post-metal genre.</lex>
+      <lex lang="en_bt" lid="Id2">Post-metal musician Aaron Turner began performing in 1995 and has played with bands such as Twilight and The Lotus Eaters.</lex>
+      <lex lang="en_bt" lid="Id3">Post-metal musician Aaron Turner, who began performing in 1995, has played with the bands Twilight and Lotus Eaters.</lex>
+      </entry>
+    <entry category="Artist" eid="Id5" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Aaron_Turner | associatedMusicalArtist | Twilight_(band)</otriple>
+        <otriple>Aaron_Turner | associatedBand | Old_Man_Gloom</otriple>
+        <otriple>Aaron_Turner | genre | Post-metal</otriple>
+        <otriple>Aaron_Turner | activeYearsStartYear | "1995"^^xsd:gYear</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Twilight_(band)</mtriple>
+        <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Old_Man_Gloom</mtriple>
+        <mtriple>Aaron_Turner | genre | Post-metal</mtriple>
+        <mtriple>Aaron_Turner | activeYearsStartYear | 1995</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aaron_Turner | BandaAsociada/artistaMusicalAsociado | Twilight_(banda)</striple>
+        <striple>Aaron_Turner | BandaAsociada/artistaMusicalAsociado | Old_Man_Gloom</striple>
+        <striple>Aaron_Turner | Género | Post-metal</striple>
+        <striple>Aaron_Turner | AñosActivosAñoDeInicio | 1995</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Twilight_(band)</bttriple>
+        <bttriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Old_Man_Gloom</bttriple>
+        <bttriple>Aaron_Turner | genre | Post-metal</bttriple>
+        <bttriple>Aaron_Turner | activeYearsStartYear | 1995</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Aaron_Turner | BandaAssociada/artistaMusicalAssociat | Twilight_(grup)</ctriple>
+        <ctriple>Aaron_Turner | BandaAssociada/artistaMusicalAssociat | L'home_vell_sombria</ctriple>
+        <ctriple>Aaron_Turner | Gènere | post-metal</ctriple>
+        <ctriple>Aaron_Turner | AnysActiusAnyD'inici | 1995</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Aaron Turner started performing post-metal music in 1995. He played with Twilight and Old Man Gloom bands.</lex>
+      <lex lang="en" lid="Id2">Aaron Turner played with Twilight and Old Man Gloom bands. He started performing Post metal in 1995.</lex>
+      <lex lang="en" lid="Id3">Aaron Turner is post-metal musician who started performing in 1995. He has played with the bands Twilight and Old Man Gloom.</lex>
+      <lex lang="es" lid="Id1">Aaron Turner empezó a interpretar música Post-metal en 1995. Tocó con las bandas Twilight y Old Man Gloom.</lex>
+      <lex lang="es" lid="Id2">Aaron Turner tocó con las bandas Twilight y Old Man Gloom. Empezó a tocar Post metal en 1995.</lex>
+      <lex lang="es" lid="Id3">Aaron Turner es un músico de Post-metal que empezó a actuar en 1995. Ha tocado con las bandas Twilight y Old Man Gloom.</lex>
+      <lex lang="ca" lid="Id1">Aaron Turner va començar a tocar música post-metal el 1995. Va tocar amb les bandes Twilight i Old Man Gloom.</lex>
+      <lex lang="ca" lid="Id2">Aaron Turner va tocar amb les bandes Twilight i Old Man Gloom. L'any 1995 va començar a tocar post-metal.</lex>
+      <lex lang="ca" lid="Id3">Aaron Turner és un músic de post-metal que va començar a actuar el 1995. Ha tocat amb les bandes Twilight i Old Man Gloom.</lex>
+      <lex lang="en_bt" lid="Id1">Aaron Turner began playing post-metal music in 1995. He played with the bands Twilight and Old Man Gloom.</lex>
+      <lex lang="en_bt" lid="Id2">Aaron Turner played with the bands Twilight and Old Man Gloom.In 1995 he began playing post-metal.</lex>
+      <lex lang="en_bt" lid="Id3">Aaron Turner is a post-metal musician who began performing in 1995. He has played with the bands Twilight and Old Man Gloom.</lex>
+      </entry>
+    <entry category="Artist" eid="Id6" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Aaron_Turner | associatedMusicalArtist | Twilight_(band)</otriple>
+        <otriple>Aaron_Turner | genre | Black_metal</otriple>
+        <otriple>Aaron_Turner | instrument | Electric_guitar</otriple>
+        <otriple>Black_metal | musicFusionGenre | Death_metal</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Twilight_(band)</mtriple>
+        <mtriple>Aaron_Turner | genre | Black_metal</mtriple>
+        <mtriple>Aaron_Turner | instrument | Electric_guitar</mtriple>
+        <mtriple>Black_metal | musicFusionGenre | Death_metal</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aaron_Turner | BandaAsociada/artistaMusicalAsociado | Twilight_(banda)</striple>
+        <striple>Aaron_Turner | Género | black_metal</striple>
+        <striple>Aaron_Turner | Instrumento | guitarra_eléctrica</striple>
+        <striple>black_metal | GéneroMusicalFusión | death_metal</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Twilight_(band)</bttriple>
+        <bttriple>Aaron_Turner | genre | Black_metal</bttriple>
+        <bttriple>Aaron_Turner | instrument | Electric_guitar</bttriple>
+        <bttriple>Black_metal | musicFusionGenre | Death_metal</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Aaron_Turner | BandaAssociada/artistaMusicalAssociat | Twilight_(grup)</ctriple>
+        <ctriple>Aaron_Turner | Gènere | black_metal</ctriple>
+        <ctriple>Aaron_Turner | Instrument | guitarra_elèctrica</ctriple>
+        <ctriple>black_metal | MúsicaGenreFusion | death_metal</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Aaron Turner played the electric guitar with Twilight. They play Black metal whose musical fusion is the Death metal.</lex>
+      <lex lang="en" lid="Id2">Aaron Turner played electric guitar for the black metal band Twilight. Death metal is a fusion of black metal music.</lex>
+      <lex lang="en" lid="Id3">Aaron Turner plays electric guitar and played with the band Twilight. His genre in Black Metal which when part of a musical fusion becomes Death Metal.</lex>
+      <lex lang="es" lid="Id1">Aaron Turner toca la guitarra eléctrica con Twilight. Tocan Black metal cuya fusión musical es el Death metal.</lex>
+      <lex lang="es" lid="Id2">Aaron Turner tocaba la guitarra eléctrica en el grupo de black metal Twilight. El death metal es una fusión de la música black metal.</lex>
+      <lex lang="es" lid="Id3">Aaron Turner toca la guitarra eléctrica y ha tocado con la banda Twilight. Su género en el Black Metal que cuando forma parte de una fusión musical se convierte en Death Metal.</lex>
+      <lex lang="ca" lid="Id1">Aaron Turner va tocar la guitarra elèctrica amb Twilight. Toquen black metal la fusió musical del qual és el death metal.</lex>
+      <lex lang="ca" lid="Id2">Aaron Turner va tocar la guitarra elèctrica per a la banda de black metal Twilight. El death metal és una fusió de la música black metal.</lex>
+      <lex lang="ca" lid="Id3">L'Aaron Turner toca la guitarra elèctrica i va tocar amb la banda Twilight. El seu gènere és el Black Metal, que quan forma part d'una fusió musical esdevé Death Metal.</lex>
+      <lex lang="en_bt" lid="Id1">Aaron Turner played electric guitar with Twilight. They play black metal, the musical fusion of which is death metal.</lex>
+      <lex lang="en_bt" lid="Id2">Aaron Turner played electric guitar for the black metal band Twilight. Death metal is a fusion of black metal music.</lex>
+      <lex lang="en_bt" lid="Id3">Aaron Turner plays electric guitar and played with the band Twilight. His genre is Black Metal, which when part of a musical fusion becomes Death Metal.</lex>
+      </entry>
+    <entry category="Artist" eid="Id7" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Aaron_Turner | genre | Black_metal</otriple>
+        <otriple>Aaron_Turner | associatedMusicalArtist | Mamiffer</otriple>
+        <otriple>Aaron_Turner | instrument | Singing</otriple>
+        <otriple>Black_metal | musicFusionGenre | Death_metal</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Turner | genre | Black_metal</mtriple>
+        <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Mamiffer</mtriple>
+        <mtriple>Aaron_Turner | instrument | Singing</mtriple>
+        <mtriple>Black_metal | musicFusionGenre | Death_metal</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aaron_Turner | Género | black_metal</striple>
+        <striple>Aaron_Turner | BandaAsociada/artistaMusicalAsociado | Mamiffer</striple>
+        <striple>Aaron_Turner | Instrumento | canto</striple>
+        <striple>black_metal | GéneroMusicalFusión | death_metal</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Aaron_Turner | genre | Black_metal</bttriple>
+        <bttriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Mamiffer</bttriple>
+        <bttriple>Aaron_Turner | instrument | Singing</bttriple>
+        <bttriple>Black_metal | musicFusionGenre | Death_metal</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Aaron_Turner | Gènere | black_metal</ctriple>
+        <ctriple>Aaron_Turner | BandaAssociada/artistaMusicalAssociat | Mamífer</ctriple>
+        <ctriple>Aaron_Turner | Instrument | cant</ctriple>
+        <ctriple>black_metal | MúsicaGenreFusion | death_metal</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Singer Aaron Turner is a Black Metal musician who performs for Mamiffer. Death Metal is a musical fusion of Black Metal.</lex>
+      <lex lang="en" lid="Id2">Death metal is a musical fusion of black metal which is the genre of music performed by, Mamiffer singer, Aaron Turner.</lex>
+      <lex lang="en" lid="Id3">Singer Aaron Turner of the band Mamiffer, performs black metal music in which Death metal is a fusion.</lex>
+      <lex lang="es" lid="Id1">El cantante Aaron Turner es un músico de Black Metal que actúa para Mamiffer. El Death Metal es una fusión musical del Black Metal.</lex>
+      <lex lang="es" lid="Id2">El death metal es una fusión musical del black metal, género musical interpretado por el cantante de Mamiffer, Aaron Turner.</lex>
+      <lex lang="es" lid="Id3">El cantante Aaron Turner, de la banda Mamiffer, interpreta música black metal en la que el Death metal es una fusión.</lex>
+      <lex lang="ca" lid="Id1">El cantant Aaron Turner és un músic de Black Metal que actua amb Mamiffer. El Death Metal és una fusió musical de Black Metal.</lex>
+      <lex lang="ca" lid="Id2">El death metal és una fusió musical del black metal que és el gènere de música interpretat pel cantant de Mamiffer, Aaron Turner.</lex>
+      <lex lang="ca" lid="Id3">El cantant Aaron Turner de la banda Mamiffer, interpreta música de black metal en la qual el death metal és una fusió.</lex>
+      <lex lang="en_bt" lid="Id1">Singer Aaron Turner is a Black Metal musician who performs with Mamiffer. Death Metal is a musical fusion of Black Metal.</lex>
+      <lex lang="en_bt" lid="Id2">Death metal is a musical fusion of black metal which is the genre of music performed by Mamiffer singer, Aaron Turner.</lex>
+      <lex lang="en_bt" lid="Id3">Singer Aaron Turner of the band Mamiffer plays black metal music in which death metal is a fusion.</lex>
+      </entry>
+    <entry category="Artist" eid="Id8" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Ace_Wilder | birthYear | "1982"^^xsd:gYear</otriple>
+        <otriple>Ace_Wilder | birthPlace | Stockholm</otriple>
+        <otriple>Ace_Wilder | birthDate | "1982-07-23"^^xsd:date</otriple>
+        <otriple>Ace_Wilder | background | "solo_singer"@en</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Ace_Wilder | background | "solo_singer"</otriple>
+        <otriple>Ace_Wilder | birthYear | "1982"^^xsd:gYear</otriple>
+        <otriple>Ace_Wilder | birthPlace | Stockholm</otriple>
+        <otriple>Ace_Wilder | birthDate | "1982-07-23"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ace_Wilder | background | "solo_singer"</mtriple>
+        <mtriple>Ace_Wilder | birthYear | 1982</mtriple>
+        <mtriple>Ace_Wilder | birthPlace | Stockholm</mtriple>
+        <mtriple>Ace_Wilder | birthDate | 1982-07-23</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Ace_Wilder | Fondo | cantante_solista</striple>
+        <striple>Ace_Wilder | AñoDeNacimiento | 1982</striple>
+        <striple>Ace_Wilder | LugarDeNacimiento | Estocolmo</striple>
+        <striple>Ace_Wilder | FechaDeNacimiento | 23-07-1982</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Ace_Wilder | background | "solo_singer"</bttriple>
+        <bttriple>Ace_Wilder | birthYear | 1982</bttriple>
+        <bttriple>Ace_Wilder | birthPlace | Stockholm</bttriple>
+        <bttriple>Ace_Wilder | birthDate | 1982-07-23</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Ace_Wilder | Antecedents | cantant_en_solitari</ctriple>
+        <ctriple>Ace_Wilder | AnyDeNaixement | 1982</ctriple>
+        <ctriple>Ace_Wilder | LlocDeNaixement | Estocolm</ctriple>
+        <ctriple>Ace_Wilder | DataDeNaixement | 1982-07-23</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Ace Wilder was born July 23, 1982 in Stockholm and is a solo singer.</lex>
+      <lex lang="en" lid="Id2">Ace Wilder was born on July 23, 1982 in Stockholm. He is a solo singer.</lex>
+      <lex lang="en" lid="Id3">Singer Ace Wilder was born July 23, 1982 in Stockholm.</lex>
+      <lex lang="es" lid="Id1">Ace Wilder nació el 23-07-1982 en Estocolmo y es cantante solista.</lex>
+      <lex lang="es" lid="Id2">Ace Wilder nació el 23-07-1982 en Estocolmo. Es cantante solista.</lex>
+      <lex lang="es" lid="Id3">El cantante Ace Wilder nació el 23-07-1982 en Estocolmo.</lex>
+      <lex lang="ca" lid="Id1">Ace Wilder va néixer el 23 de juliol de 1982 a Estocolm i és un cantant en solitari.</lex>
+      <lex lang="ca" lid="Id2">Ace Wilder va néixer el 23 de juliol de 1982 a Estocolm. És un cantant en solitari.</lex>
+      <lex lang="ca" lid="Id3">El cantant Ace Wilder va néixer el 23 de juliol de 1982 a Estocolm.</lex>
+      <lex lang="en_bt" lid="Id1">Ace Wilder was born on 23 July 1982 in Stockholm and is a solo singer.</lex>
+      <lex lang="en_bt" lid="Id2">Ace Wilder was born on July 23, 1982 in Stockholm, he is a solo singer.</lex>
+      <lex lang="en_bt" lid="Id3">Singer Ace Wilder was born on July 23, 1982 in Stockholm.</lex>
+      </entry>
+    <entry category="Artist" eid="Id9" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Agustín_Barboza | genre | Guarania_(music)</otriple>
+        <otriple>Agustín_Barboza | background | "solo_singer"@en</otriple>
+        <otriple>Agustín_Barboza | birthPlace | Paraguay</otriple>
+        <otriple>Agustín_Barboza | placeOfBirth | Asunción</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Agustín_Barboza | background | "solo_singer"</otriple>
+        <otriple>Agustín_Barboza | genre | Guarania_(music)</otriple>
+        <otriple>Agustín_Barboza | birthPlace | Paraguay</otriple>
+        <otriple>Agustín_Barboza | placeOfBirth | Asunción</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Agustín_Barboza | placeOfBirth | Paraguay</otriple>
+        <otriple>Agustín_Barboza | genre | Guarania_(music)</otriple>
+        <otriple>Agustín_Barboza | background | "solo_singer"@en</otriple>
+        <otriple>Agustín_Barboza | birthPlace | Asunción</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Agustín_Barboza | placeOfBirth | Paraguay</otriple>
+        <otriple>Agustín_Barboza | background | "solo_singer"</otriple>
+        <otriple>Agustín_Barboza | genre | Guarania_(music)</otriple>
+        <otriple>Agustín_Barboza | birthPlace | Asunción</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Agustín_Barboza | birthPlace | Paraguay</mtriple>
+        <mtriple>Agustín_Barboza | genre | Guarania_(music)</mtriple>
+        <mtriple>Agustín_Barboza | background | "solo_singer"</mtriple>
+        <mtriple>Agustín_Barboza | birthPlace | Asunción</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Agustín_Barboza | LugarDeNacimiento | Paraguay</striple>
+        <striple>Agustín_Barboza | Género | Guarania_(música)</striple>
+        <striple>Agustín_Barboza | Fondo | cantante_solista</striple>
+        <striple>Agustín_Barboza | LugarDeNacimiento | Asunción</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Agustín_Barboza | birthPlace | Paraguay</bttriple>
+        <bttriple>Agustín_Barboza | genre | Guarania_(music)</bttriple>
+        <bttriple>Agustín_Barboza | background | "solo_singer"</bttriple>
+        <bttriple>Agustín_Barboza | birthPlace | Asunción</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Agustín_Barboza | LlocDeNaixement | Paraguai</ctriple>
+        <ctriple>Agustín_Barboza | Gènere | Guarania_(música)</ctriple>
+        <ctriple>Agustín_Barboza | Antecedents | cantant_en_solitari</ctriple>
+        <ctriple>Agustín_Barboza | LlocDeNaixement | Asunción</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Agustín Barboza, a Guarania music solo singer, was born in Asunción, Paraguay.</lex>
+      <lex lang="en" lid="Id2">Guarania singer Agustin Barboza was born in Asuncion, Paraguay.</lex>
+      <lex lang="en" lid="Id3">Guarania genre solo singer Agustín Barboza was born in Asunción, Paraguay.</lex>
+      <lex lang="es" lid="Id1">Agustín Barboza, cantante solista de música guarania, nació en Asunción, Paraguay.</lex>
+      <lex lang="es" lid="Id2">El cantante de guarania Agustin Barboza nacio en Asuncion, Paraguay.</lex>
+      <lex lang="es" lid="Id3">El cantante solista del género guarania Agustín Barboza nació en Asunción, Paraguay.</lex>
+      <lex lang="ca" lid="Id1">Agustín Barboza, cantant solista de música Guarania, va néixer a Asunción, Paraguai.</lex>
+      <lex lang="ca" lid="Id2">El cantant de guaraní Agustín Barboza va néixer a Asunción, Paraguai.</lex>
+      <lex lang="ca" lid="Id3">El cantant solista del gènere guaraní Agustín Barboza va néixer a Asunció, Paraguai.</lex>
+      <lex lang="en_bt" lid="Id1">Agustín Barboza, singer soloist of Guarania music, was born in Asunción, Paraguay.</lex>
+      <lex lang="en_bt" lid="Id2">Guarani singer Agustín Barboza was born in Asunción, Paraguay.</lex>
+      <lex lang="en_bt" lid="Id3">The solo singer of the Guaraní genre Agustín Barboza was born in Asunción, Paraguay.</lex>
+      </entry>
+    <entry category="Artist" eid="Id10" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Al_Anderson_(NRBQ) | associatedBand | NRBQ</otriple>
+        <otriple>Al_Anderson_(NRBQ) | associatedMusicalArtist | The_Wildweeds</otriple>
+        <otriple>Al_Anderson_(NRBQ) | birthPlace | Windsor,_Connecticut</otriple>
+        <otriple>Al_Anderson_(NRBQ) | activeYearsStartYear | "1966"^^xsd:gYear</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Al_Anderson_(NRBQ) | associatedMusicalArtist | NRBQ</otriple>
+        <otriple>Al_Anderson_(NRBQ) | associatedBand | The_Wildweeds</otriple>
+        <otriple>Al_Anderson_(NRBQ) | birthPlace | Windsor,_Connecticut</otriple>
+        <otriple>Al_Anderson_(NRBQ) | activeYearsStartYear | "1966"^^xsd:gYear</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Al_Anderson_(NRBQ band) | associatedBand/associatedMusicalArtist | NRBQ</mtriple>
+        <mtriple>Al_Anderson_(NRBQ band) | associatedBand/associatedMusicalArtist | The_Wildweeds</mtriple>
+        <mtriple>Al_Anderson_(NRBQ band) | birthPlace | Windsor,_Connecticut</mtriple>
+        <mtriple>Al_Anderson_(NRBQ band) | activeYearsStartYear | 1966</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Al_Anderson_(banda_NRBQ) | BandaAsociada/artistaMusicalAsociado | NRBQ</striple>
+        <striple>Al_Anderson_(banda_NRBQ) | BandaAsociada/artistaMusicalAsociado | Las_plantas_silvestres</striple>
+        <striple>Al_Anderson_(banda_NRBQ) | LugarDeNacimiento | Windsor,_Connecticut</striple>
+        <striple>Al_Anderson_(banda_NRBQ) | AñosActivosAñoDeInicio | 1966</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Al_Anderson_(NRBQ band) | associatedBand/associatedMusicalArtist | NRBQ</bttriple>
+        <bttriple>Al_Anderson_(NRBQ band) | associatedBand/associatedMusicalArtist | The_Wildweeds</bttriple>
+        <bttriple>Al_Anderson_(NRBQ band) | birthPlace | Windsor,_Connecticut</bttriple>
+        <bttriple>Al_Anderson_(NRBQ band) | activeYearsStartYear | 1966</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Al_Anderson_(banda_NRBQ) | BandaAssociada/artistaMusicalAssociat | NRBQ</ctriple>
+        <ctriple>Al_Anderson_(banda_NRBQ) | BandaAssociada/artistaMusicalAssociat | Les_herbes_silvestres</ctriple>
+        <ctriple>Al_Anderson_(banda_NRBQ) | LlocDeNaixement | Windsor,_Connecticut</ctriple>
+        <ctriple>Al_Anderson_(banda_NRBQ) | AnysActiusAnyD'inici | 1966</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Al Anderson of the NRBQ band was born in Windsor, Connecticut and started his career in 1966.Previously he was a member of The Wildweeds.</lex>
+      <lex lang="en" lid="Id2">Al Anderson who was born in Windsor, Connecticut started became active in 1966. He plays with the band NRBQ and he also played once with The Wildweeds.</lex>
+      <lex lang="en" lid="Id3">Musical artist Al Anderson was born in Windsor, Connecticut and became musically active in 1966. He's played with NRBQ and once a member of The Wildweeds.</lex>
+      <lex lang="es" lid="Id1">Al Anderson, de la banda NRBQ, nació en Windsor, Connecticut, y comenzó su carrera en 1966. Anteriormente fue miembro de The Wildweeds.</lex>
+      <lex lang="es" lid="Id2">Al Anderson, nacido en Windsor (Connecticut), empezó a actuar en 1966. Toca con la banda NRBQ y también tocó una vez con The Wildweeds.</lex>
+      <lex lang="es" lid="Id3">El artista musical Al Anderson nació en Windsor, Connecticut, y comenzó su actividad musical en 1966. Ha tocado con NRBQ y fue miembro de The Wildweeds.</lex>
+      <lex lang="ca" lid="Id1">Al Anderson de la banda NRBQ va néixer a Windsor, Connecticut i va començar la seva carrera el 1966. Anteriorment va ser membre de The Wildweeds.</lex>
+      <lex lang="ca" lid="Id2">Al Anderson, que va néixer a Windsor, Connecticut, va començar a ser actiu el 1966. Toca amb la banda NRBQ i també va tocar una vegada amb The Wildweeds.</lex>
+      <lex lang="ca" lid="Id3">L'artista musical Al Anderson va néixer a Windsor, Connecticut i es va convertir en musicalment actiu el 1966. Ha tocat amb NRBQ i va ser membre de The Wildweeds.</lex>
+      <lex lang="en_bt" lid="Id1">Al Anderson of the band NRBQ was born in Windsor, Connecticut and began his career in 1966. He was previously a member of The Wildweeds.</lex>
+      <lex lang="en_bt" lid="Id2">Al Anderson, who was born in Windsor, Connecticut, became active in 1966. he plays with the band NRBQ and also played once with The Wildweeds.</lex>
+      <lex lang="en_bt" lid="Id3">Musical artist Al Anderson was born in Windsor, Connecticut and became musically active in 1966. He has played with NRBQ and was a member of The Wildweeds.</lex>
+      </entry>
+    <entry category="Artist" eid="Id11" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Alan_Frew | genre | Rock_music</otriple>
+        <otriple>Rock_music | stylisticOrigins | Blues</otriple>
+        <otriple>Rock_music | stylisticOrigin | Folk_music</otriple>
+        <otriple>Rock_music | musicFusionGenre | Bhangra_(music)</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Alan_Frew | genre | Rock_music</otriple>
+        <otriple>Rock_music | stylisticOrigin | Blues</otriple>
+        <otriple>Rock_music | stylisticOrigins | Folk_music</otriple>
+        <otriple>Rock_music | musicFusionGenre | Bhangra_(music)</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Frew | genre | Rock_music</mtriple>
+        <mtriple>Rock_music | stylisticOrigin | Blues</mtriple>
+        <mtriple>Rock_music | stylisticOrigin | Folk_music</mtriple>
+        <mtriple>Rock_music | musicFusionGenre | Bhangra_(music)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alan_Frew | Género | rock</striple>
+        <striple>rock | OrigenEstilístico | Blues</striple>
+        <striple>rock | OrigenEstilístico | música_folclórica</striple>
+        <striple>rock | GéneroMusicalFusión | Bhangra_(música)</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Alan_Frew | genre | Rock_music</bttriple>
+        <bttriple>Rock_music | stylisticOrigin | Blues</bttriple>
+        <bttriple>Rock_music | stylisticOrigin | Folk_music</bttriple>
+        <bttriple>Rock_music | musicFusionGenre | Bhangra_(music)</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Alan_Frew | Gènere | rock</ctriple>
+        <ctriple>rock | OrigenEstilístic | blues</ctriple>
+        <ctriple>rock | OrigenEstilístic | folk</ctriple>
+        <ctriple>rock | MúsicaGenreFusion | Bhangra_(música)</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Alan Frew is a performer of rock music, which originated from folk music. Bhangra is part of the fusion genre, partly coming from Rock music, along with the blues.</lex>
+      <lex lang="en" lid="Id2">Alan Frew is a performer of rock music which lhas its stylistic origins in both the Blues and folk music. A musical fusion of rock music is bhangra music.</lex>
+      <lex lang="en" lid="Id3">Alan Frew is a performer of rock music, which has its origins in blues music and its stylistic origins in folk music. Bhangra is part of the fusion genre, with some of its ideas coming from rock music.</lex>
+      <lex lang="es" lid="Id1">Alan Frew es un intérprete de música rock, que tiene su origen en la música folk. El bhangra forma parte del género de fusión, procedente en parte de la música rock, junto con el Blues.</lex>
+      <lex lang="es" lid="Id2">Alan Frew es un intérprete de música rock que tiene sus orígenes estilísticos en el Blues y la música folk. Una fusión musical de la música rock es la música bhangra.</lex>
+      <lex lang="es" lid="Id3">Alan Frew es un intérprete de música rock, que tiene sus orígenes en la música Blues y sus orígenes estilísticos en la música folk. El bhangra forma parte del género de fusión, con algunas de sus ideas procedentes de la música rock.</lex>
+      <lex lang="ca" lid="Id1">Alan Frew és un intèrpret de música rock, que es va originar a partir de la música folk. El Bhangra forma part del gènere de fusió, provinent en part de la música rock, juntament amb el blues.</lex>
+      <lex lang="ca" lid="Id2">Alan Frew és un intèrpret de música rock que té els seus orígens estilístics tant en el blues com en la música folk. Una fusió musical de la música rock és la música bhangra.</lex>
+      <lex lang="ca" lid="Id3">Alan Frew és un intèrpret de música rock, que té els seus orígens en la música blues i els seus orígens estilístics en la música folk. Bhangra és part del gènere de fusió, amb algunes de les seves idees provinents de la música rock.</lex>
+      <lex lang="en_bt" lid="Id1">Alan Frew is a rock music performer, who originated from folk music. Bhangra is part of the fusion genre, coming partly from rock music, along with blues.</lex>
+      <lex lang="en_bt" lid="Id2">Alan Frew is a rock music performer who has his stylistic origins in both blues and folk music. A musical fusion of rock music is bhangra music.</lex>
+      <lex lang="en_bt" lid="Id3">Alan Frew is a rock music performer, who has his roots in blues music and his stylistic origins in folk music. Bhangra is part of the fusion genre, with some of his ideas coming from rock music.</lex>
+      </entry>
+    <entry category="Artist" eid="Id12" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Albennie_Jones | genre | Rhythm_and_blues</otriple>
+        <otriple>Albennie_Jones | birthYear | "1914"^^xsd:gYear</otriple>
+        <otriple>Albennie_Jones | birthPlace | United_States</otriple>
+        <otriple>Albennie_Jones | background | "solo_singer"@en</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Albennie_Jones | genre | Rhythm_and_blues</otriple>
+        <otriple>Albennie_Jones | background | "solo_singer"</otriple>
+        <otriple>Albennie_Jones | birthYear | "1914"^^xsd:gYear</otriple>
+        <otriple>Albennie_Jones | birthPlace | United_States</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Albennie_Jones | genre | Rhythm_and_blues</mtriple>
+        <mtriple>Albennie_Jones | background | "solo_singer"</mtriple>
+        <mtriple>Albennie_Jones | birthYear | 1914</mtriple>
+        <mtriple>Albennie_Jones | birthPlace | United_States</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Albennie_Jones | Género | rhythm_and_blues</striple>
+        <striple>Albennie_Jones | Fondo | cantante_solista</striple>
+        <striple>Albennie_Jones | AñoDeNacimiento | 1914</striple>
+        <striple>Albennie_Jones | LugarDeNacimiento | Estados_Unidos</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Albennie_Jones | genre | Rhythm_and_blues</bttriple>
+        <bttriple>Albennie_Jones | background | "solo_singer"</bttriple>
+        <bttriple>Albennie_Jones | birthYear | 1914</bttriple>
+        <bttriple>Albennie_Jones | birthPlace | United_States</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Albennie_Jones | Gènere | rhythm_and_blues</ctriple>
+        <ctriple>Albennie_Jones | Antecedents | cantant_en_solitari</ctriple>
+        <ctriple>Albennie_Jones | AnyDeNaixement | 1914</ctriple>
+        <ctriple>Albennie_Jones | LlocDeNaixement | Estats_Units_d'Amèrica</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Solo rhythm and blues singer Albennie Jones was born in the U.S.A. in 1914.</lex>
+      <lex lang="en" lid="Id2">American rhythm and blues singer Albennie Jones was born in 1914.</lex>
+      <lex lang="en" lid="Id3">Albennie Jones was born 1914, in the United States. Albennie Jones, is a solo singer, who performs in the rhythm and blues genre.</lex>
+      <lex lang="es" lid="Id1">La cantante solista de rhythm and blues Albennie Jones nació en Estados Unidos en 1914.</lex>
+      <lex lang="es" lid="Id2">La cantante estadounidense de rhythm and blues Albennie Jones nació en 1914.</lex>
+      <lex lang="es" lid="Id3">Albennie Jones nació en 1914, en los Estados Unidos. Albennie Jones, es una cantante solista, que actúa en el género rhythm and blues.</lex>
+      <lex lang="ca" lid="Id1">El cantant de ritme i blues Albennie Jones va néixer als Estats Units el 1914.</lex>
+      <lex lang="ca" lid="Id2">El cantant americà de rhythm and blues Albennie Jones va néixer el 1914.</lex>
+      <lex lang="ca" lid="Id3">Albennie Jones va néixer el 1914, als Estats Units. Albennie Jones, és un cantant en solitari, que actua en el gènere de rhythm and blues.</lex>
+      <lex lang="en_bt" lid="Id1">Rhythm and blues singer Albennie Jones was born in the United States in 1914.</lex>
+      <lex lang="en_bt" lid="Id2">American rhythm and blues singer Albennie Jones was born in 1914.</lex>
+      <lex lang="en_bt" lid="Id3">Albennie Jones was born in 1914, in the United States. Albennie Jones, is a solo singer, who performs in the rhythm and blues genre.</lex>
+      </entry>
+    <entry category="Artist" eid="Id13" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Albennie_Jones | genre | Rhythm_and_blues</otriple>
+        <otriple>Albennie_Jones | background | "solo_singer"</otriple>
+        <otriple>Rhythm_and_blues | stylisticOrigin | Blues</otriple>
+        <otriple>Rhythm_and_blues | derivative | Disco</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Albennie_Jones | genre | Rhythm_and_blues</otriple>
+        <otriple>Rhythm_and_blues | stylisticOrigin | Blues</otriple>
+        <otriple>Albennie_Jones | background | "solo_singer"@en</otriple>
+        <otriple>Rhythm_and_blues | derivative | Disco</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Albennie_Jones | genre | Rhythm_and_blues</mtriple>
+        <mtriple>Albennie_Jones | background | "solo_singer"</mtriple>
+        <mtriple>Rhythm_and_blues | stylisticOrigin | Blues</mtriple>
+        <mtriple>Rhythm_and_blues | derivative | Disco</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Albennie_Jones | Género | rhythm_and_blues</striple>
+        <striple>Albennie_Jones | Fondo | cantante_solista</striple>
+        <striple>rhythm_and_blues | OrigenEstilístico | Blues</striple>
+        <striple>rhythm_and_blues | Derivado | música_disco</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Albennie_Jones | genre | Rhythm_and_blues</bttriple>
+        <bttriple>Albennie_Jones | background | "solo_singer"</bttriple>
+        <bttriple>Rhythm_and_blues | stylisticOrigin | Blues</bttriple>
+        <bttriple>Rhythm_and_blues | derivative | Disco</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Albennie_Jones | Gènere | rhythm_and_blues</ctriple>
+        <ctriple>Albennie_Jones | Antecedents | cantant_en_solitari</ctriple>
+        <ctriple>rhythm_and_blues | OrigenEstilístic | blues</ctriple>
+        <ctriple>rhythm_and_blues | Derivada | música_disco</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Albennie Jones is a solo singer who played rhythm and blues music. That music type originates from blues music. Disco music comes from rhythm and blues sounds.</lex>
+      <lex lang="en" lid="Id2">Albennie Jones is a solo singer, who performs in the rhythm and blues genre. Disco derives from rhythm and blues which is originated from blues.</lex>
+      <lex lang="en" lid="Id3">Albennie Jones has a background as a solo singer in the rhythm and blues genre. Disco is a derivative of rhythm and blues which originated from blues music.</lex>
+      <lex lang="es" lid="Id1">Albennie Jones es un cantante solista que interpretaba música rhythm and Blues. Ese tipo de música tiene su origen en la música Blues. La música música disco procede de los sonidos del rhythm and Blues.</lex>
+      <lex lang="es" lid="Id2">Albennie Jones es una cantante solista que actúa en el género del rhythm and Blues. La música música disco deriva del rhythm and Blues, que a su vez tiene su origen en el Blues.</lex>
+      <lex lang="es" lid="Id3">Albennie Jones es cantante solista de rhythm and Blues. La música música disco es un derivado del rhythm and Blues, que tiene su origen en la música Blues.</lex>
+      <lex lang="ca" lid="Id1">Albennie Jones és un cantant en solitari que va tocar música rhythm and blues. Aquest tipus de música s' origina de la música blues. La música disco prové dels sons rhythm and blues.</lex>
+      <lex lang="ca" lid="Id2">Albennie Jones és una cantant en solitari que actua en el gènere del rhythm and blues. El disc ve del rhythm and blues, que ve del blues.</lex>
+      <lex lang="ca" lid="Id3">Albennie Jones té una trajectòria com a cantant en solitari en el gènere del rhythm and blues. El disco és un derivat del rhythm and blues que es va originar en la música del blues.</lex>
+      <lex lang="en_bt" lid="Id1">Albennie Jones is a solo singer who played rhythm and blues music. This type of music originates from blues music. Disco music comes from rhythm and blues sounds.</lex>
+      <lex lang="en_bt" lid="Id2">Albennie Jones is a solo singer who performs in the genre of rhythm and blues. The album comes from rhythm and blues, which comes from blues.</lex>
+      <lex lang="en_bt" lid="Id3">Albennie Jones has a career as a solo singer in the genre of rhythm and blues. The album is a derivative of rhythm and blues that originated in blues music.</lex>
+      </entry>
+    <entry category="Artist" eid="Id14" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Aleksandra_Kovač | birthYear | "1972"^^xsd:gYear</otriple>
+        <otriple>Aleksandra_Kovač | genre | Pop_music</otriple>
+        <otriple>Aleksandra_Kovač | birthPlace | Belgrade</otriple>
+        <otriple>Aleksandra_Kovač | background | "solo_singer"@en</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Aleksandra_Kovač | background | "solo_singer"</otriple>
+        <otriple>Aleksandra_Kovač | birthYear | "1972"^^xsd:gYear</otriple>
+        <otriple>Aleksandra_Kovač | genre | Pop_music</otriple>
+        <otriple>Aleksandra_Kovač | birthPlace | Belgrade</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandra_Kovač | birthYear | 1972</mtriple>
+        <mtriple>Aleksandra_Kovač | genre | Pop_music</mtriple>
+        <mtriple>Aleksandra_Kovač | birthPlace | Belgrade</mtriple>
+        <mtriple>Aleksandra_Kovač | background | "solo_singer"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aleksandra_Kovač | AñoDeNacimiento | 1972</striple>
+        <striple>Aleksandra_Kovač | Género | pop</striple>
+        <striple>Aleksandra_Kovač | LugarDeNacimiento | Belgrado</striple>
+        <striple>Aleksandra_Kovač | Fondo | cantante_solista</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Aleksandra_Kovač | birthYear | 1972</bttriple>
+        <bttriple>Aleksandra_Kovač | genre | Pop_music</bttriple>
+        <bttriple>Aleksandra_Kovač | birthPlace | Belgrade</bttriple>
+        <bttriple>Aleksandra_Kovač | background | "solo_singer"</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Aleksandra_Kovač | AnyDeNaixement | 1972</ctriple>
+        <ctriple>Aleksandra_Kovač | Gènere | pop</ctriple>
+        <ctriple>Aleksandra_Kovač | LlocDeNaixement | Belgrad</ctriple>
+        <ctriple>Aleksandra_Kovač | Antecedents | cantant_en_solitari</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Singer and pop musician Aleksandra Kovac was born 1972, in Belgrade.</lex>
+      <lex lang="en" lid="Id2">Pop musician and solo singer Aleksandra Kovač was born 1972, in Belgrade.</lex>
+      <lex lang="en" lid="Id3">Aleksandra Kovac was born in Belgrade in 1972 and is a solo singer of pop music.</lex>
+      <lex lang="es" lid="Id1">La cantante y música pop Aleksandra Kovac nació en 1972 en Belgrado.</lex>
+      <lex lang="es" lid="Id2">La música pop y cantante solista Aleksandra Kovač nació en 1972 en Belgrado.</lex>
+      <lex lang="es" lid="Id3">Aleksandra Kovac nació en Belgrado en 1972 y es cantante solista de música pop.</lex>
+      <lex lang="ca" lid="Id1">La cantant i música pop Aleksandra Kovac va néixer el 1972, a Belgrad.</lex>
+      <lex lang="ca" lid="Id2">La músic pop i cantant solista Aleksandra Kovač va néixer el 1972 a Belgrad.</lex>
+      <lex lang="ca" lid="Id3">Aleksandra Kovac va néixer a Belgrad el 1972 i és una cantant solista de música pop.</lex>
+      <lex lang="en_bt" lid="Id1">Pop singer and musician Aleksandra Kovac was born in 1972, in Belgrade.</lex>
+      <lex lang="en_bt" lid="Id2">Pop musician and solo singer Aleksandra Kovač was born in 1972 in Belgrade.</lex>
+      <lex lang="en_bt" lid="Id3">Aleksandra Kovac was born in Belgrade in 1972 and is a pop music solo singer.</lex>
+      </entry>
+    <entry category="Artist" eid="Id15" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Aleksandra_Kovač | birthYear | "1972"^^xsd:gYear</otriple>
+        <otriple>Aleksandra_Kovač | genre | Pop_music</otriple>
+        <otriple>Aleksandra_Kovač | birthPlace | Socialist_Republic_of_Serbia</otriple>
+        <otriple>Aleksandra_Kovač | background | "solo_singer"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandra_Kovač | birthYear | 1972</mtriple>
+        <mtriple>Aleksandra_Kovač | genre | Pop_music</mtriple>
+        <mtriple>Aleksandra_Kovač | birthPlace | Socialist_Republic_of_Serbia</mtriple>
+        <mtriple>Aleksandra_Kovač | background | "solo_singer"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aleksandra_Kovač | AñoDeNacimiento | 1972</striple>
+        <striple>Aleksandra_Kovač | Género | pop</striple>
+        <striple>Aleksandra_Kovač | LugarDeNacimiento | República_Socialista_de_Serbia</striple>
+        <striple>Aleksandra_Kovač | Fondo | cantante_solista</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Aleksandra_Kovač | birthYear | 1972</bttriple>
+        <bttriple>Aleksandra_Kovač | genre | Pop_music</bttriple>
+        <bttriple>Aleksandra_Kovač | birthPlace | Socialist_Republic_of_Serbia</bttriple>
+        <bttriple>Aleksandra_Kovač | background | "solo_singer"</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Aleksandra_Kovač | AnyDeNaixement | 1972</ctriple>
+        <ctriple>Aleksandra_Kovač | Gènere | pop</ctriple>
+        <ctriple>Aleksandra_Kovač | LlocDeNaixement | República_Socialista_de_Sèrbia</ctriple>
+        <ctriple>Aleksandra_Kovač | Antecedents | cantant_en_solitari</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Serbian pop singer Aleksandra Kovač was born in Serbia in 1972.</lex>
+      <lex lang="en" lid="Id2">Aleksandra Kovac was born in 1972, in the Socialist Republic of Serbia. With a background as a solo singer, Aleksandra Kovač is a performer of pop music.</lex>
+      <lex lang="en" lid="Id3">Born in 1972, in the Socialist Republic of Serbia, Aleksandra Kovac, whose musical genre is Pop, is a solo singer.</lex>
+      <lex lang="es" lid="Id1">La cantante pop serbia Aleksandra Kovač nació en Serbia en 1972.</lex>
+      <lex lang="es" lid="Id2">Aleksandra Kovac nació en 1972, en la República Socialista de Serbia. Con antecedentes como cantante solista, Aleksandra Kovač es intérprete de música pop.</lex>
+      <lex lang="es" lid="Id3">Nacida en 1972, en la República Socialista de Serbia, Aleksandra Kovac, cuyo género musical es el Pop, es cantante solista.</lex>
+      <lex lang="ca" lid="Id1">La cantant pop sèrbia Aleksandra Kovač va néixer a Sèrbia el 1972.</lex>
+      <lex lang="ca" lid="Id2">Aleksandra Kovac va néixer el 1972, a la República Socialista de Sèrbia. Amb un passat com a cantant en solitari, Aleksandra Kovač és una intèrpret de música pop.</lex>
+      <lex lang="ca" lid="Id3">Nascuda el 1972 a la República Socialista de Sèrbia, Aleksandra Kovac, de gènere musical pop, és una cantant en solitari.</lex>
+      <lex lang="en_bt" lid="Id1">Serbian pop singer Aleksandra Kovač was born in Serbia in 1972.</lex>
+      <lex lang="en_bt" lid="Id2">Aleksandra Kovac was born in 1972 in the Socialist Republic of Serbia. With a past as a solo singer, Aleksandra Kovač is a pop music performer.</lex>
+      <lex lang="en_bt" lid="Id3">Born in 1972 in the Socialist Republic of Serbia, Aleksandra Kovac, of pop music genre, is a solo singer.</lex>
+      </entry>
+    <entry category="Artist" eid="Id16" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Aleksandra_Kovač | genre | Rhythm_and_blues</otriple>
+        <otriple>Aleksandra_Kovač | birthYear | "1972"^^xsd:gYear</otriple>
+        <otriple>Aleksandra_Kovač | birthPlace | Belgrade</otriple>
+        <otriple>Aleksandra_Kovač | background | "solo_singer"@en</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Aleksandra_Kovač | genre | Rhythm_and_blues</otriple>
+        <otriple>Aleksandra_Kovač | background | "solo_singer"</otriple>
+        <otriple>Aleksandra_Kovač | birthYear | "1972"^^xsd:gYear</otriple>
+        <otriple>Aleksandra_Kovač | birthPlace | Belgrade</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandra_Kovač | genre | Rhythm_and_blues</mtriple>
+        <mtriple>Aleksandra_Kovač | birthYear | 1972</mtriple>
+        <mtriple>Aleksandra_Kovač | birthPlace | Belgrade</mtriple>
+        <mtriple>Aleksandra_Kovač | background | "solo_singer"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aleksandra_Kovač | Género | rhythm_and_blues</striple>
+        <striple>Aleksandra_Kovač | AñoDeNacimiento | 1972</striple>
+        <striple>Aleksandra_Kovač | LugarDeNacimiento | Belgrado</striple>
+        <striple>Aleksandra_Kovač | Fondo | cantante_solista</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Aleksandra_Kovač | genre | Rhythm_and_blues</bttriple>
+        <bttriple>Aleksandra_Kovač | birthYear | 1972</bttriple>
+        <bttriple>Aleksandra_Kovač | birthPlace | Belgrade</bttriple>
+        <bttriple>Aleksandra_Kovač | background | "solo_singer"</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Aleksandra_Kovač | Gènere | rhythm_and_blues</ctriple>
+        <ctriple>Aleksandra_Kovač | AnyDeNaixement | 1972</ctriple>
+        <ctriple>Aleksandra_Kovač | LlocDeNaixement | Belgrad</ctriple>
+        <ctriple>Aleksandra_Kovač | Antecedents | cantant_en_solitari</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Rhythm and blues performer Aleksandra Kovac was born in 1972 in Belgrade and is a solo singer.</lex>
+      <lex lang="en" lid="Id2">Rhythm and blues solo singer Aleksandra Kovač was born in Belgrade in 1972.</lex>
+      <lex lang="en" lid="Id3">Aleksandra Kovac, born in 1972 in Belgrade, is a rhythm and blues player. He was a solo singer.</lex>
+      <lex lang="es" lid="Id1">La intérprete de rhythm and blues Aleksandra Kovac nació en 1972 en Belgrado y es cantante solista.</lex>
+      <lex lang="es" lid="Id2">La cantante solista de rhythm and blues Aleksandra Kovač nació en Belgrado en 1972.</lex>
+      <lex lang="es" lid="Id3">Aleksandra Kovac, nacida en 1972 en Belgrado, es intérprete de rhythm and blues. Fue cantante en solitario.</lex>
+      <lex lang="ca" lid="Id1">L'artista de rhythm and blues Aleksandra Kovac va néixer el 1972 a Belgrad i és una cantant en solitari.</lex>
+      <lex lang="ca" lid="Id2">La cantant solista de rhythm and blues Aleksandra Kovač va néixer a Belgrad el 1972.</lex>
+      <lex lang="ca" lid="Id3">Aleksandra Kovac, nascut el 1972 a Belgrad, és un músic de rhythm and blues i cantant en solitari.</lex>
+      <lex lang="en_bt" lid="Id1">Rhythm and blues artist Aleksandra Kovac was born in 1972 in Belgrade and is a solo singer.</lex>
+      <lex lang="en_bt" lid="Id2">Rhythm and blues solo singer Aleksandra Kovač was born in Belgrade in 1972.</lex>
+      <lex lang="en_bt" lid="Id3">Aleksandra Kovac, born in 1972 in Belgrade, is a rhythm and blues musician and solo singer.</lex>
+      </entry>
+    <entry category="Artist" eid="Id17" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Alex_Day | associatedBand | Chameleon_Circuit_(band)</otriple>
+        <otriple>Alex_Day | genre | Electronic_music</otriple>
+        <otriple>Alex_Day | associatedMusicalArtist | Charlie_McDonnell</otriple>
+        <otriple>Alex_Day | activeYearsStartYear | "2006"^^xsd:gYear</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Alex_Day | associatedMusicalArtist | Chameleon_Circuit_(band)</otriple>
+        <otriple>Alex_Day | genre | Electronic_music</otriple>
+        <otriple>Alex_Day | associatedBand | Charlie_McDonnell</otriple>
+        <otriple>Alex_Day | activeYearsStartYear | "2006"^^xsd:gYear</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alex_Day | associatedBand/associatedMusicalArtist | Chameleon_Circuit_(band)</mtriple>
+        <mtriple>Alex_Day | genre | Electronic_music</mtriple>
+        <mtriple>Alex_Day | associatedBand/associatedMusicalArtist | Charlie_McDonnell</mtriple>
+        <mtriple>Alex_Day | activeYearsStartYear | 2006</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alex_Day | BandaAsociada/artistaMusicalAsociado | Chameleon_Circuit_(banda)</striple>
+        <striple>Alex_Day | Género | música_electrónica</striple>
+        <striple>Alex_Day | BandaAsociada/artistaMusicalAsociado | Charlie_McDonnell</striple>
+        <striple>Alex_Day | AñosActivosAñoDeInicio | 2006</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Alex_day | associatedBand/associatedMusicalArtist | Chameleon_Circuit_(band)</bttriple>
+        <bttriple>Alex_day | genre | Electronic_music</bttriple>
+        <bttriple>Alex_day | associatedBand/associatedMusicalArtist | Charlie_McDonnell</bttriple>
+        <bttriple>Alex_day | activeYearsStartYear | 2006</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Alex_Day | BandaAssociada/artistaMusicalAssociat | Chameleon_Circuit_(banda)</ctriple>
+        <ctriple>Alex_Day | Gènere | música_electrònica</ctriple>
+        <ctriple>Alex_Day | BandaAssociada/artistaMusicalAssociat | Charlie_McDonnell</ctriple>
+        <ctriple>Alex_Day | AnysActiusAnyD'inici | 2006</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Alex Day, who is associated with performer Charlie McDonnell, plays with the band Chameleon Circuit. He became active in 2006 and his speciality is electronic music.</lex>
+      <lex lang="en" lid="Id2">Alex Day performs electronic music and plays with the band Chameleon Circuit. His active musical years started in 2006 and he is associated with the musical artist, Charlie McDonnell.</lex>
+      <lex lang="en" lid="Id3">Chameleon Circuit member and Electronic musician Alex Day began in 2006 and is associated with artist Charlie McDonnell.</lex>
+      <lex lang="es" lid="Id1">Alex Day, asociado al intérprete Charlie McDonnell, toca con el grupo Chameleon Circuit. Empezó a actuar en 2006 y su especialidad es la música electrónica.</lex>
+      <lex lang="es" lid="Id2">Alex Day interpreta música electrónica y toca con el grupo Chameleon Circuit. Su carrera musical comenzó en 2006 y está asociado con el artista Charlie McDonnell.</lex>
+      <lex lang="es" lid="Id3">El miembro de Chameleon Circuit y músico electrónico Alex Day comenzó en 2006 y está asociado con el artista Charlie McDonnell.</lex>
+      <lex lang="ca" lid="Id1">Alex Day, associat amb l'artista Charlie McDonnell, toca amb la banda Chameleon Circuit. Es va activar l'any 2006 i la seva especialitat és la música electrònica.</lex>
+      <lex lang="ca" lid="Id2">Alex Day interpreta música electrònica i toca amb la banda Chameleon Circuit. Els seus anys musicals actius van començar el 2006 i està associat amb l'artista musical, Charlie McDonnell.</lex>
+      <lex lang="ca" lid="Id3">El membre de Chameleon Circuit i músic electrònic Alex Day va començar el 2006 i està associat amb l'artista Charlie McDonnell.</lex>
+      <lex lang="en_bt" lid="Id1">Alex Day, associated with the artist Charlie McDonnell, plays with the band Chameleon Circuit. It was formed in 2006 and specializes in electronic music.</lex>
+      <lex lang="en_bt" lid="Id2">Alex Day performs electronic music and plays with the band Chameleon Circuit. His active music years began in 2006 and he is associated with the music artist Charlie McDonnell.</lex>
+      <lex lang="en_bt" lid="Id3">Chameleon Circuit member and electronic musician Alex Day started in 2006 and is associated with artist Charlie McDonnell.</lex>
+      </entry>
+    <entry category="Artist" eid="Id18" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Alex_Day | genre | Synthpop</otriple>
+        <otriple>Synthpop | stylisticOrigin | Pop_music</otriple>
+        <otriple>Alex_Day | background | "solo_singer"</otriple>
+        <otriple>Synthpop | derivative | House_music</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Alex_Day | genre | Synthpop</otriple>
+        <otriple>Synthpop | stylisticOrigin | Pop_music</otriple>
+        <otriple>Synthpop | derivative | House_music</otriple>
+        <otriple>Alex_Day | background | "solo_singer"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alex_Day | genre | Synthpop</mtriple>
+        <mtriple>Synthpop | stylisticOrigin | Pop_music</mtriple>
+        <mtriple>Alex_Day | background | "solo_singer"</mtriple>
+        <mtriple>Synthpop | derivative | House_music</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alex_Day | Género | Synthpop</striple>
+        <striple>Synthpop | OrigenEstilístico | pop</striple>
+        <striple>Alex_Day | Fondo | cantante_solista</striple>
+        <striple>Synthpop | Derivado | música_house</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Alex_day | genre | Synthpop</bttriple>
+        <bttriple>Synthpop | stylisticOrigin | Pop_music</bttriple>
+        <bttriple>Alex_day | background | "solo_singer"</bttriple>
+        <bttriple>Synthpop | derivative | House_music</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Alex_Day | Gènere | Synthpop</ctriple>
+        <ctriple>Synthpop | OrigenEstilístic | pop</ctriple>
+        <ctriple>Alex_Day | Antecedents | cantant_en_solitari</ctriple>
+        <ctriple>Synthpop | Derivada | house</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Alex Day is the solo singer that uses the genre of stylistic origins Synthpop that is a derivative of the house music that comes from pop.</lex>
+      <lex lang="en" lid="Id2">Solo singer Alex Day performs Synthpop music. Synthpop is a form of house pop music.</lex>
+      <lex lang="en" lid="Id3">Synthpop is a form of pop music derived from house music. It is performed by the solo singer Alex Day.</lex>
+      <lex lang="es" lid="Id1">Alex Day es el cantante solista que utiliza el género de origen estilístico Synthpop que es un derivado de la música house que proviene del pop.</lex>
+      <lex lang="es" lid="Id2">El cantante solista Alex Day interpreta música Synthpop. El Synthpop es una forma de música house pop.</lex>
+      <lex lang="es" lid="Id3">El Synthpop es una forma de música pop derivada de la música house. La interpreta el cantante solista Alex Day.</lex>
+      <lex lang="ca" lid="Id1">Alex Day és el cantant en solitari que utilitza el gènere d'orígens estilístics Synthpop que és un derivat de la música house que prové del pop.</lex>
+      <lex lang="ca" lid="Id2">El cantant en solitari Alex Day interpreta música synthpop. El synthpop és una forma de música pop house.</lex>
+      <lex lang="ca" lid="Id3">El synthpop és una forma de música pop derivada de la música house. L'interpreta el cantant solista Alex Day.</lex>
+      <lex lang="en_bt" lid="Id1">Alex Day is the solo singer who uses the genre of stylistic origins Synthpop which is a derivative of house music that comes from pop.</lex>
+      <lex lang="en_bt" lid="Id2">Solo singer Alex Day plays synthpop music. Synthpop is a form of pop house music.</lex>
+      <lex lang="en_bt" lid="Id3">Synthpop is a form of pop music derived from house music. It is performed by solo singer Alex Day.</lex>
+      </entry>
+    <entry category="Artist" eid="Id19" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Alison_O'Donnell | associatedBand | Mellow_Candle</otriple>
+        <otriple>Alison_O'Donnell | associatedMusicalArtist | Head_South_By_Weaving</otriple>
+        <otriple>Alison_O'Donnell | genre | Folk_music</otriple>
+        <otriple>Alison_O'Donnell | activeYearsStartYear | "1963"^^xsd:gYear</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alison_O'Donnell | associatedBand/associatedMusicalArtist | Mellow_Candle</mtriple>
+        <mtriple>Alison_O'Donnell | associatedBand/associatedMusicalArtist | Head_South_By_Weaving</mtriple>
+        <mtriple>Alison_O'Donnell | genre | Folk_music</mtriple>
+        <mtriple>Alison_O'Donnell | activeYearsStartYear | 1963</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alison_O'Donnell | BandaAsociada/artistaMusicalAsociado | Mellow_Candle</striple>
+        <striple>Alison_O'Donnell | BandaAsociada/artistaMusicalAsociado | Hacia_el_sur_tejiendo</striple>
+        <striple>Alison_O'Donnell | Género | música_folclórica</striple>
+        <striple>Alison_O'Donnell | AñosActivosAñoDeInicio | 1963</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Alison_O'Donnell | associatedBand/associatedMusicalArtist | Mellow_Candle</bttriple>
+        <bttriple>Alison_O'Donnell | associatedBand/associatedMusicalArtist | Head_South_By_Weaving</bttriple>
+        <bttriple>Alison_O'Donnell | genre | Folk_music</bttriple>
+        <bttriple>Alison_O'Donnell | activeYearsStartYear | 1963</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Alison_O'Donnell | BandaAssociada/artistaMusicalAssociat | Candela_suau</ctriple>
+        <ctriple>Alison_O'Donnell | BandaAssociada/artistaMusicalAssociat | Cap_al_sud_per_teixits</ctriple>
+        <ctriple>Alison_O'Donnell | Gènere | folk</ctriple>
+        <ctriple>Alison_O'Donnell | AnysActiusAnyD'inici | 1963</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Folk musician Alison O'Donnell began in 1963 and is associated withHead South By Weaving and Mellow Candle.</lex>
+      <lex lang="en" lid="Id2">Alison O'Donnell began performing folk music in 1963. She's been associated with the bands Head South By Weaving and Mellow Candle.</lex>
+      <lex lang="en" lid="Id3">Folk musician Alison O'Donnell, who began her career in 1963, has played with the bands Mellow Candle and Head South By Weaving.</lex>
+      <lex lang="es" lid="Id1">La música folk Alison O'Donnell empezó en 1963 y está asociada conHead South By Weaving y Mellow Candle.</lex>
+      <lex lang="es" lid="Id2">Alison O'Donnell empezó a interpretar música folk en 1963. Ha estado asociada a las bandas Head South By Weaving y Mellow Candle.</lex>
+      <lex lang="es" lid="Id3">La música folk Alison O'Donnell, que comenzó su carrera en 1963, ha tocado con los grupos Mellow Candle y Head South By Weaving.</lex>
+      <lex lang="ca" lid="Id1">La música folk Alison O'Donnell va començar el 1963 i està associada amb Head South By Weaving i Mellow Candle.</lex>
+      <lex lang="ca" lid="Id2">Alison O'Donnell va començar a tocar música folk el 1963 i ha estat associada amb els grups Head South By Weaving i Mellow Candle.</lex>
+      <lex lang="ca" lid="Id3">La música folk Alison O'Donnell, que va començar la seva carrera el 1963, ha tocat amb les bandes Mellow Candle i Head South By Weaving.</lex>
+      <lex lang="en_bt" lid="Id1">Alison O'Donnell's folk music began in 1963 and is associated with Head South By Weaving and Mellow Candle.</lex>
+      <lex lang="en_bt" lid="Id2">Alison O'Donnell began playing folk music in 1963 and has been associated with the groups Head South By Weaving and Mellow Candle.</lex>
+      <lex lang="en_bt" lid="Id3">Folk musician Alison O'Donnell, who began her career in 1963, has played with the bands Mellow Candle and Head South By Weaving.</lex>
+      </entry>
+    <entry category="Artist" eid="Id20" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Alison_O'Donnell | genre | Jazz</otriple>
+        <otriple>Alison_O'Donnell | recordLabel | Deram_Records</otriple>
+        <otriple>Deram_Records | location | London</otriple>
+        <otriple>Alison_O'Donnell | label | Fruits_de_Mer_Records</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alison_O'Donnell | genre | Jazz</mtriple>
+        <mtriple>Alison_O'Donnell | recordLabel | Deram_Records</mtriple>
+        <mtriple>Deram_Records | location | London</mtriple>
+        <mtriple>Alison_O'Donnell | recordLabel | Fruits_de_Mer_Records</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alison_O'Donnell | Género | jazz</striple>
+        <striple>Alison_O'Donnell | SelloDiscográfico | Deram_Records</striple>
+        <striple>Deram_Records | Ubicación | Londres</striple>
+        <striple>Alison_O'Donnell | SelloDiscográfico | Fruits_de_Mer_Records</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Alison_O'Donnell | genre | Jazz</bttriple>
+        <bttriple>Alison_O'Donnell | recordLabel | Deram_Records</bttriple>
+        <bttriple>Deram_Records | location | London</bttriple>
+        <bttriple>Alison_O'Donnell | recordLabel | Fruits_de_Mer_Records</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Alison_O'Donnell | Gènere | jazz</ctriple>
+        <ctriple>Alison_O'Donnell | EtiquetaDelRegistre | Deram_Records</ctriple>
+        <ctriple>Deram_Records | Ubicació | Londres</ctriple>
+        <ctriple>Alison_O'Donnell | EtiquetaDelRegistre | Fruits_de_Mer_Records</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Alison O'Donnell, who performs jazz, once was signed to Deram Records and another time to Fruits de Mer Records. London is the home to Deram Records.</lex>
+      <lex lang="en" lid="Id2">Previously signed to the record label Fruits de Mer Records, jazz musician, Alison O'Donnell is signed with the London based, record label, Deram Records.</lex>
+      <lex lang="en" lid="Id3">Alison O'Donnell, who performs jazz music, was once signed to Fruits de Mer Records and is now signed to London based Deram Records.</lex>
+      <lex lang="es" lid="Id1">Alison O'Donnell, que interpreta jazz, firmó una vez con Deram Records y otra con Fruits de Mer Records. Londres es la sede de Deram Records.</lex>
+      <lex lang="es" lid="Id2">La música de jazz Alison O'Donnell, que anteriormente había firmado con el sello discográfico Fruits de Mer Records, ha fichado por el sello londinense Deram Records.</lex>
+      <lex lang="es" lid="Id3">Alison O'Donnell, que interpreta música de jazz, firmó en su día con Fruits de Mer Records y ahora lo hace con Deram Records, con sede en Londres.</lex>
+      <lex lang="ca" lid="Id1">Alison O'Donnell, que interpreta jazz, va signar una vegada amb Deram Records i una altra vegada amb Fruits de Mer Records. Londres és la llar de Deram Records.</lex>
+      <lex lang="ca" lid="Id2">Anteriorment signat amb el segell discogràfic Fruits de Mer Records, el músic de jazz, Alison O'Donnell ha signat amb el segell discogràfic londinès, Deram Records.</lex>
+      <lex lang="ca" lid="Id3">Alison O'Donnell, que interpreta música de jazz, una vegada va signar amb Fruits de Mer Records i ara està signat amb Deram Records, amb seu a Londres.</lex>
+      <lex lang="en_bt" lid="Id1">Alison O'Donnell, who plays jazz, signed once with Deram Records and again with Fruits de Mer Records. London is home to Deram Records.</lex>
+      <lex lang="en_bt" lid="Id2">Previously signed to the Fruits de Mer Records label, jazz musician Alison O'Donnell has signed to London-based Deram Records.</lex>
+      <lex lang="en_bt" lid="Id3">Alison O'Donnell, who plays jazz music, was once signed to Fruits de Mer Records and is now signed to London-based Deram Records.</lex>
+      </entry>
+    <entry category="Artist" eid="Id21" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Anders_Osborne | associatedBand | Billy_Iuso</otriple>
+        <otriple>Anders_Osborne | associatedMusicalArtist | Tab_Benoit</otriple>
+        <otriple>Anders_Osborne | genre | Rock_music</otriple>
+        <otriple>Anders_Osborne | associatedActs | Galactic</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Anders_Osborne | associatedBand/associatedMusicalArtist | Billy_Iuso</mtriple>
+        <mtriple>Anders_Osborne | associatedBand/associatedMusicalArtist | Tab_Benoit</mtriple>
+        <mtriple>Anders_Osborne | genre | Rock_music</mtriple>
+        <mtriple>Anders_Osborne | associatedBand/associatedMusicalArtist | Galactic</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Anders_Osborne | BandaAsociada/artistaMusicalAsociado | Billy_Iuso</striple>
+        <striple>Anders_Osborne | BandaAsociada/artistaMusicalAsociado | Tab_Benoit</striple>
+        <striple>Anders_Osborne | Género | rock</striple>
+        <striple>Anders_Osborne | BandaAsociada/artistaMusicalAsociado | Galactic</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Anders_Osborne | associatedBand/associatedMusicalArtist | Billy_Iuso</bttriple>
+        <bttriple>Anders_Osborne | associatedBand/associatedMusicalArtist | Tab_Benoit</bttriple>
+        <bttriple>Anders_Osborne | genre | Rock_music</bttriple>
+        <bttriple>Anders_Osborne | associatedBand/associatedMusicalArtist | Galactic</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Anders_Osborne | BandaAssociada/artistaMusicalAssociat | Billy_Iuso</ctriple>
+        <ctriple>Anders_Osborne | BandaAssociada/artistaMusicalAssociat | Tab_Benoit</ctriple>
+        <ctriple>Anders_Osborne | Gènere | rock</ctriple>
+        <ctriple>Anders_Osborne | BandaAssociada/artistaMusicalAssociat | Galàctic</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Rock musician Anders Osborne has worked with the band Galactic and also with the musical artists Tab Benoit and Billy Iuso.</lex>
+      <lex lang="en" lid="Id2">Anders Osborne is associated with the musical artists Billy Iuso and Tab Benoit. He is an exponent of rock music and worked with the Galactic band.</lex>
+      <lex lang="en" lid="Id3">An exponent of Rock music, Anders Osborne is associated with musical artist Billy Iuso. He is also associated with Tab Benoit and the band, Galactic.</lex>
+      <lex lang="es" lid="Id1">El músico de rock Anders Osborne ha trabajado con la banda Galactic y también con los artistas musicales Tab Benoit y Billy Iuso.</lex>
+      <lex lang="es" lid="Id2">Anders Osborne está asociado con los artistas musicales Billy Iuso y Tab Benoit. Es un exponente de la música rock y trabajó con la banda Galactic.</lex>
+      <lex lang="es" lid="Id3">Exponente de la música Rock, Anders Osborne está asociado con el artista musical Billy Iuso. También está asociado con Tab Benoit y la banda Galactic.</lex>
+      <lex lang="ca" lid="Id1">El músic de rock Anders Osborne ha treballat amb la banda Galactic i també amb els artistes musicals Tab Benoit i Billy Iuso.</lex>
+      <lex lang="ca" lid="Id2">Anders Osborne està associat amb els artistes musicals Billy Iuso i Tab Benoit. És un exponent de la música rock i va treballar amb la banda Galactic.</lex>
+      <lex lang="ca" lid="Id3">Un exponent de la música rock, Anders Osborne està associat amb l'artista musical Billy Iuso. També està associat amb Tab Benoit i la banda, Galactic.</lex>
+      <lex lang="en_bt" lid="Id1">Rock musician Anders Osborne has worked with the band Galactic and also with musical artists Tab Benoit and Billy Iuso.</lex>
+      <lex lang="en_bt" lid="Id2">Anders Osborne is associated with musical artists Billy Iuso and Tab Benoit. He is an exponent of rock music and worked with the band Galactic.</lex>
+      <lex lang="en_bt" lid="Id3">An exponent of rock music, Anders Osborne is associated with musical artist Billy Iuso. He is also associated with Tab Benoit and the band, Galactic.</lex>
+      </entry>
+    <entry category="Artist" eid="Id22" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Anders_Osborne | associatedBand | Billy_Iuso</otriple>
+        <otriple>Anders_Osborne | associatedMusicalArtist | Tab_Benoit</otriple>
+        <otriple>Anders_Osborne | genre | Rock_music</otriple>
+        <otriple>Anders_Osborne | associatedActs | Voice_of_the_Wetlands_All-Stars</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Anders_Osborne | associatedMusicalArtist | Voice_of_the_Wetlands_All-Stars</otriple>
+        <otriple>Anders_Osborne | genre | Rock_music</otriple>
+        <otriple>Anders_Osborne | associatedActs | Billy_Iuso</otriple>
+        <otriple>Anders_Osborne | associatedBand | Tab_Benoit</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Anders_Osborne | associatedBand | Billy_Iuso</otriple>
+        <otriple>Anders_Osborne | associatedMusicalArtist | Voice_of_the_Wetlands_All-Stars</otriple>
+        <otriple>Anders_Osborne | genre | Rock_music</otriple>
+        <otriple>Anders_Osborne | associatedActs | Tab_Benoit</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Anders_Osborne | associatedBand/associatedMusicalArtist | Billy_Iuso</mtriple>
+        <mtriple>Anders_Osborne | associatedBand/associatedMusicalArtist | Tab_Benoit</mtriple>
+        <mtriple>Anders_Osborne | genre | Rock_music</mtriple>
+        <mtriple>Anders_Osborne | associatedBand/associatedMusicalArtist | Voice_of_the_Wetlands_All-Stars</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Anders_Osborne | BandaAsociada/artistaMusicalAsociado | Billy_Iuso</striple>
+        <striple>Anders_Osborne | BandaAsociada/artistaMusicalAsociado | Tab_Benoit</striple>
+        <striple>Anders_Osborne | Género | rock</striple>
+        <striple>Anders_Osborne | BandaAsociada/artistaMusicalAsociado | La_voz_de_las_estrellas_de_los_humedales</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Anders_Osborne | associatedBand/associatedMusicalArtist | Billy_Iuso</bttriple>
+        <bttriple>Anders_Osborne | associatedBand/associatedMusicalArtist | Tab_Benoit</bttriple>
+        <bttriple>Anders_Osborne | genre | Rock_music</bttriple>
+        <bttriple>Anders_Osborne | associatedBand/associatedMusicalArtist | Voice_of_the_Wetlands_All-Stars</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Anders_Osborne | BandaAssociada/artistaMusicalAssociat | Billy_Iuso</ctriple>
+        <ctriple>Anders_Osborne | BandaAssociada/artistaMusicalAssociat | Tab_Benoit</ctriple>
+        <ctriple>Anders_Osborne | Gènere | rock</ctriple>
+        <ctriple>Anders_Osborne | BandaAssociada/artistaMusicalAssociat | La_veu_dels_aiguamolls_All-Stars</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Anders Osborne, whose genre is rock music, is associated with Voice of the Wetlands All-Stars. He is also associated with Tab Benoit and the musical artist Billy Iuso.</lex>
+      <lex lang="en" lid="Id2">Rock performer Anders Osborne worked with Tab Benoit. He's associated with musical artist Billy Iuso and the Voice of the Wetlands All-Stars.</lex>
+      <lex lang="en" lid="Id3">Exponent of rock music Anders Osborne, who has worked with Tab Benoit is associated with the musical artist Billy Iuso and the Voice of the Wetlands All-Stars.</lex>
+      <lex lang="es" lid="Id1">Anders Osborne, cuyo género es la música rock, está asociado con Voice of the Wetlands All-Stars. También está asociado con Tab Benoit y el artista musical Billy Iuso.</lex>
+      <lex lang="es" lid="Id2">El intérprete de rock Anders Osborne trabajó con Tab Benoit. Está asociado con el artista musical Billy Iuso y con Voice of the Wetlands All-Stars.</lex>
+      <lex lang="es" lid="Id3">Exponente de la música rock, Anders Osborne, que ha trabajado con Tab Benoit, está asociado al artista musical Billy Iuso y a Voice of the Wetlands All-Stars.</lex>
+      <lex lang="ca" lid="Id1">Anders Osborne, el gènere del qual és la música rock, està associat amb Voice of the Wetlands All-Stars. També està associat amb Tab Benoit i l'artista musical Billy Iuso.</lex>
+      <lex lang="ca" lid="Id2">El músic de rock Anders Osborne va treballar amb Tab Benoit. Està associat amb l'artista musical Billy Iuso i amb Voice of the Wetlands All-Stars.</lex>
+      <lex lang="ca" lid="Id3">L'exponent de la música rock Anders Osborne, que ha treballat amb Tab Benoit, està associat amb l'artista musical Billy Iuso i el Voice of the Wetlands All-Stars.</lex>
+      <lex lang="en_bt" lid="Id1">Anders Osborne, whose genre is rock music, is associated with Voice of the Wetlands All-Stars. He is also associated with Tab Benoit and musical artist Billy Iuso.</lex>
+      <lex lang="en_bt" lid="Id2">Rock musician Anders Osborne has worked with Tab Benoit. He is associated with music artist Billy Iuso and the Voice of the Wetlands All-Stars.</lex>
+      <lex lang="en_bt" lid="Id3">Rock music exponent Anders Osborne, who has worked with Tab Benoit, is associated with musical artist Billy Iuso and the Voice of the Wetlands All-Stars.</lex>
+      </entry>
+    <entry category="Artist" eid="Id23" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Andrew_Rayel | associatedBand | Bobina</otriple>
+        <otriple>Andrew_Rayel | associatedMusicalArtist | Christian_Burns</otriple>
+        <otriple>Andrew_Rayel | genre | Trance_music</otriple>
+        <otriple>Trance_music | stylisticOrigin | Pop_music</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Bobina</mtriple>
+        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Christian_Burns</mtriple>
+        <mtriple>Andrew_Rayel | genre | Trance_music</mtriple>
+        <mtriple>Trance_music | stylisticOrigin | Pop_music</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Andrew_Rayel | BandaAsociada/artistaMusicalAsociado | Bobina</striple>
+        <striple>Andrew_Rayel | BandaAsociada/artistaMusicalAsociado | Christian_Burns</striple>
+        <striple>Andrew_Rayel | Género | música_trance</striple>
+        <striple>música_trance | OrigenEstilístico | pop</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Coil</bttriple>
+        <bttriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Christian_Burns</bttriple>
+        <bttriple>Andrew_Rayel | genre | Trance_music</bttriple>
+        <bttriple>Trance_music | stylisticOrigin | Pop_music</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Andrew_Rayel | BandaAssociada/artistaMusicalAssociat | Bobina</ctriple>
+        <ctriple>Andrew_Rayel | BandaAssociada/artistaMusicalAssociat | Christian_Burns</ctriple>
+        <ctriple>Andrew_Rayel | Gènere | Música_trance</ctriple>
+        <ctriple>Música_trance | OrigenEstilístic | pop</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The musicians Andrew Rayel is associated with both Bobina and Christian Burns. Andrew Rayel has performed the genre of Trance music which has its stylistic origins in pop music.</lex>
+      <lex lang="en" lid="Id2">Trance musician (origin: Pop music) Andrew Rayel is associated with artists Bobina and Christian Burns.</lex>
+      <lex lang="en" lid="Id3">Andrew Rayel is associated with Bobina and Christian Burns. He performs trance music which has its stylistic origins in pop music.</lex>
+      <lex lang="es" lid="Id1">El músico Andrew Rayel está asociado tanto con Bobina como con Christian Burns. Andrew Rayel ha interpretado el género de música Trance, que tiene sus orígenes estilísticos en la música pop.</lex>
+      <lex lang="es" lid="Id2">Músico de trance (origen: música pop) Andrew Rayel está asociado con los artistas Bobina y Christian Burns.</lex>
+      <lex lang="es" lid="Id3">Andrew Rayel está asociado con Bobina y Christian Burns. Interpreta música trance que tiene sus orígenes estilísticos en la música pop.</lex>
+      <lex lang="ca" lid="Id1">Els músics Andrew Rayel estan associats amb Bobina i Christian Burns. Andrew Rayel ha interpretat el gènere de música trance que té els seus orígens estilístics en la música pop.</lex>
+      <lex lang="ca" lid="Id2">El músic de trance (origen: música pop) Andrew Rayel està associat amb els artistes Bobina i Christian Burns.</lex>
+      <lex lang="ca" lid="Id3">Andrew Rayel està associat amb Bobina i Christian Burns. Realitza música trance que té els seus orígens estilístics en la música pop.</lex>
+      <lex lang="en_bt" lid="Id1">Musicians Andrew Rayel are associated with Bobina and Christian Burns. Andrew Rayel has performed the trance music genre that has its stylistic origins in pop music.</lex>
+      <lex lang="en_bt" lid="Id2">Trance musician (origin: pop music) Andrew Rayel is associated with artists Bobina and Christian Burns.</lex>
+      <lex lang="en_bt" lid="Id3">Andrew Rayel is associated with Bobina and Christian Burns. He makes trance music that has its stylistic origins in pop music.</lex>
+      </entry>
+    <entry category="Artist" eid="Id24" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Andrew_Rayel | associatedMusicalArtist | Christian_Burns</otriple>
+        <otriple>Andrew_Rayel | associatedBand | Jonathan_Mendelsohn</otriple>
+        <otriple>Andrew_Rayel | genre | Trance_music</otriple>
+        <otriple>Andrew_Rayel | activeYearsStartYear | "2009"^^xsd:gYear</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Christian_Burns</mtriple>
+        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Jonathan_Mendelsohn</mtriple>
+        <mtriple>Andrew_Rayel | genre | Trance_music</mtriple>
+        <mtriple>Andrew_Rayel | activeYearsStartYear | 2009</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Andrew_Rayel | BandaAsociada/artistaMusicalAsociado | Christian_Burns</striple>
+        <striple>Andrew_Rayel | BandaAsociada/artistaMusicalAsociado | Jonathan_Mendelsohn</striple>
+        <striple>Andrew_Rayel | Género | música_trance</striple>
+        <striple>Andrew_Rayel | AñosActivosAñoDeInicio | 2009</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Christian_Burns</bttriple>
+        <bttriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Jonathan_Mendelsohn</bttriple>
+        <bttriple>Andrew_Rayel | genre | Trance_music</bttriple>
+        <bttriple>Andrew_Rayel | activeYearsStartYear | 2009</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Andrew_Rayel | BandaAssociada/artistaMusicalAssociat | Christian_Burns</ctriple>
+        <ctriple>Andrew_Rayel | BandaAssociada/artistaMusicalAssociat | Jonathan_Mendelsohn</ctriple>
+        <ctriple>Andrew_Rayel | Gènere | Música_trance</ctriple>
+        <ctriple>Andrew_Rayel | AnysActiusAnyD'inici | 2009</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Andrew Rayel, who began his musical career in 2009, plays trance music. He has worked with Christian Burns and the musical artist Jonathan Mendelsohn.</lex>
+      <lex lang="en" lid="Id2">In 2009 Andrew Rayel started his music career. He played Trance music. Mr. Rayel is associated with Christian Burns and Jonathan Mendelsohn.</lex>
+      <lex lang="en" lid="Id3">Trance musician Andrew Rayel began his career in 2009 and is associated with artists Jonathan Mendelsohn and Christian Burns.</lex>
+      <lex lang="es" lid="Id1">Andrew Rayel, que comenzó su carrera musical en 2009, interpreta música trance. Ha trabajado con Christian Burns y el artista musical Jonathan Mendelsohn.</lex>
+      <lex lang="es" lid="Id2">En 2009 Andrew Rayel comenzó su carrera musical. Tocaba música Trance. El Sr. Rayel está asociado con Christian Burns y Jonathan Mendelsohn.</lex>
+      <lex lang="es" lid="Id3">El músico de trance Andrew Rayel comenzó su carrera en 2009 y está asociado con los artistas Jonathan Mendelsohn y Christian Burns.</lex>
+      <lex lang="ca" lid="Id1">Andrew Rayel, que va començar la seva carrera musical el 2009, toca música de trance i ha treballat amb Christian Burns i l'artista musical Jonathan Mendelsohn.</lex>
+      <lex lang="ca" lid="Id2">El 2009 Andrew Rayel va començar la seva carrera musical. Va tocar música trance. El Sr. Rayel està associat amb Christian Burns i Jonathan Mendelsohn.</lex>
+      <lex lang="ca" lid="Id3">El músic de trance Andrew Rayel va començar la seva carrera el 2009 i està associat amb els artistes Jonathan Mendelsohn i Christian Burns.</lex>
+      <lex lang="en_bt" lid="Id1">Andrew Rayel, who began his musical career in 2009, plays trance music and has worked with Christian Burns and musical artist Jonathan Mendelsohn.</lex>
+      <lex lang="en_bt" lid="Id2">In 2009 Andrew Rayel began his musical career. He played trance music. Mr. Rayel is associated with Christian Burns and Jonathan Mendelsohn.</lex>
+      <lex lang="en_bt" lid="Id3">Trance musician Andrew Rayel began his career in 2009 and is associated with artists Jonathan Mendelsohn and Christian Burns.</lex>
+      </entry>
+    <entry category="Artist" eid="Id25" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Andrew_Rayel | associatedMusicalArtist | Jwaydan_Moyine</otriple>
+        <otriple>Jwaydan_Moyine | associatedBand | John_Digweed</otriple>
+        <otriple>Andrew_Rayel | genre | Trance_music</otriple>
+        <otriple>Trance_music | stylisticOrigin | Pop_music</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Jwaydan_Moyine</mtriple>
+        <mtriple>Jwaydan_Moyine | associatedBand/associatedMusicalArtist | John_Digweed</mtriple>
+        <mtriple>Andrew_Rayel | genre | Trance_music</mtriple>
+        <mtriple>Trance_music | stylisticOrigin | Pop_music</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Andrew_Rayel | BandaAsociada/artistaMusicalAsociado | Jwaydan_Moyine</striple>
+        <striple>Jwaydan_Moyine | BandaAsociada/artistaMusicalAsociado | John_Digweed</striple>
+        <striple>Andrew_Rayel | Género | música_trance</striple>
+        <striple>música_trance | OrigenEstilístico | pop</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Jwaydan_Moyine</bttriple>
+        <bttriple>Jwaydan_Moyine | associatedBand/associatedMusicalArtist | John_Digweed</bttriple>
+        <bttriple>Andrew_Rayel | genre | Trance_music</bttriple>
+        <bttriple>Trance_music | stylisticOrigin | Pop_music</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Andrew_Rayel | BandaAssociada/artistaMusicalAssociat | Jwaydan_Moyine</ctriple>
+        <ctriple>Jwaydan_Moyine | BandaAssociada/artistaMusicalAssociat | John_Digweed</ctriple>
+        <ctriple>Andrew_Rayel | Gènere | Música_trance</ctriple>
+        <ctriple>Música_trance | OrigenEstilístic | pop</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Andrew Rayel's musical genre is Trance which has its stylistic origins in pop music. He is associated with the musician Jwaydan Moyine, who, is associated with the musical artist John Digweed.</lex>
+      <lex lang="en" lid="Id2">Andrew Rayel performs trance music, a style that originated from pop. He is associated with Jwaydan Moyine, who is associated with John Digweed.</lex>
+      <lex lang="en" lid="Id3">With its originsin pop music, Trance is the genre of Andrew Rayel, who is associated with the musician Jwaydan Moyine, who in turn, is associated with the musical artist John Digweed.</lex>
+      <lex lang="es" lid="Id1">El género musical de Andrew Rayel es el Trance, que tiene sus orígenes estilísticos en la música pop. Está asociado con el músico Jwaydan Moyine, quien, a su vez, está asociado con el artista musical John Digweed.</lex>
+      <lex lang="es" lid="Id2">Andrew Rayel interpreta música trance, un estilo que tiene su origen en el pop. Está asociado con Jwaydan Moyine, que a su vez está asociado con John Digweed.</lex>
+      <lex lang="es" lid="Id3">Con sus orígenes en la música pop, el Trance es el género de Andrew Rayel, que se asocia con el músico Jwaydan Moyine, quien a su vez, se asocia con el artista musical John Digweed.</lex>
+      <lex lang="ca" lid="Id1">El gènere musical d'Andrew Rayel és el trance, que té els seus orígens estilístics en la música pop. Està associat amb el músic Jwaydan Moyine, que està associat amb l'artista musical John Digweed.</lex>
+      <lex lang="ca" lid="Id2">Andrew Rayel interpreta música de trance, un estil que es va originar del pop. Està associat amb Jwaydan Moyine, que està associat amb John Digweed.</lex>
+      <lex lang="ca" lid="Id3">Amb els seus orígens en la música pop, el Trance és el gènere d'Andrew Rayel, que està associat amb el músic Jwaydan Moyine, que al seu torn, està associat amb l'artista musical John Digweed.</lex>
+      <lex lang="en_bt" lid="Id1">Andrew Rayel's musical genre is trance, which has its stylistic origins in pop music. He is associated with musician Jwaydan Moyine, who is associated with musical artist John Digweed.</lex>
+      <lex lang="en_bt" lid="Id2">Andrew Rayel plays trance music, a style that originated from pop. He is associated with Jwaydan Moyine, who is associated with John Digweed.</lex>
+      <lex lang="en_bt" lid="Id3">With its origins in pop music, Trance is the genre of Andrew Rayel, who is associated with musician Jwaydan Moyine, who in turn, is associated with musical artist John Digweed.</lex>
+      </entry>
+    <entry category="Artist" eid="Id26" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Andrew_White_(musician) | associatedBand | Marry_Banilow</otriple>
+        <otriple>Andrew_White_(musician) | associatedMusicalArtist | Kaiser_Chiefs</otriple>
+        <otriple>Andrew_White_(musician) | recordLabel | Polydor_Records</otriple>
+        <otriple>Andrew_White_(musician) | activeYearsStartYear | "2003"^^xsd:gYear</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Andrew_White_(musician) | associatedBand | Kaiser_Chiefs</otriple>
+        <otriple>Andrew_White_(musician) | associatedMusicalArtist | Marry_Banilow</otriple>
+        <otriple>Andrew_White_(musician) | recordLabel | Polydor_Records</otriple>
+        <otriple>Andrew_White_(musician) | activeYearsStartYear | "2003"^^xsd:gYear</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Andrew_White_(musician) | associatedBand/associatedMusicalArtist | Kaiser_Chiefs</mtriple>
+        <mtriple>Andrew_White_(musician) | associatedBand/associatedMusicalArtist | Marry_Banilow</mtriple>
+        <mtriple>Andrew_White_(musician) | recordLabel | Polydor_Records</mtriple>
+        <mtriple>Andrew_White_(musician) | activeYearsStartYear | 2003</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Andrew_'Whitey'_White_(músico) | BandaAsociada/artistaMusicalAsociado | Kaiser_Chiefs</striple>
+        <striple>Andrew_'Whitey'_White_(músico) | BandaAsociada/artistaMusicalAsociado | Marry_Banilow</striple>
+        <striple>Andrew_'Whitey'_White_(músico) | SelloDiscográfico | Polydor_Records</striple>
+        <striple>Andrew_'Whitey'_White_(músico) | AñosActivosAñoDeInicio | 2003</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Andrew_White_(musician) | associatedBand/associatedMusicalArtist | Kaiser_Chiefs</bttriple>
+        <bttriple>Andrew_White_(musician) | associatedBand/associatedMusicalArtist | Marry_Banilow</bttriple>
+        <bttriple>Andrew_White_(musician) | recordLabel | Polydor_Records</bttriple>
+        <bttriple>Andrew_White_(musician) | activeYearsStartYear | 2003</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Andrew_White_(músic) | BandaAssociada/artistaMusicalAssociat | Kaiser_Chiefs</ctriple>
+        <ctriple>Andrew_White_(músic) | BandaAssociada/artistaMusicalAssociat | Casar-se_amb_Banilow</ctriple>
+        <ctriple>Andrew_White_(músic) | EtiquetaDelRegistre | Polydor_Records</ctriple>
+        <ctriple>Andrew_White_(músic) | AnysActiusAnyD'inici | 2003</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Andrew White is a musician who plays for the band Kaiser Chiefs and is signed to the record label Polydor Records. He started his musical career in 2003 and is associated with the musical artist, Marry Banilow.</lex>
+      <lex lang="en" lid="Id2">Andrew White is a musician who plays for the band Kaiser Chiefs and is signed to the record label Polydor Records. He started his musical career in 2003 and is associated with the musical artist Marry Banilow.</lex>
+      <lex lang="en" lid="Id3">Andrew White plays for the band Kaiser Chiefs and is associated with the musical artist Marry Banilow. He started his musical career in 2003 and his record label is Polydor Records.</lex>
+      <lex lang="es" lid="Id1">Andrew White es un músico que toca en el grupo Kaiser Chiefs y pertenece al sello discográfico Polydor Records. Comenzó su carrera musical en 2003 y está asociado con la artista musical Marry Banilow.</lex>
+      <lex lang="es" lid="Id2">Andrew White es un músico que toca en el grupo Kaiser Chiefs y pertenece al sello discográfico Polydor Records. Comenzó su carrera musical en 2003 y está asociado con la artista musical Marry Banilow.</lex>
+      <lex lang="es" lid="Id3">Andrew White toca en el grupo Kaiser Chiefs y está asociado con la artista musical Marry Banilow. Comenzó su carrera musical en 2003 y su sello discográfico es Polydor Records.</lex>
+      <lex lang="ca" lid="Id1">Andrew White és un músic que toca per la banda Kaiser Chiefs i està signat amb el segell discogràfic Polydor Records. Va començar la seva carrera musical el 2003 i està associat amb l'artista musical, Marry Banilow.</lex>
+      <lex lang="ca" lid="Id2">Andrew White és un músic que toca per la banda Kaiser Chiefs i està signat amb el segell discogràfic Polydor Records. Va començar la seva carrera musical el 2003 i està associat amb l'artista musical Marry Banilow.</lex>
+      <lex lang="ca" lid="Id3">Andrew White toca per la banda Kaiser Chiefs i està associat amb l'artista musical Marry Banilow. Va començar la seva carrera musical el 2003 i el seu segell discogràfic és Polydor Records.</lex>
+      <lex lang="en_bt" lid="Id1">Andrew White is a musician who plays for the band Kaiser Chiefs and is signed to the record label Polydor Records. He began his music career in 2003 and is associated with the music artist, Marry Banilow.</lex>
+      <lex lang="en_bt" lid="Id2">Andrew White is a musician who plays for the band Kaiser Chiefs and is signed to the record label Polydor Records. He began his music career in 2003 and is associated with the music artist Marry Banilow.</lex>
+      <lex lang="en_bt" lid="Id3">Andrew White plays for the band Kaiser Chiefs and is associated with the music artist Marry Banilow. He began his music career in 2003 and his record label is Polydor Records.</lex>
+      </entry>
+    <entry category="Artist" eid="Id27" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Agustín_Barboza | deathPlace | Asunción</otriple>
+        <otriple>Paraguay | leaderName | Juan_Afara</otriple>
+        <otriple>Asunción | subdivisionName | Gran_Asunción</otriple>
+        <otriple>Agustín_Barboza | placeOfDeath | Paraguay</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Asunción | isPartOf | Gran_Asunción</otriple>
+        <otriple>Agustín_Barboza | placeOfDeath | Asunción</otriple>
+        <otriple>Paraguay | leaderName | Juan_Afara</otriple>
+        <otriple>Agustín_Barboza | deathPlace | Paraguay</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Agustín_Barboza | deathPlace | Asunción</otriple>
+        <otriple>Asunción | isPartOf | Gran_Asunción</otriple>
+        <otriple>Paraguay | leaderName | Juan_Afara</otriple>
+        <otriple>Agustín_Barboza | placeOfDeath | Paraguay</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Agustín_Barboza | placeOfDeath | Asunción</otriple>
+        <otriple>Paraguay | leaderName | Juan_Afara</otriple>
+        <otriple>Agustín_Barboza | deathPlace | Paraguay</otriple>
+        <otriple>Asunción | subdivisionName | Gran_Asunción</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asunción | isPartOf | Gran_Asunción</mtriple>
+        <mtriple>Agustín_Barboza | deathPlace | Asunción</mtriple>
+        <mtriple>Paraguay | leader | Juan_Afara</mtriple>
+        <mtriple>Agustín_Barboza | deathPlace | Paraguay</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Asunción | FormaParteDe | Gran_Asunción</striple>
+        <striple>Agustín_Barboza | LugarDeLaMuerte | Asunción</striple>
+        <striple>Paraguay | Líder | Juan_Afara</striple>
+        <striple>Agustín_Barboza | LugarDeLaMuerte | Paraguay</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Asunción | isPartOf | Gran_Asunción</bttriple>
+        <bttriple>Agustín_Barboza | deathPlace | Asunción</bttriple>
+        <bttriple>Paraguay | leader | Juan_Afara</bttriple>
+        <bttriple>Agustín_Barboza | deathPlace | Paraguay</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Asunción | ÉsPartDe | Gran_Asunción</ctriple>
+        <ctriple>Agustín_Barboza | LlocDeLaMort | Asunción</ctriple>
+        <ctriple>Paraguai | Líder | Juan_Afara</ctriple>
+        <ctriple>Agustín_Barboza | LlocDeLaMort | Paraguai</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Agustin Barboza died in Asuncion, part of Gran Asunción, in Paraguay, the country led by Juan Afara.</lex>
+      <lex lang="en" lid="Id2">Agustin Barboza was born in Paraguay which is led by Juan Afara. He died in Asuncion which is part of Gran Asuncion.</lex>
+      <lex lang="en" lid="Id3">Agustin Barboza was born in Paraguay and died in Asuncion, part of Gran Asunción, The leader of Paraguay is Juan Afara.</lex>
+      <lex lang="es" lid="Id1">Agustín Barboza murió en Asunción, parte del Gran Asunción, en Paraguay, el país dirigido por Juan Afara.</lex>
+      <lex lang="es" lid="Id2">Agustin Barboza nacio en Paraguay que es liderado por Juan Afara. Murió en Asunción, que forma parte del Gran Asunción.</lex>
+      <lex lang="es" lid="Id3">Agustin Barboza nacio en Paraguay y murio en Asuncion, parte del Gran Asuncion, El lider de Paraguay es Juan Afara.</lex>
+      <lex lang="ca" lid="Id1">Agustín Barboza va morir a Asunción, part de Gran Asunción, al Paraguai, el país dirigit per Juan Afara.</lex>
+      <lex lang="ca" lid="Id2">Agustín Barboza va néixer al Paraguai, governat per Juan Afara, i va morir a Asunció, que forma part de Gran Asunció.</lex>
+      <lex lang="ca" lid="Id3">Agustín Barboza va néixer a Paraguai i va morir a Asunción, part de Gran Asunción. El líder de Paraguai és Juan Afara.</lex>
+      <lex lang="en_bt" lid="Id1">Agustín Barboza died in Asunción, part of Greater Asunción, Paraguay, the country ruled by Juan Afara.</lex>
+      <lex lang="en_bt" lid="Id2">Agustín Barboza was born in Paraguay, ruled by Juan Afara, and died in Asunción, which is part of Greater Asunción.</lex>
+      <lex lang="en_bt" lid="Id3">Agustín Barboza was born in Paraguay and died in Asunción, part of Greater Asunción.The leader of Paraguay is Juan Afara.</lex>
+      </entry>
+    <entry category="Artist" eid="Id28" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Christian_Burns | genre | House_music</otriple>
+        <otriple>Andrew_Rayel | associatedBand | Armin_van_Buuren</otriple>
+        <otriple>Andrew_Rayel | associatedMusicalArtist | Christian_Burns</otriple>
+        <otriple>Andrew_Rayel | associatedActs | "Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, Alexandra Badoi"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Christian_Burns | genre | House_music</mtriple>
+        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Armin_van_Buuren</mtriple>
+        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Christian_Burns</mtriple>
+        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | "Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, Alexandra Badoi"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Christian_Burns | Género | música_house</striple>
+        <striple>Andrew_Rayel | BandaAsociada/artistaMusicalAsociado | Armin_van_Buuren</striple>
+        <striple>Andrew_Rayel | BandaAsociada/artistaMusicalAsociado | Christian_Burns</striple>
+        <striple>Andrew_Rayel | BandaAsociada/artistaMusicalAsociado | Armin_Van_Buuren,_Bobina,_Mark_Sixma,_Jonathan_Mendelsohn,_Christian_Burns,_Jwaydan,_Alexander_Popov,_Jano,_Alexandre_Bergheau,_Jonny_Rose,_Sylvia_Tosun,_Lira_Yin,_Alexandra_Badoi</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Christian_Burns | genre | House_music</bttriple>
+        <bttriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Armin_van_Buuren</bttriple>
+        <bttriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Christian_Burns</bttriple>
+        <bttriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | "Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, Alexandra Badoi"</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Christian_Burns | Gènere | house</ctriple>
+        <ctriple>Andrew_Rayel | BandaAssociada/artistaMusicalAssociat | Armin_van_Buuren</ctriple>
+        <ctriple>Andrew_Rayel | BandaAssociada/artistaMusicalAssociat | Christian_Burns</ctriple>
+        <ctriple>Andrew_Rayel | BandaAssociada/artistaMusicalAssociat | Armin_Van_Buuren,_Bobina,_Mark_Sixma,_Jonathan_Mendelsohn,_Christian_Burns,_Jwaydan,_Alexander_Popov,_Jano,_Alexandre_Bergheau,_Jonny_Rose,_Sylvia_Tosun,_Lira_Yin,_Alexandra_Badoi</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Andrew Rayel is associated with artists such as Armin van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns (house music), Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi.</lex>
+      <lex lang="en" lid="Id2">Andrew Rayel is associated with House musician Christian Burns as well as: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi.</lex>
+      <lex lang="en" lid="Id3">Andrew Rayel has been associated with the following musical artists: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi, and house musician Christian Burns.</lex>
+      <lex lang="es" lid="Id1">Andrew Rayel colabora con artistas como Armin van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns (música house), Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin y Alexandra Badoi.</lex>
+      <lex lang="es" lid="Id2">Andrew Rayel está asociado con el músico de House Christian Burns, así como con: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin y Alexandra Badoi.</lex>
+      <lex lang="es" lid="Id3">Andrew Rayel ha estado relacionado con los siguientes artistas musicales: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin y Alexandra Badoi, y el músico de house Christian Burns.</lex>
+      <lex lang="ca" lid="Id1">Andrew Rayel està associat amb artistes com Armin van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns (house music), Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin i Alexandra Badoi.</lex>
+      <lex lang="ca" lid="Id2">Andrew Rayel està associat amb el músic house Christian Burns així com: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin i Alexandra Badoi.</lex>
+      <lex lang="ca" lid="Id3">Andrew Rayel ha estat associat amb els següents artistes musicals: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin i Alexandra Badoi, i el músic de house Christian Burns.</lex>
+      <lex lang="en_bt" lid="Id1">Andrew Rayel is associated with artists such as Armin van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns (house music), Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi.</lex>
+      <lex lang="en_bt" lid="Id2">Andrew Rayel is associated with house musician Christian Burns as well as: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi.</lex>
+      <lex lang="en_bt" lid="Id3">Andrew Rayel has been associated with the following musical artists: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi, and house musician Christian Burns.</lex>
+      </entry>
+    <entry category="Artist" eid="Id29" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Manchester | isPartOf | Greater_Manchester</otriple>
+        <otriple>Alfred_Garth_Jones | birthPlace | England</otriple>
+        <otriple>Manchester | leaderName | Labour_Party_(UK)</otriple>
+        <otriple>Alfred_Garth_Jones | placeOfBirth | Manchester</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Manchester | isPartOf | Greater_Manchester</otriple>
+        <otriple>Alfred_Garth_Jones | placeOfBirth | England</otriple>
+        <otriple>Alfred_Garth_Jones | birthPlace | Manchester</otriple>
+        <otriple>Manchester | leaderName | Labour_Party_(UK)</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Manchester | isPartOf | Greater_Manchester</mtriple>
+        <mtriple>Alfred_Garth_Jones | birthPlace | England</mtriple>
+        <mtriple>Alfred_Garth_Jones | birthPlace | Manchester</mtriple>
+        <mtriple>Manchester | leader | Labour_Party_(UK)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Mánchester | FormaParteDe | Gran_Mánchester</striple>
+        <striple>Alfred_Garth_Jones | LugarDeNacimiento | Inglaterra</striple>
+        <striple>Alfred_Garth_Jones | LugarDeNacimiento | Mánchester</striple>
+        <striple>Mánchester | Líder | Partido_Laborista_(Reino_Unido)</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Manchester | isPartOf | Greater_Manchester</bttriple>
+        <bttriple>Alfred_Garth_Jones | birthPlace | England</bttriple>
+        <bttriple>Alfred_Garth_Jones | birthPlace | Manchester</bttriple>
+        <bttriple>Manchester | leader | Labour_Party_(UK)</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Manchester | ÉsPartDe | Gran_Manchester</ctriple>
+        <ctriple>Alfred_Garth_Jones | LlocDeNaixement | Anglaterra</ctriple>
+        <ctriple>Alfred_Garth_Jones | LlocDeNaixement | Manchester</ctriple>
+        <ctriple>Manchester | Líder | Partit_Laborista_(Regne_Unit)</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Alfred Garth Jones was born in Manchester, Greater Manchester, England. The Labour Party is in the majority in Manchester.</lex>
+      <lex lang="en" lid="Id2">The birthplace of Alfred Garth Jones is Manchester, (part of Greater Manchester), England. In Manchester the Labour Party is in the majority.</lex>
+      <lex lang="en" lid="Id3">Alfred Garth Jones was born in Manchester, Greater Manchester, England, where the majority is the Labour Party.</lex>
+      <lex lang="es" lid="Id1">Alfred Garth Jones nació en Manchester, Gran Manchester, Inglaterra. El Partido Laborista es mayoritario en Manchester.</lex>
+      <lex lang="es" lid="Id2">El lugar de nacimiento de Alfred Garth Jones es Manchester, (parte del Gran Manchester), Inglaterra. En Manchester, el Partido Laborista es mayoritario.</lex>
+      <lex lang="es" lid="Id3">Alfred Garth Jones nació en Manchester, Gran Manchester, Inglaterra, donde la mayoría es del Partido Laborista.</lex>
+      <lex lang="ca" lid="Id1">L'Alfred Garth Jones va néixer a Manchester, Greater Manchester, Anglaterra. El Partit Laborista és majoritari a Manchester.</lex>
+      <lex lang="ca" lid="Id2">El lloc de naixement d'Alfred Garth Jones és Manchester, (part del Gran Manchester), Anglaterra. A Manchester el Partit Laborista és majoritari.</lex>
+      <lex lang="ca" lid="Id3">Alfred Garth Jones va néixer a Manchester, Greater Manchester, Anglaterra, on la majoria és el Partit Laborista.</lex>
+      <lex lang="en_bt" lid="Id1">Alfred Garth Jones was born in Manchester, Greater Manchester, England.</lex>
+      <lex lang="en_bt" lid="Id2">The birthplace of Alfred Garth Jones is Manchester, (part of Greater Manchester), England. In Manchester the Labour Party is in majority.</lex>
+      <lex lang="en_bt" lid="Id3">Alfred Garth Jones was born in Manchester, Greater Manchester, England, where the majority is the Labour Party.</lex>
+      </entry>
+    <entry category="Artist" eid="Id30" shape="(X (X (X (X) (X))))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Uruguay | leaderName | Tabaré_Vázquez</otriple>
+        <otriple>Alfredo_Zitarrosa | deathPlace | Montevideo</otriple>
+        <otriple>Montevideo | country | Uruguay</otriple>
+        <otriple>Uruguay | demonym | Uruguayans</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Uruguay | leader | Tabaré_Vázquez</mtriple>
+        <mtriple>Alfredo_Zitarrosa | deathPlace | Montevideo</mtriple>
+        <mtriple>Montevideo | country | Uruguay</mtriple>
+        <mtriple>Uruguay | demonym | Uruguayans</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Uruguay | Líder | Tabaré_Vázquez</striple>
+        <striple>Alfredo_Zitarrosa | LugarDeLaMuerte | Montevideo</striple>
+        <striple>Montevideo | País | Uruguay</striple>
+        <striple>Uruguay | Gentilicio | uruguayos</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Uruguay | leader | Tabaré_Vázquez</bttriple>
+        <bttriple>Alfredo_Zitarrosa | deathPlace | Montevideo</bttriple>
+        <bttriple>Montevideo | country | Uruguay</bttriple>
+        <bttriple>Uruguay | demonym | Uruguayans</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Uruguai | Líder | Tabaré_Ramón_Vázquez_Rosas</ctriple>
+        <ctriple>Alfredo_Zitarrosa | LlocDeLaMort | Montevideo</ctriple>
+        <ctriple>Montevideo | País | Uruguai</ctriple>
+        <ctriple>Uruguai | Demònim | uruguaians</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Alfredo Zitarrosa died in Montevideo, a city located in Uruguay. The leader of Uruguay is Tabaré Vázquez and the people that live in the country are referred to as Uruguayans.</lex>
+      <lex lang="en" lid="Id2">Alfredo Zitarrosa died in Montevideo, Uruguay where the inhabitants are known as Uruguayans. The country's leader is Tabaré Vázquez.</lex>
+      <lex lang="en" lid="Id3">The leader of Uruguay is Tabare Vazquez and the country's inhabitants are called Uruguayans. Alfredo Zitarrosa died in Montevideo.</lex>
+      <lex lang="es" lid="Id1">Alfredo Zitarrosa murió en Montevideo, ciudad situada en Uruguay. El líder de Uruguay es Tabaré Vázquez y las personas que viven en el país se denominan Uruguayos.</lex>
+      <lex lang="es" lid="Id2">Alfredo Zitarrosa murió en Montevideo, Uruguay, donde los habitantes son conocidos como Uruguayos. El líder del país es Tabaré Vázquez.</lex>
+      <lex lang="es" lid="Id3">El líder de Uruguay es Tabaré Vázquez y los habitantes del país se llaman Uruguayos. Alfredo Zitarrosa murió en Montevideo.</lex>
+      <lex lang="ca" lid="Id1">Alfredo Zitarrosa va morir a Montevideo, una ciutat situada a l'Uruguai. El líder de l'Uruguai és Tabaré Vázquez i les persones que viuen al país es coneixen com a uruguaians.</lex>
+      <lex lang="ca" lid="Id2">Alfredo Zitarrosa va morir a Montevideo, Uruguai, on els habitants són coneguts com a uruguaians.El líder del país és Tabaré Vázquez.</lex>
+      <lex lang="ca" lid="Id3">El líder de l'Uruguai és Tabare Vazquez i els habitants del país s'anomenen uruguaians. Alfredo Zitarrosa va morir a Montevideo.</lex>
+      <lex lang="en_bt" lid="Id1">Alfredo Zitarrosa died in Montevideo, a city located in Uruguay.The leader of Uruguay is Tabaré Vázquez and the people who live in the country are known as Uruguayans.</lex>
+      <lex lang="en_bt" lid="Id2">Alfredo Zitarrosa died in Montevideo, Uruguay, where the inhabitants are known as Uruguayans. The country's leader is Tabaré Vázquez.</lex>
+      <lex lang="en_bt" lid="Id3">The leader of Uruguay is Tabare Vazquez and the inhabitants of the country are called Uruguayans. Alfredo Zitarrosa died in Montevideo.</lex>
+      </entry>
+    </entries>
+  </benchmark>

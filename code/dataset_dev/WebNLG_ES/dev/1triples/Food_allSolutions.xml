@@ -1,0 +1,434 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+	<entries>
+		<entry category="Food" eid="Id1" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Ajoblanco | alias | "Ajo blanco"@en</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Ajoblanco | alternativeName | "Ajo blanco"</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>ajoblanco | NombreAlternativo | Ajo_blanco</striple></spanishtripleset><lex lang="en" lid="Id1">The alternative name for Ajoblanco is "Ajo blanco".</lex>
+			<lex lang="en" lid="Id2">Ajo blanco is an alternative name to Ajoblanco.</lex>
+			<lex lang="en" lid="Id3">Ajo blanco is an alternative name of Ajoblanco.</lex>
+			<lex lang="es" lid="Id1">El nombre alternativo de Ajoblanco es "Ajo blanco".</lex>
+			<lex lang="es" lid="Id2">Ajo blanco es un nombre alternativo a Ajoblanco.</lex>
+			<lex lang="es" lid="Id3">Ajo blanco es un nombre alternativo de Ajoblanco.</lex>
+		</entry>
+		<entry category="Food" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Ajoblanco | mainIngredient | "Bread, almonds, garlic, water, olive oil"@en</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Ajoblanco | mainIngredient | "Bread, almonds, garlic, water, olive oil"</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>ajoblanco | IngredientePrincipal | Pan,_almendras,_ajo,_agua,_aceite_de_oliva</striple></spanishtripleset><lex lang="en" lid="Id1">The main ingredients in ajoblanco are bread, almonds, garlic, water and olive oil.</lex>
+			<lex lang="en" lid="Id2">Bread, almonds, garlic, water, and olive oil are the main ingredients in Ajoblanco.</lex>
+			<lex lang="en" lid="Id3">The main ingredients of Ajoblanco are bread, almonds, garlic, water, olive oil.</lex>
+			<lex lang="es" lid="Id1">Los principales ingredientes del ajoblanco son pan, almendras, ajo, agua y aceite de oliva.</lex>
+			<lex lang="es" lid="Id2">Pan, almendras, ajo, agua y aceite de oliva son los ingredientes principales del Ajoblanco.</lex>
+			<lex lang="es" lid="Id3">Los ingredientes principales del Ajoblanco son pan, almendras, ajo, agua y aceite de oliva.</lex>
+		</entry>
+		<entry category="Food" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Arem-arem | region | "Nationwide in Indonesia, but more specific to Java"@en</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Arem-arem | region | "Nationwide in Indonesia, but more specific to Java"</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Arem-arem | Región | En_todo_Indonesia,_pero_más_específicamente_en_Java</striple></spanishtripleset><lex lang="en" lid="Id1">Arem-arem is found nationwide in Indonesia, but is more specific to Java.</lex>
+			<lex lang="en" lid="Id2">Arem-arem is nationwide in Indonesia, but more specific to Java.</lex>
+			<lex lang="es" lid="Id1">El Arem-arem se encuentra en toda Indonesia, pero es más específico de Java.</lex>
+			<lex lang="es" lid="Id2">El Arem-arem es de ámbito nacional en Indonesia, pero más específico de Java.</lex>
+		</entry>
+		<entry category="Food" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Arem-arem | region | Indonesia</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Arem-arem | region | Indonesia</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Arem-arem | Región | Indonesia</striple></spanishtripleset><lex lang="en" lid="Id1">Arem arem comes from Indonesia.</lex>
+			<lex lang="es" lid="Id1">El arem arem procede de Indonesia.</lex>
+		</entry>
+		<entry category="Food" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Arrabbiata_sauce | ingredientName | "Tomatoes,red chili,garlic,olive oil"</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Arrabbiata_sauce | mainIngredient | "Tomatoes, red chili, garlic, olive oil"@en</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Arrabbiata_sauce | mainIngredient | "Tomatoes, red chili, garlic, olive oil"</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Salsa_arrabbiata | IngredientePrincipal | Tomates,_chile_rojo,_ajo,_aceite_de_oliva</striple></spanishtripleset><lex lang="en" lid="Id1">Arrabbiata sauce is made with tomatoes, red chili, garlic and olive oil.</lex>
+			<lex lang="en" lid="Id2">The main ingredients in Arrabbiata sauce are Tomatoes, red chili, garlic and olive oil.</lex>
+			<lex lang="es" lid="Id1">La salsa arrabbiata se elabora con tomates, chile rojo, ajo y aceite de oliva.</lex>
+			<lex lang="es" lid="Id2">Los principales ingredientes de la salsa Arrabbiata son tomates, guindilla roja, ajo y aceite de oliva.</lex>
+		</entry>
+		<entry category="Food" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Arròs_negre | ingredient | Cuttlefish</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Arròs_negre | ingredient | Cuttlefish</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Arroz_negro | Ingrediente | sepia</striple></spanishtripleset><lex lang="en" lid="Id1">Cuttlefish is an ingredient in Arròs negre.</lex>
+			<lex lang="en" lid="Id2">Cuttlefish is an ingredient of the dish Arròs negre.</lex>
+			<lex lang="es" lid="Id1">La sepia es un ingrediente de Arròs negre.</lex>
+			<lex lang="es" lid="Id2">La sepia es un ingrediente del plato Arròs negre.</lex>
+		</entry>
+		<entry category="Food" eid="Id7" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Arròs_negre | ingredient | Squid</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Arròs_negre | ingredient | Squid</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Arroz_negro | Ingrediente | calamar</striple></spanishtripleset><lex lang="en" lid="Id1">Squid is an ingredient of Arròs negre.</lex>
+			<lex lang="es" lid="Id1">El calamar es un ingrediente de Arròs negre.</lex>
+		</entry>
+		<entry category="Food" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Asam_pedas | country | Malaysia</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Asam_pedas | country | Malaysia</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Asam_pedas | País | Malasia</striple></spanishtripleset><lex lang="en" lid="Id1">Asam pedas is a food found in Malaysia.</lex>
+			<lex lang="es" lid="Id1">El asam pedas es un alimento típico de Malasia.</lex>
+		</entry>
+		<entry category="Food" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Avocado | genus | Persea</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Avocado | genus | Persea</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Aguacate | Género | Persea</striple></spanishtripleset><lex lang="en" lid="Id1">The genus of the avocado is persea.</lex>
+			<lex lang="en" lid="Id2">The genus of Avocado is Persea.</lex>
+			<lex lang="es" lid="Id1">El género del aguacate es Persea.</lex>
+			<lex lang="es" lid="Id2">El género del aguacate es Persea.</lex>
+		</entry>
+		<entry category="Food" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Ayam_penyet | servingTemperature | "Hot"</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Ayam_penyet | servingTemperature | "Hot"</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Ayam_penyet | TemperaturaDeServicio | Hot</striple></spanishtripleset><lex lang="en" lid="Id1">Ayam penyet should be served hot.</lex>
+			<lex lang="en" lid="Id2">Ayam penyet is a dish that should be served hot.</lex>
+			<lex lang="en" lid="Id3">Ayam penyet is served hot.</lex>
+			<lex lang="es" lid="Id1">El ayam penyet debe servirse caliente.</lex>
+			<lex lang="es" lid="Id2">El ayam penyet es un plato que debe servirse caliente.</lex>
+			<lex lang="es" lid="Id3">El ayam penyet se sirve caliente.</lex>
+		</entry>
+		<entry category="Food" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Baked_Alaska | course | Dessert</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Baked_Alaska | course | Dessert</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Baked_Alaska | Curso | postre</striple></spanishtripleset><lex lang="en" lid="Id1">Baked Alaska is a dessert.</lex>
+			<lex lang="es" lid="Id1">Alaska al horno es un postre.</lex>
+		</entry>
+		<entry category="Food" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Bakewell_tart | ingredient | Frangipane</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Bakewell_tart | ingredient | Frangipane</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Tarta_Bakewell | Ingrediente | frangipane</striple></spanishtripleset><lex lang="en" lid="Id1">An ingredient of bakewell tart is frangipane.</lex>
+			<lex lang="en" lid="Id2">Frangipane is an ingredient in a Bakewell tart.</lex>
+			<lex lang="en" lid="Id3">Frangipane is an ingredient of Bakewell tart.</lex>
+			<lex lang="es" lid="Id1">Un ingrediente de la tarta bakewell es el frangipane.</lex>
+			<lex lang="es" lid="Id2">El frangipane es un ingrediente en la tarta Bakewell.</lex>
+			<lex lang="es" lid="Id3">El frangipane es un ingrediente de la tarta Bakewell.</lex>
+		</entry>
+		<entry category="Food" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Bakso | ingredient | Noodle</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Bakso | ingredient | Noodle</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Bakso | Ingrediente | fideo</striple></spanishtripleset><lex lang="en" lid="Id1">The dish Bakso contains noodles.</lex>
+			<lex lang="en" lid="Id2">Noodle is an ingredient in Bakso.</lex>
+			<lex lang="en" lid="Id3">Bakso contains noodles.</lex>
+			<lex lang="es" lid="Id1">El plato Bakso contiene fideo.</lex>
+			<lex lang="es" lid="Id2">Los fideo son un ingrediente del Bakso.</lex>
+			<lex lang="es" lid="Id3">El Bakso contiene fideo.</lex>
+		</entry>
+		<entry category="Food" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Bakso | ingredient | Vermicelli</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Bakso | ingredient | Vermicelli</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Bakso | Ingrediente | Vermicelli</striple></spanishtripleset><lex lang="en" lid="Id1">Vermicelli is an ingredient in Bakso.</lex>
+			<lex lang="en" lid="Id2">Vermicelli is an ingredient of the dish Bakso.</lex>
+			<lex lang="en" lid="Id3">Vermicelli is included in bakso.</lex>
+			<lex lang="es" lid="Id1">Los Vermicelli son un ingrediente del Bakso.</lex>
+			<lex lang="es" lid="Id2">Los Vermicelli son un ingrediente del plato Bakso.</lex>
+			<lex lang="es" lid="Id3">El Bakso incluye Vermicelli.</lex>
+		</entry>
+		<entry category="Food" eid="Id15" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Bandeja_paisa | ingredient | Chorizo</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Bandeja_paisa | ingredient | Chorizo</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>bandeja_paisa | Ingrediente | chorizo</striple></spanishtripleset><lex lang="en" lid="Id1">Chorizo is an ingredient in the dish Bandeja paisa.</lex>
+			<lex lang="en" lid="Id2">Chorizo is an ingredient in Bandeja paisa.</lex>
+			<lex lang="es" lid="Id1">El chorizo es un ingrediente del plato Bandeja paisa.</lex>
+			<lex lang="es" lid="Id2">El chorizo es un ingrediente de la Bandeja paisa.</lex>
+		</entry>
+		<entry category="Food" eid="Id16" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Barny_Cakes | creator | Mondelez_International</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Barny_Cakes | creator | Mondelez_International</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Pasteles_Barny | Creador | Mondelēz_International</striple></spanishtripleset><lex lang="en" lid="Id1">Mondelez International is the creator of Barny cakes.</lex>
+			<lex lang="en" lid="Id2">Barny cakes were created by Mondelez International.</lex>
+			<lex lang="en" lid="Id3">Barny cakes is created by Mondelez International.</lex>
+			<lex lang="es" lid="Id1">Mondelez International es el creador de los Barny cakes.</lex>
+			<lex lang="es" lid="Id2">Los Barny cakes fueron creados por Mondelez International.</lex>
+			<lex lang="es" lid="Id3">Los Barny cakes han sido creados por Mondelez International.</lex>
+		</entry>
+		<entry category="Food" eid="Id17" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Barny_Cakes | hasVariant | Chocolate</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Barny_Cakes | dishVariation | Chocolate</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Pasteles_Barny | VariaciónDePlato | chocolate</striple></spanishtripleset><lex lang="en" lid="Id1">Barny Cakes can be chocolate flavoured.</lex>
+			<lex lang="en" lid="Id2">Chocolate is one variation of the Barny Cakes dish.</lex>
+			<lex lang="es" lid="Id1">Los Barny Cakes pueden ser de chocolate.</lex>
+			<lex lang="es" lid="Id2">El chocolate es una variante del plato Barny Cakes.</lex>
+		</entry>
+		<entry category="Food" eid="Id18" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Barny_Cakes | protein | "1.8"^^xsd:double</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Barny_Cakes | protein | 1.8 g</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Pasteles_Barny | Proteína | 1.8_g</striple></spanishtripleset><lex lang="en" lid="Id1">Barny cakes contain 1.8 g of protein.</lex>
+			<lex lang="en" lid="Id2">Barny cakes contain 1.8g of protein.</lex>
+			<lex lang="es" lid="Id1">Los Barny cakes contienen 1,8 g de proteínas.</lex>
+			<lex lang="es" lid="Id2">Los Barny cakes contienen 1,8g de proteínas.</lex>
+		</entry>
+		<entry category="Food" eid="Id19" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Batchoy | country | Philippines</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Batchoy | country | Philippines</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Batchoy | País | Filipinas</striple></spanishtripleset><lex lang="en" lid="Id1">Batchoy is eaten in the Philippines.</lex>
+			<lex lang="en" lid="Id2">Philippines is the country Batchoy comes from.</lex>
+			<lex lang="es" lid="Id1">El Batchoy se come en Filipinas.</lex>
+			<lex lang="es" lid="Id2">Filipinas es el país del que procede Batchoy.</lex>
+		</entry>
+		<entry category="Food" eid="Id20" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Batchoy | ingredient | Chicken</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Batchoy | ingredient | Chicken</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Batchoy | Ingrediente | pollo</striple></spanishtripleset><lex lang="en" lid="Id1">Chicken is an ingredient in Batchoy.</lex>
+			<lex lang="en" lid="Id2">Batchoy includes chicken.</lex>
+			<lex lang="es" lid="Id1">El pollo es un ingrediente de Batchoy.</lex>
+			<lex lang="es" lid="Id2">Batchoy incluye pollo.</lex>
+		</entry>
+		<entry category="Food" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Batchoy | ingredient | Vegetable</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Batchoy | ingredient | Vegetable</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Batchoy | Ingrediente | verdura</striple></spanishtripleset><lex lang="en" lid="Id1">Vegetable are used in the preparation of Batchoy.</lex>
+			<lex lang="en" lid="Id2">Vegetables are an ingredient in Batchoy.</lex>
+			<lex lang="es" lid="Id1">Las verdura se utilizan en la preparación del Batchoy.</lex>
+			<lex lang="es" lid="Id2">Las verdura son un ingrediente del Batchoy.</lex>
+		</entry>
+		<entry category="Food" eid="Id22" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Binignit | region | Visayas</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Binignit | region | Visayas</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Binignit | Región | Bisayas</striple></spanishtripleset><lex lang="en" lid="Id1">Binignit is a dish from the region of Visayas.</lex>
+			<lex lang="es" lid="Id1">El Binignit es un plato de la región de Visayas.</lex>
+		</entry>
+		<entry category="Food" eid="Id23" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Derbyshire_Dales | leaderName | Patrick_McLoughlin</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Derbyshire_Dales | leader | Patrick_McLoughlin</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Derbyshire_Dales | Líder | Patrick_McLoughlin</striple></spanishtripleset><lex lang="en" lid="Id1">Patrick McLoughlin is a leader in the Derbyshire Dales.</lex>
+			<lex lang="en" lid="Id2">Patrick McLoughlin is a leader in Derbyshire Dales.</lex>
+			<lex lang="en" lid="Id3">Patrick McLoughlin is the leader of Derbyshire Dales.</lex>
+			<lex lang="es" lid="Id1">Patrick McLoughlin es un líder en Derbyshire Dales.</lex>
+			<lex lang="es" lid="Id2">Patrick McLoughlin es líder en Derbyshire Dales.</lex>
+			<lex lang="es" lid="Id3">Patrick McLoughlin es el líder de Derbyshire Dales.</lex>
+		</entry>
+		<entry category="Food" eid="Id24" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Dessert | hasVariant | Cake</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Dessert | dishVariation | Cake</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>postre | VariaciónDePlato | pastel</striple></spanishtripleset><lex lang="en" lid="Id1">A variation on dessert is cake.</lex>
+			<lex lang="es" lid="Id1">Una variante del postre es la tarta.</lex>
+		</entry>
+		<entry category="Food" eid="Id25" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Dessert | hasVariant | Ice_cream</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Dessert | dishVariation | Ice_cream</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>postre | VariaciónDePlato | helado</striple></spanishtripleset><lex lang="en" lid="Id1">Ice cream is a type of dessert.</lex>
+			<lex lang="en" lid="Id2">A type of dessert is an ice cream.</lex>
+			<lex lang="en" lid="Id3">Ice cream is a dessert.</lex>
+			<lex lang="es" lid="Id1">El helado es un tipo de postre.</lex>
+			<lex lang="es" lid="Id2">Un tipo de postre es el helado.</lex>
+			<lex lang="es" lid="Id3">El helado es un postre.</lex>
+		</entry>
+		<entry category="Food" eid="Id26" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Indonesia | leaderName | Jusuf_Kalla</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Indonesia | leader | Jusuf_Kalla</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Indonesia | leader | Jusuf_Kalla</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Indonesia | Líder | Jusuf_Kalla</striple></spanishtripleset><lex lang="en" lid="Id1">Jusuf Kalla is a leader in Indonesia.</lex>
+			<lex lang="en" lid="Id2">Jusuf Kalla is the leader of Indonesia.</lex>
+			<lex lang="es" lid="Id1">Jusuf Kalla es un líder en Indonesia.</lex>
+			<lex lang="es" lid="Id2">Jusuf Kalla es el líder de Indonesia.</lex>
+		</entry>
+		<entry category="Food" eid="Id27" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Italy | demonym | Italians</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Italy | demonym | Italians</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Italia | Gentilicio | italianos</striple></spanishtripleset><lex lang="en" lid="Id1">Italians are from Italy.</lex>
+			<lex lang="en" lid="Id2">Italians is the name given to people from Italy.</lex>
+			<lex lang="es" lid="Id1">Los Italianos son de Italia.</lex>
+			<lex lang="es" lid="Id2">Italianos es el nombre que reciben las personas procedentes de Italia.</lex>
+		</entry>
+		<entry category="Food" eid="Id28" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Java | ethnicGroup | Baduy</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Java | ethnicGroup | Baduy</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Java | GrupoÉtnico | Baduy</striple></spanishtripleset><lex lang="en" lid="Id1">Baduy is the ethnic group of Java.</lex>
+			<lex lang="en" lid="Id2">The Baduy is an ethnic group in Java.</lex>
+			<lex lang="en" lid="Id3">Baduy is an ethnic group of Java.</lex>
+			<lex lang="es" lid="Id1">Baduy es el grupo étnico de Java.</lex>
+			<lex lang="es" lid="Id2">Los Baduy son un grupo étnico de Java.</lex>
+			<lex lang="es" lid="Id3">Baduy es un grupo étnico de Java.</lex>
+		</entry>
+		<entry category="Food" eid="Id29" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Lemon | order | Rosids</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Lemon | order | Rosids</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Limón | Orden | Rósidas</striple></spanishtripleset><lex lang="en" lid="Id1">Lemon is under the order of Rosids.</lex>
+			<lex lang="en" lid="Id2">The order of lemons is Rosids.</lex>
+			<lex lang="es" lid="Id1">Limón está bajo la orden de Rosids.</lex>
+			<lex lang="es" lid="Id2">El orden de los limones es Rosids.</lex>
+		</entry>
+		<entry category="Food" eid="Id30" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Mexico | demonym | Mexicans</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Mexico | demonym | Mexicans</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>México | Gentilicio | mexicanos</striple></spanishtripleset><lex lang="en" lid="Id1">Mexico is inhabited by Mexicans.</lex>
+			<lex lang="en" lid="Id2">Mexicans are people from Mexico.</lex>
+			<lex lang="es" lid="Id1">México está habitado por mexicanos.</lex>
+			<lex lang="es" lid="Id2">Los mexicanos son gente de México.</lex>
+		</entry>
+		<entry category="Food" eid="Id31" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Mexico | language | Spanish_language</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Mexico | language | Spanish_language</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>México | Idioma | español</striple></spanishtripleset><lex lang="en" lid="Id1">In Mexico, the spoken language is Spanish.</lex>
+			<lex lang="en" lid="Id2">Spanish is the language spoken in Mexico.</lex>
+			<lex lang="en" lid="Id3">The language of Mexico is Spanish.</lex>
+			<lex lang="es" lid="Id1">En México, la lengua hablada es el español.</lex>
+			<lex lang="es" lid="Id2">El español es la lengua hablada en México.</lex>
+			<lex lang="es" lid="Id3">El idioma de México es el español.</lex>
+		</entry>
+		<entry category="Food" eid="Id32" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Philippines | language | Arabic</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Philippines | language | Arabic</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Filipinas | Idioma | árabe</striple></spanishtripleset><lex lang="en" lid="Id1">One of the languages used in the Philippines is Arabic.</lex>
+			<lex lang="en" lid="Id2">Arabic is a language spoken in the Philippines.</lex>
+			<lex lang="en" lid="Id3">One of the languages in Philippines is Arabic.</lex>
+			<lex lang="en" lid="Id4">Arabic is one of the languages spoken in the Philippines.</lex>
+			<lex lang="es" lid="Id1">Una de las lenguas utilizadas en Filipinas es el árabe.</lex>
+			<lex lang="es" lid="Id2">El árabe es una lengua hablada en Filipinas.</lex>
+			<lex lang="es" lid="Id3">Una de las lenguas de Filipinas es el árabe.</lex>
+			<lex lang="es" lid="Id4">El árabe es una de las lenguas habladas en Filipinas.</lex>
+		</entry>
+		<entry category="Food" eid="Id33" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Siomay | hasVariant | Shumai</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Siomay | variations | Shumai</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Siomay | dishVariation | Shumai</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Siomay | VariaciónDePlato | shaomai</striple></spanishtripleset><lex lang="en" lid="Id1">Shumai is a variation of the dish Siomay.</lex>
+			<lex lang="en" lid="Id2">Siomay and Shumai are variations of the same dish.</lex>
+			<lex lang="es" lid="Id1">Shumai es una variación del plato Siomay.</lex>
+			<lex lang="es" lid="Id2">Siomay y Shumai son variaciones del mismo plato.</lex>
+		</entry>
+		<entry category="Food" eid="Id34" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Estados_Unidos | GrupoÉtnico | pueblos_nativos_de_los_Estados_Unidos</striple></spanishtripleset><lex lang="en" lid="Id1">Native Americans in the United States are one of the ethnic groups of the country.</lex>
+			<lex lang="es" lid="Id1">Los nativos americanos de Estados Unidos son uno de los grupos étnicos del país.</lex>
+		</entry>
+	</entries>
+</benchmark>

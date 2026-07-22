@@ -1,0 +1,1435 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="MeanOfTransportation" eid="Id1" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>1955_Dodge | engine | 1955_Dodge__5</otriple>
+        <otriple>1955_Dodge | manufacturer | Dodge</otriple>
+        <otriple>1955_Dodge | transmission | "3-speed automatic"</otriple>
+        <otriple>1955_Dodge | wheelbase | "120.0"^^&lt;http://dbpedia.org/datatype/inch&gt;</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>1955_Dodge | engine | 1955_Dodge__5</otriple>
+        <otriple>1955_Dodge | manufacturer | Dodge</otriple>
+        <otriple>1955_Dodge | transmission | "3-speed automatic"</otriple>
+        <otriple>1955_Dodge | wheelbase | "3.048"^^xsd:double</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1955_Dodge | engine | V8_engine</mtriple>
+        <mtriple>1955_Dodge | manufacturer | Dodge</mtriple>
+        <mtriple>1955_Dodge | transmission | "3-speed automatic"</mtriple>
+        <mtriple>1955_Dodge | wheelbase | 120.0 (inches)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>1955_Dodge | Motor | Motor_V8</striple>
+        <striple>1955_Dodge | Fabricante | Dodge</striple>
+        <striple>1955_Dodge | Transmisión | Automático_de_3_velocidades</striple>
+        <striple>1955_Dodge | DistanciaEntreEjes | 120,0_(pulgadas)</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>1955_Dodge | engine | V8_engine</bttriple>
+        <bttriple>1955_Dodge | manufacturer | Dodge</bttriple>
+        <bttriple>1955_Dodge | transmission | "3-speed automatic"</bttriple>
+        <bttriple>1955_Dodge | wheelbase | 120.0 (inches)</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Dodge_de_1955 | Motor | V8_engine</ctriple>
+        <ctriple>Dodge_de_1955 | Fabricant | Dodge</ctriple>
+        <ctriple>Dodge_de_1955 | Transmissió | Automàtic_de_3_velocitats</ctriple>
+        <ctriple>Dodge_de_1955 | DistànciaEntreEixos | 120.0_(polzades)</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The 1955 Dodge is made by the Dodge company and has a V8 engine, a 3-speed automatic transmission and a wheelbase of 120 inches.</lex>
+      <lex lang="en" lid="Id2">The 1955 Dodge is manufactured by Dodge and it has a V8 engine. It has a wheelbase of 120 inches and has a 3-speed automatic transmission.</lex>
+      <lex lang="en" lid="Id3">Dodge is the manufacturer of the 1955 Dodge which has a V8 engine, a 3-speed automatic transmission and a wheelbase of 120 inches.</lex>
+      <lex lang="es" lid="Id1">El Dodge de 1955 está fabricado por la compañía Dodge y tiene un motor V8, una transmisión automática de 3 velocidades y una distancia entre ejes de 120 pulgadas.</lex>
+      <lex lang="es" lid="Id2">El Dodge 1955 es fabricado por Dodge y tiene un motor V8. Tiene una distancia entre ejes de 120 pulgadas y tiene una transmisión automática de 3 velocidades.</lex>
+      <lex lang="es" lid="Id3">Dodge es el fabricante del Dodge 1955 que tiene un motor V8, una transmisión automática de 3 velocidades y una distancia entre ejes de 120 pulgadas.</lex>
+      <lex lang="ca" lid="Id1">El Dodge de 1955 és fabricat per la companyia Dodge i té un motor V8, una transmissió automàtica de 3 velocitats i una distància entre eixos de 120 polzades.</lex>
+      <lex lang="ca" lid="Id2">El Dodge de 1955 és fabricat per Dodge i té un motor V8. Té una distància entre eixos de 120 polzades i té una transmissió automàtica de 3 velocitats.</lex>
+      <lex lang="ca" lid="Id3">Dodge és el fabricant del Dodge de 1955 que té un motor V8, una transmissió automàtica de 3 velocitats i una distància entre eixos de 120 polzades.</lex>
+      <lex lang="en_bt" lid="Id1">The 1955 Dodge is manufactured by the Dodge company and has a V8 engine, a 3-speed automatic transmission and a 120-inch wheelbase.</lex>
+      <lex lang="en_bt" lid="Id2">The 1955 Dodge is manufactured by Dodge and has a V8 engine. It has a 120-inch wheelbase and has a 3-speed automatic transmission.</lex>
+      <lex lang="en_bt" lid="Id3">Dodge is the manufacturer of the 1955 Dodge that has a V8 engine, a 3-speed automatic transmission and a 120-inch wheelbase.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id2" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>1955_Dodge | related | DeSoto_Custom</otriple>
+        <otriple>DeSoto_Custom | relatedMeanOfTransportation | Chrysler_Newport</otriple>
+        <otriple>DeSoto_Custom | successor | DeSoto_Firedome</otriple>
+        <otriple>DeSoto_Custom | manufacturer | DeSoto_(automobile)</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1955_Dodge | relatedMeanOfTransportation | DeSoto_Custom</mtriple>
+        <mtriple>DeSoto_Custom | relatedMeanOfTransportation | Chrysler_Newport</mtriple>
+        <mtriple>DeSoto_Custom | successor | DeSoto_Firedome</mtriple>
+        <mtriple>DeSoto_Custom | manufacturer | DeSoto_(automobile)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>1955_Dodge | MediosDeTransporteRelacionados | DeSoto_Custom</striple>
+        <striple>DeSoto_Custom | MediosDeTransporteRelacionados | Chrysler_Newport</striple>
+        <striple>DeSoto_Custom | Sucesor | DeSoto_Firedome</striple>
+        <striple>DeSoto_Custom | Fabricante | DeSoto_(automóvil)</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>1955_Dodge | relatedMeanOfTransportation | DeSoto_Custom</bttriple>
+        <bttriple>DeSoto_Custom | relatedMeanOfTransportation | Chrysler_Newport</bttriple>
+        <bttriple>DeSoto_Custom | successor | DeSoto_Firedome</bttriple>
+        <bttriple>DeSoto_Custom | manufacturer | DeSoto_(automobile)</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Dodge_de_1955 | MitjàDeTransportRelacionat | DeSoto_a_mida</ctriple>
+        <ctriple>DeSoto_a_mida | MitjàDeTransportRelacionat | Chrysler_Newport</ctriple>
+        <ctriple>DeSoto_a_mida | Successor | DeSoto_Firedome</ctriple>
+        <ctriple>DeSoto_a_mida | Fabricant | DeSoto_(automòbil)</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The 1955 Dodge, the Chrysler Newport and the DeSoto Custom are related means of transportation. DeSoto are the manufacturers of the DeSoto Custom, the successor of which, is the DeSoto Firedome.</lex>
+      <lex lang="en" lid="Id2">The 1955 Dodge is related to the Chrysler Newport and the DeSoto Custom which was made by DeSoto and succeeded by the DeSoto Firedome.</lex>
+      <lex lang="en" lid="Id3">The 1955 Dodge is related to the Chrysler Newport and the DeSoto Custom. The DeSoto Firedome succeeded the Desoto Custom which is manufactured by DeSoto .</lex>
+      <lex lang="es" lid="Id1">El Dodge de 1955, el Chrysler Newport y el DeSoto Custom son medios de transporte relacionados. DeSoto es el fabricante del DeSoto Custom, cuyo sucesor es el DeSoto Firedome.</lex>
+      <lex lang="es" lid="Id2">El Dodge de 1955 está relacionado con el Chrysler Newport y el DeSoto Custom que fue fabricado por DeSoto y sucedido por el DeSoto Firedome.</lex>
+      <lex lang="es" lid="Id3">El Dodge de 1955 está relacionado con el Chrysler Newport y el DeSoto Custom. El DeSoto Firedome sucedió al Desoto Custom fabricado por DeSoto .</lex>
+      <lex lang="ca" lid="Id1">El Dodge de 1955, el Chrysler Newport i el DeSoto Custom són mitjans de transport relacionats. DeSoto és el fabricant del DeSoto Custom, el successor del qual és el DeSoto Firedome.</lex>
+      <lex lang="ca" lid="Id2">El Dodge de 1955 està relacionat amb el Chrysler Newport i el DeSoto Custom, que va ser fabricat per DeSoto i va ser succeït pel DeSoto Firedome.</lex>
+      <lex lang="ca" lid="Id3">El Dodge de 1955 està relacionat amb el Chrysler Newport i el DeSoto Custom. El DeSoto Firedome va succeir el Desoto Custom fabricat per DeSoto.</lex>
+      <lex lang="en_bt" lid="Id1">The 1955 Dodge, Chrysler Newport and DeSoto Custom are related vehicles. DeSoto is the manufacturer of the DeSoto Custom, whose successor is the DeSoto Firedome.</lex>
+      <lex lang="en_bt" lid="Id2">The 1955 Dodge is related to the Chrysler Newport and the DeSoto Custom, which was manufactured by DeSoto and was succeeded by the DeSoto Firedome.</lex>
+      <lex lang="en_bt" lid="Id3">The 1955 Dodge is related to the Chrysler Newport and the DeSoto Custom. The DeSoto Firedome succeeded the DeSoto Custom made by DeSoto.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id3" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>AIDAluna | maidenVoyage | "2009-03-22"^^xsd:date</otriple>
+        <otriple>AIDAluna | shipBeam | "32.2"^^xsd:double</otriple>
+        <otriple>AIDAluna | MeanOfTransportation/length | "252000.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+        <otriple>AIDAluna | powerType | Caterpillar_Inc.</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AIDAluna | maidenVoyage | 2009-03-22</mtriple>
+        <mtriple>AIDAluna | shipBeam | 32.2</mtriple>
+        <mtriple>AIDAluna | length | 252000.0 (millimetres)</mtriple>
+        <mtriple>AIDAluna | powerType | Caterpillar_Inc.</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>AIDAluna | ViajeInaugural | 22-03-2009</striple>
+        <striple>AIDAluna | VigaDelBuque | 32.2</striple>
+        <striple>AIDAluna | Longitud | 252000.0_(milímetros)</striple>
+        <striple>AIDAluna | TipoDePotencia | Caterpillar_Inc.</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>AIDAluna | maidenVoyage | 2009-03-22</bttriple>
+        <bttriple>AIDAluna | shipBeam | 32.2</bttriple>
+        <bttriple>AIDAluna | length | 252000.0 (millimetres)</bttriple>
+        <bttriple>AIDAluna | powerType | Caterpillar_Inc.</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>AIDAluna | MaidenVoyage | 2009-03-22</ctriple>
+        <ctriple>AIDAluna | BeamDeVaixell | 32.2</ctriple>
+        <ctriple>AIDAluna | Longitud | 252000.0_(mil·límetres)</ctriple>
+        <ctriple>AIDAluna | TipusDePotència | Caterpillar_Tractor_Company</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The length of the AIDAluna ship beam is 32.2 and it is 252000.0 millimetres long. It is powered by Caterpillar Inc. and had its maiden voyage on the 22nd of March, 2009.</lex>
+      <lex lang="en" lid="Id2">The AIDAluna, powered by a Caterpillar Inc. engine, has a 32.2 long ship beam and is 252000.0mm long. Its maiden voyage was March 22,2009.</lex>
+      <lex lang="en" lid="Id3">The AIDAluna has a ship beam of 32.2 and is 252000.0 millimetres long. It is powered by Caterpillar Inc. and made the maiden voyage on 22 March 2009.</lex>
+      <lex lang="es" lid="Id1">La eslora del buque AIDAluna es de 32,2 de manga y 252000,0 milímetros de eslora. Está propulsado por Caterpillar Inc. y realizó su viaje inaugural el 22-03-2009.</lex>
+      <lex lang="es" lid="Id2">El AIDAluna, propulsado por un motor Caterpillar Inc., tiene una manga de 32,2 y una eslora de 252000,0 mm. Su viaje inaugural fue el 22 de marzo de 2009.</lex>
+      <lex lang="es" lid="Id3">El AIDAluna tiene una manga de 32,2 y una eslora de 252000,0 milímetros. Está propulsado por Caterpillar Inc. y realizó su viaje inaugural el 22-03-2009.</lex>
+      <lex lang="ca" lid="Id1">La longitud de la biga del vaixell AIDAluna és de 32.2 i fa 252000.0 mil·límetres de llarg. Està propulsat per Caterpillar Inc. i va fer el seu viatge inaugural el 22 de març de 2009.</lex>
+      <lex lang="ca" lid="Id2">L'AIDAluna, propulsat per un motor de Caterpillar Inc., té una eslora de 32,2 metres i una mànega de 252000.0 mm. El seu viatge inaugural va ser el 22 de març de 2009.</lex>
+      <lex lang="ca" lid="Id3">L'AIDAluna té una amplada de 32,2 metres i fa 252.000 mil·límetres de llarg. Està propulsat per Caterpillar Inc. i va fer el viatge inaugural el 22 de març de 2009.</lex>
+      <lex lang="en_bt" lid="Id1">The AIDAluna ship's beam length is 32.2 and it is 252000.0 millimetres long. It is powered by Caterpillar Inc. and made its maiden voyage on March 22, 2009.</lex>
+      <lex lang="en_bt" lid="Id2">AIDAluna, powered by a Caterpillar Inc. engine, has a length of 32.2 meters and a beam of 252000.0 mm. Her maiden voyage was on 22 March 2009.</lex>
+      <lex lang="en_bt" lid="Id3">The AIDAluna is 32.2 metres wide and 252,000 millimetres long. It is powered by Caterpillar Inc. and made its maiden voyage on 22 March 2009.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id4" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>AIDAstella | length | "253.26"^^xsd:double</otriple>
+        <otriple>AIDAstella | shipBeam | "32.2"^^xsd:double</otriple>
+        <otriple>AIDAstella | builder | Meyer_Werft</otriple>
+        <otriple>AIDAstella | shipOwner | Costa_Crociere</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AIDAstella | length | 253260.0 (millimetres)</mtriple>
+        <mtriple>AIDAstella | shipBeam | 32.2</mtriple>
+        <mtriple>AIDAstella | builder | Meyer_Werft</mtriple>
+        <mtriple>AIDAstella | owner | Costa_Crociere</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>AIDAstella | Longitud | 253260.0_(milímetros)</striple>
+        <striple>AIDAstella | VigaDelBuque | 32.2</striple>
+        <striple>AIDAstella | Constructor | Meyer_Werft</striple>
+        <striple>AIDAstella | Propietario | Costa_Crociere</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>AIDAstella | length | 253260.0 (millimetres)</bttriple>
+        <bttriple>AIDAstella | shipBeam | 32.2</bttriple>
+        <bttriple>AIDAstella | builder | Meyer_Werft</bttriple>
+        <bttriple>AIDAstella | owner | Costa_Crociere</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>AIDAstella | Longitud | 253260.0_(mil·límetres)</ctriple>
+        <ctriple>AIDAstella | BeamDeVaixell | 32.2</ctriple>
+        <ctriple>AIDAstella | Constructor | Meyer_Werft</ctriple>
+        <ctriple>AIDAstella | Propietari | Costa_Crociere</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">AIDAstella is 253260.0 millimetres long and has a beam of 32.2 metres. AIDAstella was built by Meyer Werft and is owned by Costa Crociere.</lex>
+      <lex lang="en" lid="Id2">AIDAstella is 253260.0 millimetres in length and has a beam of 32.2 metres. It is owned by Costa Crociere and was built by Meyer Werft.</lex>
+      <lex lang="es" lid="Id1">AIDAstella tiene una eslora de 253260,0 milímetros y una manga de 32,2 metros. El AIDAstella fue construido por Meyer Werft y es propiedad de Costa Crociere.</lex>
+      <lex lang="es" lid="Id2">AIDAstella tiene una eslora de 253260,0 milímetros y una manga de 32,2 metros. Es propiedad de Costa Crociere y fue construido por Meyer Werft.</lex>
+      <lex lang="ca" lid="Id1">L'AIDAstella té 253.260,0 mil·límetres de llargada i un radi de 32,2 metres. L'AIDAstella va ser construït per Meyer Werft i és propietat de Costa Crociere.</lex>
+      <lex lang="ca" lid="Id2">L'AIDAstella té 253.260,0 mil·límetres de llargada i una cala de 32,2 metres. És propietat de Costa Crociere i va ser construït per Meyer Werft.</lex>
+      <lex lang="en_bt" lid="Id1">The AIDAstella is 253,260.0 millimetres long and has a radius of 32.2 metres. The AIDAstella was built by Meyer Werft and is owned by Costa Crociere.</lex>
+      <lex lang="en_bt" lid="Id2">The AIDAstella is 253,260.0 millimetres long and has a beam of 32.2 metres. It is owned by Costa Crociere and was built by Meyer Werft.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id5" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>AIDAstella | shipOperator | AIDA_Cruises</otriple>
+        <otriple>AIDAstella | length | "253.26"^^xsd:double</otriple>
+        <otriple>AIDAstella | builder | Meyer_Werft</otriple>
+        <otriple>AIDAstella | shipOwner | Costa_Crociere</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AIDAstella | operator | AIDA_Cruises</mtriple>
+        <mtriple>AIDAstella | length | 253260.0 (millimetres)</mtriple>
+        <mtriple>AIDAstella | builder | Meyer_Werft</mtriple>
+        <mtriple>AIDAstella | owner | Costa_Crociere</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>AIDAstella | Operador | AIDA_Cruises</striple>
+        <striple>AIDAstella | Longitud | 253260.0_(milímetros)</striple>
+        <striple>AIDAstella | Constructor | Meyer_Werft</striple>
+        <striple>AIDAstella | Propietario | Costa_Crociere</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>AIDAstella | operator | AIDA_Cruises</bttriple>
+        <bttriple>AIDAstella | length | 253260.0 (millimetres)</bttriple>
+        <bttriple>AIDAstella | builder | Meyer_Werft</bttriple>
+        <bttriple>AIDAstella | owner | Costa_Crociere</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>AIDAstella | Operador | AIDA_Cruises</ctriple>
+        <ctriple>AIDAstella | Longitud | 253260.0_(mil·límetres)</ctriple>
+        <ctriple>AIDAstella | Constructor | Meyer_Werft</ctriple>
+        <ctriple>AIDAstella | Propietari | Costa_Crociere</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Costa Crociere is the owner of the AIDAstella which is 253260.0 millimetres long. It was built by Meyer Werft and operated by AIDA Cruise Line.</lex>
+      <lex lang="en" lid="Id2">AIDAstella is 253260.0 millimetres long and was built by Meyer Werft. It is owned by Costa Crociere and operated by AIDA Cruises.</lex>
+      <lex lang="en" lid="Id3">The AIDAstella was built by Meyer Werft and is 253260.0 millimetres in length. It is owned by Costa Crociere and operated by AIDA cruises.</lex>
+      <lex lang="es" lid="Id1">Costa Crociere es propietaria del AIDAstella, de 253260,0 milímetros de eslora. Fue construido por Meyer Werft y operado por AIDA Cruise Line.</lex>
+      <lex lang="es" lid="Id2">AIDAstella tiene 253260,0 milímetros de eslora y fue construido por Meyer Werft. Es propiedad de Costa Crociere y está operado por AIDA Cruises.</lex>
+      <lex lang="es" lid="Id3">El AIDAstella fue construido por Meyer Werft y tiene 253260,0 milímetros de eslora. Es propiedad de Costa Crociere y está operado por AIDA Cruises.</lex>
+      <lex lang="ca" lid="Id1">Costa Crociere és el propietari de l'AIDAstella, que fa 253.260,0 mil·límetres de llarg. Va ser construït per Meyer Werft i operat per AIDA Cruise Line.</lex>
+      <lex lang="ca" lid="Id2">L' AIDAstella té 253. 260, 0 mil· límetres de llarg i va ser construït per Meyer Werft. És propietat de Costa Crociere i operat per AIDA Cruises.</lex>
+      <lex lang="ca" lid="Id3">L'AIDAstella va ser construït per Meyer Werft i fa 253.260,0 mil·límetres de llarg. És propietat de Costa Crociere i l'opera AIDA Cruises.</lex>
+      <lex lang="en_bt" lid="Id1">Costa Crociere is the owner of the AIDAstella, which is 253,260.0 millimetres long. It was built by Meyer Werft and operated by AIDA Cruise Line.</lex>
+      <lex lang="en_bt" lid="Id2">The AIDAstella is 253.260.0 millimetres long and was built by Meyer Werft. It is owned by Costa Crociere and operated by AIDA Cruises.</lex>
+      <lex lang="en_bt" lid="Id3">The AIDAstella was built by Meyer Werft and is 253,260.0 millimetres long. It is owned by Costa Crociere and operated by AIDA Cruises.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id6" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>AIDAstella | shipOperator | AIDA_Cruises</otriple>
+        <otriple>AIDAstella | length | "253.26"^^xsd:double</otriple>
+        <otriple>AIDAstella | status | "In service"</otriple>
+        <otriple>AIDAstella | builder | Meyer_Werft</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AIDAstella | operator | AIDA_Cruises</mtriple>
+        <mtriple>AIDAstella | length | 253260.0 (millimetres)</mtriple>
+        <mtriple>AIDAstella | status | "In service"</mtriple>
+        <mtriple>AIDAstella | builder | Meyer_Werft</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>AIDAstella | Operador | AIDA_Cruises</striple>
+        <striple>AIDAstella | Longitud | 253260.0_(milímetros)</striple>
+        <striple>AIDAstella | Estado | En_servicio</striple>
+        <striple>AIDAstella | Constructor | Meyer_Werft</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>AIDAstella | operator | AIDA_Cruises</bttriple>
+        <bttriple>AIDAstella | length | 253260.0 (millimetres)</bttriple>
+        <bttriple>AIDAstella | status | "In service"</bttriple>
+        <bttriple>AIDAstella | builder | Meyer_Werft</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>AIDAstella | Operador | AIDA_Cruises</ctriple>
+        <ctriple>AIDAstella | Longitud | 253260.0_(mil·límetres)</ctriple>
+        <ctriple>AIDAstella | Estatut | En_servei</ctriple>
+        <ctriple>AIDAstella | Constructor | Meyer_Werft</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The AIDAstella was built by Meyer Werft and is 253260.0 millimetres long. It is still in service and operated by the AIDA Cruise Line.</lex>
+      <lex lang="en" lid="Id2">The AIDAstella is operated by AIDA Cruise Line and is still in service to this date. The AIDAstella was built by Meyer Werft and is 253260.0 millimetres in length.</lex>
+      <lex lang="en" lid="Id3">AIDAstella, a ship built by Meyer Werft is still in service till date. The ship is operated by AIDA Cruises and is 253260mm long.</lex>
+      <lex lang="es" lid="Id1">El AIDAstella fue construido por Meyer Werft y mide 253260,0 milímetros de eslora. Todavía está en servicio y es operado por AIDA Cruise Line.</lex>
+      <lex lang="es" lid="Id2">El AIDAstella está operado por AIDA Cruise Line y sigue en servicio hasta la fecha. El AIDAstella fue construido por Meyer Werft y mide 253260,0 milímetros de eslora.</lex>
+      <lex lang="es" lid="Id3">AIDAstella, un buque construido por Meyer Werft, sigue en servicio hasta la fecha. El barco está operado por AIDA Cruises y mide 253260mm de largo.</lex>
+      <lex lang="ca" lid="Id1">L' AIDAstella va ser construït per Meyer Werft i té 253. 260, 0 mil· límetres de llarg. Encara està en servei i operat per l' AIDA Cruise Line.</lex>
+      <lex lang="ca" lid="Id2">L'AIDAstella és operat per AIDA Cruise Line i encara es troba en servei. L'AIDAstella va ser construït per Meyer Werft i fa 253.260,0 mil·límetres de llarg.</lex>
+      <lex lang="ca" lid="Id3">AIDAstella, un vaixell construït per Meyer Werft encara està en servei fins a la data. El vaixell és operat per AIDA Cruises i té 253260mm de llargada.</lex>
+      <lex lang="en_bt" lid="Id1">The AIDAstella was built by Meyer Werft and is 253,260.0 millimetres long. It is still in service and operated by the AIDA Cruise Line.</lex>
+      <lex lang="en_bt" lid="Id2">AIDAstella is operated by AIDA Cruise Line and is still in service. AIDAstella was built by Meyer Werft and is 253,260.0 millimetres long.</lex>
+      <lex lang="en_bt" lid="Id3">AIDAstella, a ship built by Meyer Werft is still in service to date. The ship is operated by AIDA Cruises and is 253260mm long.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id7" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>ALCO_RS-3 | builder | American_Locomotive_Company</otriple>
+        <otriple>ALCO_RS-3 | MeanOfTransportation/length | "17068.8"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+        <otriple>ALCO_RS-3 | enginetype | V12_engine</otriple>
+        <otriple>ALCO_RS-3 | builddate | "May 1950 &amp;ndash; August 1956"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>ALCO_RS-3 | builder | American_Locomotive_Company</mtriple>
+        <mtriple>ALCO_RS-3 | length | 17068.8 (millimetres)</mtriple>
+        <mtriple>ALCO_RS-3 | engine | V12_engine</mtriple>
+        <mtriple>ALCO_RS-3 | buildDate | "May 1950 - August 1956"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>ALCO_RS-3 | Constructor | Alco</striple>
+        <striple>ALCO_RS-3 | Longitud | 17068,8_(milímetros)</striple>
+        <striple>ALCO_RS-3 | Motor | V12</striple>
+        <striple>ALCO_RS-3 | FechaDeConstrucción | mayo_de_1950_-_agosto_de_1956</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>ALCO_RS-3 | builder | American_Locomotive_Company</bttriple>
+        <bttriple>ALCO_RS-3 | length | 17068.8 (millimetres)</bttriple>
+        <bttriple>ALCO_RS-3 | engine | V12_engine</bttriple>
+        <bttriple>ALCO_RS-3 | buildDate | "May 1950 - August 1956"</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>ALCO_RS-_3Constellation_name_(optional) | Constructor | American_Locomotive_Company</ctriple>
+        <ctriple>ALCO_RS-_3Constellation_name_(optional) | Longitud | 17068.8_(mil·límetres)</ctriple>
+        <ctriple>ALCO_RS-_3Constellation_name_(optional) | Motor | Motor_V12</ctriple>
+        <ctriple>ALCO_RS-_3Constellation_name_(optional) | DataDeConstrucció | Maig_1950_-_agost_1956</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The American Locomotive Company built the ALCO RS-3 and it was produced between May 1950 and August 1956. Its length is 17068.8 millimetres and it has a V12 engine.</lex>
+      <lex lang="en" lid="Id2">The ALCO RS-3 has a V12 engine and a length of 17068.8 millimetres. It was produced between May 1950 and August 1956 by the American Locomotive Company.</lex>
+      <lex lang="en" lid="Id3">The ALCO RS-3 which was built by the American Locomotive Company, was produced between May 1950 and August 1956. It has a V12 engine and is 17068.8 (millimetres) in length.</lex>
+      <lex lang="es" lid="Id1">La American Locomotive Company construyó el ALCO RS-3 y se fabricó entre mayo de 1950 y agosto de 1956. Su longitud es de 17068,8 milímetros y tiene un motor V12.</lex>
+      <lex lang="es" lid="Id2">La ALCO RS-3 tiene un motor V12 y una longitud de 17068,8 milímetros. Fue fabricado entre mayo de 1950 y agosto de 1956 por la American Locomotive Company.</lex>
+      <lex lang="es" lid="Id3">La ALCO RS-3, construida por la American Locomotive Company, se fabricó entre mayo de 1950 y agosto de 1956. Tiene un motor V12 y mide 17068,8 (milímetros) de longitud.</lex>
+      <lex lang="ca" lid="Id1">L'American Locomotive Company va construir l'ALCO RS-3, que es va produir entre maig de 1950 i agost de 1956. Té una longitud de 17.068,8 mil·límetres i un motor V12.</lex>
+      <lex lang="ca" lid="Id2">L'ALCO RS-3 té un motor V12 i una longitud de 17068,8 mil·límetres. Va ser produït entre maig de 1950 i agost de 1956 per la American Locomotive Company.</lex>
+      <lex lang="ca" lid="Id3">L' ALCO RS- 3 que va ser construït per l' American Locomotive Company, va ser produït entre maig de 1950 i agost de 1956. Té un motor V12 i té 17068. 8 (milimetres) de longitud.</lex>
+      <lex lang="en_bt" lid="Id1">The American Locomotive Company built the ALCO RS-3, which was produced between May 1950 and August 1956. It has a length of 17,068.8 millimetres and a V12 engine.</lex>
+      <lex lang="en_bt" lid="Id2">The ALCO RS-3 has a V12 engine and a length of 17068.8 mm. It was produced between May 1950 and August 1956 by the American Locomotive Company.</lex>
+      <lex lang="en_bt" lid="Id3">The ALCO RS-3 which was built by the American Locomotive Company, was produced between May 1950 and August 1956. It has a V12 engine and is 17068.8 (millimeters) long.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id8" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>AMC_Matador | aka | "American Motors Matador"@en</otriple>
+        <otriple>AMC_Matador | assembly | Thames,_New_Zealand</otriple>
+        <otriple>AMC_Matador | bodyStyle | Station_wagon</otriple>
+        <otriple>AMC_Matador | engine | "V8"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AMC_Matador | alternativeName | "American Motors Matador"</mtriple>
+        <mtriple>AMC_Matador | assembly | Thames,_New_Zealand</mtriple>
+        <mtriple>AMC_Matador | bodyStyle | Station_wagon</mtriple>
+        <mtriple>AMC_Matador | engine | AMC_V8_engine</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>AMC_Matador | NombreAlternativo | American_Motors_Matador</striple>
+        <striple>AMC_Matador | Montaje | Thames,_Nueva_Zelanda</striple>
+        <striple>AMC_Matador | EstiloDeCarrocería | familiar_(automóvil)</striple>
+        <striple>AMC_Matador | Motor | Motor_AMC_V8</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>AMC_Matador | alternativeName | "American Motors Matador"</bttriple>
+        <bttriple>AMC_Matador | assembly | Thames,_New_Zealand</bttriple>
+        <bttriple>AMC_Matador | bodyStyle | Station_wagon</bttriple>
+        <bttriple>AMC_Matador | engine | AMC_V8_engine</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>AMC_Matador | NomAlternatiu | American_Motors_Matador</ctriple>
+        <ctriple>AMC_Matador | Assemblea | Thames,_Nova_Zelanda</ctriple>
+        <ctriple>AMC_Matador | EstilDelCos | Familiar</ctriple>
+        <ctriple>AMC_Matador | Motor | Motor_AMC_V8</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">AMC Matador is also known as American Motors Matador and is assembled in Thames, New Zealand. Its body style is station wagon and it's equipped with an AMC V8 engine.</lex>
+      <lex lang="en" lid="Id2">The AMC Matador is alternatively known as the American Motors Matador and is assembled in Thames, New Zealand. Its body style is a station wagon and it has an AMC V8 engine.</lex>
+      <lex lang="en" lid="Id3">The AMC Matador is a station wagon equipped with an AMC V8 engine. It is also known as American Motors Matador and is assembled in Thames, New Zealand.</lex>
+      <lex lang="es" lid="Id1">AMC Matador es también conocido como American Motors Matador y se ensambla en Thames, Nueva Zelanda. Su estilo de carrocería es station wagon y está equipado con un motor AMC V8.</lex>
+      <lex lang="es" lid="Id2">El AMC Matador se conoce también como American Motors Matador y se ensambla en Thames, Nueva Zelanda. Su carrocería es tipo station wagon y tiene un motor AMC V8.</lex>
+      <lex lang="es" lid="Id3">El AMC Matador es un station wagon equipado con un motor AMC V8. También se conoce como American Motors Matador y se ensambla en Thames, Nueva Zelanda.</lex>
+      <lex lang="ca" lid="Id1">L'AMC Matador també és conegut com a American Motors Matador i és muntat a Thames, Nova Zelanda. El seu estil de carrosseria és station wagon i està equipat amb un motor AMC V8.</lex>
+      <lex lang="ca" lid="Id2">L'AMC Matador també es coneix com l'American Motors Matador i s'acobla a Thames, Nova Zelanda. El seu estil de carrosseria és una furgoneta i té un motor AMC V8.</lex>
+      <lex lang="ca" lid="Id3">L' AMC Matador és una furgoneta equipada amb un motor AMC V8. També es coneix com a American Motors Matador i es munta a Thames, Nova Zelanda.</lex>
+      <lex lang="en_bt" lid="Id1">The AMC Matador is also known as the American Motors Matador and is assembled in Thames, New Zealand. It has a station wagon body style and is equipped with an AMC V8 engine.</lex>
+      <lex lang="en_bt" lid="Id2">The AMC Matador is also known as the American Motors Matador and is assembled in Thames, New Zealand. Its body style is a station wagon and has an AMC V8 engine.</lex>
+      <lex lang="en_bt" lid="Id3">The AMC Matador is a van equipped with an AMC V8 engine. It is also known as the American Motors Matador and is assembled in Thames, New Zealand.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id9" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>AMC_Matador | aka | "American Motors Matador"@en</otriple>
+        <otriple>AMC_Matador | assembly | Thames,_New_Zealand</otriple>
+        <otriple>AMC_Matador | class | Mid-size_car</otriple>
+        <otriple>AMC_Matador | engine | "I6"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AMC_Matador | alternativeName | "American Motors Matador"</mtriple>
+        <mtriple>AMC_Matador | assembly | Thames,_New_Zealand</mtriple>
+        <mtriple>AMC_Matador | class | Mid-size_car</mtriple>
+        <mtriple>AMC_Matador | engine | AMC_straight-6_engine</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>AMC_Matador | NombreAlternativo | American_Motors_Matador</striple>
+        <striple>AMC_Matador | Montaje | Thames,_Nueva_Zelanda</striple>
+        <striple>AMC_Matador | Clase | Coche_de_tamaño_medio</striple>
+        <striple>AMC_Matador | Motor | Motor_AMC_XJ_4.0</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>AMC_Matador | alternativeName | "American Motors Matador"</bttriple>
+        <bttriple>AMC_Matador | assembly | Thames,_New_Zealand</bttriple>
+        <bttriple>AMC_Matador | class | Mid-size_car</bttriple>
+        <bttriple>AMC_Matador | engine | AMC_straight-6_engine</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>AMC_Matador | NomAlternatiu | American_Motors_Matador</ctriple>
+        <ctriple>AMC_Matador | Assemblea | Thames,_Nova_Zelanda</ctriple>
+        <ctriple>AMC_Matador | Classe | mid_size</ctriple>
+        <ctriple>AMC_Matador | Motor | Motor_AMC_en_línia_6</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The AMC Matador is a mid-size car also known as American Motors Matador, and was assembled in Thames, New Zealand with an AMC straight-6 engine.</lex>
+      <lex lang="en" lid="Id2">The AMC Matador is also known as American Motors Matador and is a mid-size car. It is assembled in Thames, New Zealand and has an AMC straight-6 engine.</lex>
+      <lex lang="en" lid="Id3">AMC Matador is also known as American Motors Matador and is assembled in Thames, New Zealand. It is classed as a mid-size car and it has an AMC straight-6 engine.</lex>
+      <lex lang="es" lid="Id1">El AMC Matador es un coche de tamaño medio también conocido como American Motors Matador, y fue ensamblado en Thames, Nueva Zelanda con un motor AMC straight-6.</lex>
+      <lex lang="es" lid="Id2">El AMC Matador también se conoce como American Motors Matador y es un coche de tamaño medio. Se ensambla en Thames, Nueva Zelanda y tiene un motor AMC straight-6.</lex>
+      <lex lang="es" lid="Id3">El AMC Matador también se conoce como American Motors Matador y se ensambla en Thames, Nueva Zelanda. Se clasifica como un coche de tamaño medio y tiene un motor AMC straight-6.</lex>
+      <lex lang="ca" lid="Id1">L'AMC Matador és un cotxe de mida mitjana també conegut com a American Motors Matador, i va ser assemblat a Thames, Nova Zelanda amb un motor AMC straight-6.</lex>
+      <lex lang="ca" lid="Id2">L' AMC Matador és també conegut com a American Motors Matador i és un cotxe de mida mitjana. És muntat a Thames, Nova Zelanda i té un motor AMC de 6 cilindres en línia.</lex>
+      <lex lang="ca" lid="Id3">L'AMC Matador també es coneix com a American Motors Matador i s'acobla a Thames, Nova Zelanda. Es classifica com un cotxe de mida mitjana i té un motor AMC de 6 cilindres en línia.</lex>
+      <lex lang="en_bt" lid="Id1">The AMC Matador is a mid-size car also known as the American Motors Matador, and was assembled in Thames, New Zealand with an AMC straight-6 engine.</lex>
+      <lex lang="en_bt" lid="Id2">The AMC Matador is also known as the American Motors Matador and is a mid-size car. It is built in Thames, New Zealand and has an in-line 6-cylinder AMC engine.</lex>
+      <lex lang="en_bt" lid="Id3">The AMC Matador is also known as the American Motors Matador and is assembled in Thames, New Zealand. It is classified as a mid-size car and has a 6-cylinder in-line AMC engine.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id10" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>AMC_Matador | aka | "VAM Classic"@en</otriple>
+        <otriple>AMC_Matador | assembly | Port_Melbourne,_Victoria</otriple>
+        <otriple>AMC_Matador | class | Full-size_car</otriple>
+        <otriple>AMC_Matador | engine | "I6"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AMC_Matador | alternativeName | "VAM Classic"</mtriple>
+        <mtriple>AMC_Matador | assembly | Port_Melbourne,_Victoria</mtriple>
+        <mtriple>AMC_Matador | class | Full-size_car</mtriple>
+        <mtriple>AMC_Matador | engine | AMC_straight-6_engine</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>AMC_Matador | NombreAlternativo | VAM_Clásico</striple>
+        <striple>AMC_Matador | Montaje | Puerto_Melbourne,_Victoria</striple>
+        <striple>AMC_Matador | Clase | coche_de_tamaño_completo</striple>
+        <striple>AMC_Matador | Motor | Motor_AMC_XJ_4.0</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>AMC_Matador | alternativeName | "VAM Classic"</bttriple>
+        <bttriple>AMC_Matador | assembly | Port_Melbourne,_Victoria</bttriple>
+        <bttriple>AMC_Matador | class | Full-size_car</bttriple>
+        <bttriple>AMC_Matador | engine | AMC_straight-6_engine</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>AMC_Matador | NomAlternatiu | VAM_clàssic</ctriple>
+        <ctriple>AMC_Matador | Assemblea | Port_Melbourne,_Victòria</ctriple>
+        <ctriple>AMC_Matador | Classe | Cotxe_de_mida_completa</ctriple>
+        <ctriple>AMC_Matador | Motor | Motor_AMC_en_línia_6</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The AMC Matador is considered a full-size car and has the alternative name of VAM Classic. It is assembled in Port Melbourne, Victoria and has an AMC straight-6 engine.</lex>
+      <lex lang="en" lid="Id2">The AMC Matador is a Full-size car and is assembled in Port Melbourne, Victoria. The alternative name for AMC Matador is VAM Classic and it has an AMC straight-6 engine.</lex>
+      <lex lang="en" lid="Id3">The AMC Matador is a Full-size car assembled in Port Melbourne, Victoria. It has an AMC straight-6 engine and the alternative name the VAM Classic.</lex>
+      <lex lang="es" lid="Id1">El AMC Matador se considera un coche de tamaño completo y tiene el nombre alternativo de VAM Classic. Se ensambla en Port Melbourne, Victoria, y tiene un motor AMC straight-6.</lex>
+      <lex lang="es" lid="Id2">El AMC Matador es un automóvil de tamaño completo y se ensambla en Port Melbourne, Victoria. El nombre alternativo para AMC Matador es VAM Classic y tiene un motor AMC straight-6.</lex>
+      <lex lang="es" lid="Id3">El AMC Matador es un automóvil de tamaño completo ensamblado en Port Melbourne, Victoria. Tiene un motor AMC straight-6 y el nombre alternativo de VAM Classic.</lex>
+      <lex lang="ca" lid="Id1">L'AMC Matador es considera un cotxe de mida completa i té el nom alternatiu de VAM Classic. Es munta a Port Melbourne, Victòria, i té un motor AMC de sis cilindres en línia.</lex>
+      <lex lang="ca" lid="Id2">L' AMC Matador és un cotxe de mida completa i s' assembla a Port Melbourne, Victòria. El nom alternatiu per a l' AMC Matador és VAM Classic i té un motor AMC straight- 6.</lex>
+      <lex lang="ca" lid="Id3">L'AMC Matador és un cotxe de mida completa fabricat a Port Melbourne, Victòria. Té un motor AMC de sis cilindres en línia i el nom alternatiu de VAM Classic.</lex>
+      <lex lang="en_bt" lid="Id1">The AMC Matador is considered a full-size car and has the alternative name VAM Classic. It is assembled in Port Melbourne, Victoria, and has an AMC inline six-cylinder engine.</lex>
+      <lex lang="en_bt" lid="Id2">The AMC Matador is a full-size car and resembles the Port Melbourne, Victoria. The alternative name for the AMC Matador is the VAM Classic and has an AMC straight-6 engine.</lex>
+      <lex lang="en_bt" lid="Id3">The AMC Matador is a full-size car manufactured in Port Melbourne, Victoria. It has a six-cylinder in-line AMC engine and the alternative name VAM Classic.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id11" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>AMC_Matador | aka | "VAM Classic"@en</otriple>
+        <otriple>AMC_Matador | assembly | Thames,_New_Zealand</otriple>
+        <otriple>AMC_Matador | bodyStyle | Station_wagon</otriple>
+        <otriple>AMC_Matador | engine | "V8"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AMC_Matador | alternativeName | "VAM Classic"</mtriple>
+        <mtriple>AMC_Matador | assembly | Thames,_New_Zealand</mtriple>
+        <mtriple>AMC_Matador | bodyStyle | Station_wagon</mtriple>
+        <mtriple>AMC_Matador | engine | AMC_V8_engine</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>AMC_Matador | NombreAlternativo | VAM_Clásico</striple>
+        <striple>AMC_Matador | Montaje | Thames,_Nueva_Zelanda</striple>
+        <striple>AMC_Matador | EstiloDeCarrocería | familiar_(automóvil)</striple>
+        <striple>AMC_Matador | Motor | Motor_AMC_V8</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>AMC_Matador | alternativeName | "VAM Classic"</bttriple>
+        <bttriple>AMC_Matador | assembly | Thames,_New_Zealand</bttriple>
+        <bttriple>AMC_Matador | bodyStyle | Station_wagon</bttriple>
+        <bttriple>AMC_Matador | engine | AMC_V8_engine</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>AMC_Matador | NomAlternatiu | VAM_clàssic</ctriple>
+        <ctriple>AMC_Matador | Assemblea | Thames,_Nova_Zelanda</ctriple>
+        <ctriple>AMC_Matador | EstilDelCos | Familiar</ctriple>
+        <ctriple>AMC_Matador | Motor | Motor_AMC_V8</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The AMC Matador has a station wagon style body and is equipped with an AMC V8 engine. Its alternative name is VAM Classic and it is assembled in Thames, New Zealand.</lex>
+      <lex lang="en" lid="Id2">The AMC Matador, alternatively known as the VAM Classic, is assembled in Thames, New Zealand. It has a station wagon body style and is equipped with an AMC V8 engine.</lex>
+      <lex lang="en" lid="Id3">The AMC Matador has a AMC V8 engine and a station wagon style body. It has an alternative name of the VAM Classic and was assembled in Thames, New Zealand.</lex>
+      <lex lang="es" lid="Id1">El AMC Matador tiene una carrocería estilo station wagon y está equipado con un motor AMC V8. Su nombre alternativo es VAM Classic y se ensambla en Thames, Nueva Zelanda.</lex>
+      <lex lang="es" lid="Id2">El AMC Matador, también conocido como VAM Classic, se ensambla en Thames, Nueva Zelanda. Tiene un estilo de carrocería station wagon y está equipado con un motor AMC V8.</lex>
+      <lex lang="es" lid="Id3">El AMC Matador tiene un motor V8 de AMC y una carrocería estilo station wagon. Tiene el nombre alternativo de VAM Classic y se ensamblaba en Thames, Nueva Zelanda.</lex>
+      <lex lang="ca" lid="Id1">L'AMC Matador té un cos d'estil station wagon i està equipat amb un motor AMC V8. El seu nom alternatiu és VAM Classic i és muntat a Thames, Nova Zelanda.</lex>
+      <lex lang="ca" lid="Id2">L'AMC Matador, també conegut com el VAM Classic, es munta a Thames, Nova Zelanda. Té un estil de carroceria de station wagon i està equipat amb un motor AMC V8.</lex>
+      <lex lang="ca" lid="Id3">L'AMC Matador té un motor AMC V8 i un cos d'estil station wagon. Té un nom alternatiu del VAM Classic i va ser assemblat a Thames, Nova Zelanda.</lex>
+      <lex lang="en_bt" lid="Id1">The AMC Matador has a station wagon-style body and is equipped with an AMC V8 engine. Its alternative name is VAM Classic and is assembled in Thames, New Zealand.</lex>
+      <lex lang="en_bt" lid="Id2">The AMC Matador, also known as the VAM Classic, is assembled in Thames, New Zealand. It has a station wagon body style and is equipped with an AMC V8 engine.</lex>
+      <lex lang="en_bt" lid="Id3">The AMC Matador has an AMC V8 engine and a station wagon-style body. It has an alternative name of the VAM Classic and was assembled in Thames, New Zealand.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id12" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Abarth_1000_GT_Coupé | productionEndYear | "1958"^^xsd:gYear</otriple>
+        <otriple>Abarth_1000_GT_Coupé | wheelbase | "2.16"^^xsd:double</otriple>
+        <otriple>Abarth_1000_GT_Coupé | bodyStyle | "Two door coupé"@en</otriple>
+        <otriple>Abarth_1000_GT_Coupé | engine | Abarth_1000_GT_Coupé__1</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abarth_1000_GT_Coupé | productionEndYear | 1958</mtriple>
+        <mtriple>Abarth_1000_GT_Coupé | wheelbase | 2160.0 (millimetres)</mtriple>
+        <mtriple>Abarth_1000_GT_Coupé | bodyStyle | "Two door coupé"</mtriple>
+        <mtriple>Abarth_1000_GT_Coupé | engine | Straight-four_engine</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Abarth_1000_GT_Coupé | ProducciónFinDeAño | 1958</striple>
+        <striple>Abarth_1000_GT_Coupé | DistanciaEntreEjes | 2160,0_(milímetros)</striple>
+        <striple>Abarth_1000_GT_Coupé | EstiloDeCarrocería | Coupé_de_dos_puertas</striple>
+        <striple>Abarth_1000_GT_Coupé | Motor | motor_de_cuatro_cilindros_en_línea</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Abarth_1000_GT_Coupé | productionEndYear | 1958</bttriple>
+        <bttriple>Abarth_1000_GT_Coupé | wheelbase | 2160.0 (millimetres)</bttriple>
+        <bttriple>Abarth_1000_GT_Coupé | bodyStyle | "Two door coupé"</bttriple>
+        <bttriple>Abarth_1000_GT_Coupé | engine | Straight-four_engine</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Abarth_1000_GT_Coupé | ProduccióFinD'any | 1958</ctriple>
+        <ctriple>Abarth_1000_GT_Coupé | DistànciaEntreEixos | 2160.0_(mil·límetres)</ctriple>
+        <ctriple>Abarth_1000_GT_Coupé | EstilDelCos | Coupé_de_dues_portes</ctriple>
+        <ctriple>Abarth_1000_GT_Coupé | Motor | motor_de_quatre_cilindres_en_línia</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The Abarth 1000 GT Coupe is a 2 door coupe which has a wheelbase of 2160 millimetres and contains a straight four engine. The car was last manufactured in 1958.</lex>
+      <lex lang="en" lid="Id2">The Abarth 1000 GT Coupe is a two door model with a straight four engine and a wheelbase of 2160 millimetres. It rolled off the production line in 1958.</lex>
+      <lex lang="en" lid="Id3">The Abarth 1000 GT Coupe has a wheelbase of 2160 mm, it's two doors and has a straight four engine. Its final year of production was 1959.</lex>
+      <lex lang="es" lid="Id1">El Abarth 1000 GT Coupé es un coupé de 2 puertas con una distancia entre ejes de 2160 milímetros y un motor de cuatro cilindros en línea. El coche se fabricó por última vez en 1958.</lex>
+      <lex lang="es" lid="Id2">El Abarth 1000 GT Coupé es un modelo de dos puertas con motor de cuatro cilindros en línea y una distancia entre ejes de 2.160 milímetros. Salió de la cadena de producción en 1958.</lex>
+      <lex lang="es" lid="Id3">El Abarth 1000 GT Coupé tiene una distancia entre ejes de 2160 mm, es de dos puertas y tiene un motor de cuatro cilindros en línea. Su último año de producción fue 1959.</lex>
+      <lex lang="ca" lid="Id1">L'Abarth 1000 GT Coupe és un coupé de 2 portes que té una distància entre eixos de 2160 mm i conté un motor de quatre cilindres en línia. L'últim cotxe fabricat va ser el 1958.</lex>
+      <lex lang="ca" lid="Id2">L'Abarth 1000 GT Coupe és un model de dues portes amb un motor de quatre cilindres en línia i una distància entre eixos de 2.160 mil·límetres. Es va començar a fabricar l'any 1958.</lex>
+      <lex lang="ca" lid="Id3">L'Abarth 1000 GT Coupe té una distància entre eixos de 2160 mm, és de dues portes i té un motor de quatre cilindres en línia.</lex>
+      <lex lang="en_bt" lid="Id1">The Abarth 1000 GT Coupe is a 2-door coupé that has a wheelbase of 2160 mm and contains an inline four-cylinder engine.The last car produced was in 1958.</lex>
+      <lex lang="en_bt" lid="Id2">The Abarth 1000 GT Coupe is a two-door model with an inline four-cylinder engine and a wheelbase of 2,160 mm. It began production in 1958.</lex>
+      <lex lang="en_bt" lid="Id3">The Abarth 1000 GT Coupe has a wheelbase of 2160 mm, is two-door and has an inline four-cylinder engine.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id13" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Acura_TLX | assembly | Marysville_Auto_Plant</otriple>
+        <otriple>Acura_TLX | layout | Front-engine_design</otriple>
+        <otriple>Acura_TLX | class | Luxury_vehicle</otriple>
+        <otriple>Acura_TLX | engine | Honda_K_engine</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acura_TLX | assembly | Marysville_Auto_Plant</mtriple>
+        <mtriple>Acura_TLX | layout | Front-engine_design</mtriple>
+        <mtriple>Acura_TLX | class | Luxury_vehicle</mtriple>
+        <mtriple>Acura_TLX | engine | Honda_K_engine</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Acura_TLX | Montaje | Fábrica_de_automóviles_de_Marysville</striple>
+        <striple>Acura_TLX | Diseño | Motor_delantero</striple>
+        <striple>Acura_TLX | Clase | Vehículo_de_lujo</striple>
+        <striple>Acura_TLX | Motor | Motor_Honda_K</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Acura_TLX | assembly | Marysville_Auto_Plant</bttriple>
+        <bttriple>Acura_TLX | layout | Front-engine_design</bttriple>
+        <bttriple>Acura_TLX | class | Luxury_vehicle</bttriple>
+        <bttriple>Acura_TLX | engine | Honda_K_engine</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Acura_TLX | Assemblea | Marysville_Auto_Plant</ctriple>
+        <ctriple>Acura_TLX | Disposició | Disseny_de_motor_davanter</ctriple>
+        <ctriple>Acura_TLX | Classe | Cotxe_de_luxe</ctriple>
+        <ctriple>Acura_TLX | Motor | Motor_Honda_K</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Acura TLX is assembled at the Marysville Auto Plant, has a front engine design with a Honda K engine and is a luxury vehicle.</lex>
+      <lex lang="en" lid="Id2">The Luxury Class Acura TLX, assembled at Marysville Auto Plant, has a Honda K front engine.</lex>
+      <lex lang="en" lid="Id3">The Acura TLX is made at the Marysville Auto Plant. It is classed as a luxury vehicle with a Honda K engine located at the front.</lex>
+      <lex lang="es" lid="Id1">El Acura TLX se ensambla en la planta automovilística de Marysville, tiene un diseño de motor delantero con motor Honda K y es un vehículo de lujo.</lex>
+      <lex lang="es" lid="Id2">El Acura TLX de clase de lujo, ensamblado en la planta de automóviles de Marysville, tiene un motor delantero Honda K.</lex>
+      <lex lang="es" lid="Id3">El Acura TLX se fabrica en la planta de Marysville. Se clasifica como un vehículo de lujo con un motor Honda K situado en la parte delantera.</lex>
+      <lex lang="ca" lid="Id1">L'Acura TLX és muntat a la planta d'automòbils de Marysville, té un disseny de motor davanter amb un motor Honda K i és un vehicle de luxe.</lex>
+      <lex lang="ca" lid="Id2">La classe de luxe Acura TLX, muntada a la planta d'automòbils de Marysville, té un motor davanter Honda K.</lex>
+      <lex lang="ca" lid="Id3">L'Acura TLX es fabrica a la planta d'automòbils de Marysville. Es classifica com un vehicle de luxe amb un motor Honda K situat al davant.</lex>
+      <lex lang="en_bt" lid="Id1">The Acura TLX is assembled at the Marysville auto plant, has a front-engine design with a Honda K engine and is a luxury vehicle.</lex>
+      <lex lang="en_bt" lid="Id2">The luxury class Acura TLX, assembled at the Marysville automobile plant, has a Honda K front engine.</lex>
+      <lex lang="en_bt" lid="Id3">The Acura TLX is manufactured at the Marysville automobile plant. It is classified as a luxury vehicle with a Honda K engine located in the front.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id14" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Aleksey_Chirikov_(icebreaker) | builder | Finland</otriple>
+        <otriple>Aleksey_Chirikov_(icebreaker) | length | "99.83"^^xsd:double</otriple>
+        <otriple>Aleksey_Chirikov_(icebreaker) | shipBeam | "21.2"^^xsd:double</otriple>
+        <otriple>Aleksey_Chirikov_(icebreaker) | shipBuilder | Arctech_Helsinki_Shipyard</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Aleksey_Chirikov_(icebreaker) | shipBuilder | Finland</otriple>
+        <otriple>Aleksey_Chirikov_(icebreaker) | length | "99.83"^^xsd:double</otriple>
+        <otriple>Aleksey_Chirikov_(icebreaker) | shipBeam | "21.2"^^xsd:double</otriple>
+        <otriple>Aleksey_Chirikov_(icebreaker) | builder | Arctech_Helsinki_Shipyard</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksey_Chirikov_(icebreaker) | builder | Finland</mtriple>
+        <mtriple>Aleksey_Chirikov_(icebreaker) | length | 99.83</mtriple>
+        <mtriple>Aleksey_Chirikov_(icebreaker) | shipBeam | 21.2</mtriple>
+        <mtriple>Aleksey_Chirikov_(icebreaker) | builder | Arctech_Helsinki_Shipyard</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aleksey_Chirikov_(rompehielos) | Constructor | Finlandia</striple>
+        <striple>Aleksey_Chirikov_(rompehielos) | Longitud | 99.83</striple>
+        <striple>Aleksey_Chirikov_(rompehielos) | VigaDelBuque | 21.2</striple>
+        <striple>Aleksey_Chirikov_(rompehielos) | Constructor | Astillero_Arctech_Helsinki</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Aleksey_Chirikov_(icebreaker) | builder | Finland</bttriple>
+        <bttriple>Aleksey_Chirikov_(icebreaker) | length | 99.83</bttriple>
+        <bttriple>Aleksey_Chirikov_(icebreaker) | shipBeam | 21.2</bttriple>
+        <bttriple>Aleksey_Chirikov_(icebreaker) | builder | Arctech_Helsinki_Shipyard</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Aleksey_Chirikov_(trencaglaç) | Constructor | Finlàndia</ctriple>
+        <ctriple>Aleksey_Chirikov_(trencaglaç) | Longitud | 99.83</ctriple>
+        <ctriple>Aleksey_Chirikov_(trencaglaç) | BeamDeVaixell | 21.2</ctriple>
+        <ctriple>Aleksey_Chirikov_(trencaglaç) | Constructor | Arctech_Estació_Naval_d'Helsinki</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The icebreaker ship Aleksey Chirikov was built by the Arctech Helsinki Shipyard in Finland with a length of 99.83 and a ship beam of 21.2.</lex>
+      <lex lang="en" lid="Id2">The icebreaker Aleksey Chirikov is 99.83 long and has a ship beam of 21.2 m. It was built in Finland at the Arctech Helsinki Shipyard.</lex>
+      <lex lang="en" lid="Id3">The icebreaker Aleksy Chirikov, having a ship beam of 21.2 m. and a length of 99.83 metres, was built in Finland at the Arctech Helsinki Shipyard.</lex>
+      <lex lang="es" lid="Id1">El buque rompehielos Aleksey Chirikov fue construido por el astillero Arctech Helsinki de Finlandia con una eslora de 99.83 y una manga de 21,2.</lex>
+      <lex lang="es" lid="Id2">El rompehielos Aleksey Chirikov tiene una eslora de 99.83 m y una manga de 21,2 m. Fue construido en Finlandia, en los astilleros Arctech Helsinki.</lex>
+      <lex lang="es" lid="Id3">El rompehielos Aleksy Chirikov, de 21,2 m de manga y 99.83 m de eslora, se construyó en Finlandia, en los astilleros Arctech Helsinki.</lex>
+      <lex lang="ca" lid="Id1">El vaixell trencaglaç Aleksey Chirikov va ser construït per l'Arctech Helsinki Shipyard a Finlàndia amb una longitud de 99,83 i un feix de vaixell de 21,2.</lex>
+      <lex lang="ca" lid="Id2">El trencaglaç Aleksey Chirikov és de 99,83 metres de llarg i té una envergadura de 21,2 m. Va ser construït a Finlàndia a l'Arctech Helsinki Shipyard.</lex>
+      <lex lang="ca" lid="Id3">El trencaglaç Aleksy Chirikov, amb un feix de vaixell de 21,2 m. i una longitud de 99,83 metres, va ser construït a Finlàndia a l'Arctech Helsinki Shipyard.</lex>
+      <lex lang="en_bt" lid="Id1">The icebreaker Aleksey Chirikov was built by the Arctech Helsinki Shipyard in Finland with a length of 99.83 and a beam of 21.2.</lex>
+      <lex lang="en_bt" lid="Id2">The icebreaker Aleksey Chirikov is 99.83 meters long and has a wingspan of 21.2 m. It was built in Finland at the Arctech Helsinki Shipyard.</lex>
+      <lex lang="en_bt" lid="Id3">The icebreaker Aleksy Chirikov, with a beam of 21.2 m and a length of 99.83 m, was built in Finland at the Arctech Helsinki Shipyard.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id15" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Aleksey_Chirikov_(icebreaker) | builder | Finland</otriple>
+        <otriple>Aleksey_Chirikov_(icebreaker) | shipBeam | "21.2"^^xsd:double</otriple>
+        <otriple>Aleksey_Chirikov_(icebreaker) | status | "In service"</otriple>
+        <otriple>Aleksey_Chirikov_(icebreaker) | shipBuilder | Arctech_Helsinki_Shipyard</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksey_Chirikov_(icebreaker) | builder | Finland</mtriple>
+        <mtriple>Aleksey_Chirikov_(icebreaker) | shipBeam | 21.2</mtriple>
+        <mtriple>Aleksey_Chirikov_(icebreaker) | status | "In service"</mtriple>
+        <mtriple>Aleksey_Chirikov_(icebreaker) | builder | Arctech_Helsinki_Shipyard</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aleksey_Chirikov_(rompehielos) | Constructor | Finlandia</striple>
+        <striple>Aleksey_Chirikov_(rompehielos) | VigaDelBuque | 21.2</striple>
+        <striple>Aleksey_Chirikov_(rompehielos) | Estado | En_servicio</striple>
+        <striple>Aleksey_Chirikov_(rompehielos) | Constructor | Astillero_Arctech_Helsinki</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Aleksey_Chirikov_(icebreaker) | builder | Finland</bttriple>
+        <bttriple>Aleksey_Chirikov_(icebreaker) | shipBeam | 21.2</bttriple>
+        <bttriple>Aleksey_Chirikov_(icebreaker) | status | "In service"</bttriple>
+        <bttriple>Aleksey_Chirikov_(icebreaker) | builder | Arctech_Helsinki_Shipyard</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Aleksey_Chirikov_(trencaglaç) | Constructor | Finlàndia</ctriple>
+        <ctriple>Aleksey_Chirikov_(trencaglaç) | BeamDeVaixell | 21.2</ctriple>
+        <ctriple>Aleksey_Chirikov_(trencaglaç) | Estatut | En_servei</ctriple>
+        <ctriple>Aleksey_Chirikov_(trencaglaç) | Constructor | Arctech_Estació_Naval_d'Helsinki</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The in service icebreaker Aleksey Chirikov was built at the Arctech Helsinki Shipyard. in Finland. It has a ship beam of 21.2 m.</lex>
+      <lex lang="en" lid="Id2">The Finnish built Aleksey Chirikov is an icebreaker and currently in service. It was built by the Arctech Helsinki Shipyard and has a ship beam of 21.2m.</lex>
+      <lex lang="en" lid="Id3">Arctech Helsinki Shipyard built the icebreaker Aleksey Chirikov in Finland. It has a 21.2 m long ship beam and is in service.</lex>
+      <lex lang="es" lid="Id1">El rompehielos en servicio Aleksey Chirikov fue construido en los astilleros Arctech Helsinki, en Finlandia. Tiene una manga de 21,2 m.</lex>
+      <lex lang="es" lid="Id2">El Aleksey Chirikov, construido en Finlandia, es un rompehielos actualmente en servicio. Fue construido por el astillero Arctech Helsinki y tiene una manga de 21,2 m.</lex>
+      <lex lang="es" lid="Id3">El astillero Arctech Helsinki construyó en Finlandia el rompehielos Aleksey Chirikov. Tiene una manga de 21,2 m y está en servicio.</lex>
+      <lex lang="ca" lid="Id1">El trencaglaç en servei Aleksey Chirikov va ser construït a l' Arctech Helsinki Shipyard. a Finlàndia. Té una llargada de 21, 2 m.</lex>
+      <lex lang="ca" lid="Id2">La construcció finlandesa Aleksey Chirikov és un trencaglaç i actualment en servei. Va ser construït per Arctech Helsinki Shipyard i té una nau de 21, 2 m.</lex>
+      <lex lang="ca" lid="Id3">Arctech Helsinki Shipyard va construir el trencaglaç Aleksey Chirikov a Finlàndia. Té una nau de 21, 2 m de llargada i està en servei.</lex>
+      <lex lang="en_bt" lid="Id1">The icebreaker in service Aleksey Chirikov was built at the Arctech Helsinki Shipyard in Finland.</lex>
+      <lex lang="en_bt" lid="Id2">The Finnish construction Aleksey Chirikov is an icebreaker and currently in service. It was built by Arctech Helsinki Shipyard and has a 21.2 m ship.</lex>
+      <lex lang="en_bt" lid="Id3">Arctech Helsinki Shipyard built the icebreaker Aleksey Chirikov in Finland. It has a ship length of 21.2 m and is in service.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id16" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Aleksey_Chirikov_(icebreaker) | builder | Finland</otriple>
+        <otriple>Aleksey_Chirikov_(icebreaker) | shipBeam | "21.2"^^xsd:double</otriple>
+        <otriple>Aleksey_Chirikov_(icebreaker) | status | "In service"</otriple>
+        <otriple>Aleksey_Chirikov_(icebreaker) | shipBuilder | Helsinki</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Aleksey_Chirikov_(icebreaker) | shipBuilder | Finland</otriple>
+        <otriple>Aleksey_Chirikov_(icebreaker) | shipBeam | "21.2"^^xsd:double</otriple>
+        <otriple>Aleksey_Chirikov_(icebreaker) | status | "In service"</otriple>
+        <otriple>Aleksey_Chirikov_(icebreaker) | builder | Helsinki</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksey_Chirikov_(icebreaker) | builder | Finland</mtriple>
+        <mtriple>Aleksey_Chirikov_(icebreaker) | shipBeam | 21.2</mtriple>
+        <mtriple>Aleksey_Chirikov_(icebreaker) | status | "In service"</mtriple>
+        <mtriple>Aleksey_Chirikov_(icebreaker) | builder | Helsinki</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aleksey_Chirikov_(rompehielos) | Constructor | Finlandia</striple>
+        <striple>Aleksey_Chirikov_(rompehielos) | VigaDelBuque | 21.2</striple>
+        <striple>Aleksey_Chirikov_(rompehielos) | Estado | En_servicio</striple>
+        <striple>Aleksey_Chirikov_(rompehielos) | Constructor | Helsinki</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Aleksey_Chirikov_(icebreaker) | builder | Finland</bttriple>
+        <bttriple>Aleksey_Chirikov_(icebreaker) | shipBeam | 21.2</bttriple>
+        <bttriple>Aleksey_Chirikov_(icebreaker) | status | "In service"</bttriple>
+        <bttriple>Aleksey_Chirikov_(icebreaker) | builder | Helsinki</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Aleksey_Chirikov_(trencaglaç) | Constructor | Finlàndia</ctriple>
+        <ctriple>Aleksey_Chirikov_(trencaglaç) | BeamDeVaixell | 21.2</ctriple>
+        <ctriple>Aleksey_Chirikov_(trencaglaç) | Estatut | En_servei</ctriple>
+        <ctriple>Aleksey_Chirikov_(trencaglaç) | Constructor | Hèlsinki</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Finland built the Aleksey Chirikov, icebreaker which has a 21.2 ship beam and was made in Helsinki. It is currently working.</lex>
+      <lex lang="en" lid="Id2">The icebreaker Aleksey Chirikov was built in Helsinki, in Finland. It is in service and has a ship beam of 21.2 m.</lex>
+      <lex lang="en" lid="Id3">The icebreaker ship Aleksey Chirikov was built in Finland by Aleksey Chirikov who is in Helsinki. The ship's beam is 21.2m and is currently in service.</lex>
+      <lex lang="es" lid="Id1">Finlandia construyó el rompehielos Aleksey Chirikov, de 21,2 de manga y fabricado en Helsinki. Actualmente está en funcionamiento.</lex>
+      <lex lang="es" lid="Id2">El rompehielos Aleksey Chirikov fue construido en Helsinki, Finlandia. Está en servicio y tiene una manga de 21,2 m.</lex>
+      <lex lang="es" lid="Id3">El buque rompehielos Aleksey Chirikov fue construido en Finlandia por Aleksey Chirikov, que se encuentra en Helsinki. El buque tiene una manga de 21,2 m y actualmente está en servicio.</lex>
+      <lex lang="ca" lid="Id1">Finlàndia va construir l'Aleksei Chirikov, trencaglaç que té un feix de 21,2 naus i va ser fabricat a Hèlsinki. Actualment està funcionant.</lex>
+      <lex lang="ca" lid="Id2">El trencaglaç Aleksey Chirikov va ser construït a Hèlsinki, a Finlàndia. Està en servei i té una envergadura de 21, 2 m.</lex>
+      <lex lang="ca" lid="Id3">El trencaglaç Aleksey Chirikov va ser construït a Finlàndia per Aleksey Chirikov, que es troba a Hèlsinki. El vaixell fa 21,2 metres d'ample i actualment està en servei.</lex>
+      <lex lang="en_bt" lid="Id1">Finland built the Alexei Chirikov, an icebreaker that has a beam of 21.2 ships and was built in Helsinki.</lex>
+      <lex lang="en_bt" lid="Id2">The icebreaker Aleksey Chirikov was built in Helsinki, Finland. It is in service and has a wingspan of 21.2 m.</lex>
+      <lex lang="en_bt" lid="Id3">The icebreaker Aleksey Chirikov was built in Finland by Aleksey Chirikov, who is based in Helsinki.The ship is 21.2 meters wide and is currently in service.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id17" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Aleksey_Chirikov_(icebreaker) | shipBuilder | Finland</otriple>
+        <otriple>Finland | leader | Sauli_Niinistö</otriple>
+        <otriple>Finland | leaderName | Juha_Sipilä</otriple>
+        <otriple>Aleksey_Chirikov_(icebreaker) | builder | Helsinki</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksey_Chirikov_(icebreaker) | builder | Finland</mtriple>
+        <mtriple>Finland | leader | Sauli_Niinistö</mtriple>
+        <mtriple>Finland | leader | Juha_Sipilä</mtriple>
+        <mtriple>Aleksey_Chirikov_(icebreaker) | builder | Helsinki</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aleksey_Chirikov_(rompehielos) | Constructor | Finlandia</striple>
+        <striple>Finlandia | Líder | Sauli_Niinistö</striple>
+        <striple>Finlandia | Líder | Juha_Sipilä</striple>
+        <striple>Aleksey_Chirikov_(rompehielos) | Constructor | Helsinki</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Aleksey_Chirikov_(icebreaker) | builder | Finland</bttriple>
+        <bttriple>Finland | leader | Sauli_Niinistö</bttriple>
+        <bttriple>Finland | leader | Juha_Sipilä</bttriple>
+        <bttriple>Aleksey_Chirikov_(icebreaker) | builder | Helsinki</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Aleksey_Chirikov_(trencaglaç) | Constructor | Finlàndia</ctriple>
+        <ctriple>Finlàndia | Líder | Sauli_Niinistö</ctriple>
+        <ctriple>Finlàndia | Líder | Juha_Sipilä</ctriple>
+        <ctriple>Aleksey_Chirikov_(trencaglaç) | Constructor | Hèlsinki</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The icebreaker Aleksey Chirikov was built in Helsinki, Finland. The leaders of the country are Sauli Niinisto and Juha Sipila.</lex>
+      <lex lang="en" lid="Id2">Aleksey Chirikov icebreaker is from Helsinki in Finland whose leaders are Juha Sipila and Sauli Niinistö.</lex>
+      <lex lang="en" lid="Id3">The icebreaker, Aleksey Chirikov, was built in Helsinki, Finland, which hails leaders Sauli Niinistö and Juha Sipila.</lex>
+      <lex lang="es" lid="Id1">El rompehielos Aleksey Chirikov se construyó en Helsinki (Finlandia). Los líderes del país son Sauli Niinisto y Juha Sipila.</lex>
+      <lex lang="es" lid="Id2">El rompehielos Aleksey Chirikov procede de Helsinki (Finlandia), cuyos dirigentes son Juha Sipila y Sauli Niinistö.</lex>
+      <lex lang="es" lid="Id3">El rompehielos Aleksey Chirikov se construyó en Helsinki (Finlandia), ciudad de los líderes Sauli Niinistö y Juha Sipila.</lex>
+      <lex lang="ca" lid="Id1">El trencaglaç Aleksey Chirikov va ser construït a Hèlsinki, Finlàndia. Els líders del país són Sauli Niinisto i Juha Sipila.</lex>
+      <lex lang="ca" lid="Id2">L'Aleksey Chirikov és un trencaglaç d'Hèlsinki, Finlàndia, liderat per Juha Sipila i Sauli Niinistö.</lex>
+      <lex lang="ca" lid="Id3">El trencaglaç, Aleksey Chirikov, va ser construït a Hèlsinki, Finlàndia, que saluda els líders Sauli Niinistö i Juha Sipila.</lex>
+      <lex lang="en_bt" lid="Id1">The icebreaker Aleksey Chirikov was built in Helsinki, Finland. The country's leaders are Sauli Niinisto and Juha Sipila.</lex>
+      <lex lang="en_bt" lid="Id2">Aleksey Chirikov is an icebreaker from Helsinki, Finland, led by Juha Sipila and Sauli Niinistö.</lex>
+      <lex lang="en_bt" lid="Id3">The icebreaker, Aleksey Chirikov, was built in Helsinki, Finland, greeting leaders Sauli Niinistö and Juha Sipila.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id18" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Alfa_Romeo_164 | assembly | Italy</otriple>
+        <otriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Saab_9000</otriple>
+        <otriple>Alfa_Romeo_164 | engine | Alfa_Romeo_164__5</otriple>
+        <otriple>Alfa_Romeo_164 | related | Lancia_Thema</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfa_Romeo_164 | assembly | Italy</mtriple>
+        <mtriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Saab_9000</mtriple>
+        <mtriple>Alfa_Romeo_164 | engine | Straight-four_engine</mtriple>
+        <mtriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Lancia_Thema</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alfa_Romeo_164 | Montaje | Italia</striple>
+        <striple>Alfa_Romeo_164 | MediosDeTransporteRelacionados | Saab_9000</striple>
+        <striple>Alfa_Romeo_164 | Motor | motor_de_cuatro_cilindros_en_línea</striple>
+        <striple>Alfa_Romeo_164 | MediosDeTransporteRelacionados | Lancia_Thema</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Alfa_Romeo_164 | assembly | Italy</bttriple>
+        <bttriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Saab_9000</bttriple>
+        <bttriple>Alfa_Romeo_164 | engine | Straight-four_engine</bttriple>
+        <bttriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Lancia_Thema</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Alfa_Romeo_164 | Assemblea | Itàlia</ctriple>
+        <ctriple>Alfa_Romeo_164 | MitjàDeTransportRelacionat | Saab_9000</ctriple>
+        <ctriple>Alfa_Romeo_164 | Motor | motor_de_quatre_cilindres_en_línia</ctriple>
+        <ctriple>Alfa_Romeo_164 | MitjàDeTransportRelacionat | Tema_Lancia</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The Alfa Romeo 164, which is assembled in Italy and similar to the Saab 9000 and the Lancia Thema, has a straight-four engine.</lex>
+      <lex lang="en" lid="Id2">The Alfa Romeo 164 is related to the Lancia Thema and the to the Saab 9000 and in that they are both cars. The Alfa Romeo 164 has a Straight four engine and was assembled in Italy.</lex>
+      <lex lang="en" lid="Id3">The Alfa Romeo 164, assembled in Italy, has a straight four engine and is relative to the Saab 9000 and Lancia Thema.</lex>
+      <lex lang="es" lid="Id1">El Alfa Romeo 164, ensamblado en Italia y similar al Saab 9000 y al Lancia Thema, tiene un motor de cuatro cilindros en línea.</lex>
+      <lex lang="es" lid="Id2">El Alfa Romeo 164 está emparentado con el Lancia Thema y con el Saab 9000 y en eso ambos son coches. El Alfa Romeo 164 tiene un motor de cuatro cilindros en línea y se ensamblaba en Italia.</lex>
+      <lex lang="es" lid="Id3">El Alfa Romeo 164, ensamblado en Italia, tiene un motor de cuatro cilindros en línea y está emparentado con el Saab 9000 y el Lancia Thema.</lex>
+      <lex lang="ca" lid="Id1">L'Alfa Romeo 164, assemblat a Itàlia i similar al Saab 9000 i al Lancia Thema, té un motor de quatre cilindres en línia.</lex>
+      <lex lang="ca" lid="Id2">L'Alfa Romeo 164 està relacionat amb el Lancia Thema i el Saab 9000, ja que tots tres són cotxes. L'Alfa Romeo 164 té un motor de quatre cilindres en línia i es va fabricar a Itàlia.</lex>
+      <lex lang="ca" lid="Id3">L'Alfa Romeo 164, muntat a Itàlia, té un motor de quatre cilindres en línia i és comparable al Saab 9000 i al Lancia Thema.</lex>
+      <lex lang="en_bt" lid="Id1">The Alfa Romeo 164, assembled in Italy and similar to the Saab 9000 and Lancia Thema, has an inline four-cylinder engine.</lex>
+      <lex lang="en_bt" lid="Id2">The Alfa Romeo 164 is related to the Lancia Thema and the Saab 9000, as all three are cars.The Alfa Romeo 164 has an inline four-cylinder engine and was manufactured in Italy.</lex>
+      <lex lang="en_bt" lid="Id3">The Alfa Romeo 164, assembled in Italy, has an inline four-cylinder engine and is comparable to the Saab 9000 and Lancia Thema.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id19" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Alfa_Romeo_164 | related | Fiat_Croma</otriple>
+        <otriple>Alfa_Romeo_164 | assembly | Italy</otriple>
+        <otriple>Alfa_Romeo_164 | engine | Alfa_Romeo_164__1</otriple>
+        <otriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Lancia_Thema</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Fiat_Croma</mtriple>
+        <mtriple>Alfa_Romeo_164 | assembly | Italy</mtriple>
+        <mtriple>Alfa_Romeo_164 | engine | Straight-four_engine</mtriple>
+        <mtriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Lancia_Thema</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alfa_Romeo_164 | MediosDeTransporteRelacionados | Fiat_Croma</striple>
+        <striple>Alfa_Romeo_164 | Montaje | Italia</striple>
+        <striple>Alfa_Romeo_164 | Motor | motor_de_cuatro_cilindros_en_línea</striple>
+        <striple>Alfa_Romeo_164 | MediosDeTransporteRelacionados | Lancia_Thema</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Fiat_Croma</bttriple>
+        <bttriple>Alfa_Romeo_164 | assembly | Italy</bttriple>
+        <bttriple>Alfa_Romeo_164 | engine | Straight-four_engine</bttriple>
+        <bttriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Lancia_Thema</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Alfa_Romeo_164 | MitjàDeTransportRelacionat | Fiat_Croma</ctriple>
+        <ctriple>Alfa_Romeo_164 | Assemblea | Itàlia</ctriple>
+        <ctriple>Alfa_Romeo_164 | Motor | motor_de_quatre_cilindres_en_línia</ctriple>
+        <ctriple>Alfa_Romeo_164 | MitjàDeTransportRelacionat | Tema_Lancia</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The Alfa Romeo 164, assembled in Italy, has a straight-four engine; the Alfa Romeo 164 is similar to the Fiat Croma and is related to Lancia Thema.</lex>
+      <lex lang="en" lid="Id2">The Alfa Romeo 164, Lancia Thema and Fiat Croma are related means of transportation. The Alfa Romeo 164 has a Straight four engine and was assembled in Italy.</lex>
+      <lex lang="en" lid="Id3">The Alfa Romeo 164, Lancia Thema and Fiat Croma are similar means of transport. The Alfa Romeo 164 has a straight-four engine and is assembled in Italy.</lex>
+      <lex lang="es" lid="Id1">El Alfa Romeo 164, ensamblado en Italia, tiene un motor de cuatro cilindros en línea; el Alfa Romeo 164 es similar al Fiat Croma y está emparentado con el Lancia Thema.</lex>
+      <lex lang="es" lid="Id2">El Alfa Romeo 164, el Lancia Thema y el Fiat Croma son medios de transporte relacionados. El Alfa Romeo 164 tiene un motor de cuatro cilindros en línea y se ensamblaba en Italia.</lex>
+      <lex lang="es" lid="Id3">El Alfa Romeo 164, el Lancia Thema y el Fiat Croma son medios de transporte similares. El Alfa Romeo 164 tiene un motor de cuatro cilindros en línea y se ensambla en Italia.</lex>
+      <lex lang="ca" lid="Id1">L'Alfa Romeo 164, muntat a Itàlia, té un motor de quatre cilindres en línia; l'Alfa Romeo 164 és similar al Fiat Croma i està relacionat amb el Lancia Thema.</lex>
+      <lex lang="ca" lid="Id2">L' Alfa Romeo 164, Lancia Thema i Fiat Croma són mitjans de transport relacionats. L' Alfa Romeo 164 té un motor de quatre cilindres en línia i va ser muntat a Itàlia.</lex>
+      <lex lang="ca" lid="Id3">L'Alfa Romeo 164, Lancia Thema i Fiat Croma són mitjans de transport similars. L'Alfa Romeo 164 té un motor de quatre cilindres en línia i és muntat a Itàlia.</lex>
+      <lex lang="en_bt" lid="Id1">The Alfa Romeo 164, assembled in Italy, has an inline four-cylinder engine; the Alfa Romeo 164 is similar to the Fiat Croma and is related to the Lancia Thema.</lex>
+      <lex lang="en_bt" lid="Id2">The Alfa Romeo 164, Lancia Thema and Fiat Croma are related vehicles. The Alfa Romeo 164 has a four-cylinder in-line engine and was assembled in Italy.</lex>
+      <lex lang="en_bt" lid="Id3">The Alfa Romeo 164, Lancia Thema and Fiat Croma are similar vehicles.The Alfa Romeo 164 has an inline four-cylinder engine and is assembled in Italy.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id20" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>American_Motors | successor | Eagle_(automobile)</otriple>
+        <otriple>AMC_Matador | manufacturer | American_Motors</otriple>
+        <otriple>American_Motors | fate | Chrysler</otriple>
+        <otriple>American_Motors | keyPeople | Roy_D._Chapin,_Jr.</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>American_Motors | successor | Eagle_(automobile)</otriple>
+        <otriple>AMC_Matador | manufacturer | American_Motors</otriple>
+        <otriple>American_Motors | fate | Chrysler</otriple>
+        <otriple>American_Motors | keyPerson | Roy_D._Chapin,_Jr.</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_Motors | successor | Eagle_(automobile)</mtriple>
+        <mtriple>AMC_Matador | manufacturer | American_Motors</mtriple>
+        <mtriple>American_Motors | fate | Chrysler</mtriple>
+        <mtriple>American_Motors | keyPerson | Roy_D._Chapin,_Jr.</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>American_Motors | Sucesor | Eagle_(automóvil)</striple>
+        <striple>AMC_Matador | Fabricante | American_Motors</striple>
+        <striple>American_Motors | Destino | Chrysler</striple>
+        <striple>American_Motors | PersonaClave | Roy_D._Chapin,_Jr.</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>American_Motors | successor | Eagle_(automobile)</bttriple>
+        <bttriple>AMC_Matador | manufacturer | American_Motors</bttriple>
+        <bttriple>American_Motors | fate | Chrysler</bttriple>
+        <bttriple>American_Motors | keyPerson | Roy_D._Chapin,_Jr.</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>American_Motors | Successor | Àguila_(automòbil)</ctriple>
+        <ctriple>AMC_Matador | Fabricant | American_Motors</ctriple>
+        <ctriple>American_Motors | ElDestí | Chrysler</ctriple>
+        <ctriple>American_Motors | PersonaClau | Roy_D._Chapin,_Jr.</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">American motors was acquired by Chrysler. It was succeeded by Eagle, and manufactures AMC Matador. One of the key people at American Motors was Roy D. Chapin, Jr.</lex>
+      <lex lang="en" lid="Id2">American Motors was succeeded by Eagle and acquired by Chrysler, it includes figure Roy D. Chapin Jr. The AMC Matador is made by American Motors.</lex>
+      <lex lang="en" lid="Id3">Eagle succeeded American Motors, who manufacture the AMC Matador, were acquired by Chrysler and have Roy D Chapin Jr as a key person.</lex>
+      <lex lang="es" lid="Id1">American Motors fue adquirida por Chrysler. Fue sucedida por Eagle, y fabrica el AMC Matador. Una de las personas clave en American Motors fue Roy D. Chapin, Jr.</lex>
+      <lex lang="es" lid="Id2">American Motors fue sucedida por Eagle y adquirida por Chrysler, incluye la figura Roy D. Chapin Jr. El AMC Matador es fabricado por American Motors.</lex>
+      <lex lang="es" lid="Id3">Eagle sucedió a American Motors, que fabrica el AMC Matador, fue adquirida por Chrysler y tiene a Roy D Chapin Jr como persona clave.</lex>
+      <lex lang="ca" lid="Id1">American Motors va ser adquirida per Chrysler. Va ser succeïda per Eagle, i fabrica AMC Matador. Una de les persones clau a American Motors va ser Roy D. Chapin, Jr.</lex>
+      <lex lang="ca" lid="Id2">American Motors va ser succeïda per Eagle i adquirida per Chrysler, inclou la figura de Roy D. Chapin Jr. L'AMC Matador és fabricat per American Motors.</lex>
+      <lex lang="ca" lid="Id3">Eagle va succeir American Motors, que fabrica l'AMC Matador, van ser adquirits per Chrysler i tenen a Roy D Chapin Jr com a persona clau.</lex>
+      <lex lang="en_bt" lid="Id1">American Motors was acquired by Chrysler. It was succeeded by Eagle, and makes AMC Matador. One of the key people at American Motors was Roy D. Chapin, Jr.</lex>
+      <lex lang="en_bt" lid="Id2">American Motors was succeeded by Eagle and acquired by Chrysler, including the figure of Roy D. Chapin Jr. The AMC Matador is manufactured by American Motors.</lex>
+      <lex lang="en_bt" lid="Id3">Eagle succeeded American Motors, which makes the AMC Matador, was acquired by Chrysler and has Roy D Chapin Jr. as a key person.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id21" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipLaunch | "1969-01-25"^^xsd:date</otriple>
+        <otriple>American_submarine_NR-1 | topSpeed | "8.334"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | MeanOfTransportation/length | "45000.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+        <otriple>American_submarine_NR-1 | shipBeam | "3.8"^^xsd:double</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipLaunch | "1969-01-25"^^xsd:date</otriple>
+        <otriple>American_submarine_NR-1 | topSpeed | "8.334"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | MeanOfTransportation/length | "45000.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+        <otriple>American_submarine_NR-1 | shipBeam | "4.8"^^xsd:double</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipLaunch | "1969-01-25"^^xsd:date</otriple>
+        <otriple>American_submarine_NR-1 | topSpeed | "8.334"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipBeam | "*\n* at stern stabilizers."@en</otriple>
+        <otriple>American_submarine_NR-1 | MeanOfTransportation/length | "45000.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_submarine_NR-1 | shipLaunch | 1969-01-25</mtriple>
+        <mtriple>American_submarine_NR-1 | topSpeed | 8.334</mtriple>
+        <mtriple>American_submarine_NR-1 | length | 45000.0 (millimetres)</mtriple>
+        <mtriple>American_submarine_NR-1 | shipBeam | 3.8 m</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Submarino_NR-1 | BotaduraDelBuque | 25-01-1969</striple>
+        <striple>Submarino_NR-1 | VelocidadMáxima | 8.334</striple>
+        <striple>Submarino_NR-1 | Longitud | 45000.0_(milímetros)</striple>
+        <striple>Submarino_NR-1 | VigaDelBuque | 3.8_m</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>American_submarine_NR-1 | shipLaunch | 1969-01-25</bttriple>
+        <bttriple>American_submarine_NR-1 | topSpeed | 8.334</bttriple>
+        <bttriple>American_submarine_NR-1 | length | 45000.0 (millimetres)</bttriple>
+        <bttriple>American_submarine_NR-1 | shipBeam | 3.8 m</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Submarí_americà_NR-1 | LançamentDeVaixell | 1969-01-25</ctriple>
+        <ctriple>Submarí_americà_NR-1 | VelocitatMàxima | 8.334</ctriple>
+        <ctriple>Submarí_americà_NR-1 | Longitud | 45000.0_(mil·límetres)</ctriple>
+        <ctriple>Submarí_americà_NR-1 | BeamDeVaixell | 3,8_m</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The American submarine NR-1 was launched on The 25th of January 1969. It has a top speed of 8.334 km/h, a ship beam of 3.8 m., and is 45000.0 (millimetres) long.</lex>
+      <lex lang="en" lid="Id2">The American submarine NR-1, which was launched on The 25th of January 1969, has a top speed of 8.334 km/hr, a ship beam of 3.8m and a length of 45000.0 mms.</lex>
+      <lex lang="en" lid="Id3">The American sub NR-1 was launched on January 25, 1969 and its top speed is 8.334. It is 45000.0 millimetres long and has a ship beam of 3.8 m.</lex>
+      <lex lang="es" lid="Id1">El submarino estadounidense NR-1 fue botado el 25-01-1969. Tiene una velocidad máxima de 8.334 km/h, una manga de 3,8 m. y una eslora de 45000,0 (milímetros).</lex>
+      <lex lang="es" lid="Id2">El submarino estadounidense NR-1, botado el 25-01-1969, tiene una velocidad máxima de 8.334 km/h, una manga de 3,8 m y una eslora de 45.000 m.</lex>
+      <lex lang="es" lid="Id3">El submarino estadounidense NR-1 fue botado el 25-01-1969 y su velocidad máxima es de 8.334. Tiene una eslora de 45000,0 milímetros y una manga de 3,8 m.</lex>
+      <lex lang="ca" lid="Id1">El submarí nord-americà NR-1 va ser llançat el 25 de gener de 1969. Té una velocitat màxima de 8.334 km/h, una traça de vaixell de 3.8 m., i té 45000.0 (mil·límetres) de llarg.</lex>
+      <lex lang="ca" lid="Id2">El submarí americà NR-1, que va ser llançat el 25 de gener de 1969, té una velocitat màxima de 8,334 km/h, un diàmetre del vaixell de 3,8 m i una longitud de 45000,0 mm.</lex>
+      <lex lang="ca" lid="Id3">El submarí americà NR-1 va ser llançat el 25 de gener de 1969 i la seva velocitat màxima és de 8,334. té 45.000,0 mil·límetres de llargada i una envergadura de 3,8 m.</lex>
+      <lex lang="en_bt" lid="Id1">The American submarine NR-1 was launched on January 25, 1969. It has a top speed of 8,334 km/h, a boat trail of 3.8 m., and is 45,000.0 (millimeters) long.</lex>
+      <lex lang="en_bt" lid="Id2">The American submarine NR-1, which was launched on January 25, 1969, has a maximum speed of 8.334 km/h, a vessel diameter of 3.8 m and a length of 45000.0 mm.</lex>
+      <lex lang="en_bt" lid="Id3">The American submarine NR-1 was launched on January 25, 1969 and has a top speed of 8,334. It is 45,000.0 mm long and has a wingspan of 3.8 m.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id22" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Antares_(rocket) | manufacturer | Yuzhnoye_Design_Office</otriple>
+        <otriple>Antares_(rocket) | finalFlight | "2014-10-28"^^xsd:date</otriple>
+        <otriple>Antares_(rocket) | maidenFlight | "2013-04-21"^^xsd:date</otriple>
+        <otriple>Antares_(rocket) | sites | Mid-Atlantic_Regional_Spaceport</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Antares_(rocket) | manufacturer | Yuzhnoye_Design_Office</mtriple>
+        <mtriple>Antares_(rocket) | finalFlight | 2014-10-28</mtriple>
+        <mtriple>Antares_(rocket) | maidenFlight | 2013-04-21</mtriple>
+        <mtriple>Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Antares_(cohete) | Fabricante | Oficina_de_diseño_Yuzhnoye</striple>
+        <striple>Antares_(cohete) | VueloFinal | 28-10-2014</striple>
+        <striple>Antares_(cohete) | VueloInaugural | 21-04-2013</striple>
+        <striple>Antares_(cohete) | LugarDeLanzamiento | Puerto_espacial_regional_del_Atlántico_Medio</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Antares_(rocket) | manufacturer | Yuzhnoye_Design_Office</bttriple>
+        <bttriple>Antares_(rocket) | finalFlight | 2014-10-28</bttriple>
+        <bttriple>Antares_(rocket) | maidenFlight | 2013-04-21</bttriple>
+        <bttriple>Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Antares_(coet) | Fabricant | Oficina_de_Disseny_de_Yuzhnoye</ctriple>
+        <ctriple>Antares_(coet) | VolFinal | 2014-10-28</ctriple>
+        <ctriple>Antares_(coet) | MaidenFlight | 2013-04-21</ctriple>
+        <ctriple>Antares_(coet) | LlocDeLlançament | Mid-Atlantic_Regional_Spaceport</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Yuzhnoye Design Office made the Antares Rocket which was launched from the Mid-Atlantic Regional Spaceport made its first flight on the 21st of April, 2013 and its last on the 28th of October of the following year.</lex>
+      <lex lang="en" lid="Id2">Made by the Yuzhnoye Design Office, the Antares Rocket made its first flight on April 21, 2013 from the Mid-Atlantic Regional Spaceport. Its last flight took place Oct. 28, 2014.</lex>
+      <lex lang="en" lid="Id3">The Antares rocket is manufactured by the Yuzhnoye Design Office and it was launched at the Mid-Atlantic Regional Spaceport. The maiden flight was on April 21st, 2013 and the final flight was on October 28, 2014.</lex>
+      <lex lang="es" lid="Id1">La Oficina de Diseño Yuzhnoye fabricó el cohete Antares, que fue lanzado desde el Mid-Atlantic Regional Spaceport y realizó su primer vuelo el 21-04-2013 y el último el 28 de octubre del año siguiente.</lex>
+      <lex lang="es" lid="Id2">Fabricado por la Oficina de Diseño Yuzhnoye, el cohete Antares realizó su primer vuelo el 21-04-2013 desde el Mid-Atlantic Regional Spaceport. Su último vuelo tuvo lugar el 28-10-2014.</lex>
+      <lex lang="es" lid="Id3">El cohete Antares está fabricado por la Oficina de Diseño Yuzhnoye y fue lanzado en el Mid-Atlantic Regional Spaceport. El vuelo inaugural tuvo lugar el 21-04-2013 y el vuelo final, el 28-10-2014.</lex>
+      <lex lang="ca" lid="Id1">L'Oficina de Disseny de Yuzhnoye va fer el coet Antares que va ser llançat des de l'Aeroport Espacial Regional de l'Atlàntic Mitjà va fer el seu primer vol el 21 d'abril de 2013 i el seu últim el 28 d'octubre de l'any següent.</lex>
+      <lex lang="ca" lid="Id2">Fabricat per l'oficina de disseny Yuzhnoye, el coet Antares va fer el seu primer vol el 21 d'abril de 2013 des del Mid-Atlantic Regional Spaceport. El seu últim vol va tenir lloc el 28 d'octubre de 2014.</lex>
+      <lex lang="ca" lid="Id3">El coet Antares és fabricat per l'Oficina de Disseny Yuzhnoye i va ser llançat des del Port Espacial Regional del Mig Atlàntic. El vol inaugural va ser el 21 d'abril de 2013 i el vol final va ser el 28 d'octubre de 2014.</lex>
+      <lex lang="en_bt" lid="Id1">The Yuzhnoye Design Bureau made the Antares rocket that was launched from the Mid-Atlantic Regional Space Airport made its first flight on April 21, 2013 and its last on October 28 of the following year.</lex>
+      <lex lang="en_bt" lid="Id2">Manufactured by the Yuzhnoye Design Bureau, the Antares rocket made its first flight on April 21, 2013 from the Mid-Atlantic Regional Spaceport. Its last flight took place on October 28, 2014.</lex>
+      <lex lang="en_bt" lid="Id3">The Antares rocket is manufactured by the Yuzhnoye Design Bureau and was launched from the Mid-Atlantic Regional Spaceport. The maiden flight was on April 21, 2013 and the final flight was on October 28, 2014.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id23" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_DBS</otriple>
+        <otriple>Aston_Martin_V8 | engine | "5.3"^^xsd:double</otriple>
+        <otriple>Aston_Martin_V8 | assembly | United_Kingdom</otriple>
+        <otriple>Aston_Martin_V8 | related | Aston_Martin_RHAM/1</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Aston_Martin_V8 | related | Aston_Martin_DBS</otriple>
+        <otriple>Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_RHAM/1</otriple>
+        <otriple>Aston_Martin_V8 | engine | "5.3"^^xsd:double</otriple>
+        <otriple>Aston_Martin_V8 | assembly | United_Kingdom</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_DBS</mtriple>
+        <mtriple>Aston_Martin_V8 | engine | 5.3 (litres)</mtriple>
+        <mtriple>Aston_Martin_V8 | assembly | United_Kingdom</mtriple>
+        <mtriple>Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_RHAM/1</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aston_Martin_V8 | MediosDeTransporteRelacionados | Aston_Martin_DBS</striple>
+        <striple>Aston_Martin_V8 | Motor | 5,3_(litros)</striple>
+        <striple>Aston_Martin_V8 | Montaje | Reino_Unido</striple>
+        <striple>Aston_Martin_V8 | MediosDeTransporteRelacionados | Aston_Martin_RHAM/1</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_DBS</bttriple>
+        <bttriple>Aston_Martin_V8 | engine | 5.3 (litres)</bttriple>
+        <bttriple>Aston_Martin_V8 | assembly | United_Kingdom</bttriple>
+        <bttriple>Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_RHAM/1</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Aston_Martin_V8 | MitjàDeTransportRelacionat | Aston_Martin_DBS</ctriple>
+        <ctriple>Aston_Martin_V8 | Motor | 5.3_(litres)</ctriple>
+        <ctriple>Aston_Martin_V8 | Assemblea | Regne_Unit</ctriple>
+        <ctriple>Aston_Martin_V8 | MitjàDeTransportRelacionat | Aston_Martin_RHAM/1</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The Aston Martin V8 is related to the Aston Martin DBS and the Aston Martin RHAM/1. The Aston Martin V8 has a 5.3 litre engine and is assembled in the United Kingdom.</lex>
+      <lex lang="en" lid="Id2">The Aston Martin RHAM/1, Aston Martin V8 and Aston Martin DBS are a related means of transport. It is assembled in the United Kingdom and has a 5.3 litre engine.</lex>
+      <lex lang="en" lid="Id3">The Aston Martin RHAM/1, Aston Martin V8 and Aston Martin DBS are a related means of transport. The Aston Martin V8 is assembled in the U.K. and the engine volume is 5.3 litres.</lex>
+      <lex lang="es" lid="Id1">El Aston Martin V8 está emparentado con el Aston Martin DBS y el Aston Martin RHAM/1. El Aston Martin V8 tiene un motor de 5,3 litros y se ensambla en el Reino Unido.</lex>
+      <lex lang="es" lid="Id2">El Aston Martin RHAM/1, el Aston Martin V8 y el Aston Martin DBS son medios de transporte relacionados. Se ensambla en el Reino Unido y tiene un motor de 5,3 litros.</lex>
+      <lex lang="es" lid="Id3">El Aston Martin RHAM/1, el Aston Martin V8 y el Aston Martin DBS son medios de transporte relacionados. El Aston Martin V8 se ensambla en el Reino Unido y el volumen del motor es de 5,3 litros.</lex>
+      <lex lang="ca" lid="Id1">L'Aston Martin V8 està relacionat amb l'Aston Martin DBS i l'Aston Martin RHAM/1.L'Aston Martin V8 té un motor de 5,3 litres i és muntat al Regne Unit.</lex>
+      <lex lang="ca" lid="Id2">L'Aston Martin RHAM/1, l'Aston Martin V8 i l'Aston Martin DBS són mitjans de transport relacionats. Es munten al Regne Unit i tenen un motor de 5,3 litres.</lex>
+      <lex lang="ca" lid="Id3">L'Aston Martin RHAM/1, l'Aston Martin V8 i l'Aston Martin DBS són uns mitjans de transport relacionats. L'Aston Martin V8 es munta al Regne Unit i el volum del motor és de 5,3 litres.</lex>
+      <lex lang="en_bt" lid="Id1">The Aston Martin V8 is related to the Aston Martin DBS and the Aston Martin RHAM/1.The Aston Martin V8 has a 5.3-litre engine and is assembled in the United Kingdom.</lex>
+      <lex lang="en_bt" lid="Id2">The Aston Martin RHAM/1, the Aston Martin V8 and the Aston Martin DBS are related vehicles.They are assembled in the UK and have a 5.3-litre engine.</lex>
+      <lex lang="en_bt" lid="Id3">The Aston Martin RHAM/1, the Aston Martin V8 and the Aston Martin DBS are related vehicles. The Aston Martin V8 is assembled in the United Kingdom and has a 5.3-litre engine.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id24" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Audi_A1 | engine | Audi_A1__3</otriple>
+        <otriple>Audi_A1 | transmission | "5-speedmanual"</otriple>
+        <otriple>Audi_A1 | assembly | Audi_Brussels</otriple>
+        <otriple>Audi_A1 | bodyStyle | Hatchback</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Audi_A1 | engine | 1.2 (litres)</mtriple>
+        <mtriple>Audi_A1 | transmission | "5-speed manual"</mtriple>
+        <mtriple>Audi_A1 | assembly | Audi_Brussels</mtriple>
+        <mtriple>Audi_A1 | bodyStyle | Hatchback</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Audi_A1 | Motor | 1,2_(litros)</striple>
+        <striple>Audi_A1 | Transmisión | Manual_de_5_velocidades</striple>
+        <striple>Audi_A1 | Montaje | Audi_Bruselas</striple>
+        <striple>Audi_A1 | EstiloDeCarrocería | hatchback</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Audi_A1 | engine | 1.2 (litres)</bttriple>
+        <bttriple>Audi_A1 | transmission | "5-speed manual"</bttriple>
+        <bttriple>Audi_A1 | assembly | Audi_Brussels</bttriple>
+        <bttriple>Audi_A1 | bodyStyle | Hatchback</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Audi_A1 | Motor | 1.2_(litres)</ctriple>
+        <ctriple>Audi_A1 | Transmissió | Manual_de_5_velocitats</ctriple>
+        <ctriple>Audi_A1 | Assemblea | Audi_Brussel</ctriple>
+        <ctriple>Audi_A1 | EstilDelCos | cotxe_amb_porta_posterior</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The Audi A1 is assembled at Audi Brussels and has the hatchback style of body. It has a 1.2 litre engine and a 5-speed manual transmission.</lex>
+      <lex lang="en" lid="Id2">The Audi A1 is assembled by Audi Brussels and is a hatchback. It has a 1.2 litre engine and has a 5-speed manual transmission.</lex>
+      <lex lang="es" lid="Id1">El Audi A1 se ensambla en Audi Bruselas y tiene carrocería de tipo hatchback. Tiene un motor de 1,2 litros y un cambio manual de 5 velocidades.</lex>
+      <lex lang="es" lid="Id2">El Audi A1 es ensamblado por Audi Bruselas y es un hatchback. Tiene un motor de 1,2 litros y una transmisión manual de 5 velocidades.</lex>
+      <lex lang="ca" lid="Id1">L'Audi A1 és muntat a Audi Brussel·les i té l'estil hatchback de la carrosseria. Té un motor de 1,2 litres i una transmissió manual de 5 velocitats.</lex>
+      <lex lang="ca" lid="Id2">L'Audi A1 és muntat per Audi Brussel·les i és un hatchback. Té un motor d'1,2 litres i té una transmissió manual de 5 velocitats.</lex>
+      <lex lang="en_bt" lid="Id1">The Audi A1 is assembled in Audi Brussels and has a hatchback body style. It has a 1.2-litre engine and a 5-speed manual transmission.</lex>
+      <lex lang="en_bt" lid="Id2">The Audi A1 is assembled by Audi Brussels and is a hatchback. It has a 1.2-litre engine and a 5-speed manual transmission.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id25" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Audi_A1 | manufacturer | Audi</otriple>
+        <otriple>Audi | foundedBy | August_Horch</otriple>
+        <otriple>Audi | division | Audi_e-tron</otriple>
+        <otriple>Audi | subsidiary | Ducati</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Audi_A1 | manufacturer | Audi</mtriple>
+        <mtriple>Audi | foundedBy | August_Horch</mtriple>
+        <mtriple>Audi | division | Audi_e-tron</mtriple>
+        <mtriple>Audi | subsidiary | Ducati</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Audi_A1 | Fabricante | Audi</striple>
+        <striple>Audi | FundadaPor | August_Horch</striple>
+        <striple>Audi | División | Audi_e-tron</striple>
+        <striple>Audi | Filial | Ducati</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Audi_A1 | manufacturer | Audi</bttriple>
+        <bttriple>Audi | foundedBy | August_Horch</bttriple>
+        <bttriple>Audi | division | Audi_e-tron</bttriple>
+        <bttriple>Audi | subsidiary | Ducati</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Audi_A1 | Fabricant | Audi</ctriple>
+        <ctriple>Audi | FundatPer | August_Horch</ctriple>
+        <ctriple>Audi | Divisió | Audi_e-tron</ctriple>
+        <ctriple>Audi | Subsidiària | Ducati</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Audi, owned by Ducati, was founded by August Horch and includes Audi e-tron. It makes the Audi A1.</lex>
+      <lex lang="en" lid="Id2">August Horch founded Audi, which makes the Audi A1. Audi e-tron is a division of Audi and the company Ducati is owned by them.</lex>
+      <lex lang="en" lid="Id3">August Horch founded the Audi company who make the Audi A1. The company own Ducati and have a sub-division known as Audi e-tron.</lex>
+      <lex lang="es" lid="Id1">Audi, propiedad de Ducati, fue fundada por August Horch e incluye Audi e-tron. Fabrica el Audi A1.</lex>
+      <lex lang="es" lid="Id2">August Horch fundó Audi, que fabrica el Audi A1. Audi e-tron es una división de Audi y la empresa Ducati es de su propiedad.</lex>
+      <lex lang="es" lid="Id3">August Horch fundó la empresa Audi, que fabrica el Audi A1. La empresa es propietaria de Ducati y tiene una subdivisión conocida como Audi e-tron.</lex>
+      <lex lang="ca" lid="Id1">Audi, propietat de Ducati, va ser fundada per August Horch i inclou Audi e-tron. Fa l' Audi A1.</lex>
+      <lex lang="ca" lid="Id2">August Horch va fundar Audi, que fabrica l' Audi A1. Audi e-tron és una divisió d' Audi i la companyia Ducati és propietat d' ells.</lex>
+      <lex lang="ca" lid="Id3">August Horch va fundar l'empresa Audi, que fabrica l'Audi A1. L'empresa és propietària de Ducati i té una subdivisió anomenada Audi e-tron.</lex>
+      <lex lang="en_bt" lid="Id1">Audi, owned by Ducati, was founded by August Horch and includes the Audi e-tron. Makes the Audi A1.</lex>
+      <lex lang="en_bt" lid="Id2">August Horch founded Audi, which makes the Audi A1. Audi e-tron is a division of Audi and the Ducati company is owned by them.</lex>
+      <lex lang="en_bt" lid="Id3">August Horch founded the Audi company, which manufactures the Audi A1.The company owns Ducati and has a subdivision called Audi e-tron.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id26" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Caterpillar_Inc. | foundationPlace | California</otriple>
+        <otriple>AIDA_Cruises | location | Rostock</otriple>
+        <otriple>AIDAluna | shipOwner | AIDA_Cruises</otriple>
+        <otriple>AIDAluna | powerType | Caterpillar_Inc.</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Caterpillar_Inc. | foundationPlace | California</mtriple>
+        <mtriple>AIDA_Cruises | location | Rostock</mtriple>
+        <mtriple>AIDAluna | owner | AIDA_Cruises</mtriple>
+        <mtriple>AIDAluna | powerType | Caterpillar_Inc.</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Caterpillar_Inc. | LugarDeCimentación | California</striple>
+        <striple>AIDA_Cruises | Ubicación | Rostock</striple>
+        <striple>AIDAluna | Propietario | AIDA_Cruises</striple>
+        <striple>AIDAluna | TipoDePotencia | Caterpillar_Inc.</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Caterpillar_Inc. | foundationPlace | California</bttriple>
+        <bttriple>AIDA_Cruises | location | Rostock</bttriple>
+        <bttriple>AIDAluna | owner | AIDA_Cruises</bttriple>
+        <bttriple>AIDAluna | powerType | Caterpillar_Inc.</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Caterpillar_Tractor_Company | LlocDeFundació | Califòrnia</ctriple>
+        <ctriple>AIDA_Cruises | Ubicació | Rostock</ctriple>
+        <ctriple>AIDAluna | Propietari | AIDA_Cruises</ctriple>
+        <ctriple>AIDAluna | TipusDePotència | Caterpillar_Tractor_Company</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The owner of AIDAluna is Rostock based AIDA Cruises. AIDAluna is powered by Caterpillar Inc, which was founded in California.</lex>
+      <lex lang="en" lid="Id2">AIDAluna is powered by Caterpillar Inc. which was founded in California. The location of AIDA Cruises is Rostock and they own AIDAluna.</lex>
+      <lex lang="en" lid="Id3">The Caterpillar Inc company was founded in California and powers the AIDAluna which is owned by the Rostock based AIDA Cruises.</lex>
+      <lex lang="es" lid="Id1">El propietario del AIDAluna es AIDA Cruises, con sede en Rostock. El AIDAluna está propulsado por Caterpillar Inc, empresa fundada en California.</lex>
+      <lex lang="es" lid="Id2">AIDAluna está impulsado por Caterpillar Inc. que fue fundada en California. AIDA Cruises tiene su sede en Rostock y es propietaria de AIDAluna.</lex>
+      <lex lang="es" lid="Id3">La empresa Caterpillar Inc, fundada en California, propulsa el AIDAluna, propiedad de AIDA Cruises, con sede en Rostock.</lex>
+      <lex lang="ca" lid="Id1">El propietari de l'AIDAluna és AIDA Cruises, amb seu a Rostock. L'AIDAluna funciona amb motors de Caterpillar Inc., que es va fundar a Califòrnia.</lex>
+      <lex lang="ca" lid="Id2">L' AIDAluna està impulsat per Caterpillar Inc. que es va fundar a Califòrnia. La ubicació d' AIDA Cruises és Rostock i són els propietaris de l' AIDAluna.</lex>
+      <lex lang="ca" lid="Id3">La companyia Caterpillar Inc es va fundar a Califòrnia i alimenta l'AIDAluna, que és propietat d'AIDA Cruises, amb seu a Rostock.</lex>
+      <lex lang="en_bt" lid="Id1">The AIDAluna is owned by AIDA Cruises, based in Rostock. The AIDAluna is powered by engines from Caterpillar Inc., which was founded in California.</lex>
+      <lex lang="en_bt" lid="Id2">The AIDAluna is powered by Caterpillar Inc. which was founded in California. The location of AIDA Cruises is Rostock and they are the owners of the AIDAluna.</lex>
+      <lex lang="en_bt" lid="Id3">Caterpillar Inc. was founded in California and powers the AIDAluna, which is owned by AIDA Cruises, based in Rostock.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id27" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Caterpillar_Inc. | keyPerson | Douglas_R._Oberhelman</otriple>
+        <otriple>Caterpillar_Inc. | location | Illinois</otriple>
+        <otriple>Caterpillar_Inc. | foundation | United_States</otriple>
+        <otriple>AIDAluna | powerType | Caterpillar_Inc.</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Caterpillar_Inc. | keyPerson | Douglas_R._Oberhelman</mtriple>
+        <mtriple>Caterpillar_Inc. | location | Illinois</mtriple>
+        <mtriple>Caterpillar_Inc. | foundationPlace | United_States</mtriple>
+        <mtriple>AIDAluna | powerType | Caterpillar_Inc.</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Caterpillar_Inc. | PersonaClave | Douglas_R._Oberhelman</striple>
+        <striple>Caterpillar_Inc. | Ubicación | Illinois</striple>
+        <striple>Caterpillar_Inc. | LugarDeCimentación | Estados_Unidos</striple>
+        <striple>AIDAluna | TipoDePotencia | Caterpillar_Inc.</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Caterpillar_Inc. | keyPerson | Douglas_R._Oberhelman</bttriple>
+        <bttriple>Caterpillar_Inc. | location | Illinois</bttriple>
+        <bttriple>Caterpillar_Inc. | foundationPlace | United_States</bttriple>
+        <bttriple>AIDAluna | powerType | Caterpillar_Inc.</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Caterpillar_Tractor_Company | PersonaClau | Douglas_R._Oberhelman</ctriple>
+        <ctriple>Caterpillar_Tractor_Company | Ubicació | Illinois</ctriple>
+        <ctriple>Caterpillar_Tractor_Company | LlocDeFundació | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>AIDAluna | TipusDePotència | Caterpillar_Tractor_Company</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The power type of the AIDAluna is the Caterpillar Inc. engine. Caterpillar, Inc. was founded in Illinois in the U.S. and Douglas R Oberhelman is a key person there.</lex>
+      <lex lang="en" lid="Id2">Douglas R Oberhelman is a key person at Caterpillar Inc. which was founded in the US. The company is located in Illinois and provides the power to the AIDAluna.</lex>
+      <lex lang="en" lid="Id3">Douglas R Oberhelman is a key person at Caterpillar Inc which was founded in the US and, is located in Illinois. AIDALuna is powered by Caterpillar Inc.</lex>
+      <lex lang="es" lid="Id1">El tipo de potencia del AIDAluna es el motor Caterpillar Inc. Caterpillar, Inc. fue fundada en Illinois en los EE.UU. y Douglas R Oberhelman es una persona clave allí.</lex>
+      <lex lang="es" lid="Id2">Douglas R Oberhelman es una persona clave en Caterpillar Inc. fundada en Estados Unidos. La empresa está situada en Illinois y suministra la energía a la AIDAluna.</lex>
+      <lex lang="es" lid="Id3">Douglas R Oberhelman es una persona clave en Caterpillar Inc que fue fundada en los EE.UU. y, se encuentra en Illinois. AIDALuna está impulsada por Caterpillar Inc.</lex>
+      <lex lang="ca" lid="Id1">El tipus de potència de l' AIDAluna és el motor Caterpillar Inc. Caterpillar, Inc. es va fundar a Illinois als EUA i Douglas R Oberhelman és una persona clau allà.</lex>
+      <lex lang="ca" lid="Id2">Douglas R Oberhelman és una persona clau a Caterpillar Inc., que es va fundar als EUA. L'empresa es troba a Illinois i proporciona l'energia a l'AIDAluna.</lex>
+      <lex lang="ca" lid="Id3">Douglas R Oberhelman és una persona clau a Caterpillar Inc. que es va fundar als EUA i es troba a Illinois. AIDALuna funciona amb Caterpillar Inc.</lex>
+      <lex lang="en_bt" lid="Id1">The power type of the AIDAluna is the Caterpillar Inc. engine. Caterpillar, Inc. was founded in Illinois in the US and Douglas R Oberhelman is a key person there.</lex>
+      <lex lang="en_bt" lid="Id2">Douglas R Oberhelman is a key person in Caterpillar Inc., which was founded in the U.S. The company is located in Illinois and provides power to AIDAluna.</lex>
+      <lex lang="en_bt" lid="Id3">Douglas R Oberhelman is a key person in Caterpillar Inc. which was founded in the US and is located in Illinois. AIDALuna works with Caterpillar Inc.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id28" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Delta_II | sites | Vandenberg_AFB_Space_Launch_Complex_2</otriple>
+        <otriple>Delta_II | launchSite | Cape_Canaveral_Air_Force_Station</otriple>
+        <otriple>Antares_(rocket) | comparable | Delta_II</otriple>
+        <otriple>Delta_II | countryOrigin | United_States</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Delta_II | launchSite | Vandenberg_AFB_Space_Launch_Complex_2</mtriple>
+        <mtriple>Delta_II | launchSite | Cape_Canaveral_Air_Force_Station</mtriple>
+        <mtriple>Antares_(rocket) | comparable | Delta_II</mtriple>
+        <mtriple>Delta_II | countryOrigin | United_States</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Delta_II | LugarDeLanzamiento | Complejo_de_Lanzamiento_Espacial_2_de_la_Base_Aérea_de_Vandenberg</striple>
+        <striple>Delta_II | LugarDeLanzamiento | Estación_de_las_Fuerzas_Aéreas_de_Cabo_Cañaveral</striple>
+        <striple>Antares_(cohete) | Comparable | Delta_II</striple>
+        <striple>Delta_II | PaísDeOrigen | Estados_Unidos</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Delta_II | launchSite | Vandenberg_AFB_Space_Launch_Complex_2</bttriple>
+        <bttriple>Delta_II | launchSite | Cape_Canaveral_Air_Force_Station</bttriple>
+        <bttriple>Antares_(rocket) | comparable | Delta_II</bttriple>
+        <bttriple>Delta_II | countryOrigin | United_States</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Delta_II | LlocDeLlançament | Vandenberg_AFB_Space_Launch_Complex_2</ctriple>
+        <ctriple>Delta_II | LlocDeLlançament | Estació_de_la_Força_Aèria_de_Cape_Canaveral</ctriple>
+        <ctriple>Antares_(coet) | Comparable | Delta_II</ctriple>
+        <ctriple>Delta_II | PaísOrigen | Estats_Units_d'Amèrica</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The launch site of the Delta II was at the Vandenberg AFB Space Launch Complex 2, based at Cape Canaveral Air Force Station. The Antares rocket is comparable to Delta 11 which originated in the US&gt;.</lex>
+      <lex lang="en" lid="Id2">Launched at Cape Canaveral Air Force Station and the Vandenberg AFB Space Launch Complex 2 was the Delta II US rocket. The Antares rocket is similar to the Delta.</lex>
+      <lex lang="en" lid="Id3">The Delta II, from the United States, was launched at Cape Canaveral Air Force Station, Vandenberg AFB Space Launch Complex 2. It is similar to the Antares rocket.</lex>
+      <lex lang="es" lid="Id1">El lugar de lanzamiento del Delta II fue el Complejo de Lanzamiento Espacial 2 de Vandenberg AFB, con base en la Estación de la Fuerza Aérea de Cabo Cañaveral. El cohete Antares es comparable al Delta 11 originario de EE.UU.&gt;.</lex>
+      <lex lang="es" lid="Id2">El cohete estadounidense Delta II se lanzó en la Estación de la Fuerza Aérea de Cabo Cañaveral y en el Complejo de Lanzamiento Espacial 2 de la Base Aérea de Vandenberg. El cohete Antares es similar al Delta.</lex>
+      <lex lang="es" lid="Id3">El Delta II, de Estados Unidos, fue lanzado en la Estación de la Fuerza Aérea de Cabo Cañaveral, en el Complejo de Lanzamiento Espacial 2 de Vandenberg AFB. Es similar al cohete Antares.</lex>
+      <lex lang="ca" lid="Id1">El lloc de llançament del Delta II era al Vandenberg AFB Space Launch Complex 2, basat a l' Estació de la Força Aèria de Cap Canaveral. El coet Antares és comparable al Delta 11 que es va originar als EUA.</lex>
+      <lex lang="ca" lid="Id2">El coet americà Delta II es va llançar des de l'estació de la Força Aèria de Cap Canaveral i el Complex de Llançament Espacial 2 de Vandenberg AFB. El coet Antares és similar al Delta.</lex>
+      <lex lang="ca" lid="Id3">El Delta II, dels Estats Units, va ser llançat des de l' Estació de la Força Aèria de Cap Canaveral, Vandenberg AFB Space Launch Complex 2. És similar al coet Antares.</lex>
+      <lex lang="en_bt" lid="Id1">The Delta II launch site was at Vandenberg AFB Space Launch Complex 2, based at Cape Canaveral Air Force Station. The Antares rocket is comparable to the Delta 11 that originated in the USA.</lex>
+      <lex lang="en_bt" lid="Id2">The American Delta II rocket was launched from the Cape Canaveral Air Force Station and Vandenberg AFB Space Launch Complex 2. The Antares rocket is similar to the Delta.</lex>
+      <lex lang="en_bt" lid="Id3">The United States Delta II was launched from Cape Canaveral Air Force Station, Vandenberg AFB Space Launch Complex 2. It is similar to the Antares rocket.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id29" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>General_Dynamics_Electric_Boat | parentCompany | General_Dynamics</otriple>
+        <otriple>American_submarine_NR-1 | shipBeam | "*\n* at stern stabilizers."@en</otriple>
+        <otriple>American_submarine_NR-1 | shipBuilder | General_Dynamics_Electric_Boat</otriple>
+        <otriple>General_Dynamics_Electric_Boat | locationCity | Groton,_Connecticut</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>General_Dynamics_Electric_Boat | parentCompany | General_Dynamics</otriple>
+        <otriple>American_submarine_NR-1 | shipBeam | "3.8"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipBuilder | General_Dynamics_Electric_Boat</otriple>
+        <otriple>General_Dynamics_Electric_Boat | locationCity | Groton,_Connecticut</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>General_Dynamics_Electric_Boat | parentCompany | General_Dynamics</otriple>
+        <otriple>American_submarine_NR-1 | shipBeam | "4.8"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipBuilder | General_Dynamics_Electric_Boat</otriple>
+        <otriple>General_Dynamics_Electric_Boat | locationCity | Groton,_Connecticut</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipBeam | "4.8"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipBuilder | General_Dynamics_Electric_Boat</otriple>
+        <otriple>General_Dynamics_Electric_Boat | parent | General_Dynamics</otriple>
+        <otriple>General_Dynamics_Electric_Boat | locationCity | Groton,_Connecticut</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipBeam | "*\n* at stern stabilizers."@en</otriple>
+        <otriple>American_submarine_NR-1 | shipBuilder | General_Dynamics_Electric_Boat</otriple>
+        <otriple>General_Dynamics_Electric_Boat | parent | General_Dynamics</otriple>
+        <otriple>General_Dynamics_Electric_Boat | locationCity | Groton,_Connecticut</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipBeam | "3.8"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipBuilder | General_Dynamics_Electric_Boat</otriple>
+        <otriple>General_Dynamics_Electric_Boat | parent | General_Dynamics</otriple>
+        <otriple>General_Dynamics_Electric_Boat | locationCity | Groton,_Connecticut</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>General_Dynamics_Electric_Boat | parentCompany | General_Dynamics</mtriple>
+        <mtriple>American_submarine_NR-1 | shipBeam | 3.8 m</mtriple>
+        <mtriple>American_submarine_NR-1 | builder | General_Dynamics_Electric_Boat</mtriple>
+        <mtriple>General_Dynamics_Electric_Boat | city | Groton,_Connecticut</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>General_Dynamics_Electric_Boat | EmpresaMatriz | General_Dynamics</striple>
+        <striple>Submarino_NR-1 | VigaDelBuque | 3.8_m</striple>
+        <striple>Submarino_NR-1 | Constructor | General_Dynamics_Electric_Boat</striple>
+        <striple>General_Dynamics_Electric_Boat | Ciudad | Groton,_Connecticut</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>General_Dynamics_Electric_Boat | parentCompany | General_Dynamics</bttriple>
+        <bttriple>American_submarine_NR-1 | shipBeam | 3.8 m</bttriple>
+        <bttriple>American_submarine_NR-1 | builder | General_Dynamics_Electric_Boat</bttriple>
+        <bttriple>General_Dynamics_Electric_Boat | city | Groton,_Connecticut</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>General_Dynamics_Barca_elèctrica | EmpresaMatriu | General_Dynamics</ctriple>
+        <ctriple>Submarí_americà_NR-1 | BeamDeVaixell | 3,8_m</ctriple>
+        <ctriple>Submarí_americà_NR-1 | Constructor | General_Dynamics_Barca_elèctrica</ctriple>
+        <ctriple>General_Dynamics_Barca_elèctrica | Ciutat | Groton,_Connecticut</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The American Submarine NR-1 has a ship beam of 3.8 m and was built by General Dynamics Electric Boat. General Dynamics is the parent company of the General Dynamics Electric Boat Co which is located in the city of Groton, Connecticut.</lex>
+      <lex lang="en" lid="Id2">General Dynamics is the parent company of the General Dynamics Electric Boat Co. out of Groton, CT. The GD Electric Boat Co built the American sub called NR-1 which has a 3.8 m beam.</lex>
+      <lex lang="en" lid="Id3">General Dynamics is the parent company of General Dynamics Electric Boat who are located in the city of Groton, Connecticut and built the American submarine NR-1 with a ship beam of 3.8 m.</lex>
+      <lex lang="es" lid="Id1">El submarino estadounidense NR-1 tiene una manga de 3,8 m y fue construido por General Dynamics Electric Boat. General Dynamics es la empresa matriz de la General Dynamics Electric Boat Co que se encuentra en la ciudad de Groton, Connecticut.</lex>
+      <lex lang="es" lid="Id2">General Dynamics es la empresa matriz de la General Dynamics Electric Boat Co. de Groton, CT. GD Electric Boat Co construyó el submarino estadounidense NR-1, de 3,8 m de manga.</lex>
+      <lex lang="es" lid="Id3">General Dynamics es la empresa matriz de General Dynamics Electric Boat, que tiene su sede en la ciudad de Groton, Connecticut, y construyó el submarino estadounidense NR-1, con una manga de 3,8 m.</lex>
+      <lex lang="ca" lid="Id1">El submarí americà NR-1 té una amplada de 3,8 m i va ser construït per General Dynamics Electric Boat. General Dynamics és l'empresa matriu de General Dynamics Electric Boat Co, que es troba a la ciutat de Groton, Connecticut.</lex>
+      <lex lang="ca" lid="Id2">General Dynamics és la companyia matriu de la General Dynamics Electric Boat Co. de Groton, CT. La GD Electric Boat Co. va construir el submarí nord-americà anomenat NR-1 que té una traça de 3,8 m.</lex>
+      <lex lang="ca" lid="Id3">General Dynamics és l'empresa mare de General Dynamics Electric Boat que es troba a la ciutat de Groton, Connecticut i va construir el submarí americà NR-1 amb un vaixell de 3,8 m.</lex>
+      <lex lang="en_bt" lid="Id1">The American submarine NR-1 has a width of 3.8 m and was built by General Dynamics Electric Boat. General Dynamics is the parent company of General Dynamics Electric Boat Co, which is located in the city of Groton, Connecticut.</lex>
+      <lex lang="en_bt" lid="Id2">General Dynamics is the parent company of General Dynamics Electric Boat Co. of Groton, CT. The GD Electric Boat Co. built the American submarine called the NR-1 which has a 12-foot (3.8 m) wake.</lex>
+      <lex lang="en_bt" lid="Id3">General Dynamics is the parent company of General Dynamics Electric Boat which is located in the city of Groton, Connecticut and built the American submarine NR-1 with a 3.8 m vessel.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id30" shape="(X (X (X (X (X)))))" shape_type="chain" size="4">
+      <originaltripleset>
+        <otriple>Germany | leaderName | Andreas_Voßkuhle</otriple>
+        <otriple>Neptun_Werft | locationCity | Rostock</otriple>
+        <otriple>Rostock | country | Germany</otriple>
+        <otriple>A-Rosa_Luna | builder | Neptun_Werft</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Germany | leader | Andreas_Voßkuhle</otriple>
+        <otriple>Neptun_Werft | locationCity | Rostock</otriple>
+        <otriple>Rostock | country | Germany</otriple>
+        <otriple>A-Rosa_Luna | builder | Neptun_Werft</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Germany | leader | Andreas_Voßkuhle</mtriple>
+        <mtriple>Neptun_Werft | city | Rostock</mtriple>
+        <mtriple>Rostock | country | Germany</mtriple>
+        <mtriple>A-Rosa_Luna | builder | Neptun_Werft</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alemania | Líder | Andreas_Voßkuhle</striple>
+        <striple>Neptun_Werft | Ciudad | Rostock</striple>
+        <striple>Rostock | País | Alemania</striple>
+        <striple>A-Rosa_Luna | Constructor | Neptun_Werft</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Germany | leader | Andreas_Voßkuhle</bttriple>
+        <bttriple>Neptun_Werft | city | Rostock</bttriple>
+        <bttriple>Rostock | country | Germany</bttriple>
+        <bttriple>A-Rosa_Luna | builder | Neptun_Werft</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Alemanya | Líder | Andreas_Voßkuhle</ctriple>
+        <ctriple>Neptun_Werft | Ciutat | Rostock</ctriple>
+        <ctriple>Rostock | País | Alemanya</ctriple>
+        <ctriple>A-Rosa_Luna | Constructor | Neptun_Werft</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Neptun Werft built the A-Rosa Luna and is located in Rostock in Germany. Andreas Voßkuhle is a leader of Germany.</lex>
+      <lex lang="en" lid="Id2">A-Rosa Luna was built by Neptun Werft, the headquarters of which, are in Rostock, Germany, where the leader is, Andreas Vosskuhle.</lex>
+      <lex lang="en" lid="Id3">The builder of the A-Rosa Luna is Neptun Werft, who are located in Rostock, Germany. Andreas Vosskuhle is a leader in Germany.</lex>
+      <lex lang="es" lid="Id1">Neptun Werft construyó el A-Rosa Luna y tiene su sede en Rostock (Alemania). Andreas Voßkuhle es dirigente de Alemania.</lex>
+      <lex lang="es" lid="Id2">El A-Rosa Luna fue construido por Neptun Werft, cuya sede central se encuentra en Rostock (Alemania) y cuyo jefe es Andreas Vosskuhle.</lex>
+      <lex lang="es" lid="Id3">El constructor del A-Rosa Luna es Neptun Werft, con sede en Rostock (Alemania). Andreas Vosskuhle es líder en Alemania.</lex>
+      <lex lang="ca" lid="Id1">Neptun Werft ha construït l' A- Rosa Luna i es troba a Rostock, Alemanya. Andreas Voßkuhle és el líder d' Alemanya.</lex>
+      <lex lang="ca" lid="Id2">A-Rosa Luna va ser construït per Neptun Werft, amb seu a Rostock, Alemanya, on el líder és Andreas Vosskuhle.</lex>
+      <lex lang="ca" lid="Id3">El constructor de l'A-Rosa Luna és Neptun Werft, que es troba a Rostock, Alemanya. Andreas Vosskuhle és un líder a Alemanya.</lex>
+      <lex lang="en_bt" lid="Id1">Neptun Werft built the A-Rosa Luna and is located in Rostock, Germany. Andreas Voßkuhle is the German leader.</lex>
+      <lex lang="en_bt" lid="Id2">A-Rosa Luna was built by Neptun Werft, based in Rostock, Germany, where the leader is Andreas Vosskuhle.</lex>
+      <lex lang="en_bt" lid="Id3">The builder of the A-Rosa Luna is Neptun Werft, located in Rostock, Germany. Andreas Vosskuhle is a leader in Germany.</lex>
+      </entry>
+    <entry category="MeanOfTransportation" eid="Id31" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | White_Americans</otriple>
+        <otriple>ALV_X-1 | countryOrigin | United_States</otriple>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>United_States | anthem | The_Star-Spangled_Banner</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | White_Americans</mtriple>
+        <mtriple>ALV_X-1 | countryOrigin | United_States</mtriple>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>United_States | anthem | The_Star-Spangled_Banner</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Estados_Unidos | GrupoÉtnico | blanco_estadounidense</striple>
+        <striple>ALV_X-1 | PaísDeOrigen | Estados_Unidos</striple>
+        <striple>Estados_Unidos | Capital | Washington_D._C.</striple>
+        <striple>Estados_Unidos | Himno | The_Star-Spangled_Banner</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>United_States | ethnicGroup | White_Americans</bttriple>
+        <bttriple>ALV_X-1 | countryOrigin | United_States</bttriple>
+        <bttriple>United_States | capital | Washington,_D.C.</bttriple>
+        <bttriple>United_States | anthem | The_Star-Spangled_Banner</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Estats_Units_d'Amèrica | GrupÈtnic | blancs_estatunidencs</ctriple>
+        <ctriple>ALV_X-1 | PaísOrigen | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | Capital | Washington_DC</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | Himne | The_Star-Spangled_Banner</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The ALV X-1 came from United States. The capital city of the country is Washington D.C. and its national anthem is the Star Spangled Banner. White Americans are an ethnic group in the U.S.</lex>
+      <lex lang="en" lid="Id2">The United States, which is where the ALV X-1 originated, has the capital city of Washington DC. The country's national anthem is the Star Spangled Banner and there is an ethnic group of White Americans.</lex>
+      <lex lang="es" lid="Id1">El ALV X-1 procede de Estados Unidos. La capital del país es Washington D.C. y su himno nacional es el Star Spangled Banner. Los estadounidenses blancos son un grupo étnico de Estados Unidos.</lex>
+      <lex lang="es" lid="Id2">Estados Unidos, país de origen del ALV X-1, tiene como capital Washington DC. El himno nacional del país es el Star Spangled Banner y existe un grupo étnico de estadounidenses blancos.</lex>
+      <lex lang="ca" lid="Id1">L' ALV X- 1 ve dels Estats Units. La capital del país és Washington D. C. i el seu himne nacional és Star Spangled Banner. Els americans blancs són un grup ètnic dels Estats Units.</lex>
+      <lex lang="ca" lid="Id2">Els Estats Units, on es va originar l'ALV X-1, tenen la capital a Washington DC. L'himne nacional del país és la Star Spangled Banner i hi ha un grup ètnic d'americans blancs.</lex>
+      <lex lang="en_bt" lid="Id1">The ALV X-1 comes from the United States. The country's capital is Washington D. C. and its national anthem is the Star Spangled Banner. White Americans are an ethnic group in the United States.</lex>
+      <lex lang="en_bt" lid="Id2">The United States, where the X-1 ALV originated, has its capital in Washington, D.C. The national anthem of the country is the Star Spangled Banner and there is an ethnic group of white Americans.</lex>
+      </entry>
+    </entries>
+  </benchmark>

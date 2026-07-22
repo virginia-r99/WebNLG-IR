@@ -1,0 +1,505 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+	<entries>
+		<entry category="MeanOfTransportation" eid="Id1" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>1955_Dodge | aka | "Dodge Coronet"@en</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>1955_Dodge | alternativeName | "Dodge Coronet"</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>1955_Dodge | NombreAlternativo | Dodge_Coronet</striple></spanishtripleset><lex lang="en" lid="Id1">Dodge Coronet is the alternative name for the 1955 Dodge.</lex>
+			<lex lang="en" lid="Id2">The 1955 Dodge is also named the Dodge Coronet.</lex>
+			<lex lang="es" lid="Id1">Dodge Coronet es el nombre alternativo del Dodge de 1955.</lex>
+			<lex lang="es" lid="Id2">El Dodge de 1955 también recibe el nombre de Dodge Coronet.</lex>
+		</entry>
+		<entry category="MeanOfTransportation" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>1955_Dodge | engine | 230</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>1955_Dodge | engine | 230 (cubic inches)</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>1955_Dodge | Motor | 230_(pulgadas_cúbicas)</striple></spanishtripleset><lex lang="en" lid="Id1">The 1955 Dodge engine is 230 cubic inches.</lex>
+			<lex lang="en" lid="Id2">The size of the engine in the 1955 Dodge is 230 cubic inches.</lex>
+			<lex lang="en" lid="Id3">The 1955 Dodge has an engine size of 230 cubic inches.</lex>
+			<lex lang="es" lid="Id1">El motor Dodge de 1955 es de 230 pulgadas cúbicas.</lex>
+			<lex lang="es" lid="Id2">El tamaño del motor del Dodge de 1955 es de 230 pulgadas cúbicas.</lex>
+			<lex lang="es" lid="Id3">El Dodge de 1955 tiene un motor de 230 pulgadas cúbicas.</lex>
+		</entry>
+		<entry category="MeanOfTransportation" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>AIDA_Cruises | location | Rostock</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>AIDA_Cruises | location | Rostock</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>AIDA_Cruises | Ubicación | Rostock</striple></spanishtripleset><lex lang="en" lid="Id1">The location of AIDA Cruises is Rostock.</lex>
+			<lex lang="en" lid="Id2">AIDA Cruises are located at Rostock.</lex>
+			<lex lang="en" lid="Id3">AIDA Cruises is based in Rostock.</lex>
+			<lex lang="es" lid="Id1">La ubicación de AIDA Cruises es Rostock.</lex>
+			<lex lang="es" lid="Id2">AIDA Cruises se encuentra en Rostock.</lex>
+			<lex lang="es" lid="Id3">AIDA Cruises tiene su sede en Rostock.</lex>
+		</entry>
+		<entry category="MeanOfTransportation" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>AIDAluna | activeYearsStartDate | "2009-03-22"^^xsd:date</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>AIDAluna | activeYearsStartDate | 2009-03-22</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>AIDAluna | AñosActivosFechaDeInicio | 22-03-2009</striple></spanishtripleset><lex lang="en" lid="Id1">AIDAluna service was started on the 22nd of March, 2009.</lex>
+			<lex lang="es" lid="Id1">El servicio AIDAluna se puso en marcha el 22-03-2009.</lex>
+		</entry>
+		<entry category="MeanOfTransportation" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>AIDAluna | shipClass | "Sphinx class cruise ship"@en</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>AIDAluna | shipClass | "Sphinx class cruise ship"</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>AIDAluna | ClaseDeBuque | Crucero_clase_Sphinx</striple></spanishtripleset><lex lang="en" lid="Id1">The AIDAluna is a Sphinx class cruise ship.</lex>
+			<lex lang="es" lid="Id1">El AIDAluna es un crucero de la clase Sphinx.</lex>
+		</entry>
+		<entry category="MeanOfTransportation" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>AIDAstella | shipBuilder | Meyer_Werft</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>AIDAstella | builder | Meyer_Werft</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>AIDAstella | builder | Meyer_Werft</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>AIDAstella | Constructor | Meyer_Werft</striple></spanishtripleset><lex lang="en" lid="Id1">The AIDAstella was built by Meyer Werft.</lex>
+			<lex lang="en" lid="Id2">AIDAstella was built by Meyer Werft.</lex>
+			<lex lang="es" lid="Id1">El AIDAstella fue construido por Meyer Werft.</lex>
+			<lex lang="es" lid="Id2">AIDAstella fue construido por Meyer Werft.</lex>
+		</entry>
+		<entry category="MeanOfTransportation" eid="Id7" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>AIDAstella | shipChristened | "--03-16"^^xsd:gMonthDay</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>AIDAstella | christeningDate | "2013-03-16"^^xsd:date</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>AIDAstella | christeningDate | 2013-03-16</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>AIDAstella | FechaDeBautizo | 16-03-2013</striple></spanishtripleset><lex lang="en" lid="Id1">The AIDAstella was christened on the 16th of March, 2013.</lex>
+			<lex lang="en" lid="Id2">The AIDAstella was christened in March 16 2013.</lex>
+			<lex lang="en" lid="Id3">The christening date of AIDAstella is 2013-03-16.</lex>
+			<lex lang="es" lid="Id1">El AIDAstella fue bautizado el 16-03-2013.</lex>
+			<lex lang="es" lid="Id2">AIDAstella fue bautizado el 16-03-2013.</lex>
+			<lex lang="es" lid="Id3">La fecha de bautizo de AIDAstella es 16-03-2013.</lex>
+		</entry>
+		<entry category="MeanOfTransportation" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>AIDAstella | shipInService | "2013-03-17"^^xsd:date</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>AIDAstella | shipInService | 2013-03-17</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>AIDAstella | BuqueEnServicio | 17-03-2013</striple></spanishtripleset><lex lang="en" lid="Id1">The AIDAstella ship was put in service on March 17, 2013.</lex>
+			<lex lang="es" lid="Id1">El buque AIDAstella entró en servicio el 17-03-2013.</lex>
+		</entry>
+		<entry category="MeanOfTransportation" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>ALCO_RS-3 | enginetype | Four-stroke_engine</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>ALCO_RS-3 | engine | Four-stroke_engine</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>ALCO_RS-3 | Motor | Ciclo_de_cuatro_tiempos</striple></spanishtripleset><lex lang="en" lid="Id1">The ALCO RS-3 has a four-stroke engine.</lex>
+			<lex lang="es" lid="Id1">El ALCO RS-3 tiene un motor de cuatro tiempos.</lex>
+		</entry>
+		<entry category="MeanOfTransportation" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>ALV_X-1 | manufacturer | Alliant_Techsystems</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>ALV_X-1 | manufacturer | Alliant_Techsystems</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>ALV_X-1 | Fabricante | Alliant_Techsystems</striple></spanishtripleset><lex lang="en" lid="Id1">The ALV X-1 was manufactured by Alliant Techsystems.</lex>
+			<lex lang="en" lid="Id2">Alliant Techsystems makes the ALV X-1.</lex>
+			<lex lang="en" lid="Id3">Alliant Techsystems is the manufacturer of the ALV X-1.</lex>
+			<lex lang="es" lid="Id1">El ALV X-1 fue fabricado por Alliant Techsystems.</lex>
+			<lex lang="es" lid="Id2">Alliant Techsystems fabrica el ALV X-1.</lex>
+			<lex lang="es" lid="Id3">Alliant Techsystems es el fabricante del ALV X-1.</lex>
+		</entry>
+		<entry category="MeanOfTransportation" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>AMC_Matador | related | AMC_Ambassador</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>AMC_Matador | relatedMeanOfTransportation | AMC_Ambassador</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>AMC_Matador | MediosDeTransporteRelacionados | AMC_Ambassador</striple></spanishtripleset><lex lang="en" lid="Id1">The AMC Matador is related to the AMC Ambassador.</lex>
+			<lex lang="en" lid="Id2">The AMC Matador and the AMC Ambassador are relative means of transportation.</lex>
+			<lex lang="es" lid="Id1">El AMC Matador está relacionado con el AMC Ambassador.</lex>
+			<lex lang="es" lid="Id2">El AMC Matador y el AMC Ambassador son medios de transporte relativos.</lex>
+		</entry>
+		<entry category="MeanOfTransportation" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Abarth_1000_GT_Coupé | productionEndYear | "1958"^^xsd:gYear</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Abarth_1000_GT_Coupé | productionEndYear | 1958</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Abarth_1000_GT_Coupé | ProducciónFinDeAño | 1958</striple></spanishtripleset><lex lang="en" lid="Id1">The Abarth 1000 GT Coupé's final year of production was 1958.</lex>
+			<lex lang="en" lid="Id2">The last Abarth 1000 GT Coupé rolled off the production line in 1958.</lex>
+			<lex lang="es" lid="Id1">El último año de producción del Abarth 1000 GT Coupé fue 1958.</lex>
+			<lex lang="es" lid="Id2">El último Abarth 1000 GT Coupé salió de la cadena de producción en 1958.</lex>
+		</entry>
+		<entry category="MeanOfTransportation" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Acura_TLX | engine | "3.5"^^xsd:double</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Acura_TLX | engine | 3.5 (litres)</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Acura_TLX | Motor | 3,5_(litros)</striple></spanishtripleset><lex lang="en" lid="Id1">The engine size of the Acura TLX is 3.5 litres.</lex>
+			<lex lang="en" lid="Id2">The Acura TLX has a 3.5 litre engine.</lex>
+			<lex lang="es" lid="Id1">La cilindrada del Acura TLX es de 3,5 litros.</lex>
+			<lex lang="es" lid="Id2">El Acura TLX tiene un motor de 3,5 litros.</lex>
+		</entry>
+		<entry category="MeanOfTransportation" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Acura_TLX | engine | Honda_K_engine</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Acura_TLX | engine | Honda_K_engine</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Acura_TLX | Motor | Motor_Honda_K</striple></spanishtripleset><lex lang="en" lid="Id1">The Acura TLX has a Honda K engine.</lex>
+			<lex lang="es" lid="Id1">El Acura TLX tiene un motor Honda K.</lex>
+		</entry>
+		<entry category="MeanOfTransportation" eid="Id15" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Acura_TLX | transmission | "9-speedZF9HPautomatic(V6)"</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Acura_TLX | transmission | "9-speed ZF 9HP automatic (V6)"</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Acura_TLX | Transmisión | Automático_ZF_9HP_de_9_velocidades_(V6)</striple></spanishtripleset><lex lang="en" lid="Id1">The transmission of the Acura TLX is a 9-speed ZF 9HP automatic (V6).</lex>
+			<lex lang="en" lid="Id2">The Acura TLX has a 9-speed ZF 9HP automatic (V6) transmission.</lex>
+			<lex lang="es" lid="Id1">La transmisión del Acura TLX es automática ZF 9HP de 9 velocidades (V6).</lex>
+			<lex lang="es" lid="Id2">El Acura TLX tiene una transmisión automática ZF 9HP de 9 velocidades (V6).</lex>
+		</entry>
+		<entry category="MeanOfTransportation" eid="Id16" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Alfa_Romeo_164 | class | Executive_car</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Alfa_Romeo_164 | class | Executive_car</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Alfa_Romeo_164 | Clase | automóvil_ejecutivo</striple></spanishtripleset><lex lang="en" lid="Id1">The Alfa Romeo 164 is an executive class car.</lex>
+			<lex lang="en" lid="Id2">The Alfa Romeo 164 is an executive car.</lex>
+			<lex lang="en" lid="Id3">The Alfa Romeo 164 is classified as an executive type car.</lex>
+			<lex lang="es" lid="Id1">El Alfa Romeo 164 es un coche de clase ejecutiva.</lex>
+			<lex lang="es" lid="Id2">El Alfa Romeo 164 es un coche ejecutivo.</lex>
+			<lex lang="es" lid="Id3">El Alfa Romeo 164 está clasificado como coche de tipo ejecutivo.</lex>
+		</entry>
+		<entry category="MeanOfTransportation" eid="Id17" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Fiat_Croma</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Alfa_Romeo_164 | related | Fiat_Croma</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Fiat_Croma</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Alfa_Romeo_164 | MediosDeTransporteRelacionados | Fiat_Croma</striple></spanishtripleset><lex lang="en" lid="Id1">The Alfa Romeo 164 and the Fiat Croma are similar means of transport.</lex>
+			<lex lang="en" lid="Id2">The Alfa Romeo 164 and the Fiat Croma are related means of transportation.</lex>
+			<lex lang="es" lid="Id1">El Alfa Romeo 164 y el Fiat Croma son medios de transporte similares.</lex>
+			<lex lang="es" lid="Id2">El Alfa Romeo 164 y el Fiat Croma son medios de transporte relacionados.</lex>
+		</entry>
+		<entry category="MeanOfTransportation" eid="Id18" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Alhambra_(1855) | shipMaidenVoyage | "1855-07-07"^^xsd:date</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Alhambra_(1855) | maidenVoyage | "1855-07-07"^^xsd:date</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Alhambra | maidenVoyage | 1855-07-07</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Alhambra | ViajeInaugural | 07-07-1855</striple></spanishtripleset><lex lang="en" lid="Id1">The Alhambra had its maiden voyage on the 7th of July 1855.</lex>
+			<lex lang="en" lid="Id2">The Alhambra made its maiden voyage on July 7th 1855.</lex>
+			<lex lang="en" lid="Id3">Alhambra ship's first journey took place on 07/07/1855.</lex>
+			<lex lang="en" lid="Id4">The Alhambra had its first trip on July 7, 1855.</lex>
+			<lex lang="en" lid="Id5">Alhambra has its maiden voyage on July 7th, 1855.</lex>
+			<lex lang="es" lid="Id1">El Alhambra tuvo su viaje inaugural el 07-07-1855.</lex>
+			<lex lang="es" lid="Id2">El Alhambra realizó su viaje inaugural el 07-07-1855.</lex>
+			<lex lang="es" lid="Id3">El primer viaje del buque Alhambra tuvo lugar el 07/07/1855.</lex>
+			<lex lang="es" lid="Id4">El Alhambra realizó su primer viaje el 07-07-1855.</lex>
+			<lex lang="es" lid="Id5">Alhambra realiza su viaje inaugural el 07-07-1855.</lex>
+		</entry>
+		<entry category="MeanOfTransportation" eid="Id19" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Alhambra_(1855) | shipBeam | "8.3 m"@en</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Alhambra | shipBeam | 8.3 m</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Alhambra | VigaDelBuque | 8.3_m</striple></spanishtripleset><lex lang="en" lid="Id1">The Alhambra ship beam is 8.3m.</lex>
+			<lex lang="en" lid="Id2">The Alhambra has a ship beam of 8.3m.</lex>
+			<lex lang="en" lid="Id3">The Alhambra has an 8.3m ship beam.</lex>
+			<lex lang="es" lid="Id1">La manga del buque Alhambra es de 8,3 m.</lex>
+			<lex lang="es" lid="Id2">El Alhambra tiene una manga de 8,3 m.</lex>
+			<lex lang="es" lid="Id3">El Alhambra tiene 8,3 m de manga.</lex>
+		</entry>
+		<entry category="MeanOfTransportation" eid="Id20" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Alhambra_(1855) | topSpeed | "18.52"^^xsd:double</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Alhambra | topSpeed | 18.52</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Alhambra | VelocidadMáxima | 18.52</striple></spanishtripleset><lex lang="en" lid="Id1">The Alhambra had a top speed of 18.52 km/h.</lex>
+			<lex lang="en" lid="Id2">The Alhambra has a top speed of 18.52.</lex>
+			<lex lang="en" lid="Id3">The top speed of the Alhambra is 18.52.</lex>
+			<lex lang="es" lid="Id1">El Alhambra alcanzaba una velocidad máxima de 18,52 km/h.</lex>
+			<lex lang="es" lid="Id2">El Alhambra tiene una velocidad máxima de 18,52.</lex>
+			<lex lang="es" lid="Id3">La velocidad máxima del Alhambra es de 18,52.</lex>
+		</entry>
+		<entry category="MeanOfTransportation" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Antares_(rocket) | finalFlight | "2014-10-28"^^xsd:date</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Antares_(rocket) | finalFlight | 2014-10-28</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Antares_(cohete) | VueloFinal | 28-10-2014</striple></spanishtripleset><lex lang="en" lid="Id1">The Antares rocket's final flight was on the 28th October 2014.</lex>
+			<lex lang="en" lid="Id2">The final flight of the Antares rocket was on 2014-10-28.</lex>
+			<lex lang="es" lid="Id1">El último vuelo del cohete Antares tuvo lugar el 28-10-2014.</lex>
+			<lex lang="es" lid="Id2">El último vuelo del cohete Antares tuvo lugar el 28-10-2014.</lex>
+		</entry>
+		<entry category="MeanOfTransportation" eid="Id22" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Ariane_5 | maidenFlight | "2005-08-11"^^xsd:date</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Ariane_5 | maidenFlight | 2005-08-11</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Ariane_5 | VueloInaugural | 11-08-2005</striple></spanishtripleset><lex lang="en" lid="Id1">The Ariane 5 had its first voyage August 11, 2005.</lex>
+			<lex lang="en" lid="Id2">Ariane 5 had its maiden flight on August 11th 2005.</lex>
+			<lex lang="es" lid="Id1">El Ariane 5 realizó su primer viaje el 11-08-2005.</lex>
+			<lex lang="es" lid="Id2">Ariane 5 realizó su vuelo inaugural el 11-08-2005.</lex>
+		</entry>
+		<entry category="MeanOfTransportation" eid="Id23" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Ariane_5 | manufacturer | Airbus_Defence_and_Space</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Ariane_5 | manufacturer | Airbus_Defence_and_Space</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Ariane_5 | Fabricante | Airbus_Defence_and_Space</striple></spanishtripleset><lex lang="en" lid="Id1">The Ariane 5 was manufactured by Airbus Defence and Space.</lex>
+			<lex lang="en" lid="Id2">The manufacturer of the Ariane 5 was The Airbus Defence and Space.</lex>
+			<lex lang="es" lid="Id1">El Ariane 5 fue fabricado por Airbus Defence and Space.</lex>
+			<lex lang="es" lid="Id2">El fabricante del Ariane 5 fue Airbus Defence and Space.</lex>
+		</entry>
+		<entry category="MeanOfTransportation" eid="Id24" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Atlas_II | countryOrigin | United_States</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Atlas_II | countryOrigin | United_States</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Atlas_II | PaísDeOrigen | Estados_Unidos</striple></spanishtripleset><lex lang="en" lid="Id1">The Atlas II originated from the U.S.</lex>
+			<lex lang="en" lid="Id2">Atlas II originates from the United States.</lex>
+			<lex lang="en" lid="Id3">The Atlas II is from the United States.</lex>
+			<lex lang="es" lid="Id1">El Atlas II procede de EE.UU.</lex>
+			<lex lang="es" lid="Id2">Atlas II procede de Estados Unidos.</lex>
+			<lex lang="es" lid="Id3">El Atlas II es de Estados Unidos.</lex>
+		</entry>
+		<entry category="MeanOfTransportation" eid="Id25" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Atlas_II | finalFlight | "1998-03-16"^^xsd:date</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Atlas_II | finalFlight | 1998-03-16</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Atlas_II | VueloFinal | 16-03-1998</striple></spanishtripleset><lex lang="en" lid="Id1">Atlas II had its final flight on March 16th 1998.</lex>
+			<lex lang="en" lid="Id2">The final flight of Atlas II was on 1998-03-16.</lex>
+			<lex lang="en" lid="Id3">The final flight of the Atlas II was on the 16th March 1998.</lex>
+			<lex lang="es" lid="Id1">Atlas II realizó su último vuelo el 16-03-1998.</lex>
+			<lex lang="es" lid="Id2">El último vuelo de Atlas II tuvo lugar el 16-03-1998.</lex>
+			<lex lang="es" lid="Id3">El último vuelo del Atlas II tuvo lugar el 16-03-1998.</lex>
+		</entry>
+		<entry category="MeanOfTransportation" eid="Id26" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Audi | division | Audi_e-tron</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Audi | division | Audi_e-tron</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Audi | División | Audi_e-tron</striple></spanishtripleset><lex lang="en" lid="Id1">Audi e-tron is a division of Audi.</lex>
+			<lex lang="es" lid="Id1">Audi e-tron es una división de Audi.</lex>
+		</entry>
+		<entry category="MeanOfTransportation" eid="Id27" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Audi_A1 | assembly | Audi_Brussels</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Audi_A1 | assembly | Audi_Brussels</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Audi_A1 | Montaje | Audi_Bruselas</striple></spanishtripleset><lex lang="en" lid="Id1">The Audi A1 is assembled by Audi Brussels.</lex>
+			<lex lang="en" lid="Id2">The Audi A1 is assembled at Audi Brussels.</lex>
+			<lex lang="es" lid="Id1">El Audi A1 es ensamblado por Audi Bruselas.</lex>
+			<lex lang="es" lid="Id2">El Audi A1 se ensambla en Audi Bruselas.</lex>
+		</entry>
+		<entry category="MeanOfTransportation" eid="Id28" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Caterpillar_Inc. | foundation | California</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Caterpillar_Inc. | foundationPlace | California</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Caterpillar_Inc. | foundationPlace | California</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Caterpillar_Inc. | LugarDeCimentación | California</striple></spanishtripleset><lex lang="en" lid="Id1">Caterpillar Inc was founded in California.</lex>
+			<lex lang="en" lid="Id2">The foundation place of Caterpillar Inc. was California.</lex>
+			<lex lang="en" lid="Id3">The company, Caterpillar, Inc. was founded in California.</lex>
+			<lex lang="es" lid="Id1">Caterpillar Inc se fundó en California.</lex>
+			<lex lang="es" lid="Id2">El lugar de fundación de Caterpillar Inc. fue California.</lex>
+			<lex lang="es" lid="Id3">La empresa Caterpillar, Inc. se fundó en California.</lex>
+		</entry>
+		<entry category="MeanOfTransportation" eid="Id29" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Caterpillar_Inc. | keyPerson | Douglas_R._Oberhelman</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Caterpillar_Inc. | keyPerson | Douglas_R._Oberhelman</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Caterpillar_Inc. | PersonaClave | Douglas_R._Oberhelman</striple></spanishtripleset><lex lang="en" lid="Id1">The key person of Caterpillar Inc. is Douglas R. Oberhelman.</lex>
+			<lex lang="en" lid="Id2">Douglas R. Oberhelman is a key person at Caterpillar Inc.</lex>
+			<lex lang="en" lid="Id3">Douglas R Oberhelman is a key person at Caterpillar Inc.</lex>
+			<lex lang="es" lid="Id1">La persona clave de Caterpillar Inc. es Douglas R. Oberhelman.</lex>
+			<lex lang="es" lid="Id2">Douglas R. Oberhelman es una persona clave en Caterpillar Inc.</lex>
+			<lex lang="es" lid="Id3">Douglas R Oberhelman es una persona clave en Caterpillar Inc.</lex>
+		</entry>
+		<entry category="MeanOfTransportation" eid="Id30" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Caterpillar_Inc. | location | Peoria,_Illinois</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Caterpillar_Inc. | location | Peoria,_Illinois</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Caterpillar_Inc. | Ubicación | Peoria,_Illinois</striple></spanishtripleset><lex lang="en" lid="Id1">Caterpillar Inc. is located in Peoria, Illinois.</lex>
+			<lex lang="en" lid="Id2">Caterpillar Inc. is in Peoria, Illinois.</lex>
+			<lex lang="es" lid="Id1">Caterpillar Inc. tiene su sede en Peoria, Illinois.</lex>
+			<lex lang="es" lid="Id2">Caterpillar Inc. está en Peoria, Illinois.</lex>
+		</entry>
+		<entry category="MeanOfTransportation" eid="Id31" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Delta_II | sites | Cape_Canaveral_Air_Force_Station</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Delta_II | launchSite | Cape_Canaveral_Air_Force_Station</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Delta_II | launchSite | Cape_Canaveral_Air_Force_Station</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Delta_II | LugarDeLanzamiento | Estación_de_las_Fuerzas_Aéreas_de_Cabo_Cañaveral</striple></spanishtripleset><lex lang="en" lid="Id1">The Delta II was launched at the Cape Canaveral Air Force Station.</lex>
+			<lex lang="en" lid="Id2">The Delta II was launched at Cape Canaveral Air Force Station.</lex>
+			<lex lang="es" lid="Id1">El Delta II fue lanzado en la Estación de la Fuerza Aérea de Cabo Cañaveral.</lex>
+			<lex lang="es" lid="Id2">Delta II fue lanzado en la Estación de la Fuerza Aérea de Cabo Cañaveral.</lex>
+		</entry>
+		<entry category="MeanOfTransportation" eid="Id32" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Finland | language | Sami_languages</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Finland | language | Sami_languages</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Finlandia | Idioma | Lenguas_sami</striple></spanishtripleset><lex lang="en" lid="Id1">One of the languages in Finland is Sami.</lex>
+			<lex lang="en" lid="Id2">Sami languages are spoken in Finland.</lex>
+			<lex lang="es" lid="Id1">Una de las lenguas de Finlandia es el sami.</lex>
+			<lex lang="es" lid="Id2">En Finlandia se hablan lenguas sami.</lex>
+		</entry>
+		<entry category="MeanOfTransportation" eid="Id33" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Germany | leader | Stanislaw_Tillich</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Germany | leader | Stanislaw_Tillich</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Alemania | Líder | Stanislaw_Tillich</striple></spanishtripleset><lex lang="en" lid="Id1">The leader of Germany is Stanislaw Tillich.</lex>
+			<lex lang="en" lid="Id2">Stanislaw Tillich is a leader of Germany.</lex>
+			<lex lang="es" lid="Id1">El líder de Alemania es Stanislaw Tillich.</lex>
+			<lex lang="es" lid="Id2">Stanislaw Tillich es un líder de Alemania.</lex>
+		</entry>
+		<entry category="MeanOfTransportation" eid="Id34" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Guiana_Space_Centre | headquarters | Kourou,_French_Guiana</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Guiana_Space_Centre | headquarter | Kourou,_French_Guiana</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Guiana_Space_Centre | headquarter | Kourou,_French_Guiana</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Puerto_espacial_de_Kourou | SedeCentral | Kourou,_Guayana_Francesa</striple></spanishtripleset><lex lang="en" lid="Id1">The Guiana Space Centre has its headquarters at Kourou in French Guiana.</lex>
+			<lex lang="en" lid="Id2">The Guiana Space Centre's headquarters are located in Kourou, French Guiana.</lex>
+			<lex lang="en" lid="Id3">The headquarters of the Guiana Space Centre is in Kourou, French Guiana.</lex>
+			<lex lang="es" lid="Id1">El Centro Espacial Guayanés tiene su sede en Kourou, en la Guayana Francesa.</lex>
+			<lex lang="es" lid="Id2">La sede del Centro Espacial Guayanés se encuentra en Kourou (Guayana Francesa).</lex>
+			<lex lang="es" lid="Id3">La sede del Centro Espacial Guayanés se encuentra en Kourou, Guayana Francesa.</lex>
+		</entry>
+		<entry category="MeanOfTransportation" eid="Id35" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Honda | division | Acura</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Honda | division | Acura</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Honda | División | Acura</striple></spanishtripleset><lex lang="en" lid="Id1">Acura is a division of the Honda Co.</lex>
+			<lex lang="en" lid="Id2">Acura is a division of Honda.</lex>
+			<lex lang="es" lid="Id1">Acura es una división de Honda Co.</lex>
+			<lex lang="es" lid="Id2">Acura es una división de Honda.</lex>
+		</entry>
+		<entry category="MeanOfTransportation" eid="Id36" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Lancia_Thema | related | Alfa_Romeo_164</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Lancia_Thema | relatedMeanOfTransportation | Alfa_Romeo_164</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Lancia_Thema | relatedMeanOfTransportation | Alfa_Romeo_164</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Lancia_Thema | MediosDeTransporteRelacionados | Alfa_Romeo_164</striple></spanishtripleset><lex lang="en" lid="Id1">The Lancia Thema is related to the Alfa Romeo 164.</lex>
+			<lex lang="en" lid="Id2">Lancia Thema is a mean of transportation compared to Alfa Romeo 164.</lex>
+			<lex lang="en" lid="Id3">The Lancia Thema and the Alfa Romeo 164 are related means of transportation.</lex>
+			<lex lang="es" lid="Id1">El Lancia Thema está relacionado con el Alfa Romeo 164.</lex>
+			<lex lang="es" lid="Id2">El Lancia Thema es un medio de transporte relacionado con el Alfa Romeo 164.</lex>
+			<lex lang="es" lid="Id3">El Lancia Thema y el Alfa Romeo 164 son medios de transporte relacionados.</lex>
+		</entry>
+		<entry category="MeanOfTransportation" eid="Id37" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Meyer_Werft | location | Germany</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Meyer_Werft | location | Germany</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Meyer_Werft | Ubicación | Alemania</striple></spanishtripleset><lex lang="en" lid="Id1">Meyer Werft is located in Germany.</lex>
+			<lex lang="es" lid="Id1">Meyer Werft tiene su sede en Alemania.</lex>
+		</entry>
+		<entry category="MeanOfTransportation" eid="Id38" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Meyer_Werft | location | Papenburg</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Meyer_Werft | location | Papenburg</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Meyer_Werft | Ubicación | Papenburgo</striple></spanishtripleset><lex lang="en" lid="Id1">The location of Meyer Werft is Papenburg.</lex>
+			<lex lang="en" lid="Id2">Meyer Werft is located in Papenburg.</lex>
+			<lex lang="en" lid="Id3">Meyer Werft is situated in Papenburg.</lex>
+			<lex lang="es" lid="Id1">La sede de Meyer Werft está en Papenburg.</lex>
+			<lex lang="es" lid="Id2">Meyer Werft se encuentra en Papenburg.</lex>
+			<lex lang="es" lid="Id3">Meyer Werft se sitúa en Papenburg.</lex>
+		</entry>
+	</entries>
+</benchmark>

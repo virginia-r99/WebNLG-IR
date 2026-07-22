@@ -1,0 +1,710 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Building" eid="Id1" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>103_Colmore_Row | architect | John_Madin</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>103_Colmore_Row | architect | John_Madin</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>103_Colmore_Row | Arquitecto | John_Madin</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>103_Colmore_Row | architect | John_Madin</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>103_Colmore_Row | Arquitecte | John_Madin</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">103 Colmore Row was designed by the architect, John Madin.</lex>
+      <lex lang="en" lid="Id2">103 Colmore Row was designed by the architect John Madin.</lex>
+      <lex lang="es" lid="Id1">El 103 de Colmore Row fue diseñado por el arquitecto John Madin.</lex>
+      <lex lang="es" lid="Id2">El 103 de Colmore Row fue diseñado por el arquitecto John Madin.</lex>
+      <lex lang="ca" lid="Id1">103 Colmore Row va ser dissenyat per l'arquitecte, John Madin.</lex>
+      <lex lang="ca" lid="Id2">103 Colmore Row va ser dissenyat per l'arquitecte John Madin.</lex>
+      </entry>
+    <entry category="Building" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>103_Colmore_Row | location | Colmore_Row</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>103_Colmore_Row | location | Colmore_Row</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>103_Colmore_Row | Ubicación | Colmore_Row</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>103_Colmore_Row | location | Colmore_Row</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>103_Colmore_Row | Ubicació | Colmore_Row</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">103 Colmore Row is located at Colmore Row.</lex>
+      <lex lang="en" lid="Id2">103 Colmore Row is located in Colmore Row.</lex>
+      <lex lang="es" lid="Id1">103 Colmore Row se encuentra en Colmore Row.</lex>
+      <lex lang="es" lid="Id2">103 Colmore Row se encuentra en Colmore Row.</lex>
+      <lex lang="ca" lid="Id1">103 Colmore Row es troba a Colmore Row.</lex>
+      <lex lang="ca" lid="Id2">103 Colmore Row es troba a Colmore Row.</lex>
+      </entry>
+    <entry category="Building" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | buildingEndDate | "1983"</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | completionDate | 1983</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11_Diagonal_Street | completionDate | 1983</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Calle_Diagonal_11 | FechaDeFinalización | 1983</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>11_Diagonal_Street | completionDate | 1983</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Carrer_de_Diagonal,_11 | DataDeFinalització | 1983</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">11 Diagonal Street was completed in 1983.</lex>
+      <lex lang="es" lid="Id1">El número 11 de la calle Diagonal se terminó en 1983.</lex>
+      <lex lang="ca" lid="Id1">El carrer Diagonal 11 es va acabar el 1983.</lex>
+      </entry>
+    <entry category="Building" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>200_Public_Square | buildingEndDate | "1985"</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>200_Public_Square | completionDate | 1985</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>200_Public_Square | completionDate | 1985</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>200_Public_Square | FechaDeFinalización | 1985</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>200_Public_Square | completionDate | 1985</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>200_Plaça_Pública | DataDeFinalització | 1985</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The 200 Public Square was completed in 1985.</lex>
+      <lex lang="en" lid="Id2">200 Public Square was completed in 1985.</lex>
+      <lex lang="es" lid="Id1">La 200 Public Square se terminó en 1985.</lex>
+      <lex lang="es" lid="Id2">200 Public Square se terminó en 1985.</lex>
+      <lex lang="ca" lid="Id1">El 200 Public Square es va completar el 1985.</lex>
+      <lex lang="ca" lid="Id2">200 Public Square es va completar el 1985.</lex>
+      </entry>
+    <entry category="Building" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>20_Fenchurch_Street | buildingStartDate | "January 2009"</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>20_Fenchurch_Street | startDate | "January 2009"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>20_Fenchurch_Street | buildingStartDate | "January 2009"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>20_Fenchurch_Street | FechaDeInicioDeLaConstrucción | Enero_de_2009</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>20_Fenchurch_Street | buildingStartDate | "January 2009"</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>20_Fenchurch_Street | DataD'IniciDeLaConstrucció | Gener_del_2009</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The building at 20 Fenchurch Street was started in January 2009.</lex>
+      <lex lang="en" lid="Id2">The construction of 20 Fenchurch Street began in January 2009.</lex>
+      <lex lang="es" lid="Id1">El edificio del número 20 de Fenchurch Street empezó a construirse en enero de 2009.</lex>
+      <lex lang="es" lid="Id2">La construcción del número 20 de Fenchurch Street comenzó en enero de 2009.</lex>
+      <lex lang="ca" lid="Id1">L'edifici al 20 Fenchurch Street es va iniciar al gener de 2009.</lex>
+      <lex lang="ca" lid="Id2">La construcció del 20 Fenchurch Street va començar el gener de 2009.</lex>
+      </entry>
+    <entry category="Building" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>20_Fenchurch_Street | location | United_Kingdom</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>20_Fenchurch_Street | location | United_Kingdom</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>20_Fenchurch_Street | Ubicación | Reino_Unido</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>20_Fenchurch_Street | location | United_Kingdom</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>20_Fenchurch_Street | Ubicació | Regne_Unit</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">20 Fenchurch Street is located in the United Kingdom.</lex>
+      <lex lang="en" lid="Id2">20 Fenchurch Street is located within the United Kingdom.</lex>
+      <lex lang="es" lid="Id1">20 Fenchurch Street se encuentra en el Reino Unido.</lex>
+      <lex lang="es" lid="Id2">20 Fenchurch Street se encuentra en el Reino Unido.</lex>
+      <lex lang="ca" lid="Id1">20 Fenchurch Street es troba al Regne Unit.</lex>
+      <lex lang="ca" lid="Id2">20 Fenchurch Street es troba al Regne Unit.</lex>
+      </entry>
+    <entry category="Building" eid="Id7" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>300_North_LaSalle | floorCount | "60"^^xsd:positiveInteger</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>300_North_LaSalle | floorCount | 60</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>300_North_LaSalle | RecuentoDePisos | 60</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>300_North_LaSalle | floorCount | 60</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>300_North_LaSalle | CompteDePlantes | 60</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">There are 60 floors at 300 North LaSalle.</lex>
+      <lex lang="en" lid="Id2">300 North LaSalle has 60 floors.</lex>
+      <lex lang="es" lid="Id1">Hay 60 pisos en 300 North LaSalle.</lex>
+      <lex lang="es" lid="Id2">300 North LaSalle tiene 60 plantas.</lex>
+      <lex lang="ca" lid="Id1">Hi ha 60 pisos al 300 North LaSalle.</lex>
+      <lex lang="ca" lid="Id2">El 300 North LaSalle té 60 pisos.</lex>
+      </entry>
+    <entry category="Building" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>3Arena | architect | "HOK SVE"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>3Arena | architect | "HOK SVE"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>3Arena | Arquitecto | HOK_SVE</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>3Arena | architect | "HOK SVE"</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Tele2_Arena | Arquitecte | HOK_SVE</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">HOK SVE was the architect of 3Arena.</lex>
+      <lex lang="en" lid="Id2">HOK SVE was the architect of the 3Arena.</lex>
+      <lex lang="es" lid="Id1">HOK SVE fue el arquitecto de 3Arena.</lex>
+      <lex lang="es" lid="Id2">HOK SVE fue el arquitecto del 3Arena.</lex>
+      <lex lang="ca" lid="Id1">HOK SVE va ser l'arquitecte de 3Arena.</lex>
+      <lex lang="ca" lid="Id2">HOK SVE va ser l'arquitecte del 3Arena.</lex>
+      </entry>
+    <entry category="Building" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>3Arena | location | "East Link Bridge"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>3Arena | location | "East Link Bridge"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>3Arena | Ubicación | Puente_East_Link</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>3Arena | location | "East Link Bridge"</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Tele2_Arena | Ubicació | Pont_de_l'enllaç_est</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The 3Arena is located at East Link Bridge.</lex>
+      <lex lang="en" lid="Id2">The 3Arena is located on the East Link Bridge.</lex>
+      <lex lang="en" lid="Id3">3Arena is located at East Link Bridge.</lex>
+      <lex lang="es" lid="Id1">El 3Arena está situado en el East Link Bridge.</lex>
+      <lex lang="es" lid="Id2">El 3Arena está situado en el East Link Bridge.</lex>
+      <lex lang="es" lid="Id3">3Arena se encuentra en el East Link Bridge.</lex>
+      <lex lang="ca" lid="Id1">El 3Arena està situat a East Link Bridge.</lex>
+      <lex lang="ca" lid="Id2">La 3Arena està situada al pont East Link.</lex>
+      <lex lang="ca" lid="Id3">3Arena es troba a East Link Bridge.</lex>
+      </entry>
+    <entry category="Building" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adare_Manor | buildingStartDate | "(original structure); 1832 (current structure)"</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adare_Manor | buildingStartDate | "1700"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Adare_Manor | FechaDeInicioDeLaConstrucción | 1700</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Adare_Manor | buildingStartDate | "1700"</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Adare_Manor | DataD'IniciDeLaConstrucció | 1700</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Adare Manor's building start was in 1700.</lex>
+      <lex lang="en" lid="Id2">The building of the Adare Manor was started in 1700.</lex>
+      <lex lang="es" lid="Id1">La construcción de Adare Manor comenzó en 1700.</lex>
+      <lex lang="es" lid="Id2">La construcción de Adare Manor se inició en 1700.</lex>
+      <lex lang="ca" lid="Id1">L'inici de la construcció de Adare Manor va ser el 1700.</lex>
+      <lex lang="ca" lid="Id2">La construcció de l'Adare Manor es va començar el 1700.</lex>
+      </entry>
+    <entry category="Building" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adare_Manor | locationCountry | Republic_of_Ireland</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Adare_Manor | country | Republic_of_Ireland</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adare_Manor | country | Republic_of_Ireland</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Adare_Manor | País | Irlanda</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Adare_Manor | country | Republic_of_Ireland</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Adare_Manor | País | República_d'Irlanda</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Adare Manor is located in the Republic of Ireland.</lex>
+      <lex lang="en" lid="Id2">The Adare Manor is in the Republic of Ireland.</lex>
+      <lex lang="es" lid="Id1">Adare Manor se encuentra en la República de Irlanda.</lex>
+      <lex lang="es" lid="Id2">La Mansión Adare está en la República de Irlanda.</lex>
+      <lex lang="ca" lid="Id1">Adare Manor es troba a la República d'Irlanda.</lex>
+      <lex lang="ca" lid="Id2">L'Adare Manor està a la República d'Irlanda.</lex>
+      </entry>
+    <entry category="Building" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Akita_Museum_of_Art | openingDate | "2013-09-28"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akita_Museum_of_Art | inaugurationDate | "2013-09-28"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Museo_de_Arte_de_Akita | FechaDeInauguración | 28-09-2013</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Akita_Museum_of_Art | inaugurationDate | "2013-09-28"</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Museu_d'Art_d'Akita | DataD'Inauguració | 2013-09-28</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The Akita Museum of Art was inaugurated on 28th September 2013.</lex>
+      <lex lang="es" lid="Id1">El Museo de Arte de Akita se inauguró el 28 de septiembre de 2013.</lex>
+      <lex lang="ca" lid="Id1">El Museu d'Art d'Akita va ser inaugurat el 28 de setembre de 2013.</lex>
+      </entry>
+    <entry category="Building" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Sala_Alan_B._Miller | InquilinosActuales | Escuela_de_Negocios_Mason</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Alan_B._Miller_Hall | LlogatersActuals | Escola_Mason_de_Negocis</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The Mason School of Business are the current tenants of Alan B Miller Hall.</lex>
+      <lex lang="es" lid="Id1">La Mason School of Business es la actual inquilina del Alan B Miller Hall.</lex>
+      <lex lang="ca" lid="Id1">La Mason School of Business són els actuals llogaters d'Alan B Miller Hall.</lex>
+      </entry>
+    <entry category="Building" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amdavad_ni_Gufa | architect | B._V._Doshi</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amdavad_ni_Gufa | architect | B._V._Doshi</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Amdavad_ni_Gufa | Arquitecto | Balkrishna_Doshi</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Amdavad_ni_Gufa | architect | B._V._Doshi</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Amdavad_ni_Gufa | Arquitecte | B._V._Doshi</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The architect B V Doshi designed Amdavad Ni Gufa.</lex>
+      <lex lang="en" lid="Id2">B V Doshi is the architect who designed Amdavad ni Gufa.</lex>
+      <lex lang="es" lid="Id1">El arquitecto B V Doshi diseñó Amdavad Ni Gufa.</lex>
+      <lex lang="es" lid="Id2">B V Doshi es el arquitecto que diseñó Amdavad ni Gufa.</lex>
+      <lex lang="ca" lid="Id1">L'arquitecte B V Doshi va dissenyar Amdavad Ni Gufa.</lex>
+      <lex lang="ca" lid="Id2">B V Doshi és l'arquitecte que va dissenyar Amdavad ni Gufa.</lex>
+      </entry>
+    <entry category="Building" eid="Id15" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ampara_Hospital | country | Sri_Lanka</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ampara_Hospital | country | Sri_Lanka</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Hospital_de_Ampara | País | Sri_Lanka</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Ampara_Hospital | country | Sri_Lanka</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Hospital_d'Ampara | País | Sri_Lanka</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Ampara Hospital is located in Sri Lanka.</lex>
+      <lex lang="en" lid="Id2">Ampara Hospital is in Sri Lanka.</lex>
+      <lex lang="es" lid="Id1">El hospital de Ampara está situado en Sri Lanka.</lex>
+      <lex lang="es" lid="Id2">El Hospital Ampara está en Sri Lanka.</lex>
+      <lex lang="ca" lid="Id1">L'Hospital Ampara es troba a Sri Lanka.</lex>
+      <lex lang="ca" lid="Id2">L'hospital d'Ampara és a Sri Lanka.</lex>
+      </entry>
+    <entry category="Building" eid="Id16" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | added | "1988-11-22"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asher_and_Mary_Isabelle_Richardson_House | addedToTheNationalRegisterOfHistoricPlaces | "1988-11-22"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Casa_de_Asher_y_Mary_Isabelle_Richardson | IncluidaEnElRegistroNacionalDeLugaresHistóricos | 22-11-1988</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Asher_and_Mary_Isabelle_Richardson_House | addedToTheNationalRegisterOfHistoricPlaces | "1988-11-22"</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Casa_Asher_i_Mary_Isabelle_Richardson | S'HaAfegitAlRegistreNacionalDeLlocsHistòrics | 1988-11-22</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Asher and Mary Isabelle Richardson House was added to the National Register of Historic Places on "1988-11-22".</lex>
+      <lex lang="en" lid="Id2">The Asher and Mary Isabelle Richardson House was added to the National Register of Historic Places, on 22nd November 1988.</lex>
+      <lex lang="es" lid="Id1">La Casa de Asher y Mary Isabelle Richardson fue incluida en el Registro Nacional de Lugares Históricos el "1988-11-22".</lex>
+      <lex lang="es" lid="Id2">La Casa de Asher y Mary Isabelle Richardson fue incluida en el Registro Nacional de Lugares Históricos el 22 de noviembre de 1988.</lex>
+      <lex lang="ca" lid="Id1">Asher i Mary Isabelle Richardson House va ser afegit al Registre Nacional de Llocs Històrics el "1988-11-22".</lex>
+      <lex lang="ca" lid="Id2">La casa d'Asher i Mary Isabelle Richardson va ser afegida al Registre Nacional de Llocs Històrics, el 22 de novembre de 1988.</lex>
+      </entry>
+    <entry category="Building" eid="Id17" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | built | 1904</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | yearOfConstruction | "1904"^^xsd:gYear</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | yearOfConstruction | 1904</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Baños_públicos_de_Asser_Levy | AñoDeConstrucción | 1904</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Asser_Levy_Public_Baths | yearOfConstruction | 1904</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Banys_públics_Asser_Levy | AnyDeConstrucció | 1904</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The Asser Levy Public Baths was built in 1904.</lex>
+      <lex lang="en" lid="Id2">Asser Levy Public Baths were constructed in 1904.</lex>
+      <lex lang="es" lid="Id1">Los baños públicos Asser Levy se construyeron en 1904.</lex>
+      <lex lang="es" lid="Id2">Los baños públicos de Asser Levy se construyeron en 1904.</lex>
+      <lex lang="ca" lid="Id1">Els Banys Públics Asser Levy van ser construïts el 1904.</lex>
+      <lex lang="ca" lid="Id2">Els banys públics Asser Levy van ser construïts el 1904.</lex>
+      </entry>
+    <entry category="Building" eid="Id18" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Birmingham | postalCode | B_postcode_area</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Birmingham | postalCode | B_postcode_area</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Birmingham | CódigoPostal | Código_postal_de_la_zona_B</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Birmingham | postalCode | B_postcode_area</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Birmingham | CòdiPostal | Àrea_de_codi_postal_B</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Birmingham has the postcode area 'B'.</lex>
+      <lex lang="en" lid="Id2">The B postcode area is the postal code of Birmingham.</lex>
+      <lex lang="es" lid="Id1">Birmingham tiene el código postal "B".</lex>
+      <lex lang="es" lid="Id2">El código postal de B es el código postal de Birmingham.</lex>
+      <lex lang="ca" lid="Id1">Birmingham té l'àrea de codi postal 'B'.</lex>
+      <lex lang="ca" lid="Id2">L'àrea de codi postal B és el codi postal de Birmingham.</lex>
+      </entry>
+    <entry category="Building" eid="Id19" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Chicago | isPartOf | DuPage_County,_Illinois</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Chicago | isPartOf | DuPage_County,_Illinois</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Chicago | FormaParteDe | Condado_de_DuPage,_Illinois</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Chicago | isPartOf | DuPage_County,_Illinois</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Chicago | ÉsPartDe | Comtat_de_DuPage,_Illinois</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Chicago is part of DuPage County in Illinois.</lex>
+      <lex lang="en" lid="Id2">Chicago is part of DuPage County Illinois.</lex>
+      <lex lang="es" lid="Id1">Chicago forma parte del condado de DuPage, en Illinois.</lex>
+      <lex lang="es" lid="Id2">Chicago forma parte del condado de DuPage, Illinois.</lex>
+      <lex lang="ca" lid="Id1">Chicago és part del comtat de DuPage a Illinois.</lex>
+      <lex lang="ca" lid="Id2">Chicago és part del comtat de DuPage Illinois.</lex>
+      </entry>
+    <entry category="Building" eid="Id20" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Dublin | country | Republic_of_Ireland</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dublin | country | Republic_of_Ireland</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Dublín | País | Irlanda</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Dublin | country | Republic_of_Ireland</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Dublín | País | República_d'Irlanda</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Dublin is in the Republic of Ireland.</lex>
+      <lex lang="es" lid="Id1">Dublín está en la República de Irlanda.</lex>
+      <lex lang="ca" lid="Id1">Dublín està a la República d'Irlanda.</lex>
+      </entry>
+    <entry category="Building" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Dublin | isPartOf | Leinster</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Dublin | subdivisionName | Leinster</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dublin | isPartOf | Leinster</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Dublín | FormaParteDe | Leinster</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Dublin | isPartOf | Leinster</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Dublín | ÉsPartDe | Leinster</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Dublin is part of Leinster.</lex>
+      <lex lang="es" lid="Id1">Dublín forma parte de Leinster.</lex>
+      <lex lang="ca" lid="Id1">Dublín forma part de Leinster.</lex>
+      </entry>
+    <entry category="Building" eid="Id22" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>India | leader | Sumitra_Mahajan</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>India | leaderName | Sumitra_Mahajan</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>India | leader | Sumitra_Mahajan</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>India | Líder | Sumitra_Mahajan</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>India | leader | Sumitra_Mahajan</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Índia | Líder | Sumitra_Mahajan</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Sumitra Mahajan is an Indian leader.</lex>
+      <lex lang="en" lid="Id2">The name of the leader in India is Sumitra Mahajan.</lex>
+      <lex lang="es" lid="Id1">Sumitra Mahajan es una dirigente India.</lex>
+      <lex lang="es" lid="Id2">El nombre de la dirigente en la India es Sumitra Mahajan.</lex>
+      <lex lang="ca" lid="Id1">Sumitra Mahajan és una líder índia.</lex>
+      <lex lang="ca" lid="Id2">El nom del líder a l'Índia és Sumitra Mahajan.</lex>
+      </entry>
+    <entry category="Building" eid="Id23" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Japan | ethnicGroup | Brazilians_in_Japan</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Japan | ethnicGroup | Brazilians_in_Japan</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Japón | GrupoÉtnico | Inmigración_brasileña_en_Japón</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Japan | ethnicGroup | Brazilians_in_Japan</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Japó | GrupÈtnic | Els_brasilers_al_Japó</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">One of the ethnic groups in Japan is the Brazilians.</lex>
+      <lex lang="en" lid="Id2">The Brazilians in Japan are an ethnic group found in Japan.</lex>
+      <lex lang="es" lid="Id1">Uno de los grupos étnicos de Japón son los brasileños.</lex>
+      <lex lang="es" lid="Id2">Los brasileños en Japón son un grupo étnico presente en Japón.</lex>
+      <lex lang="ca" lid="Id1">Un dels grups ètnics del Japó són els brasilers.</lex>
+      <lex lang="ca" lid="Id2">Els brasilers al Japó són un grup ètnic que es troba al Japó.</lex>
+      </entry>
+    <entry category="Building" eid="Id24" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Japan | leader | Tarō_Asō</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Japan | leader | Tarō_Asō</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Japón | Líder | Tarō_Asō</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Japan | leader | Tarō_Asō</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Japó | Líder | Tarō_Asō</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The leader of Japan is Tarō Asō.</lex>
+      <lex lang="es" lid="Id1">El líder de Japón es Tarō Asō.</lex>
+      <lex lang="ca" lid="Id1">El líder del Japó és Tarō Asō.</lex>
+      </entry>
+    <entry category="Building" eid="Id25" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Marriott_International | keyPeople | Bill_Marriott</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Marriott_International | keyPerson | Bill_Marriott</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Marriott_International | keyPerson | Bill_Marriott</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Marriott_International | PersonaClave | J._W._Bill_Marriott,_Jr.</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Marriott_International | keyPerson | Bill_Marriott</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Marriott_International | PersonaClau | J._W._"Bill"_Marriott</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Bill Marriott is the key person at Marriott International.</lex>
+      <lex lang="en" lid="Id2">One of the key people in Marriott International is Bill Marriott.</lex>
+      <lex lang="es" lid="Id1">Bill Marriott es la persona clave de Marriott International.</lex>
+      <lex lang="es" lid="Id2">Una de las personas clave de Marriott International es Bill Marriott.</lex>
+      <lex lang="ca" lid="Id1">Bill Marriott és la persona clau a Marriott International.</lex>
+      <lex lang="ca" lid="Id2">Una de les persones clau a Marriott International és Bill Marriott.</lex>
+      </entry>
+    <entry category="Building" eid="Id26" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Republic_of_Ireland | languages | English_language</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Republic_of_Ireland | language | English_language</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Republic_of_Ireland | language | English_language</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Irlanda | Idioma | inglés</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Republic_of_Ireland | language | English_language</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>República_d'Irlanda | Llengua | Llengua_anglesa</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Ireland official language is English.</lex>
+      <lex lang="en" lid="Id2">The English language is the main language of the Republic of Ireland.</lex>
+      <lex lang="en" lid="Id3">One language used in the Republic of Ireland is English.</lex>
+      <lex lang="es" lid="Id1">La lengua oficial de Irlanda es el inglés.</lex>
+      <lex lang="es" lid="Id2">El inglés es la lengua principal de la República de Irlanda.</lex>
+      <lex lang="es" lid="Id3">Uno de los idiomas utilizados en la República de Irlanda es el inglés.</lex>
+      <lex lang="ca" lid="Id1">L'idioma oficial d'Irlanda és l'anglès.</lex>
+      <lex lang="ca" lid="Id2">L'anglès és la llengua principal de la República d'Irlanda.</lex>
+      <lex lang="ca" lid="Id3">Una de les llengües utilitzades a la República d'Irlanda és l'anglès.</lex>
+      </entry>
+    <entry category="Building" eid="Id27" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>South_Africa | capital | Cape_Town</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>South_Africa | capital | Cape_Town</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Sudáfrica | Capital | Ciudad_del_Cabo</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>South_Africa | capital | Cape_Town</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Sud-àfrica | Capital | Ciutat_del_Cap</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Cape Town is the capital of South Africa.</lex>
+      <lex lang="en" lid="Id2">The capital of South Africa is Cape Town.</lex>
+      <lex lang="es" lid="Id1">Ciudad del Cabo es la capital de Sudáfrica.</lex>
+      <lex lang="es" lid="Id2">La capital de Sudáfrica es Ciudad del Cabo.</lex>
+      <lex lang="ca" lid="Id1">Ciutat del Cap és la capital de Sud-àfrica.</lex>
+      <lex lang="ca" lid="Id2">La capital de Sud-àfrica és Ciutat del Cap.</lex>
+      </entry>
+    <entry category="Building" eid="Id28" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_Kingdom | capital | London</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_Kingdom | capital | London</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Reino_Unido | Capital | Londres</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>United_Kingdom | capital | London</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Regne_Unit | Capital | Londres</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The capital of the United Kingdom is London.</lex>
+      <lex lang="en" lid="Id2">London is the capital of the United Kingdom.</lex>
+      <lex lang="es" lid="Id1">La capital del Reino Unido es Londres.</lex>
+      <lex lang="es" lid="Id2">Londres es la capital del Reino Unido.</lex>
+      <lex lang="ca" lid="Id1">La capital del Regne Unit és Londres.</lex>
+      <lex lang="ca" lid="Id2">Londres és la capital del Regne Unit.</lex>
+      </entry>
+    <entry category="Building" eid="Id29" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Estados_Unidos | GrupoÉtnico | pueblos_nativos_de_los_Estados_Unidos</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Estats_Units_d'Amèrica | GrupÈtnic | amerindis_dels_Estats_Units</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Native Americans are an ethnic group in the United States.</lex>
+      <lex lang="es" lid="Id1">Los nativos americanos son un grupo étnico de Estados Unidos.</lex>
+      <lex lang="ca" lid="Id1">Els nadius americans són un grup ètnic dels Estats Units.</lex>
+      </entry>
+    <entry category="Building" eid="Id30" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States | leader | Paul_Ryan</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>United_States | leaderName | Paul_Ryan</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leader | Paul_Ryan</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Estados_Unidos | Líder | Paul_Ryan</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>United_States | leader | Paul_Ryan</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Estats_Units_d'Amèrica | Líder | Paul_Ryan</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Paul Ryan is the leader of the United States.</lex>
+      <lex lang="en" lid="Id2">The leader of the United States is Paul Ryan.</lex>
+      <lex lang="es" lid="Id1">Paul Ryan es el líder de los Estados Unidos.</lex>
+      <lex lang="es" lid="Id2">El líder de los Estados Unidos es Paul Ryan.</lex>
+      <lex lang="ca" lid="Id1">Paul Ryan és el líder dels Estats Units.</lex>
+      <lex lang="ca" lid="Id2">El líder dels Estats Units és Paul Ryan.</lex>
+      </entry>
+    </entries>
+  </benchmark>

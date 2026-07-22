@@ -1,0 +1,1503 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+	<entries>
+		<entry category="Astronaut" eid="Id1" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>Alan_Bean | almaMater | "UT Austin, B.S. 1955"@en</otriple>
+				<otriple>Alan_Bean | timeInSpace | "100305.0"^^&lt;http://dbpedia.org/datatype/minute&gt;</otriple>
+				<otriple>Alan_Bean | selection | 1963</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Alan_Bean | almaMater | "UT Austin, B.S. 1955"</mtriple>
+				<mtriple>Alan_Bean | timeInSpace | "100305.0"(minutes)</mtriple>
+				<mtriple>Alan_Bean | selectedByNasa | 1963</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Alan_L._Bean | AlmaMáter | UT_Austin,_B.S._1955</striple>
+				<striple>Alan_L._Bean | TiempoEnElEspacio | 100305.0_(minutos)</striple>
+				<striple>Alan_L._Bean | SeleccionadoPorLaNasa | 1963</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Alan Bean, who graduated in 1955 from UT Austin with a B.S. and was selected by NASA in 1963, spent 100305.0 minutes in space.</lex>
+			<lex lang="en" lid="Id2">Alan Bean went to UT Austin, B.S. 1955. He was selected by NASA in 1963 and spent 100305.0"(minutes) in space.</lex>
+			<lex lang="es" lid="Id1">Alan Bean, que se licenció en 1955 en la Universidad de Austin y fue seleccionado por la NASA en 1963, pasó 100305,0 minutos en el espacio.</lex>
+			<lex lang="es" lid="Id2">Alan Bean estudió en la Universidad de Austin, donde se licenció en 1955. Fue seleccionado por la NASA en 1963 y pasó 100305.0"(minutos) en el espacio.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id2" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>Alan_Bean | almaMater | "UT Austin, B.S. 1955"@en</otriple>
+				<otriple>Alan_Bean | mission | Apollo_12</otriple>
+				<otriple>Alan_Bean | dateOfRet | "June 1981"@en</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Alan_Bean | almaMater | "UT Austin, B.S. 1955"</mtriple>
+				<mtriple>Alan_Bean | mission | Apollo_12</mtriple>
+				<mtriple>Alan_Bean | dateOfRetirement | "June 1981"</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Alan_L._Bean | AlmaMáter | UT_Austin,_B.S._1955</striple>
+				<striple>Alan_L._Bean | Misión | Apolo_12</striple>
+				<striple>Alan_L._Bean | FechaDeJubilación | Junio_de_1981</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Alan Bean, who received a Bachelor of Science degree at the University of Texas at Austin in 1955 and was a crew member on the Apollo 12 flight mission, retired in June 1981.</lex>
+			<lex lang="en" lid="Id2">Alan Bean received a Bachelor of Science degree at the University of Texas at Austin in 1955 was a crew member on the Apollo 12 flight mission and retired in June of 1981.</lex>
+			<lex lang="en" lid="Id3">Alan Bean graduated from UT Austin, B.S. 1955 and was a crew member of Apollo 12 before retiring on June 1981.</lex>
+			<lex lang="es" lid="Id1">Alan Bean, licenciado en Ciencias por la Universidad de Texas en Austin en 1955 y miembro de la tripulación del Apolo 12, se jubiló en junio de 1981.</lex>
+			<lex lang="es" lid="Id2">Alan Bean se licenció en Ciencias por la Universidad de Texas en Austin en 1955, formó parte de la tripulación de la misión Apolo 12 y se jubiló en junio de 1981.</lex>
+			<lex lang="es" lid="Id3">Alan Bean se licenció en la Universidad de Austin en 1955 y fue miembro de la tripulación del Apolo 12 antes de jubilarse en junio de 1981.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id3" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>Alan_Bean | birthDate | "1932-03-15"^^xsd:date</otriple>
+				<otriple>Alan_Bean | mission | Apollo_12</otriple>
+				<otriple>Alan_Bean | timeInSpace | "100305.0"^^&lt;http://dbpedia.org/datatype/minute&gt;</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Alan_Bean | birthDate | "1932-03-15"</mtriple>
+				<mtriple>Alan_Bean | mission | Apollo_12</mtriple>
+				<mtriple>Alan_Bean | timeInSpace | "100305.0"(minutes)</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Alan_L._Bean | FechaDeNacimiento | 15-03-1932</striple>
+				<striple>Alan_L._Bean | Misión | Apolo_12</striple>
+				<striple>Alan_L._Bean | TiempoEnElEspacio | 100305.0_(minutos)</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Alan Bean, born March 15, 1932, spent over 69 days (or 100305 minutes!) in space as a member of the Apollo 12 crew.</lex>
+			<lex lang="en" lid="Id2">Alan Bean, born on the 15th of March 1932, was in space for 100305 minutes as part of the crew of Apollo 12.</lex>
+			<lex lang="en" lid="Id3">Alan Bean (born on 1932-03-15) was a crew member of Apollo 12 and spent 100305.0"(minutes) in space!</lex>
+			<lex lang="es" lid="Id1">Alan Bean, nacido el 15 de marzo de 1932, pasó más de 69 días (¡o 100305 minutos!) en el espacio como miembro de la tripulación del Apolo 12.</lex>
+			<lex lang="es" lid="Id2">Alan Bean, nacido el 15 de marzo de 1932, estuvo en el espacio durante 100305 minutos como parte de la tripulación del Apolo 12.</lex>
+			<lex lang="es" lid="Id3">Alan Bean (nacido el 15 de marzo de 1932) fue miembro de la tripulación del Apolo 12 y pasó 100305.0"(minutos) en el espacio.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id4" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>Alan_Bean | birthDate | "1932-03-15"^^xsd:date</otriple>
+				<otriple>Alan_Bean | selection | 1963</otriple>
+				<otriple>Alan_Bean | status | "Retired"@en</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Alan_Bean | birthDate | "1932-03-15"</mtriple>
+				<mtriple>Alan_Bean | selectedByNasa | 1963</mtriple>
+				<mtriple>Alan_Bean | status | "Retired"</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Alan_L._Bean | FechaDeNacimiento | 15-03-1932</striple>
+				<striple>Alan_L._Bean | SeleccionadoPorLaNasa | 1963</striple>
+				<striple>Alan_L._Bean | Estado | Retirado</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Now retired, Alan Bean was born on Mar 15, 1932 and hired by NASA in 1963.</lex>
+			<lex lang="en" lid="Id2">Alan Bean, who was born on 15th of March 1932 and selected by NASA in 1963, is now retired.</lex>
+			<lex lang="en" lid="Id3">Alan Bean (born on 1932-03-15) was selected by NASA in 1963 and is now retired.</lex>
+			<lex lang="en" lid="Id4">Alan Bean (born on 1932-03-15) was selected by NASA in 1963 and now is retired.</lex>
+			<lex lang="es" lid="Id1">Actualmente jubilado, Alan Bean nació el 15 de marzo de 1932 y fue contratado por la NASA en 1963.</lex>
+			<lex lang="es" lid="Id2">Alan Bean, nacido el 15 de marzo de 1932 y seleccionado por la NASA en 1963, ya está jubilado.</lex>
+			<lex lang="es" lid="Id3">Alan Bean (nacido el 15 de marzo de 1932) fue seleccionado por la NASA en 1963 y ahora está jubilado.</lex>
+			<lex lang="es" lid="Id4">Alan Bean (nacido el 15 de marzo de 1932) fue seleccionado por la NASA en 1963 y ahora está jubilado.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id5" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>Alan_Bean | nationality | United_States</otriple>
+				<otriple>Alan_Bean | almaMater | "UT Austin, B.S. 1955"@en</otriple>
+				<otriple>Alan_Bean | status | "Retired"@en</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Alan_Bean | nationality | United_States</mtriple>
+				<mtriple>Alan_Bean | almaMater | "UT Austin, B.S. 1955"</mtriple>
+				<mtriple>Alan_Bean | status | "Retired"</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Alan_L._Bean | Nacionalidad | Estados_Unidos</striple>
+				<striple>Alan_L._Bean | AlmaMáter | UT_Austin,_B.S._1955</striple>
+				<striple>Alan_L._Bean | Estado | Retirado</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Alan Bean, a US National who graduated from UT Austin in 1955 with a B.S., is now retired.</lex>
+			<lex lang="en" lid="Id2">Alan Bean who was born in the USA and graduated from UT Austin in 1955 with a BS degree, is now retired.</lex>
+			<lex lang="en" lid="Id3">United States citizen Alan Bean graduated from UT Austin, B.S. in 1955 and is now retired.</lex>
+			<lex lang="es" lid="Id1">Alan Bean, ciudadano estadounidense licenciado por la Universidad de Austin en 1955, está jubilado.</lex>
+			<lex lang="es" lid="Id2">Alan Bean, nacido en Estados Unidos y licenciado por la Universidad de Austin en 1955, está jubilado.</lex>
+			<lex lang="es" lid="Id3">Alan Bean, ciudadano estadounidense, se licenció en 1955 por la Universidad de Texas Austin y actualmente está jubilado.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id6" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>Alan_Bean | nationality | United_States</otriple>
+				<otriple>Alan_Bean | occupation | Test_pilot</otriple>
+				<otriple>Alan_Bean | birthPlace | Wheeler,_Texas</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Alan_Bean | nationality | United_States</mtriple>
+				<mtriple>Alan_Bean | occupation | Test_pilot</mtriple>
+				<mtriple>Alan_Bean | birthPlace | Wheeler,_Texas</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Alan_L._Bean | Nacionalidad | Estados_Unidos</striple>
+				<striple>Alan_L._Bean | Ocupación | piloto_de_pruebas</striple>
+				<striple>Alan_L._Bean | LugarDeNacimiento | Wheeler,_Texas</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Test pilot Alan Bean was born in Wheeler, Texas, USA.</lex>
+			<lex lang="en" lid="Id2">Alan Bean was born in Wheeler, Texas, US and was a test pilot.</lex>
+			<lex lang="en" lid="Id3">Alan Bean, a US national whose birth place is Wheeler, Texas, served as a test pilot.</lex>
+			<lex lang="en" lid="Id4">Alan Bean was born in Wheeler, Texas, United States and served as a test pilot.</lex>
+			<lex lang="en" lid="Id5">Alan Bean (born in Wheeler, Texas of the United States served as a test pilot.</lex>
+			<lex lang="es" lid="Id1">El piloto de pruebas Alan Bean nació en Wheeler, Texas, Estados Unidos.</lex>
+			<lex lang="es" lid="Id2">Alan Bean nació en Wheeler (Texas, EE.UU.) y fue piloto de pruebas.</lex>
+			<lex lang="es" lid="Id3">Alan Bean, ciudadano estadounidense nacido en Wheeler (Texas), trabajó como piloto de pruebas.</lex>
+			<lex lang="es" lid="Id4">Alan Bean nació en Wheeler (Texas, Estados Unidos) y fue piloto de pruebas.</lex>
+			<lex lang="es" lid="Id5">Alan Bean (nacido en Wheeler, Texas de los Estados Unidos sirvió como piloto de pruebas.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id7" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>Alan_Bean | nationality | United_States</otriple>
+				<otriple>Alan_Bean | mission | Apollo_12</otriple>
+				<otriple>Alan_Bean | selection | 1963</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Alan_Bean | nationality | United_States</mtriple>
+				<mtriple>Alan_Bean | mission | Apollo_12</mtriple>
+				<mtriple>Alan_Bean | selectedByNasa | 1963</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Alan_L._Bean | Nacionalidad | Estados_Unidos</striple>
+				<striple>Alan_L._Bean | Misión | Apolo_12</striple>
+				<striple>Alan_L._Bean | SeleccionadoPorLaNasa | 1963</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Alan Bean, was one of the Americans hired by NASA in 1963 to crew Apollo 12.</lex>
+			<lex lang="en" lid="Id2">Alan Bean, born in the United States, was selected by NASA in 1963 and served as a crew member of Apollo 12.</lex>
+			<lex lang="en" lid="Id3">Alan Bean, a US national, was selected by Nasa in 1963 and served as a crew member of Apollo 12.</lex>
+			<lex lang="en" lid="Id4">Alan Bean was an American astronaut who NASA picked in 1963 to fly with Apollo 12.</lex>
+			<lex lang="es" lid="Id1">Alan Bean, fue uno de los estadounidenses contratados por la NASA en 1963 para tripular el Apolo 12.</lex>
+			<lex lang="es" lid="Id2">Alan Bean, nacido en Estados Unidos, fue seleccionado por la NASA en 1963 y formó parte de la tripulación del Apolo 12.</lex>
+			<lex lang="es" lid="Id3">Alan Bean, de nacionalidad estadounidense, fue seleccionado por la Nasa en 1963 y formó parte de la tripulación del Apolo 12.</lex>
+			<lex lang="es" lid="Id4">Alan Bean fue un astronauta estadounidense elegido por la NASA en 1963 para volar con el Apolo 12.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id8" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>Alan_Bean | occupation | Test_pilot</otriple>
+				<otriple>Alan_Bean | birthPlace | Wheeler,_Texas</otriple>
+				<otriple>Alan_Bean | timeInSpace | "100305.0"^^&lt;http://dbpedia.org/datatype/minute&gt;</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Alan_Bean | occupation | Test_pilot</mtriple>
+				<mtriple>Alan_Bean | birthPlace | Wheeler,_Texas</mtriple>
+				<mtriple>Alan_Bean | timeInSpace | "100305.0"(minutes)</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Alan_L._Bean | Ocupación | piloto_de_pruebas</striple>
+				<striple>Alan_L._Bean | LugarDeNacimiento | Wheeler,_Texas</striple>
+				<striple>Alan_L._Bean | TiempoEnElEspacio | 100305.0_(minutos)</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">The test pilot Alan Bean, who spent 100305 minutes in space, was born in Wheeler, Texas.</lex>
+			<lex lang="es" lid="Id1">El piloto de pruebas Alan Bean, que pasó 100305 minutos en el espacio, nació en Wheeler, Texas.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id9" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>Alan_Bean | mission | Apollo_12</otriple>
+				<otriple>Alan_Bean | birthPlace | Wheeler,_Texas</otriple>
+				<otriple>Alan_Bean | status | "Retired"@en</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Alan_Bean | mission | Apollo_12</mtriple>
+				<mtriple>Alan_Bean | birthPlace | Wheeler,_Texas</mtriple>
+				<mtriple>Alan_Bean | status | "Retired"</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Alan_L._Bean | Misión | Apolo_12</striple>
+				<striple>Alan_L._Bean | LugarDeNacimiento | Wheeler,_Texas</striple>
+				<striple>Alan_L._Bean | Estado | Retirado</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Alan Bean has retired, having been born in Wheeler, Texas and serving on the crew of Apollo 12.</lex>
+			<lex lang="en" lid="Id2">Alan Bean has retired, having been born in Wheeler, Texas and serving as a crew member on the Apollo 12 flight mission.</lex>
+			<lex lang="en" lid="Id3">Alan Bean, born in Wheeler, Texas, was on the crew of Apollo 12 but has since retired.</lex>
+			<lex lang="en" lid="Id4">Alan Bean, born in Wheeler, Texas, is a retired astronaut who was a member of the crew of Apollo 12.</lex>
+			<lex lang="es" lid="Id1">Alan Bean, nacido en Wheeler (Texas) y miembro de la tripulación del Apolo 12, se ha jubilado.</lex>
+			<lex lang="es" lid="Id2">Alan Bean, nacido en Wheeler (Texas) y miembro de la tripulación de la misión Apolo 12, se ha jubilado.</lex>
+			<lex lang="es" lid="Id3">Alan Bean, nacido en Wheeler (Texas), formó parte de la tripulación del Apolo 12, pero ya se ha retirado.</lex>
+			<lex lang="es" lid="Id4">Alan Bean, nacido en Wheeler, Texas, es un astronauta retirado que formó parte de la tripulación del Apolo 12.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id10" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+			<originaltripleset>
+				<otriple>Alan_Bean | mission | Apollo_12</otriple>
+				<otriple>Alan_Bean | nationality | United_States</otriple>
+				<otriple>Apollo_12 | operator | NASA</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Alan_Bean | mission | Apollo_12</mtriple>
+				<mtriple>Alan_Bean | nationality | United_States</mtriple>
+				<mtriple>Apollo_12 | operator | NASA</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Alan_L._Bean | Misión | Apolo_12</striple>
+				<striple>Alan_L._Bean | Nacionalidad | Estados_Unidos</striple>
+				<striple>Apolo_12 | Operador | Administración_Nacional_de_Aeronáutica_y_del_Espacio</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">U.S. born Alan Bean was on the crew of NASA operated Apollo 12.</lex>
+			<lex lang="en" lid="Id2">Alan Bean was a member of the Apollo 12 crew, his nationality is United States and the operator of Apollo 12 was NASA.</lex>
+			<lex lang="es" lid="Id1">El estadounidense Alan Bean formó parte de la tripulación del Apolo 12, operado por la NASA.</lex>
+			<lex lang="es" lid="Id2">Alan Bean era miembro de la tripulación del Apolo 12, su nacionalidad es estadounidense y el operador del Apolo 12 era la NASA.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id11" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+			<originaltripleset>
+				<otriple>Alan_Bean | mission | Apollo_12</otriple>
+				<otriple>Apollo_12 | operator | NASA</otriple>
+				<otriple>Alan_Bean | timeInSpace | "100305.0"^^&lt;http://dbpedia.org/datatype/minute&gt;</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Alan_Bean | mission | Apollo_12</mtriple>
+				<mtriple>Apollo_12 | operator | NASA</mtriple>
+				<mtriple>Alan_Bean | timeInSpace | "100305.0"(minutes)</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Alan_L._Bean | Misión | Apolo_12</striple>
+				<striple>Apolo_12 | Operador | Administración_Nacional_de_Aeronáutica_y_del_Espacio</striple>
+				<striple>Alan_L._Bean | TiempoEnElEspacio | 100305.0_(minutos)</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Alan Bean was a crew member on the Apollo 12 flight mission operated by NASA and spent 100305.0 minutes in Space.</lex>
+			<lex lang="en" lid="Id2">Alan Bean was on the crew of the NASA operated Apollo 12 and spent 100305 minutes in space.</lex>
+			<lex lang="es" lid="Id1">Alan Bean fue miembro de la tripulación de la misión Apolo 12 operada por la NASA y pasó 100305,0 minutos en el Espacio.</lex>
+			<lex lang="es" lid="Id2">Alan Bean formó parte de la tripulación del Apolo 12, operado por la NASA, y pasó 100305 minutos en el espacio.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id12" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>Alan_Shepard | almaMater | "NWC, M.A. 1957"@en</otriple>
+				<otriple>Alan_Shepard | birthPlace | New_Hampshire</otriple>
+				<otriple>Alan_Shepard | dateOfRet | "1974-08-01"^^xsd:date</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Alan_Shepard | almaMater | "NWC, M.A. 1957"</mtriple>
+				<mtriple>Alan_Shepard | birthPlace | New_Hampshire</mtriple>
+				<mtriple>Alan_Shepard | dateOfRetirement | "1974-08-01"</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Alan_Bartlett_Shepard | AlmaMáter | NWC,_M.A._1957</striple>
+				<striple>Alan_Bartlett_Shepard | LugarDeNacimiento | Nuevo_Hampshire</striple>
+				<striple>Alan_Bartlett_Shepard | FechaDeJubilación | 01-08-1974</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Alan Shepard went to school at NWC and graduated with an MA in 1957, was born in New Hampshire and retired 1st of August 1974.</lex>
+			<lex lang="en" lid="Id2">Alan Shepard, who was born in New Hampshire, retired on 1 August 1974, having graduated from NWC with an MA in 1957.</lex>
+			<lex lang="en" lid="Id3">Alan Shepard graduated from NWC in 1957 with a master of arts. He was born in New Hampshire and died on 1974-08-01.</lex>
+			<lex lang="en" lid="Id4">Alan Shepard was born in New Hampshire and got his M.A. in 1957 at NWC and retired on August 1st, 1974.</lex>
+			<lex lang="en" lid="Id5">Alan Shepard, born in New Hampshire and a 1957 graduate of NWC with an M.A. degree, retired on August 1, 1974.</lex>
+			<lex lang="es" lid="Id1">Alan Shepard estudió en la NWC y se licenció en 1957. Nació en New Hampshire y se jubiló el 1 de agosto de 1974.</lex>
+			<lex lang="es" lid="Id2">Alan Shepard, nacido en New Hampshire, se jubiló el 1 de agosto de 1974, tras licenciarse en 1957 por el NWC.</lex>
+			<lex lang="es" lid="Id3">Alan Shepard se licenció en Bellas Artes por la NWC en 1957. Nació en New Hampshire y murió el 1 de agosto de 1974.</lex>
+			<lex lang="es" lid="Id4">Alan Shepard nació en New Hampshire, obtuvo su maestría en 1957 en la NWC y se jubiló el 1 de agosto de 1974.</lex>
+			<lex lang="es" lid="Id5">Alan Shepard, nacido en New Hampshire y licenciado en 1957 por la NWC, se jubiló el 1 de agosto de 1974.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id13" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>Alan_Shepard | almaMater | "NWC, M.A. 1957"@en</otriple>
+				<otriple>Alan_Shepard | deathPlace | California</otriple>
+				<otriple>Alan_Shepard | birthPlace | New_Hampshire</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Alan_Shepard | almaMater | "NWC, M.A. 1957"</mtriple>
+				<mtriple>Alan_Shepard | deathPlace | California</mtriple>
+				<mtriple>Alan_Shepard | birthPlace | New_Hampshire</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Alan_Bartlett_Shepard | AlmaMáter | NWC,_M.A._1957</striple>
+				<striple>Alan_Bartlett_Shepard | LugarDeLaMuerte | California</striple>
+				<striple>Alan_Bartlett_Shepard | LugarDeNacimiento | Nuevo_Hampshire</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Alan Shepard was born in New Hampshire, graduated from NWC in 1957 with an M.A., and died in California.</lex>
+			<lex lang="en" lid="Id2">Alan Shepard who died in California, was born in New Hampshire and graduated from NWC with an MA in 1957.</lex>
+			<lex lang="es" lid="Id1">Alan Shepard nació en New Hampshire, se licenció en 1957 y murió en California.</lex>
+			<lex lang="es" lid="Id2">Alan Shepard, fallecido en California, nació en New Hampshire y se licenció en 1957 en la NWC.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id14" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>Alan_Shepard | almaMater | "NWC, M.A. 1957"@en</otriple>
+				<otriple>Alan_Shepard | deathPlace | California</otriple>
+				<otriple>Alan_Shepard | deathDate | "1998-07-21"^^xsd:date</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Alan_Shepard | almaMater | "NWC, M.A. 1957"</mtriple>
+				<mtriple>Alan_Shepard | deathPlace | California</mtriple>
+				<mtriple>Alan_Shepard | deathDate | "1998-07-21"</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Alan_Bartlett_Shepard | AlmaMáter | NWC,_M.A._1957</striple>
+				<striple>Alan_Bartlett_Shepard | LugarDeLaMuerte | California</striple>
+				<striple>Alan_Bartlett_Shepard | FechaDeDefunción | 21-07-1998</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Alan Shepard, who graduated from NWC with an M.A. in 1957, died on July 21st 1998 in California.</lex>
+			<lex lang="en" lid="Id2">Alan Shepard graduated from NWC, M.A. in 1957, he died in California on 1998-07-21.</lex>
+			<lex lang="en" lid="Id3">Alan Shepard (died on 1998-07-21 in California) graduated from NWC in 1957.</lex>
+			<lex lang="en" lid="Id4">Alan Shepard, who attended NWC, M.A. in 1957, died in California on July 21, 1998.</lex>
+			<lex lang="es" lid="Id1">Alan Shepard, que se graduó en la NWC con un máster en 1957, falleció el 21 de julio de 1998 en California.</lex>
+			<lex lang="es" lid="Id2">Alan Shepard se graduó en NWC, M.A. en 1957, murió en California el 21 de julio de 1998.</lex>
+			<lex lang="es" lid="Id3">Alan Shepard (fallecido el 21 de julio de 1998 en California) se graduó en la NWC en 1957.</lex>
+			<lex lang="es" lid="Id4">Alan Shepard, que cursó estudios en el NWC en 1957, falleció en California el 21 de julio de 1998.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id15" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>Alan_Shepard | birthPlace | New_Hampshire</otriple>
+				<otriple>Alan_Shepard | selection | 1959</otriple>
+				<otriple>Alan_Shepard | birthDate | "1923-11-18"^^xsd:date</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Alan_Shepard | birthPlace | New_Hampshire</mtriple>
+				<mtriple>Alan_Shepard | selectedByNasa | 1959</mtriple>
+				<mtriple>Alan_Shepard | birthDate | "1923-11-18"</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Alan_Bartlett_Shepard | LugarDeNacimiento | Nuevo_Hampshire</striple>
+				<striple>Alan_Bartlett_Shepard | SeleccionadoPorLaNasa | 1959</striple>
+				<striple>Alan_Bartlett_Shepard | FechaDeNacimiento | 18-11-1923</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Alan Shepard who was born on Nov 18, 1923 in New Hampshire was selected by NASA in 1959.</lex>
+			<lex lang="en" lid="Id2">Alan Shepard was born on November 18th, 1923 in New Hampshire and was selected by NASA in 1959.</lex>
+			<lex lang="en" lid="Id3">Alan Shepard was born in New Hampshire, chosen by NASA in 1959 and was born on the 18th of November 1923.</lex>
+			<lex lang="en" lid="Id4">Alan Shepard was born in New Hampshire on November 18th, 1923 and in 1959 NASA chose him as part of the space program.</lex>
+			<lex lang="en" lid="Id5">Alan Shepard, born in New Hampshire on November 18, 1923, was selected by NASA in 1959.</lex>
+			<lex lang="es" lid="Id1">Alan Shepard, nacido el 18 de noviembre de 1923 en New Hampshire, fue seleccionado por la NASA en 1959.</lex>
+			<lex lang="es" lid="Id2">Alan Shepard nació el 18 de noviembre de 1923 en New Hampshire y fue seleccionado por la NASA en 1959.</lex>
+			<lex lang="es" lid="Id3">Alan Shepard nació en New Hampshire, fue elegido por la NASA en 1959 y nació el 18 de noviembre de 1923.</lex>
+			<lex lang="es" lid="Id4">Alan Shepard nació en New Hampshire el 18 de noviembre de 1923 y en 1959 la NASA lo eligió para formar parte del programa espacial.</lex>
+			<lex lang="es" lid="Id5">Alan Shepard, nacido en New Hampshire el 18 de noviembre de 1923, fue seleccionado por la NASA en 1959.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id16" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>Alan_Shepard | deathPlace | California</otriple>
+				<otriple>Alan_Shepard | birthPlace | New_Hampshire</otriple>
+				<otriple>Alan_Shepard | selection | 1959</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Alan_Shepard | deathPlace | California</mtriple>
+				<mtriple>Alan_Shepard | birthPlace | New_Hampshire</mtriple>
+				<mtriple>Alan_Shepard | selectedByNasa | 1959</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Alan_Bartlett_Shepard | LugarDeLaMuerte | California</striple>
+				<striple>Alan_Bartlett_Shepard | LugarDeNacimiento | Nuevo_Hampshire</striple>
+				<striple>Alan_Bartlett_Shepard | SeleccionadoPorLaNasa | 1959</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Alan Shepard who died in California was born in New Hampshire and was selected by NASA in 1959.</lex>
+			<lex lang="en" lid="Id2">Alan Shepard, born in New Hampshire, but died in California, was hired by NASA in 1959.</lex>
+			<lex lang="en" lid="Id3">Alan Shepard, who was born in New Hampshire and in 1959 selected by NASA, died in California.</lex>
+			<lex lang="en" lid="Id4">Alan Shepard (born in New Hampshire) was selected by NASA in 1959 and passed away in California.</lex>
+			<lex lang="es" lid="Id1">Alan Shepard, fallecido en California, nació en New Hampshire y fue seleccionado por la NASA en 1959.</lex>
+			<lex lang="es" lid="Id2">Alan Shepard, nacido en New Hampshire pero fallecido en California, fue contratado por la NASA en 1959.</lex>
+			<lex lang="es" lid="Id3">Alan Shepard, nacido en New Hampshire y seleccionado en 1959 por la NASA, murió en California.</lex>
+			<lex lang="es" lid="Id4">Alan Shepard (nacido en New Hampshire) fue seleccionado por la NASA en 1959 y falleció en California.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id17" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>Alan_Shepard | occupation | Test_pilot</otriple>
+				<otriple>Alan_Shepard | birthPlace | New_Hampshire</otriple>
+				<otriple>Alan_Shepard | birthDate | "1923-11-18"^^xsd:date</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Alan_Shepard | occupation | Test_pilot</mtriple>
+				<mtriple>Alan_Shepard | birthPlace | New_Hampshire</mtriple>
+				<mtriple>Alan_Shepard | birthDate | "1923-11-18"</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Alan_Bartlett_Shepard | Ocupación | piloto_de_pruebas</striple>
+				<striple>Alan_Bartlett_Shepard | LugarDeNacimiento | Nuevo_Hampshire</striple>
+				<striple>Alan_Bartlett_Shepard | FechaDeNacimiento | 18-11-1923</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Test pilot Alan Shepard was born in New Hampshire on November 18, 1923.</lex>
+			<lex lang="en" lid="Id2">Test Pilot Alan Shepard was born November 18th, 1923 in New Hampshire.</lex>
+			<lex lang="en" lid="Id3">Alan Shepard, who served as a Test pilot, was born in New Hampshire on the 18th of November 1923.</lex>
+			<lex lang="en" lid="Id4">Alan Shepard (born on 1923-11-18 in New Hampshire) served as a Test Pilot.</lex>
+			<lex lang="en" lid="Id5">Alan Shepard was a test pilot who was born in New Hampshire on November 18th, 1923.</lex>
+			<lex lang="es" lid="Id1">El piloto de pruebas Alan Shepard nació en New Hampshire el 18 de noviembre de 1923.</lex>
+			<lex lang="es" lid="Id2">El piloto de pruebas Alan Shepard nació el 18 de noviembre de 1923 en New Hampshire.</lex>
+			<lex lang="es" lid="Id3">Alan Shepard, piloto de pruebas, nació en New Hampshire el 18 de noviembre de 1923.</lex>
+			<lex lang="es" lid="Id4">Alan Shepard (nacido el 18 de noviembre de 1923 en New Hampshire) sirvió como piloto de pruebas.</lex>
+			<lex lang="es" lid="Id5">Alan Shepard fue un piloto de pruebas que nació en New Hampshire el 18 de noviembre de 1923.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id18" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>Alan_Shepard | years | 1963</otriple>
+				<otriple>Alan_Shepard | ribbon | "American Defense Service ribbon.svg"@en</otriple>
+				<otriple>Alan_Shepard | birthPlace | New_Hampshire</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Alan_Shepard | servedAsChiefOfTheAstronautOfficeIn | 1963</mtriple>
+				<mtriple>Alan_Shepard | ribbonAward | "American Defense Service ribbon.svg"</mtriple>
+				<mtriple>Alan_Shepard | birthPlace | New_Hampshire</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Alan_Bartlett_Shepard | FueJefeDeLaOficinaDeAstronautasEn | 1963</striple>
+				<striple>Alan_Bartlett_Shepard | PremioCinta | Cinta_del_Servicio_de_Defensa_Americano.svg</striple>
+				<striple>Alan_Bartlett_Shepard | LugarDeNacimiento | Nuevo_Hampshire</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Alan Shepard, who was born in New Hampshire and was the Chief of the Astronaut Office in 1963, was awarded with the American Defense Service ribbon.</lex>
+			<lex lang="en" lid="Id2">Alan Shepard was born in New Hampshire, awarded the American Defense Service Ribbon, and was the Chief of the Astronaut Office in 1963.</lex>
+			<lex lang="en" lid="Id3">Alan Shepard was born in New Hampshire and served as Chief of the Astronaut Office in 1963, being awarded the American Defense Service ribbon.</lex>
+			<lex lang="en" lid="Id4">Alan Shepard (born in New Hampshire) served as Chief of the Astronaut Office in 1963 and was awarded an American Defense Service ribbon.</lex>
+			<lex lang="es" lid="Id1">Alan Shepard, nacido en New Hampshire y Jefe de la Oficina de Astronautas en 1963, fue condecorado con la cinta del Servicio de Defensa de Estados Unidos.</lex>
+			<lex lang="es" lid="Id2">Alan Shepard nació en New Hampshire, fue condecorado con la Cinta del Servicio de Defensa Estadounidense y fue Jefe de la Oficina de Astronautas en 1963.</lex>
+			<lex lang="es" lid="Id3">Alan Shepard nació en New Hampshire y fue Jefe de la Oficina de Astronautas en 1963, recibiendo la cinta del Servicio de Defensa Estadounidense.</lex>
+			<lex lang="es" lid="Id4">Alan Shepard (nacido en New Hampshire) fue Jefe de la Oficina de Astronautas en 1963 y recibió una cinta del Servicio de Defensa Estadounidense.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id19" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>Alan_Shepard | status | "Deceased"@en</otriple>
+				<otriple>Alan_Shepard | occupation | Test_pilot</otriple>
+				<otriple>Alan_Shepard | birthPlace | New_Hampshire</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Alan_Shepard | status | "Deceased"</mtriple>
+				<mtriple>Alan_Shepard | occupation | Test_pilot</mtriple>
+				<mtriple>Alan_Shepard | birthPlace | New_Hampshire</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Alan_Bartlett_Shepard | Estado | Fallecido</striple>
+				<striple>Alan_Bartlett_Shepard | Ocupación | piloto_de_pruebas</striple>
+				<striple>Alan_Bartlett_Shepard | LugarDeNacimiento | Nuevo_Hampshire</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Alan Shepard was born in New Hampshire, served as a test pilot and is dead.</lex>
+			<lex lang="en" lid="Id2">The test pilot Alan Shepard, who is now deceased, was born in New Hampshire.</lex>
+			<lex lang="en" lid="Id3">Alan Shepard, who was born in New Hampshire and served as a test pilot, is deceased.</lex>
+			<lex lang="en" lid="Id4">Alan Shepard, now deceased, was born in New Hampshire and served as a test pilot.</lex>
+			<lex lang="en" lid="Id5">Alan Shepard (born in New Hampshire) served as a test pilot but is now deceased.</lex>
+			<lex lang="es" lid="Id1">Alan Shepard nació en New Hampshire, fue piloto de pruebas y está muerto.</lex>
+			<lex lang="es" lid="Id2">El piloto de pruebas Alan Shepard, ya fallecido, nació en New Hampshire.</lex>
+			<lex lang="es" lid="Id3">Alan Shepard, nacido en New Hampshire y piloto de pruebas, ha fallecido.</lex>
+			<lex lang="es" lid="Id4">Alan Shepard, ya fallecido, nació en New Hampshire y fue piloto de pruebas.</lex>
+			<lex lang="es" lid="Id5">Alan Shepard (nacido en New Hampshire) fue piloto de pruebas, pero ya ha fallecido.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id20" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>Alan_Shepard | timeInSpace | "13017.0"^^&lt;http://dbpedia.org/datatype/minute&gt;</otriple>
+				<otriple>Alan_Shepard | mission | Apollo_14</otriple>
+				<otriple>Alan_Shepard | birthPlace | New_Hampshire</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Alan_Shepard | timeInSpace | "13017.0"(minutes)</mtriple>
+				<mtriple>Alan_Shepard | mission | Apollo_14</mtriple>
+				<mtriple>Alan_Shepard | birthPlace | New_Hampshire</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Alan_Bartlett_Shepard | TiempoEnElEspacio | 13017.0_(minutos)</striple>
+				<striple>Alan_Bartlett_Shepard | Misión | Apolo_14</striple>
+				<striple>Alan_Bartlett_Shepard | LugarDeNacimiento | Nuevo_Hampshire</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Alan Shepard's time in space is 13017 minutes, he was on the crew of Apollo 14 and his birth place was New Hampshire.</lex>
+			<lex lang="en" lid="Id2">Alan Shepard, who was born in New Hampshire, was a crew member aboard Apollo 14 and spent a total of 13017 minutes in space.</lex>
+			<lex lang="en" lid="Id3">Alan Shepard (born in New Hampshire) was a crew member of Apollo 14 and spent 13017.0 (minutes) in space.</lex>
+			<lex lang="en" lid="Id4">Alan Shepard was born in New Hampshire, was a crew member of Apollo 14 and spent 13017.0 minutes in space.</lex>
+			<lex lang="es" lid="Id1">El tiempo que Alan Shepard pasó en el espacio fue de 13017 minutos, formó parte de la tripulación del Apolo 14 y su lugar de nacimiento fue New Hampshire.</lex>
+			<lex lang="es" lid="Id2">Alan Shepard, nacido en New Hampshire, formó parte de la tripulación del Apolo 14 y pasó un total de 13017 minutos en el espacio.</lex>
+			<lex lang="es" lid="Id3">Alan Shepard (nacido en New Hampshire) fue miembro de la tripulación del Apolo 14 y pasó 13017,0 (minutos) en el espacio.</lex>
+			<lex lang="es" lid="Id4">Alan Shepard nació en New Hampshire, fue miembro de la tripulación del Apolo 14 y pasó 13017,0 minutos en el espacio.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id21" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+			<originaltripleset>
+				<otriple>Alan_Shepard | mission | Apollo_14</otriple>
+				<otriple>Alan_Shepard | birthPlace | New_Hampshire</otriple>
+				<otriple>Apollo_14 | operator | NASA</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Alan_Shepard | mission | Apollo_14</mtriple>
+				<mtriple>Alan_Shepard | birthPlace | New_Hampshire</mtriple>
+				<mtriple>Apollo_14 | operator | NASA</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Alan_Bartlett_Shepard | Misión | Apolo_14</striple>
+				<striple>Alan_Bartlett_Shepard | LugarDeNacimiento | Nuevo_Hampshire</striple>
+				<striple>Apolo_14 | Operador | Administración_Nacional_de_Aeronáutica_y_del_Espacio</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Born in New Hampshire, Alan Shepard was a crew member on NASA's Apollo 14 mission.</lex>
+			<lex lang="en" lid="Id2">Alan Shepard, born in New Hampshire, served as a crew member of the NASA operated Apollo 14.</lex>
+			<lex lang="en" lid="Id3">Alan Shepard, born in New Hampshire, was a member of NASA's Apollo 14 crew.</lex>
+			<lex lang="es" lid="Id1">Nacido en New Hampshire, Alan Shepard formó parte de la tripulación de la misión Apolo 14 de la NASA.</lex>
+			<lex lang="es" lid="Id2">Alan Shepard, nacido en New Hampshire, formó parte de la tripulación del Apolo 14, operado por la NASA.</lex>
+			<lex lang="es" lid="Id3">Alan Shepard, nacido en New Hampshire, formó parte de la tripulación del Apolo 14 de la NASA.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id22" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+			<originaltripleset>
+				<otriple>Apollo_12 | crew2Up | Alfred_Worden</otriple>
+				<otriple>Alan_Bean | mission | Apollo_12</otriple>
+				<otriple>Alan_Bean | birthPlace | Wheeler,_Texas</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Apollo_12 | backupPilot | Alfred_Worden</mtriple>
+				<mtriple>Alan_Bean | mission | Apollo_12</mtriple>
+				<mtriple>Alan_Bean | birthPlace | Wheeler,_Texas</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Apolo_12 | PilotoDeReserva | Alfred_Worden</striple>
+				<striple>Alan_L._Bean | Misión | Apolo_12</striple>
+				<striple>Alan_L._Bean | LugarDeNacimiento | Wheeler,_Texas</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Alan Bean, born in Wheeler, Texas, was a crew member of Apollo 12 where Alfred Worden served as the backup pilot.</lex>
+			<lex lang="en" lid="Id2">Alan Bean, born in Wheeler, Texas, was part of the crew of Apollo 12 where Alfred Worden served as backup pilot.</lex>
+			<lex lang="es" lid="Id1">Alan Bean, nacido en Wheeler, Texas, fue miembro de la tripulación del Apolo 12, en el que Alfred Worden actuó como piloto de reserva.</lex>
+			<lex lang="es" lid="Id2">Alan Bean, nacido en Wheeler (Texas), formó parte de la tripulación del Apolo 12, en la que Alfred Worden actuó como piloto de reserva.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id23" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+			<originaltripleset>
+				<otriple>Apollo_12 | crew2Up | Alfred_Worden</otriple>
+				<otriple>Alan_Bean | mission | Apollo_12</otriple>
+				<otriple>Apollo_12 | operator | NASA</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Apollo_12 | backupPilot | Alfred_Worden</mtriple>
+				<mtriple>Alan_Bean | mission | Apollo_12</mtriple>
+				<mtriple>Apollo_12 | operator | NASA</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Apolo_12 | PilotoDeReserva | Alfred_Worden</striple>
+				<striple>Alan_L._Bean | Misión | Apolo_12</striple>
+				<striple>Apolo_12 | Operador | Administración_Nacional_de_Aeronáutica_y_del_Espacio</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Alfred Worden was a backup pilot on the NASA operated Apollo 12 where Alan Bean served as a crew member.</lex>
+			<lex lang="en" lid="Id2">Alan Bean was on the crew of Apollo 12 operated by NASA, with Alfred Worden as a backup pilot .</lex>
+			<lex lang="en" lid="Id3">Alan Bean crewed the Apollo 12 operated by NASA, with Alfred Worden as the backup pilot.</lex>
+			<lex lang="es" lid="Id1">Alfred Worden fue piloto de reserva en el Apolo 12, operado por la NASA, en el que Alan Bean formaba parte de la tripulación.</lex>
+			<lex lang="es" lid="Id2">Alan Bean formaba parte de la tripulación del Apolo 12 operado por la NASA, con Alfred Worden como piloto de reserva .</lex>
+			<lex lang="es" lid="Id3">Alan Bean tripuló el Apolo 12 operado por la NASA, con Alfred Worden como piloto de reserva.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id24" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+			<originaltripleset>
+				<otriple>Apollo_8 | crew1Up | Frank_Borman</otriple>
+				<otriple>William_Anders | mission | Apollo_8</otriple>
+				<otriple>Apollo_8 | crew2Up | Buzz_Aldrin</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Apollo_8 | commander | Frank_Borman</mtriple>
+				<mtriple>William_Anders | mission | Apollo_8</mtriple>
+				<mtriple>Apollo_8 | backupPilot | Buzz_Aldrin</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Apolo_8 | Comandante | Frank_Borman</striple>
+				<striple>William_Anders | Misión | Apolo_8</striple>
+				<striple>Apolo_8 | PilotoDeReserva | Buzz_Aldrin</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Crew member William Anders and backup pilot Buzz Aldrin served under commander Frank Borman on Apollo 8.</lex>
+			<lex lang="en" lid="Id2">Frank Borman was a Commander with William Anders as crew member and Buzz Aldrin as the backup pilot on the Apollo 8 mission.</lex>
+			<lex lang="es" lid="Id1">El miembro de la tripulación William Anders y el piloto de reserva Buzz Aldrin sirvieron a las órdenes del comandante Frank Borman en el Apolo 8.</lex>
+			<lex lang="es" lid="Id2">Frank Borman fue Comandante con William Anders como tripulante y Buzz Aldrin como piloto de reserva en la misión Apolo 8.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id25" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>Buzz_Aldrin | awards | 20</otriple>
+				<otriple>Buzz_Aldrin | almaMater | "Massachusetts Institute of Technology, Sc.D. 1963"@en</otriple>
+				<otriple>Buzz_Aldrin | birthDate | "1930-01-20"^^xsd:date</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Buzz_Aldrin | awards | 20</mtriple>
+				<mtriple>Buzz_Aldrin | almaMater | "Massachusetts Institute of Technology, Sc.D. 1963"</mtriple>
+				<mtriple>Buzz_Aldrin | birthDate | "1930-01-20"</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Buzz_Aldrin | Premios | 20</striple>
+				<striple>Buzz_Aldrin | AlmaMáter | Instituto_Tecnológico_de_Massachusetts,_Sc.D._1963</striple>
+				<striple>Buzz_Aldrin | FechaDeNacimiento | 20-01-1930</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Buzz Aldrin won 20 awards, graduated from Massachusetts Institute of Technology with a Sc.D in 1963 and was born on 1930-01-20.</lex>
+			<lex lang="en" lid="Id2">Buzz Aldrin, born January 20, 1930, graduated in 1963 from MIT with a Sc.D. with 20 awards.</lex>
+			<lex lang="en" lid="Id3">Born on the twentieth of January, 1930, 1963 Massachusetts Institute of Technology, Sc.D. graduate Buzz Aldrin has won 20 awards.</lex>
+			<lex lang="en" lid="Id4">Graduating from Massachusetts Institute of Technology in 1963, Buzz Aldrin (born 1930-01-20) received 20 awards.</lex>
+			<lex lang="es" lid="Id1">Buzz Aldrin ganó 20 premios, se doctoró en el Instituto Tecnológico de Massachusetts en 1963 y nació el 20 de enero de 1930.</lex>
+			<lex lang="es" lid="Id2">Buzz Aldrin, nacido el 20 de enero de 1930, se graduó en 1963 en el MIT con una licenciatura y 20 premios.</lex>
+			<lex lang="es" lid="Id3">Nacido el veinte de enero de 1930, Buzz Aldrin, licenciado en Ciencias por el Instituto Tecnológico de Massachusetts en 1963, ha ganado 20 premios.</lex>
+			<lex lang="es" lid="Id4">Graduado por el Instituto Tecnológico de Massachusetts en 1963, Buzz Aldrin (nacido el 20 de enero de 1930) recibió 20 premios.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id26" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</otriple>
+				<otriple>Buzz_Aldrin | nationality | United_States</otriple>
+				<otriple>Buzz_Aldrin | status | "Retired"@en</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</mtriple>
+				<mtriple>Buzz_Aldrin | nationality | United_States</mtriple>
+				<mtriple>Buzz_Aldrin | status | "Retired"</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Buzz_Aldrin | LugarDeNacimiento | Glen_Ridge,_Nueva_Jersey</striple>
+				<striple>Buzz_Aldrin | Nacionalidad | Estados_Unidos</striple>
+				<striple>Buzz_Aldrin | Estado | Retirado</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Retired American Buzz Aldrin was born in Glen Ridge, NJ.</lex>
+			<lex lang="en" lid="Id2">Buzz Aldrin, now retired, is a US national, being born in Glen Ridge, New Jersey.</lex>
+			<lex lang="en" lid="Id3">Buzz Aldrin, born in Glen Ridge, New Jersey, in the USA, is now retired.</lex>
+			<lex lang="es" lid="Id1">El jubilado estadounidense Buzz Aldrin nació en Glen Ridge, Nueva Jersey.</lex>
+			<lex lang="es" lid="Id2">Buzz Aldrin, ya jubilado, es ciudadano estadounidense y nació en Glen Ridge (Nueva Jersey).</lex>
+			<lex lang="es" lid="Id3">Buzz Aldrin, nacido en Glen Ridge (Nueva Jersey, EE.UU.), ya está jubilado.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id27" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</otriple>
+				<otriple>Buzz_Aldrin | nationality | United_States</otriple>
+				<otriple>Buzz_Aldrin | mission | Apollo_11</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</mtriple>
+				<mtriple>Buzz_Aldrin | nationality | United_States</mtriple>
+				<mtriple>Buzz_Aldrin | mission | Apollo_11</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Buzz_Aldrin | LugarDeNacimiento | Glen_Ridge,_Nueva_Jersey</striple>
+				<striple>Buzz_Aldrin | Nacionalidad | Estados_Unidos</striple>
+				<striple>Buzz_Aldrin | Misión | Apolo_11</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Buzz Aldrin, a member of the Apollo 11 crew was born in Glen Ridge, New Jersey, US.</lex>
+			<lex lang="en" lid="Id2">Buzz Aldrin was an American crew member on Apollo 11, having been born in Glen Ridge, New Jersey.</lex>
+			<lex lang="en" lid="Id3">Buzz Aldrin was a US national, being born in Glen Ridge, New Jersey and was a member of the Apollo 11 crew.</lex>
+			<lex lang="en" lid="Id4">Buzz Aldrin (born at Glen Ridge in New Jersey, USA) was a crew member of Apollo 11.</lex>
+			<lex lang="en" lid="Id5">Buzz Aldrin is an American who was born in Glen Ridge, New Jersey and part of the Apollo 11 flight crew.</lex>
+			<lex lang="es" lid="Id1">Buzz Aldrin, miembro de la tripulación del Apolo 11, nació en Glen Ridge, Nueva Jersey, Estados Unidos.</lex>
+			<lex lang="es" lid="Id2">Buzz Aldrin, nacido en Glen Ridge (Nueva Jersey), fue uno de los tripulantes estadounidenses del Apolo 11.</lex>
+			<lex lang="es" lid="Id3">Buzz Aldrin era ciudadano estadounidense, nacido en Glen Ridge (Nueva Jersey) y miembro de la tripulación del Apolo 11.</lex>
+			<lex lang="es" lid="Id4">Buzz Aldrin (nacido en Glen Ridge, Nueva Jersey, EE.UU.) fue miembro de la tripulación del Apolo 11.</lex>
+			<lex lang="es" lid="Id5">Buzz Aldrin es un estadounidense nacido en Glen Ridge (Nueva Jersey) que formó parte de la tripulación del Apolo 11.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id28" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+			<originaltripleset>
+				<otriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</otriple>
+				<otriple>Buzz_Aldrin | nationality | United_States</otriple>
+				<otriple>Glen_Ridge,_New_Jersey | isPartOf | Essex_County,_New_Jersey</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</mtriple>
+				<mtriple>Buzz_Aldrin | nationality | United_States</mtriple>
+				<mtriple>Glen_Ridge,_New_Jersey | isPartOf | Essex_County,_New_Jersey</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Buzz_Aldrin | LugarDeNacimiento | Glen_Ridge,_Nueva_Jersey</striple>
+				<striple>Buzz_Aldrin | Nacionalidad | Estados_Unidos</striple>
+				<striple>Glen_Ridge,_Nueva_Jersey | FormaParteDe | Condado_de_Essex,_Nueva_Jersey</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Buzz Aldrin was a United States national born in Glen Ridge, New Jersey, in the Essex County.</lex>
+			<lex lang="en" lid="Id2">Buzz Aldrin was born in Glen Ridge located in the Essex County in New Jersey and is a US national.</lex>
+			<lex lang="en" lid="Id3">Buzz Aldrin was born in Glen Ridge, Essex County, New Jersey, USA.</lex>
+			<lex lang="es" lid="Id1">Buzz Aldrin era un ciudadano estadounidense nacido en Glen Ridge, Nueva Jersey, en el condado de Essex.</lex>
+			<lex lang="es" lid="Id2">Buzz Aldrin nació en Glen Ridge, en el condado de Essex, Nueva Jersey, y es ciudadano estadounidense.</lex>
+			<lex lang="es" lid="Id3">Buzz Aldrin nació en Glen Ridge, condado de Essex, Nueva Jersey, Estados Unidos.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id29" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+			<originaltripleset>
+				<otriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</otriple>
+				<otriple>Buzz_Aldrin | nationality | United_States</otriple>
+				<otriple>United_States | leader | Joe_Biden</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</mtriple>
+				<mtriple>Buzz_Aldrin | nationality | United_States</mtriple>
+				<mtriple>United_States | leader | Joe_Biden</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Buzz_Aldrin | LugarDeNacimiento | Glen_Ridge,_Nueva_Jersey</striple>
+				<striple>Buzz_Aldrin | Nacionalidad | Estados_Unidos</striple>
+				<striple>Estados_Unidos | Líder | Joe_Biden</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Buzz Aldrin is an American born in Glen Ridge, New Jersey in the United States of which Joe Biden is a leader.</lex>
+			<lex lang="en" lid="Id2">Buzz Aldrin was born in Glen Ridge, New Jersey as a United States national where Joe Biden is the leader.</lex>
+			<lex lang="en" lid="Id3">Buzz Aldrin was born in Glen Ridge, New Jersey and was a United States national where Joe Biden is the leader.</lex>
+			<lex lang="es" lid="Id1">Buzz Aldrin es un estadounidense nacido en Glen Ridge, Nueva Jersey en los Estados Unidos del cual Joe Biden es líder.</lex>
+			<lex lang="es" lid="Id2">Buzz Aldrin nació en Glen Ridge, Nueva Jersey, como ciudadano de los Estados Unidos, donde Joe Biden es el líder.</lex>
+			<lex lang="es" lid="Id3">Buzz Aldrin nació en Glen Ridge, Nueva Jersey, y era ciudadano de los Estados Unidos, donde Joe Biden es el líder.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id30" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</otriple>
+				<otriple>Buzz_Aldrin | occupation | Fighter_pilot</otriple>
+				<otriple>Buzz_Aldrin | almaMater | "Massachusetts Institute of Technology, Sc.D. 1963"@en</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</mtriple>
+				<mtriple>Buzz_Aldrin | occupation | Fighter_pilot</mtriple>
+				<mtriple>Buzz_Aldrin | almaMater | "Massachusetts Institute of Technology, Sc.D. 1963"</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Buzz_Aldrin | LugarDeNacimiento | Glen_Ridge,_Nueva_Jersey</striple>
+				<striple>Buzz_Aldrin | Ocupación | piloto_de_caza</striple>
+				<striple>Buzz_Aldrin | AlmaMáter | Instituto_Tecnológico_de_Massachusetts,_Sc.D._1963</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Buzz Aldrin who was born in Glen Ridge, New Jersey and graduated in 1963 from MIT with a Sc. D, served as a fighter pilot.</lex>
+			<lex lang="en" lid="Id2">Buzz Aldrin was born in Glen Ridge, New Jersey and graduated with a Sc.D from MIT in 1963 before becoming a fighter pilot.</lex>
+			<lex lang="en" lid="Id3">Buzz Aldrin, who was born in Glen Ridge, New Jersey graduated from MIT in 1963 with a Sc D and served as a fighter pilot.</lex>
+			<lex lang="en" lid="Id4">Buzz Aldrin (born in Glen Ridge New Jersey) was a fighter pilot and went to the Massachusetts Institute of Technology, Sc.D. 1963.</lex>
+			<lex lang="es" lid="Id1">Buzz Aldrin nació en Glen Ridge (Nueva Jersey) y se licenció en 1963 por el MIT. D, sirvió como piloto de caza.</lex>
+			<lex lang="es" lid="Id2">Buzz Aldrin nació en Glen Ridge (Nueva Jersey) y se licenció en el MIT en 1963 antes de convertirse en piloto de caza.</lex>
+			<lex lang="es" lid="Id3">Buzz Aldrin, nacido en Glen Ridge (Nueva Jersey), se licenció en 1963 por el MIT y fue piloto de caza.</lex>
+			<lex lang="es" lid="Id4">Buzz Aldrin (nacido en Glen Ridge, Nueva Jersey) fue piloto de caza y estudió en el Instituto Tecnológico de Massachusetts, donde se doctoró en 1963.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id31" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</otriple>
+				<otriple>Buzz_Aldrin | occupation | Fighter_pilot</otriple>
+				<otriple>Buzz_Aldrin | birthDate | "1930-01-20"^^xsd:date</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</mtriple>
+				<mtriple>Buzz_Aldrin | occupation | Fighter_pilot</mtriple>
+				<mtriple>Buzz_Aldrin | birthDate | "1930-01-20"</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Buzz_Aldrin | LugarDeNacimiento | Glen_Ridge,_Nueva_Jersey</striple>
+				<striple>Buzz_Aldrin | Ocupación | piloto_de_caza</striple>
+				<striple>Buzz_Aldrin | FechaDeNacimiento | 20-01-1930</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Born on January 2 1930 in Glen Ridge, NJ, Buzz Aldrin was a fighter pilot.</lex>
+			<lex lang="en" lid="Id2">Buzz Aldrin, who was born in Glen Ridge, New Jersey on 20 January 1930 served as a fighter pilot.</lex>
+			<lex lang="es" lid="Id1">Nacido el 2 de enero de 1930 en Glen Ridge, Nueva Jersey, Buzz Aldrin era piloto de caza.</lex>
+			<lex lang="es" lid="Id2">Buzz Aldrin, nacido en Glen Ridge (Nueva Jersey) el 20 de enero de 1930, fue piloto de caza.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id32" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+			<originaltripleset>
+				<otriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</otriple>
+				<otriple>Buzz_Aldrin | mission | Apollo_11</otriple>
+				<otriple>Glen_Ridge,_New_Jersey | isPartOf | Essex_County,_New_Jersey</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</mtriple>
+				<mtriple>Buzz_Aldrin | mission | Apollo_11</mtriple>
+				<mtriple>Glen_Ridge,_New_Jersey | isPartOf | Essex_County,_New_Jersey</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Buzz_Aldrin | LugarDeNacimiento | Glen_Ridge,_Nueva_Jersey</striple>
+				<striple>Buzz_Aldrin | Misión | Apolo_11</striple>
+				<striple>Glen_Ridge,_Nueva_Jersey | FormaParteDe | Condado_de_Essex,_Nueva_Jersey</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Buzz Aldrin, a crew member of Apollo 11, was born in the Essex County of Glen Ridge, New Jersey.</lex>
+			<lex lang="en" lid="Id2">Buzz Aldrin was born in Glen Ridge New Jersey situated in the Essex County, he was a crew member of Apollo 11.</lex>
+			<lex lang="es" lid="Id1">Buzz Aldrin, miembro de la tripulación del Apolo 11, nació en el condado de Essex de Glen Ridge, Nueva Jersey.</lex>
+			<lex lang="es" lid="Id2">Buzz Aldrin nació en Glen Ridge, Nueva Jersey, en el condado de Essex, y fue miembro de la tripulación del Apolo 11.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id33" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+			<originaltripleset>
+				<otriple>Buzz_Aldrin | mission | Apollo_11</otriple>
+				<otriple>Apollo_11 | crew2Up | William_Anders</otriple>
+				<otriple>Apollo_11 | operator | NASA</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Buzz_Aldrin | mission | Apollo_11</mtriple>
+				<mtriple>Apollo_11 | backupPilot | William_Anders</mtriple>
+				<mtriple>Apollo_11 | operator | NASA</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Buzz_Aldrin | Misión | Apolo_11</striple>
+				<striple>Apolo_11 | PilotoDeReserva | William_Anders</striple>
+				<striple>Apolo_11 | Operador | Administración_Nacional_de_Aeronáutica_y_del_Espacio</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Buzz Aldrin was a crew member of Apollo 11 where William Anders was a backup pilot and the mission was operated by NASA.</lex>
+			<lex lang="en" lid="Id2">Buzz Aldrin served as a crew member on the NASA organised Apollo 11 program, where William Anders was a backup pilot.</lex>
+			<lex lang="en" lid="Id3">Buzz Aldrin was a member of Nasa's Apollo 11 crew alongside William Anders the backup pilot.</lex>
+			<lex lang="es" lid="Id1">Buzz Aldrin formó parte de la tripulación del Apolo 11, en la que William Anders era piloto de refuerzo y la misión fue operada por la NASA.</lex>
+			<lex lang="es" lid="Id2">Buzz Aldrin formó parte de la tripulación del programa Apolo 11 organizado por la NASA, en el que William Anders era piloto de refuerzo.</lex>
+			<lex lang="es" lid="Id3">Buzz Aldrin formó parte de la tripulación del Apolo 11 de la NASA junto con William Anders, el piloto de refuerzo.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id34" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+			<originaltripleset>
+				<otriple>Buzz_Aldrin | mission | Apollo_11</otriple>
+				<otriple>Buzz_Aldrin | nationality | United_States</otriple>
+				<otriple>Apollo_11 | operator | NASA</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Buzz_Aldrin | mission | Apollo_11</mtriple>
+				<mtriple>Buzz_Aldrin | nationality | United_States</mtriple>
+				<mtriple>Apollo_11 | operator | NASA</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Buzz_Aldrin | Misión | Apolo_11</striple>
+				<striple>Buzz_Aldrin | Nacionalidad | Estados_Unidos</striple>
+				<striple>Apolo_11 | Operador | Administración_Nacional_de_Aeronáutica_y_del_Espacio</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Buzz Aldrin, a US national, was a crew member on Apollo 11 operated by NASA.</lex>
+			<lex lang="en" lid="Id2">Buzz Aldrin was a US national who served as a crew member of the NASA operated Apollo 11.</lex>
+			<lex lang="en" lid="Id3">Buzz Aldrin, born in the USA, was a crew member of the NASA operated Apollo 11.</lex>
+			<lex lang="es" lid="Id1">Buzz Aldrin, de nacionalidad estadounidense, fue miembro de la tripulación del Apolo 11 operado por la NASA.</lex>
+			<lex lang="es" lid="Id2">Buzz Aldrin era un ciudadano estadounidense que formó parte de la tripulación del Apolo 11, operado por la NASA.</lex>
+			<lex lang="es" lid="Id3">Buzz Aldrin, nacido en EE.UU., fue miembro de la tripulación del Apolo 11, operado por la NASA.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id35" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>Buzz_Aldrin | mission | Apollo_11</otriple>
+				<otriple>Buzz_Aldrin | occupation | Fighter_pilot</otriple>
+				<otriple>Buzz_Aldrin | birthDate | "1930-01-20"^^xsd:date</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Buzz_Aldrin | mission | Apollo_11</mtriple>
+				<mtriple>Buzz_Aldrin | occupation | Fighter_pilot</mtriple>
+				<mtriple>Buzz_Aldrin | birthDate | "1930-01-20"</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Buzz_Aldrin | Misión | Apolo_11</striple>
+				<striple>Buzz_Aldrin | Ocupación | piloto_de_caza</striple>
+				<striple>Buzz_Aldrin | FechaDeNacimiento | 20-01-1930</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Buzz Aldrin was a crew member on Apollo 11, performed as a fighter pilot and his birth date was 1930 01 20.</lex>
+			<lex lang="en" lid="Id2">Fighter pilot Buzz Aldrin, who was born on January 20 1930, was a member of Apollo 11's crew.</lex>
+			<lex lang="en" lid="Id3">Buzz Aldrin was both a fighter pilot and a flight member of Apollo 11 who was born on January 20th, 1930.</lex>
+			<lex lang="en" lid="Id4">Buzz Aldrin was born on 1930-01-20, was a crew member of Apollo 11 and his main occupation was as a Fighter pilot.</lex>
+			<lex lang="es" lid="Id1">Buzz Aldrin fue miembro de la tripulación del Apolo 11, actuó como piloto de caza y su fecha de nacimiento fue 1930 01 20.</lex>
+			<lex lang="es" lid="Id2">El piloto de caza Buzz Aldrin, nacido el 20 de enero de 1930, formó parte de la tripulación del Apolo 11.</lex>
+			<lex lang="es" lid="Id3">Buzz Aldrin, nacido el 20 de enero de 1930, fue piloto de caza y miembro del Apolo 11.</lex>
+			<lex lang="es" lid="Id4">Buzz Aldrin nació el 20 de enero de 1930, fue miembro de la tripulación del Apolo 11 y su principal ocupación fue la de piloto de caza.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id36" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+			<originaltripleset>
+				<otriple>Buzz_Aldrin | mission | Apollo_11</otriple>
+				<otriple>Buzz_Aldrin | timeInSpace | "52.0"^^&lt;http://dbpedia.org/datatype/minute&gt;</otriple>
+				<otriple>Apollo_11 | operator | NASA</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Buzz_Aldrin | mission | Apollo_11</mtriple>
+				<mtriple>Buzz_Aldrin | timeInSpace | "52.0"(minutes)</mtriple>
+				<mtriple>Apollo_11 | operator | NASA</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Buzz_Aldrin | Misión | Apolo_11</striple>
+				<striple>Buzz_Aldrin | TiempoEnElEspacio | 52.0_(minutos)</striple>
+				<striple>Apolo_11 | Operador | Administración_Nacional_de_Aeronáutica_y_del_Espacio</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Buzz Aldrin, as part of the NASA operated Apollo 11 program, spent 52 minutes in space.</lex>
+			<lex lang="en" lid="Id2">On the NASA operated Apollo 11 program, crew member Buzz Aldrin spent 52.0 minutes in space.</lex>
+			<lex lang="es" lid="Id1">Buzz Aldrin, como parte del programa Apolo 11 operado por la NASA, pasó 52 minutos en el espacio.</lex>
+			<lex lang="es" lid="Id2">En el programa Apolo 11, operado por la NASA, el tripulante Buzz Aldrin pasó 52,0 minutos en el espacio.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id37" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+			<originaltripleset>
+				<otriple>Buzz_Aldrin | mission | Apollo_11</otriple>
+				<otriple>Buzz_Aldrin | selection | 1963</otriple>
+				<otriple>Apollo_11 | operator | NASA</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Buzz_Aldrin | mission | Apollo_11</mtriple>
+				<mtriple>Buzz_Aldrin | selectedByNasa | 1963</mtriple>
+				<mtriple>Apollo_11 | operator | NASA</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Buzz_Aldrin | Misión | Apolo_11</striple>
+				<striple>Buzz_Aldrin | SeleccionadoPorLaNasa | 1963</striple>
+				<striple>Apolo_11 | Operador | Administración_Nacional_de_Aeronáutica_y_del_Espacio</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Buzz Aldrin was hired by NASA in 1963 for the Apollo 11 mission.</lex>
+			<lex lang="en" lid="Id2">Buzz Aldrin was hired by NASA in 1963 to take part in Apollo 11.</lex>
+			<lex lang="es" lid="Id1">Buzz Aldrin fue contratado por la NASA en 1963 para la misión Apolo 11.</lex>
+			<lex lang="es" lid="Id2">Buzz Aldrin fue contratado por la NASA en 1963 para participar en el Apolo 11.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id38" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>Buzz_Aldrin | selection | 1963</otriple>
+				<otriple>Buzz_Aldrin | mission | Apollo_11</otriple>
+				<otriple>Buzz_Aldrin | status | "Retired"@en</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Buzz_Aldrin | selectedByNasa | 1963</mtriple>
+				<mtriple>Buzz_Aldrin | mission | Apollo_11</mtriple>
+				<mtriple>Buzz_Aldrin | status | "Retired"</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Buzz_Aldrin | SeleccionadoPorLaNasa | 1963</striple>
+				<striple>Buzz_Aldrin | Misión | Apolo_11</striple>
+				<striple>Buzz_Aldrin | Estado | Retirado</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Buzz Aldrin was hired by NASA in 1963, was a member of the Apollo 11 crew and is retired.</lex>
+			<lex lang="en" lid="Id2">Buzz Aldrin, who is now retired, was selected by NASA in 1963 and served as a crew member of Apollo 11.</lex>
+			<lex lang="en" lid="Id3">Buzz Aldrin was hired by NASA in 1963, was a crew member on Apollo 11 and is retired.</lex>
+			<lex lang="es" lid="Id1">Buzz Aldrin fue contratado por la NASA en 1963, formó parte de la tripulación del Apolo 11 y está jubilado.</lex>
+			<lex lang="es" lid="Id2">Buzz Aldrin, ya jubilado, fue seleccionado por la NASA en 1963 y formó parte de la tripulación del Apolo 11.</lex>
+			<lex lang="es" lid="Id3">Buzz Aldrin fue contratado por la NASA en 1963, formó parte de la tripulación del Apolo 11 y está jubilado.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id39" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+			<originaltripleset>
+				<otriple>California | gemstone | Benitoite</otriple>
+				<otriple>Alan_Shepard | deathPlace | California</otriple>
+				<otriple>California | senators | Dianne_Feinstein</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>California | gemstone | Benitoite</mtriple>
+				<mtriple>Alan_Shepard | deathPlace | California</mtriple>
+				<mtriple>California | senators | Dianne_Feinstein</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>California | PiedraPreciosa | Benitoíta</striple>
+				<striple>Alan_Bartlett_Shepard | LugarDeLaMuerte | California</striple>
+				<striple>California | Senadores | Dianne_Feinstein</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Dianne Feinstein is senator in California, the same place Benitoite was found and Alan Shepard died.</lex>
+			<lex lang="en" lid="Id2">Alan Shepard died in California. California's senator was Dianne Feinstein and Benitoite is the gemstone.</lex>
+			<lex lang="en" lid="Id3">Alan Shepard died in California where senator is Dianne Feinstein and gemstone is Benitoite.</lex>
+			<lex lang="es" lid="Id1">Dianne Feinstein es senadora en California, el mismo lugar donde se encontró Benitoite y murió Alan Shepard.</lex>
+			<lex lang="es" lid="Id2">Alan Shepard murió en California. La senadora de California era Dianne Feinstein y la Benitoita es la piedra preciosa.</lex>
+			<lex lang="es" lid="Id3">Alan Shepard murió en California, donde la senadora es Dianne Feinstein y la piedra preciosa es la Benitoita.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id40" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+			<originaltripleset>
+				<otriple>Dallas | partsType | List_of_counties_in_Texas</otriple>
+				<otriple>Elliot_See | birthPlace | Dallas</otriple>
+				<otriple>Dallas | part | Collin_County,_Texas</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Dallas | partsType | List_of_counties_in_Texas</mtriple>
+				<mtriple>Elliot_See | birthPlace | Dallas</mtriple>
+				<mtriple>Dallas | part | Collin_County,_Texas</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Dallas | TipoDePiezas | Listado_de_condados_de_Texas</striple>
+				<striple>Elliot_See | LugarDeNacimiento | Dallas</striple>
+				<striple>Dallas | Pieza | Condado_de_Collin,_Texas</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Elliot See was born in Dallas, Collin County, Texas.</lex>
+			<lex lang="en" lid="Id2">Elliot See was born in Dallas, located in the Collin County in Texas.</lex>
+			<lex lang="es" lid="Id1">Elliot See nació en Dallas, condado de Collin, Texas.</lex>
+			<lex lang="es" lid="Id2">Elliot See nació en Dallas, en el condado de Collin (Texas).</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id41" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+			<originaltripleset>
+				<otriple>Distinguished_Service_Medal_(United_States_Navy) | higher | Department_of_Commerce_Gold_Medal</otriple>
+				<otriple>Alan_Shepard | birthPlace | New_Hampshire</otriple>
+				<otriple>Alan_Shepard | awards | Distinguished_Service_Medal_(United_States_Navy)</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Distinguished_Service_Medal_(United_States_Navy) | higher | Department_of_Commerce_Gold_Medal</mtriple>
+				<mtriple>Alan_Shepard | birthPlace | New_Hampshire</mtriple>
+				<mtriple>Alan_Shepard | award | Distinguished_Service_Medal_(United_States_Navy)</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Medalla_al_Servicio_Distinguido_(Marina_de_los_Estados_Unidos) | Superior | Medalla_de_Oro_del_Departamento_de_Comercio</striple>
+				<striple>Alan_Bartlett_Shepard | LugarDeNacimiento | Nuevo_Hampshire</striple>
+				<striple>Alan_Bartlett_Shepard | Premio | Medalla_al_Servicio_Distinguido_(Marina_de_los_Estados_Unidos)</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Alan Shepard, born in New Hampshire, was awarded the Distinguished Service Medal (a higher award than the Department of Commerce Gold Medal) by the United States Navy.</lex>
+			<lex lang="en" lid="Id2">Alan Shepard, born in New Hampshire, was awarded the United States Navy Distinguished Service Medal which ranks higher than Department of Commerce Gold Medal.</lex>
+			<lex lang="en" lid="Id3">Alan Shepard, who was born in New Hampshire, was awarded the United States Navy Distinguished Service Medal, which is higher than the department of commerce gold medal.</lex>
+			<lex lang="es" lid="Id1">Alan Shepard, nacido en New Hampshire, fue condecorado por la Marina de los Estados Unidos con la Medalla al Servicio Distinguido (un galardón superior a la Medalla de Oro del Departamento de Comercio).</lex>
+			<lex lang="es" lid="Id2">Alan Shepard, nacido en New Hampshire, fue condecorado con la Medalla al Servicio Distinguido de la Marina de los Estados Unidos, de rango superior a la Medalla de Oro del Departamento de Comercio.</lex>
+			<lex lang="es" lid="Id3">Alan Shepard, nacido en New Hampshire, fue condecorado con la Medalla al Servicio Distinguido de la Marina de los Estados Unidos, superior a la medalla de oro del Departamento de Comercio.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id42" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>Elliot_See | almaMater | University_of_Texas_at_Austin</otriple>
+				<otriple>Elliot_See | deathPlace | St._Louis</otriple>
+				<otriple>Elliot_See | deathDate | "1966-02-28"^^xsd:date</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Elliot_See | almaMater | University_of_Texas_at_Austin</mtriple>
+				<mtriple>Elliot_See | deathPlace | St._Louis</mtriple>
+				<mtriple>Elliot_See | deathDate | "1966-02-28"</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Elliot_See | AlmaMáter | Universidad_de_Texas_en_Austin</striple>
+				<striple>Elliot_See | LugarDeLaMuerte | San_Luis</striple>
+				<striple>Elliot_See | FechaDeDefunción | 28-02-1966</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Elliot See, who graduated from the University of Texas at Austin, died in St Louis on 28 February 1966.</lex>
+			<lex lang="en" lid="Id2">Elliot See, a student from the University of Texas in Austin, died in St Louis on the 28th of February 1966.</lex>
+			<lex lang="en" lid="Id3">Elliot See went to University of Texas at Austin and died in St. Louis on 1966-02-08.</lex>
+			<lex lang="es" lid="Id1">Elliot See, licenciado por la Universidad de Texas en Austin, falleció en San Luis el 28 de febrero de 1966.</lex>
+			<lex lang="es" lid="Id2">Elliot See, estudiante de la Universidad de Texas en Austin, murió en San Luis el 28 de febrero de 1966.</lex>
+			<lex lang="es" lid="Id3">Elliot See estudió en la Universidad de Texas en Austin y falleció en San Luis el 8 de febrero de 1966.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id43" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>Elliot_See | almaMater | University_of_Texas_at_Austin</otriple>
+				<otriple>Elliot_See | status | "Deceased"@en</otriple>
+				<otriple>Elliot_See | occupation | Test_pilot</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Elliot_See | almaMater | University_of_Texas_at_Austin</mtriple>
+				<mtriple>Elliot_See | status | "Deceased"</mtriple>
+				<mtriple>Elliot_See | occupation | Test_pilot</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Elliot_See | AlmaMáter | Universidad_de_Texas_en_Austin</striple>
+				<striple>Elliot_See | Estado | Fallecido</striple>
+				<striple>Elliot_See | Ocupación | piloto_de_pruebas</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Elliot See who was a student of the University of Texas at Austin and served as a test pilot, has died.</lex>
+			<lex lang="en" lid="Id2">Elliot See, a student at the University of Texas in Austin who was also a test pilot, has died.</lex>
+			<lex lang="en" lid="Id3">Elliot See went to the University of Texas at Austin and served as a test pilot and is now deceased.</lex>
+			<lex lang="es" lid="Id1">Elliot See, estudiante de la Universidad de Texas en Austin y piloto de pruebas, ha fallecido.</lex>
+			<lex lang="es" lid="Id2">Elliot See, estudiante de la Universidad de Texas en Austin que también era piloto de pruebas, ha fallecido.</lex>
+			<lex lang="es" lid="Id3">Elliot See estudió en la Universidad de Texas en Austin, fue piloto de pruebas y ya ha fallecido.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id44" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+			<originaltripleset>
+				<otriple>Elliot_See | almaMater | University_of_Texas_at_Austin</otriple>
+				<otriple>University_of_Texas_at_Austin | affiliation | University_of_Texas_System</otriple>
+				<otriple>University_of_Texas_at_Austin | president | Gregory_L._Fenves</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Elliot_See | almaMater | University_of_Texas_at_Austin</mtriple>
+				<mtriple>University_of_Texas_at_Austin | affiliation | University_of_Texas_System</mtriple>
+				<mtriple>University_of_Texas_at_Austin | president | Gregory_L._Fenves</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Elliot_See | AlmaMáter | Universidad_de_Texas_en_Austin</striple>
+				<striple>Universidad_de_Texas_en_Austin | Afiliación | Sistema_Universitario_de_Texas</striple>
+				<striple>Universidad_de_Texas_en_Austin | Presidente | Gregory_L._Fenves</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">The University of Texas at Austin, where Elliot See was a student and Gregory L. Fenves is president, is affiliated with the University of Texas System.</lex>
+			<lex lang="en" lid="Id2">The University of Texas at Austin, the president of which is Gregory L. Fenves, is affiliated with the University of Texas System, and was previously attended by Elliot See.</lex>
+			<lex lang="en" lid="Id3">Gregory L Fenves is the appointed president of the University of Texas at Austin (affiliated with University of Texas System) from which Elliot See graduated.</lex>
+			<lex lang="es" lid="Id1">La Universidad de Texas en Austin, donde Elliot See fue estudiante y Gregory L. Fenves es presidente, está afiliada al Sistema de la Universidad de Texas.</lex>
+			<lex lang="es" lid="Id2">La Universidad de Texas en Austin, cuyo presidente es Gregory L. Fenves, está afiliada al Sistema de la Universidad de Texas, y a ella asistió anteriormente Elliot See.</lex>
+			<lex lang="es" lid="Id3">Gregory L Fenves es el presidente designado de la Universidad de Texas en Austin (afiliada al sistema de la Universidad de Texas), de la que Elliot See es licenciado.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id45" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+			<originaltripleset>
+				<otriple>Elliot_See | almaMater | University_of_Texas_at_Austin</otriple>
+				<otriple>University_of_Texas_at_Austin | affiliations | University_of_Texas_System</otriple>
+				<otriple>University_of_Texas_at_Austin | athletics | Big_12_Conference</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Elliot_See | almaMater | University_of_Texas_at_Austin</mtriple>
+				<mtriple>University_of_Texas_at_Austin | affiliation | University_of_Texas_System</mtriple>
+				<mtriple>University_of_Texas_at_Austin | competeIn | Big_12_Conference</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Elliot_See | AlmaMáter | Universidad_de_Texas_en_Austin</striple>
+				<striple>Universidad_de_Texas_en_Austin | Afiliación | Sistema_Universitario_de_Texas</striple>
+				<striple>Universidad_de_Texas_en_Austin | CompetirEn | Big_12_Conference</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">The university of Texas at Austin, where Elliot See was a student, is affiliated to the university of Texas system and is competing in the Big 12 Conference.</lex>
+			<lex lang="en" lid="Id2">Elliot See was a student at University of Texas Austin, which is affiliated to the University of Texas system, and which will compete in the Big 12 conference.</lex>
+			<lex lang="en" lid="Id3">Elliot See's attended University of Texas at Austin which competed in Big 12 Conference and is affiliated with the University of Texas system.</lex>
+			<lex lang="es" lid="Id1">La universidad de Texas en Austin, donde estudiaba Elliot See, está afiliada al sistema universitario de Texas y compite en la Big 12 Conference.</lex>
+			<lex lang="es" lid="Id2">Elliot See estudiaba en la Universidad de Texas Austin, afiliada al sistema de la Universidad de Texas, y que competirá en la conferencia Big 12.</lex>
+			<lex lang="es" lid="Id3">Elliot See estudió en la Universidad de Texas en Austin, que compite en la Conferencia Big 12 y está afiliada al sistema de la Universidad de Texas.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id46" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+			<originaltripleset>
+				<otriple>Elliot_See | almaMater | University_of_Texas_at_Austin</otriple>
+				<otriple>University_of_Texas_at_Austin | mascot | Hook_'em_(mascot)</otriple>
+				<otriple>Elliot_See | birthPlace | Dallas</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Elliot_See | almaMater | University_of_Texas_at_Austin</mtriple>
+				<mtriple>University_of_Texas_at_Austin | mascot | Hook_'em_(mascot)</mtriple>
+				<mtriple>Elliot_See | birthPlace | Dallas</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Elliot_See | AlmaMáter | Universidad_de_Texas_en_Austin</striple>
+				<striple>Universidad_de_Texas_en_Austin | Mascota | Hook_'em_(mascota)</striple>
+				<striple>Elliot_See | LugarDeNacimiento | Dallas</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Elliot See, who was born in Dallas, attended the University of Texas at Austin (whose mascot is Hook'em).</lex>
+			<lex lang="en" lid="Id2">Elliot See was born in Dallas, and graduated from the University of Texas at Austin where Hook 'em is the mascot.</lex>
+			<lex lang="en" lid="Id3">The mascot of the University of Texas at Austin, which Elliot See (born Dallas) attended is Hook'em.</lex>
+			<lex lang="es" lid="Id1">Elliot See, nacido en Dallas, estudió en la Universidad de Texas en Austin (cuya mascota es Hook'em).</lex>
+			<lex lang="es" lid="Id2">Elliot See nació en Dallas y se licenció en la Universidad de Texas en Austin, donde Hook 'em es la mascota.</lex>
+			<lex lang="es" lid="Id3">La mascota de la Universidad de Texas en Austin, a la que asistió Elliot See (nacido en Dallas), es Hook'em.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id47" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>Elliot_See | birthPlace | Dallas</otriple>
+				<otriple>Elliot_See | occupation | Test_pilot</otriple>
+				<otriple>Elliot_See | selection | 1962</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Elliot_See | birthPlace | Dallas</mtriple>
+				<mtriple>Elliot_See | occupation | Test_pilot</mtriple>
+				<mtriple>Elliot_See | selectedByNasa | 1962</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Elliot_See | LugarDeNacimiento | Dallas</striple>
+				<striple>Elliot_See | Ocupación | piloto_de_pruebas</striple>
+				<striple>Elliot_See | SeleccionadoPorLaNasa | 1962</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Elliot See, who was born in Dallas and flew as a test pilot, was selected by NASA in 1962.</lex>
+			<lex lang="en" lid="Id2">Elliot See, who was chosen by NASA in 1962 to serve as a test pilot, was born in Dallas.</lex>
+			<lex lang="en" lid="Id3">Born in Dallas, Elliot See served as a test pilot before being selected by NASA in 1962.</lex>
+			<lex lang="en" lid="Id4">Elliot See was born in Dallas and became a test pilot who was chosen by NASA in 1962.</lex>
+			<lex lang="en" lid="Id5">Elliot See was born in Dallas and worked as a Test pilot before being selected by NASA in 1962.</lex>
+			<lex lang="es" lid="Id1">Elliot See, nacido en Dallas y piloto de pruebas, fue seleccionado por la NASA en 1962.</lex>
+			<lex lang="es" lid="Id2">Elliot See, elegido por la NASA en 1962 como piloto de pruebas, nació en Dallas.</lex>
+			<lex lang="es" lid="Id3">Nacido en Dallas, Elliot See fue piloto de pruebas antes de ser seleccionado por la NASA en 1962.</lex>
+			<lex lang="es" lid="Id4">Elliot See nació en Dallas y se convirtió en piloto de pruebas elegido por la NASA en 1962.</lex>
+			<lex lang="es" lid="Id5">Elliot See nació en Dallas y trabajó como piloto de pruebas antes de ser seleccionado por la NASA en 1962.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id48" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+			<originaltripleset>
+				<otriple>Elliot_See | birthPlace | Dallas</otriple>
+				<otriple>Elliot_See | status | "Deceased"@en</otriple>
+				<otriple>Dallas | part | Collin_County,_Texas</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Elliot_See | birthPlace | Dallas</mtriple>
+				<mtriple>Elliot_See | status | "Deceased"</mtriple>
+				<mtriple>Dallas | part | Collin_County,_Texas</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Elliot_See | LugarDeNacimiento | Dallas</striple>
+				<striple>Elliot_See | Estado | Fallecido</striple>
+				<striple>Dallas | Pieza | Condado_de_Collin,_Texas</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">The late Elliot See was born in Dallas, which is located in the Collin County in Texas.</lex>
+			<lex lang="en" lid="Id2">The deceased Elliot See was born in Dallas, Collin County, Texas.</lex>
+			<lex lang="en" lid="Id3">Elliot See, who was born in Dallas (Collin County, Texas), has died.</lex>
+			<lex lang="es" lid="Id1">El fallecido Elliot See nació en Dallas, en el condado texano de Collin.</lex>
+			<lex lang="es" lid="Id2">El fallecido Elliot See nació en Dallas, condado de Collin, Texas.</lex>
+			<lex lang="es" lid="Id3">Elliot See, nacido en Dallas (condado de Collin, Texas), ha fallecido.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id49" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>Elliot_See | deathPlace | St._Louis</otriple>
+				<otriple>Elliot_See | birthDate | "1927-07-23"^^xsd:date</otriple>
+				<otriple>Elliot_See | occupation | Test_pilot</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Elliot_See | deathPlace | St._Louis</mtriple>
+				<mtriple>Elliot_See | birthDate | "1927-07-23"</mtriple>
+				<mtriple>Elliot_See | occupation | Test_pilot</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Elliot_See | LugarDeLaMuerte | San_Luis</striple>
+				<striple>Elliot_See | FechaDeNacimiento | 23-07-1927</striple>
+				<striple>Elliot_See | Ocupación | piloto_de_pruebas</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Elliot See was born on July 23rd, 1927 served as a test pilot and died in St Louis.</lex>
+			<lex lang="en" lid="Id2">Elliot See was a test pilot who was born on 23 July 1027 and died in St Louis.</lex>
+			<lex lang="en" lid="Id3">Elliot See died in St. Louis, was born on the 23rd of July 1927 and performed as a test pilot.</lex>
+			<lex lang="en" lid="Id4">Elliot See was a test pilot who was born on July 23rd, 1927 and died in St. Louis.</lex>
+			<lex lang="es" lid="Id1">Elliot See nació el 23 de julio de 1927, fue piloto de pruebas y murió en San Luis.</lex>
+			<lex lang="es" lid="Id2">Elliot See fue un piloto de pruebas que nació el 23 de julio de 1027 y murió en San Luis.</lex>
+			<lex lang="es" lid="Id3">Elliot See murió en San Luis, nació el 23 de julio de 1927 y actuó como piloto de pruebas.</lex>
+			<lex lang="es" lid="Id4">Elliot See fue un piloto de pruebas que nació el 23 de julio de 1927 y murió en San Luis.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id50" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>Elliot_See | deathPlace | St._Louis</otriple>
+				<otriple>Elliot_See | birthPlace | Dallas</otriple>
+				<otriple>Elliot_See | nationality | United_States</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Elliot_See | deathPlace | St._Louis</mtriple>
+				<mtriple>Elliot_See | birthPlace | Dallas</mtriple>
+				<mtriple>Elliot_See | nationality | United_States</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Elliot_See | LugarDeLaMuerte | San_Luis</striple>
+				<striple>Elliot_See | LugarDeNacimiento | Dallas</striple>
+				<striple>Elliot_See | Nacionalidad | Estados_Unidos</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">American Elliot See was born in Dallas and died in St. Louis.</lex>
+			<lex lang="en" lid="Id2">Elliot See was born in Dallas, US and died in St Louis.</lex>
+			<lex lang="en" lid="Id3">Elliot See died in St Louis, was born in Dallas and his nationality is United States.</lex>
+			<lex lang="en" lid="Id4">Elliot See was born in Dallas in the United States and later died in St. Louis.</lex>
+			<lex lang="es" lid="Id1">El estadounidense Elliot See nació en Dallas y murió en San Luis.</lex>
+			<lex lang="es" lid="Id2">Elliot See nació en Dallas, EE.UU. y murió en St Louis.</lex>
+			<lex lang="es" lid="Id3">Elliot See murió en San Luis, nació en Dallas y su nacionalidad es estadounidense.</lex>
+			<lex lang="es" lid="Id4">Elliot See nació en Dallas (Estados Unidos) y murió más tarde en San Luis.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id51" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+			<originaltripleset>
+				<otriple>Elliot_See | occupation | Test_pilot</otriple>
+				<otriple>Dallas | partsType | List_of_counties_in_Texas</otriple>
+				<otriple>Elliot_See | birthPlace | Dallas</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Elliot_See | occupation | Test_pilot</mtriple>
+				<mtriple>Dallas | partsType | List_of_counties_in_Texas</mtriple>
+				<mtriple>Elliot_See | birthPlace | Dallas</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Elliot_See | Ocupación | piloto_de_pruebas</striple>
+				<striple>Dallas | TipoDePiezas | Listado_de_condados_de_Texas</striple>
+				<striple>Elliot_See | LugarDeNacimiento | Dallas</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Elliot See was a test pilot originating from Dallas, Texas.</lex>
+			<lex lang="en" lid="Id2">Elliot See, who was born in Dallas, Texas, performed as a test pilot.</lex>
+			<lex lang="es" lid="Id1">Elliot See era un piloto de pruebas originario de Dallas, Texas.</lex>
+			<lex lang="es" lid="Id2">Elliot See, nacido en Dallas (Texas), actuó como piloto de pruebas.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id52" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+			<originaltripleset>
+				<otriple>St._Louis | leaderName | Francis_G._Slay</otriple>
+				<otriple>Elliot_See | deathPlace | St._Louis</otriple>
+				<otriple>St._Louis | isPartOf | Kingdom_of_France</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>St._Louis | leader | Francis_G._Slay</mtriple>
+				<mtriple>Elliot_See | deathPlace | St._Louis</mtriple>
+				<mtriple>St._Louis | isPartOf | Kingdom_of_France</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>San_Luis | Líder | Francis_G._Slay</striple>
+				<striple>Elliot_See | LugarDeLaMuerte | San_Luis</striple>
+				<striple>San_Luis | FormaParteDe | Reino_de_Francia</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Elliot See died in St. Louis that used to be a part of the kingdom of France and is headed by Francis G. Slay.</lex>
+			<lex lang="en" lid="Id2">Elliot See died in St Louis (belonged to the Kingdom of France) where the mayor is Francis G Slay.</lex>
+			<lex lang="en" lid="Id3">St Louis, which was also a place in the Kingdom of France, is where Elliot See died and whose mayor is Francis G Slay.</lex>
+			<lex lang="es" lid="Id1">Elliot See murió en St. Louis, que solía ser parte del reino de Francia y está encabezado por Francis G. Slay.</lex>
+			<lex lang="es" lid="Id2">Elliot See murió en San Luis (perteneciente al Reino de Francia), cuyo alcalde es Francis G Slay.</lex>
+			<lex lang="es" lid="Id3">St Louis, que también fue un lugar del Reino de Francia, es donde murió Elliot See y cuyo alcalde es Francis G Slay.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id53" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+			<originaltripleset>
+				<otriple>William_Anders | dateOfRet | "1969-09-01"^^xsd:date</otriple>
+				<otriple>British_Hong_Kong | representative | Chris_Patten</otriple>
+				<otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>William_Anders | dateOfRetirement | "1969-09-01"</mtriple>
+				<mtriple>British_Hong_Kong | representative | Chris_Patten</mtriple>
+				<mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>William_Anders | FechaDeJubilación | 01-09-1969</striple>
+				<striple>Hong_Kong_Británico | Representante | Chris_Patten</striple>
+				<striple>William_Anders | LugarDeNacimiento | Hong_Kong_Británico</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Represented by Chris Patten, British Hong Kong is known as the birth place of William Anders, who retired on September 1st, 1969.</lex>
+			<lex lang="en" lid="Id2">William Anders, who retired on the 1st of September 1969, was born in British Hong Kong where Chris Patten served as a representative.</lex>
+			<lex lang="es" lid="Id1">Representado por Chris Patten, el Hong Kong británico es conocido por ser el lugar de nacimiento de William Anders, que se retiró el 1 de septiembre de 1969.</lex>
+			<lex lang="es" lid="Id2">William Anders, que se jubiló el 1 de septiembre de 1969, nació en el Hong Kong británico, donde Chris Patten ejerció de representante.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id54" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>William_Anders | dateOfRet | "1969-09-01"^^xsd:date</otriple>
+				<otriple>William_Anders | birthDate | "1933-10-17"^^xsd:date</otriple>
+				<otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>William_Anders | dateOfRetirement | "1969-09-01"</mtriple>
+				<mtriple>William_Anders | birthDate | "1933-10-17"</mtriple>
+				<mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>William_Anders | FechaDeJubilación | 01-09-1969</striple>
+				<striple>William_Anders | FechaDeNacimiento | 17-10-1933</striple>
+				<striple>William_Anders | LugarDeNacimiento | Hong_Kong_Británico</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">William Anders retired on 1 September 1969, having been born on 17 October 1933 in British Hong Kong.</lex>
+			<lex lang="en" lid="Id2">William Anders, who was born in British Hong Kong on October 17th, 1933 retired 1969-09-01.</lex>
+			<lex lang="en" lid="Id3">William Anders, born in British Hong Kong on the 17th of October 1933, retired on the 1st of September 1969.</lex>
+			<lex lang="en" lid="Id4">William Anders was born on 1933-10-17 in British Hong Kong and retired on 1969-09-01.</lex>
+			<lex lang="en" lid="Id5">William Anders (born on 1933-10-17 in British Hong Kong) retired on 1969-09-01 date.</lex>
+			<lex lang="es" lid="Id1">William Anders, nacido el 17 de octubre de 1933 en el Hong Kong británico, se jubiló el 1 de septiembre de 1969.</lex>
+			<lex lang="es" lid="Id2">William Anders, nacido en la Hong Kong británica el 17 de octubre de 1933, se jubiló el 1 de septiembre de 1969.</lex>
+			<lex lang="es" lid="Id3">William Anders, nacido en la Hong Kong británica el 17 de octubre de 1933, se jubiló el 1 de septiembre de 1969.</lex>
+			<lex lang="es" lid="Id4">William Anders nació el 17 de octubre de 1933 en la Hong Kong británica y se jubiló el 1 de septiembre de 1969.</lex>
+			<lex lang="es" lid="Id5">William Anders (nacido el 17 de octubre de 1933 en la Hong Kong británica) se jubiló el 1 de septiembre de 1969.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id55" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>William_Anders | dateOfRet | "1969-09-01"^^xsd:date</otriple>
+				<otriple>William_Anders | occupation | Fighter_pilot</otriple>
+				<otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>William_Anders | dateOfRetirement | "1969-09-01"</mtriple>
+				<mtriple>William_Anders | occupation | Fighter_pilot</mtriple>
+				<mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>William_Anders | FechaDeJubilación | 01-09-1969</striple>
+				<striple>William_Anders | Ocupación | piloto_de_caza</striple>
+				<striple>William_Anders | LugarDeNacimiento | Hong_Kong_Británico</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Fighter Pilot William Anders was born in British Hong Kong and retired on 1st September 1969.</lex>
+			<lex lang="en" lid="Id2">The fighter pilot William Anders, born in British Hong Kong, retired Sept 1st 1969.</lex>
+			<lex lang="en" lid="Id3">William Anders, a fighter pilot from British Hong Kong, retired on September 1, 1969.</lex>
+			<lex lang="es" lid="Id1">El piloto de caza William Anders nació en la Hong Kong británica y se retiró el 1 de septiembre de 1969.</lex>
+			<lex lang="es" lid="Id2">El piloto de caza William Anders, nacido en la Hong Kong británica, se retiró el 1 de septiembre de 1969.</lex>
+			<lex lang="es" lid="Id3">William Anders, piloto de caza del Hong Kong británico, se retiró el 1 de septiembre de 1969.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id56" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>William_Anders | dateOfRet | "1969-09-01"^^xsd:date</otriple>
+				<otriple>William_Anders | mission | Apollo_8</otriple>
+				<otriple>William_Anders | almaMater | "AFIT, M.S. 1962"@en</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>William_Anders | dateOfRetirement | "1969-09-01"</mtriple>
+				<mtriple>William_Anders | mission | Apollo_8</mtriple>
+				<mtriple>William_Anders | almaMater | "AFIT, M.S. 1962"</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>William_Anders | FechaDeJubilación | 01-09-1969</striple>
+				<striple>William_Anders | Misión | Apolo_8</striple>
+				<striple>William_Anders | AlmaMáter | AFIT,_M.S._1962</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">William Anders, who graduated, with an M.S., from AFIT in 1962 and served as a crew member on Apollo 8, retired 1969-09-01.</lex>
+			<lex lang="en" lid="Id2">William Anders retired on the 1st of September 1969, was a member of the Apollo 8 crew and in 1962 received an M.S. from his alma Mater, AFIT.</lex>
+			<lex lang="en" lid="Id3">William Anders, who graduated from AFIT, M.S. in 1962 and crewed Apollo 8, retired on September 1, 1969.</lex>
+			<lex lang="en" lid="Id4">William Anders graduated with an M.S. in 1962 from AFIT, became a member of the Apollo 8 team and retired on September 1st, 1969.</lex>
+			<lex lang="es" lid="Id1">William Anders, que se licenció en la AFIT en 1962 y formó parte de la tripulación del Apolo 8, se jubiló el 1 de septiembre de 1969.</lex>
+			<lex lang="es" lid="Id2">William Anders se jubiló el 1 de septiembre de 1969, fue miembro de la tripulación del Apolo 8 y en 1962 recibió un máster de su alma mater, el AFIT.</lex>
+			<lex lang="es" lid="Id3">William Anders, licenciado en AFIT en 1962 y tripulante del Apolo 8, se jubiló el 1 de septiembre de 1969.</lex>
+			<lex lang="es" lid="Id4">William Anders se licenció en 1962 por la AFIT, formó parte del equipo del Apolo 8 y se retiró el 1 de septiembre de 1969.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id57" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>William_Anders | occupation | Fighter_pilot</otriple>
+				<otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
+				<otriple>William_Anders | mission | Apollo_8</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>William_Anders | occupation | Fighter_pilot</mtriple>
+				<mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
+				<mtriple>William_Anders | mission | Apollo_8</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>William_Anders | Ocupación | piloto_de_caza</striple>
+				<striple>William_Anders | LugarDeNacimiento | Hong_Kong_Británico</striple>
+				<striple>William_Anders | Misión | Apolo_8</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">William Anders, born in British Hong Kong, was a fighter pilot a member of Apollo 8's crew.</lex>
+			<lex lang="en" lid="Id2">British Hong Kong born William Anders was a fighter pilot on Apollo 8.</lex>
+			<lex lang="en" lid="Id3">William Anders was born in British Hong Kong, served as a fighter pilot and was a member of the Apollo 8 crew.</lex>
+			<lex lang="en" lid="Id4">William Anders (born in British Hong Kong) served as a fighter pilot and was a crew member of Apollo 8.</lex>
+			<lex lang="en" lid="Id5">William Anders (born in British Hong Kong) was a part of Apollo 8 and served as fighter pilot.</lex>
+			<lex lang="es" lid="Id1">William Anders, nacido en la Hong Kong británica, fue piloto de caza y miembro de la tripulación del Apolo 8.</lex>
+			<lex lang="es" lid="Id2">El británico William Anders, nacido en Hong Kong, fue piloto de caza en el Apolo 8.</lex>
+			<lex lang="es" lid="Id3">William Anders nació en la Hong Kong británica, sirvió como piloto de caza y fue miembro de la tripulación del Apolo 8.</lex>
+			<lex lang="es" lid="Id4">William Anders (nacido en la Hong Kong británica) fue piloto de caza y miembro de la tripulación del Apolo 8.</lex>
+			<lex lang="es" lid="Id5">William Anders (nacido en la Hong Kong británica) formó parte del Apolo 8 y sirvió como piloto de caza.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id58" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>William_Anders | title | United_States_Ambassador_to_Norway</otriple>
+				<otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
+				<otriple>William_Anders | almaMater | "AFIT, M.S. 1962"@en</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>William_Anders | title | United_States_Ambassador_to_Norway</mtriple>
+				<mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
+				<mtriple>William_Anders | almaMater | "AFIT, M.S. 1962"</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>William_Anders | Título | Embajador_de_Estados_Unidos_en_Noruega</striple>
+				<striple>William_Anders | LugarDeNacimiento | Hong_Kong_Británico</striple>
+				<striple>William_Anders | AlmaMáter | AFIT,_M.S._1962</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Born in British Hong Kong, William Anders graduated AFIT, M.S. in 1962 and is now the US Ambassador to Norway.</lex>
+			<lex lang="en" lid="Id2">United States Ambassador to Norway, William Anders, was born in British Hong Kong and graduated from his alma Mater, AFIT, in 1962 with an M.S.</lex>
+			<lex lang="en" lid="Id3">William Anders was born in British Hong Kong and went to AFIT, M.S. 1962 and was the United States Ambassador to Norway.</lex>
+			<lex lang="es" lid="Id1">Nacido en el Hong Kong británico, William Anders se licenció en AFIT en 1962 y actualmente es Embajador de Estados Unidos en Noruega.</lex>
+			<lex lang="es" lid="Id2">El embajador de Estados Unidos en Noruega, William Anders, nació en la Hong Kong británica y se licenció en 1962 por la AFIT, su alma mater.</lex>
+			<lex lang="es" lid="Id3">William Anders nació en la Hong Kong británica, estudió en la AFIT, hizo un máster en 1962 y fue embajador de Estados Unidos en Noruega.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id59" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+			<originaltripleset>
+				<otriple>William_Anders | mission | Apollo_8</otriple>
+				<otriple>Apollo_8 | crewMembers | Frank_Borman</otriple>
+				<otriple>Apollo_8 | operator | NASA</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>William_Anders | mission | Apollo_8</mtriple>
+				<mtriple>Apollo_8 | crewMembers | Frank_Borman</mtriple>
+				<mtriple>Apollo_8 | operator | NASA</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>William_Anders | Misión | Apolo_8</striple>
+				<striple>Apolo_8 | MiembrosDeLaTripulación | Frank_Borman</striple>
+				<striple>Apolo_8 | Operador | Administración_Nacional_de_Aeronáutica_y_del_Espacio</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">NASA's Apollo 8 crew included Frank Borman and William Anders.</lex>
+			<lex lang="en" lid="Id2">William Anders and Frank Borman were both crew members on Apollo 8 operated by NASA.</lex>
+			<lex lang="en" lid="Id3">William Anders and Frank Borman were crew members of NASA's Apollo 8.</lex>
+			<lex lang="es" lid="Id1">La tripulación del Apolo 8 de la NASA estaba formada por Frank Borman y William Anders.</lex>
+			<lex lang="es" lid="Id2">William Anders y Frank Borman formaron parte de la tripulación del Apolo 8, operado por la NASA.</lex>
+			<lex lang="es" lid="Id3">William Anders y Frank Borman fueron miembros de la tripulación del Apolo 8 de la NASA.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id60" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+			<originaltripleset>
+				<otriple>William_Anders | mission | Apollo_8</otriple>
+				<otriple>William_Anders | almaMater | "AFIT, M.S. 1962"@en</otriple>
+				<otriple>Apollo_8 | crewMembers | Frank_Borman</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>William_Anders | mission | Apollo_8</mtriple>
+				<mtriple>William_Anders | almaMater | "AFIT, M.S. 1962"</mtriple>
+				<mtriple>Apollo_8 | crewMembers | Frank_Borman</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>William_Anders | Misión | Apolo_8</striple>
+				<striple>William_Anders | AlmaMáter | AFIT,_M.S._1962</striple>
+				<striple>Apolo_8 | MiembrosDeLaTripulación | Frank_Borman</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">William Anders received an MS from his alma Mater, AFIT, in 1962 and served as a crew member of Apollo 8 along with Frank Borman.</lex>
+			<lex lang="en" lid="Id2">William Anders, who graduated from AFIT in 1962 with an M.S., was a crew member of Apollo 8 along with Frank Borman.</lex>
+			<lex lang="en" lid="Id3">William Anders, who graduated with an M.S., from AFIT in 1962, served as a crew member on Apollo 8 alongside Frank Borman.</lex>
+			<lex lang="es" lid="Id1">William Anders se licenció en su alma mater, la AFIT, en 1962 y formó parte de la tripulación del Apolo 8 junto con Frank Borman.</lex>
+			<lex lang="es" lid="Id2">William Anders, que se graduó en la AFIT en 1962 con un máster, fue miembro de la tripulación del Apolo 8 junto con Frank Borman.</lex>
+			<lex lang="es" lid="Id3">William Anders, licenciado por la AFIT en 1962, formó parte de la tripulación del Apolo 8 junto a Frank Borman.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id61" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>William_Anders | selection | 1963</otriple>
+				<otriple>William_Anders | birthDate | "1933-10-17"^^xsd:date</otriple>
+				<otriple>William_Anders | mission | Apollo_8</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>William_Anders | selectedByNasa | 1963</mtriple>
+				<mtriple>William_Anders | birthDate | "1933-10-17"</mtriple>
+				<mtriple>William_Anders | mission | Apollo_8</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>William_Anders | SeleccionadoPorLaNasa | 1963</striple>
+				<striple>William_Anders | FechaDeNacimiento | 17-10-1933</striple>
+				<striple>William_Anders | Misión | Apolo_8</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">William Anders, born 1933-10-17, joined NASA in 1963 to serve as a crew member on Apollo 8.</lex>
+			<lex lang="en" lid="Id2">William Anders, who was born on the 17th of October, 1933, joined NASA in 1963 and served as a member of the crew of Apollo 8.</lex>
+			<lex lang="en" lid="Id3">William Anders, born 17 October 1933 was chosen by NASA in 1963 and served as a crew member on Apollo 8.</lex>
+			<lex lang="es" lid="Id1">William Anders, nacido el 17 de octubre de 1933, se incorporó a la NASA en 1963 para formar parte de la tripulación del Apolo 8.</lex>
+			<lex lang="es" lid="Id2">William Anders, nacido el 17 de octubre de 1933, se incorporó a la NASA en 1963 y formó parte de la tripulación del Apolo 8.</lex>
+			<lex lang="es" lid="Id3">William Anders, nacido el 17 de octubre de 1933, fue elegido por la NASA en 1963 y formó parte de la tripulación del Apolo 8.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id62" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>William_Anders | selection | 1963</otriple>
+				<otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
+				<otriple>William_Anders | almaMater | "AFIT, M.S. 1962"@en</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>William_Anders | selectedByNasa | 1963</mtriple>
+				<mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
+				<mtriple>William_Anders | almaMater | "AFIT, M.S. 1962"</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>William_Anders | SeleccionadoPorLaNasa | 1963</striple>
+				<striple>William_Anders | LugarDeNacimiento | Hong_Kong_Británico</striple>
+				<striple>William_Anders | AlmaMáter | AFIT,_M.S._1962</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">William Anders, born in British Hong Kong graduated with an MS from AFIT in 1962 and was chosen by NASA in 1963.</lex>
+			<lex lang="en" lid="Id2">William Anders was born in British Hong Kong, graduated from AFIT in 1962 with a master of science, and joined NASA in 1963.</lex>
+			<lex lang="es" lid="Id1">William Anders, nacido en la Hong Kong británica, se licenció en AFIT en 1962 y fue elegido por la NASA en 1963.</lex>
+			<lex lang="es" lid="Id2">William Anders nació en la Hong Kong británica, se licenció en Ciencias por la AFIT en 1962 y se incorporó a la NASA en 1963.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id63" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>William_Anders | selection | 1963</otriple>
+				<otriple>William_Anders | nationality | United_States</otriple>
+				<otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>William_Anders | selectedByNasa | 1963</mtriple>
+				<mtriple>William_Anders | nationality | United_States</mtriple>
+				<mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>William_Anders | SeleccionadoPorLaNasa | 1963</striple>
+				<striple>William_Anders | Nacionalidad | Estados_Unidos</striple>
+				<striple>William_Anders | LugarDeNacimiento | Hong_Kong_Británico</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">William Anders joined NASA in 1963, is an American and was born in British Hong Kong.</lex>
+			<lex lang="es" lid="Id1">William Anders entró en la NASA en 1963, es estadounidense y nació en el Hong Kong británico.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id64" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>William_Anders | selection | 1963</otriple>
+				<otriple>William_Anders | occupation | Fighter_pilot</otriple>
+				<otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>William_Anders | selectedByNasa | 1963</mtriple>
+				<mtriple>William_Anders | occupation | Fighter_pilot</mtriple>
+				<mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>William_Anders | SeleccionadoPorLaNasa | 1963</striple>
+				<striple>William_Anders | Ocupación | piloto_de_caza</striple>
+				<striple>William_Anders | LugarDeNacimiento | Hong_Kong_Británico</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">William Anders was born in British Hong Kong, then served as a Fighter pilot when he was chosen by NASA in 1963.</lex>
+			<lex lang="en" lid="Id2">William Anders was a fighter pilot who joined NASA in 1963 having been born in British Hong Kong.</lex>
+			<lex lang="en" lid="Id3">William Anders was born in British Hong Kong and his occupation was a Fighter pilot when selected by NASA in 1963.</lex>
+			<lex lang="es" lid="Id1">William Anders nació en la Hong Kong británica y fue piloto de caza cuando fue elegido por la NASA en 1963.</lex>
+			<lex lang="es" lid="Id2">William Anders era un piloto de caza que se incorporó a la NASA en 1963 tras haber nacido en la Hong Kong británica.</lex>
+			<lex lang="es" lid="Id3">William Anders nació en la Hong Kong británica y su ocupación era piloto de caza cuando fue seleccionado por la NASA en 1963.</lex>
+		</entry>
+	</entries>
+</benchmark>

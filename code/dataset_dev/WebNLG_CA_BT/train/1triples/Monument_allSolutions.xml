@@ -1,0 +1,1237 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Monument" eid="Id1" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Categoría | Propiedad_contribuidora</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>11è_Monument_de_la_Infanteria_de_Mississipí | PàginaD'IniciDeL'Usuari | propietat_contribuïdora</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument falls under the category of Contributing property.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry Monument is categorized as a Contributing Property.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry Monument is categorised as a contributing property.</lex>
+      <lex lang="es" lid="Id1">El Monumento a la 11ª Infantería del Mississippi pertenece a la categoría de Bien contribuyente.</lex>
+      <lex lang="es" lid="Id2">El Monumento a la 11ª Infantería del Mississippi está clasificado como Bien de Interés Cultural.</lex>
+      <lex lang="es" lid="Id3">El Monumento a la 11ª Infantería del Mississippi está clasificado como bien contribuyente.</lex>
+      <lex lang="ca" lid="Id1">El 11è Monument de la Infanteria del Mississipí cau en la categoria de propietat contribuent.</lex>
+      <lex lang="ca" lid="Id2">El 11è Monument de la Infanteria del Mississipí està categoritzat com a propietat contribuent.</lex>
+      <lex lang="ca" lid="Id3">L'11è Monument de la Infanteria del Mississipí es classifica com una propietat que contribueix.</lex>
+      <lex lang="en_bt" lid="Id1">The 11th Mississippi Infantry Monument falls into the category of contributing property.</lex>
+      <lex lang="en_bt" lid="Id2">The 11th Mississippi Infantry Monument is categorized as a contributing property.</lex>
+      <lex lang="en_bt" lid="Id3">The 11th Mississippi Infantry Monument is classified as a contributing property.</lex>
+      </entry>
+    <entry category="Monument" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | country | "United States"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | country | "United States"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_la_11ª_Infantería_del_Mississippi | País | Estados_Unidos</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>11th_Mississippi_Infantry_Monument | country | "United States"</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>11è_Monument_de_la_Infanteria_de_Mississipí | País | Estats_Units_d'Amèrica</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument is located in the United States.</lex>
+      <lex lang="en" lid="Id2">11th Mississippi Infantry Monument is in the United States.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry Monument is in the United States.</lex>
+      <lex lang="en" lid="Id4">The 11th Mississippi Infantry Monument is based in the US.</lex>
+      <lex lang="es" lid="Id1">El monumento a la 11ª Infantería de Mississippi se encuentra en Estados Unidos.</lex>
+      <lex lang="es" lid="Id2">El Monumento a la 11ª Infantería del Mississippi se encuentra en Estados Unidos.</lex>
+      <lex lang="es" lid="Id3">El Monumento a la 11ª Infantería de Mississippi se encuentra en Estados Unidos.</lex>
+      <lex lang="es" lid="Id4">El monumento a la 11ª Infantería del Mississippi se encuentra en EE.</lex>
+      <lex lang="ca" lid="Id1">El 11è Mississippi Infantry Monument es troba als Estats Units.</lex>
+      <lex lang="ca" lid="Id2">11th Mississippi Infantry Monument és als Estats Units.</lex>
+      <lex lang="ca" lid="Id3">L'11è Monument d'Infanteria de Mississipí es troba als Estats Units.</lex>
+      <lex lang="ca" lid="Id4">L'11è Monument d'Infanteria de Mississipí està basat als Estats Units.</lex>
+      <lex lang="en_bt" lid="Id1">The 11th Mississippi Infantry Monument is located in the United States.</lex>
+      <lex lang="en_bt" lid="Id2">11th Mississippi Infantry Monument is in the United States.</lex>
+      <lex lang="en_bt" lid="Id3">The 11th Mississippi Infantry Monument is located in the United States.</lex>
+      <lex lang="en_bt" lid="Id4">The 11th Mississippi Infantry Monument is based in the United States.</lex>
+      </entry>
+    <entry category="Monument" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Ubicación | Condado_de_Adams</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>11è_Monument_de_la_Infanteria_de_Mississipí | Ubicació | Comtat_d'Adams,_Pennsylvania</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">11th Mississippi Infantry Monument's location is Adams County, Pennsylvania.</lex>
+      <lex lang="en" lid="Id2">The location of the 11th Mississippi Infantry Monument is Adams County, Pennsylvania.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania.</lex>
+      <lex lang="en" lid="Id4">11th Mississippi Infantry Monument is found in the Adams County in Pennsylvania.</lex>
+      <lex lang="es" lid="Id1">La ubicación del monumento a la 11ª Infantería del Mississippi es el condado de Adams, Pensilvania.</lex>
+      <lex lang="es" lid="Id2">La ubicación del monumento a la 11ª Infantería del Mississippi es el condado de Adams, Pensilvania.</lex>
+      <lex lang="es" lid="Id3">El monumento a la 11ª Infantería del Mississippi se encuentra en el condado de Adams, Pensilvania.</lex>
+      <lex lang="es" lid="Id4">El monumento a la 11ª Infantería del Mississippi se encuentra en el condado de Adams, en Pensilvania.</lex>
+      <lex lang="ca" lid="Id1">El 11è Monument de la Infanteria del Mississipí es troba al comtat d'Adams, Pensilvània.</lex>
+      <lex lang="ca" lid="Id2">La ubicació de l'11è Monument d'Infanteria de Mississipí és el Comtat d'Adams, Pennsilvània.</lex>
+      <lex lang="ca" lid="Id3">El Monument a la 11a Infanteria de Mississipí es troba al comtat d'Adams, Pennsilvània.</lex>
+      <lex lang="ca" lid="Id4">El 11è Monument de la Infanteria del Mississipí es troba al comtat d'Adams a Pensilvània.</lex>
+      <lex lang="en_bt" lid="Id1">The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania.</lex>
+      <lex lang="en_bt" lid="Id2">The location of the 11th Mississippi Infantry Monument is Adams County, Pennsylvania.</lex>
+      <lex lang="en_bt" lid="Id3">The Monument to the 11th Mississippi Infantry is located in Adams County, Pennsylvania.</lex>
+      <lex lang="en_bt" lid="Id4">The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania.</lex>
+      </entry>
+    <entry category="Monument" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | range | Seminary_Ridge</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Seminary_Ridge</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Ubicación | Seminary_Ridge</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>11th_Mississippi_Infantry_Monument | location | Seminary_Ridge</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>11è_Monument_de_la_Infanteria_de_Mississipí | Ubicació | Seminari_Ridge</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument is located at Seminary Ridge.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry Monument's location is in the Seminary Ridge.</lex>
+      <lex lang="es" lid="Id1">El monumento a la 11ª Infantería de Mississippi se encuentra en Seminary Ridge.</lex>
+      <lex lang="es" lid="Id2">El monumento a la 11ª Infantería de Mississippi se encuentra en Seminary Ridge.</lex>
+      <lex lang="ca" lid="Id1">L'11è Monument d'Infanteria de Mississipí es troba a Seminary Ridge.</lex>
+      <lex lang="ca" lid="Id2">L'11è Monument de la Infanteria de Mississipí es troba a Seminary Ridge.</lex>
+      <lex lang="en_bt" lid="Id1">The 11th Mississippi Infantry Monument is located at Seminary Ridge.</lex>
+      <lex lang="en_bt" lid="Id2">The 11th Mississippi Infantry Monument is located at Seminary Ridge.</lex>
+      </entry>
+    <entry category="Monument" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Municipio | Gettysburg,_Pennsylvania</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>11è_Monument_de_la_Infanteria_de_Mississipí | Municipi | Gettysburgusa._kgm</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument is in the municipality of Gettysburg, Pennsylvania.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry Monument is placed in the municipality of Gettysburg in Pennsylvania.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry Monument is in the municipality of Gettysburg in Pennsylvania.</lex>
+      <lex lang="en" lid="Id4">The 11th Mississippi Infantry Monument is located in Gettysburg, Pennsylvania.</lex>
+      <lex lang="en" lid="Id5">11th Mississippi Infantry Monument is in Gettysburg, Pennsylvania.</lex>
+      <lex lang="en" lid="Id6">The 11th Mississippi Infantry Monument is located in the municipality of Gettysburg, Pennsylvania.</lex>
+      <lex lang="en" lid="Id7">The municipality for the 11th Mississippi Infantry Monument is Gettysburg, Pennsylvania.</lex>
+      <lex lang="es" lid="Id1">El monumento a la 11ª Infantería de Mississippi se encuentra en el municipio de Gettysburg, Pensilvania.</lex>
+      <lex lang="es" lid="Id2">El monumento a la 11ª Infantería de Mississippi está situado en el municipio de Gettysburg, en Pensilvania.</lex>
+      <lex lang="es" lid="Id3">El monumento a la 11ª Infantería de Mississippi se encuentra en el municipio de Gettysburg, en Pensilvania.</lex>
+      <lex lang="es" lid="Id4">El monumento a la 11ª Infantería de Mississippi se encuentra en Gettysburg, Pensilvania.</lex>
+      <lex lang="es" lid="Id5">El monumento a la 11ª Infantería del Mississippi se encuentra en Gettysburg, Pensilvania.</lex>
+      <lex lang="es" lid="Id6">El monumento a la 11ª Infantería de Mississippi se encuentra en el municipio de Gettysburg, Pensilvania.</lex>
+      <lex lang="es" lid="Id7">El municipio del Monumento a la 11ª Infantería de Mississippi es Gettysburg, Pensilvania.</lex>
+      <lex lang="ca" lid="Id1">L'11th Mississippi Infantry Monument es troba al municipi de Gettysburg, Pennsilvània.</lex>
+      <lex lang="ca" lid="Id2">El 11è Monument de la Infanteria del Mississipí es troba al municipi de Gettysburg a Pensilvània.</lex>
+      <lex lang="ca" lid="Id3">L'11è Monument d'Infanteria de Mississipí es troba al municipi de Gettysburg a Pennsilvània.</lex>
+      <lex lang="ca" lid="Id4">El Monument a la 11a Infanteria de Mississipí es troba a Gettysburg, Pennsilvània.</lex>
+      <lex lang="ca" lid="Id5">El 11è Monument de la Infanteria del Mississipí està a Gettysburg, Pensilvània.</lex>
+      <lex lang="ca" lid="Id6">El 11è Monument de la Infanteria del Mississipí es troba al municipi de Gettysburg, Pensilvània.</lex>
+      <lex lang="ca" lid="Id7">El municipi de l'11è monument de la infanteria de Mississipí és Gettysburg, Pennsilvània.</lex>
+      <lex lang="en_bt" lid="Id1">The 11th Mississippi Infantry Monument is located in Gettysburg Township, Pennsylvania.</lex>
+      <lex lang="en_bt" lid="Id2">The 11th Mississippi Infantry Monument is located in Gettysburg Township, Pennsylvania.</lex>
+      <lex lang="en_bt" lid="Id3">The 11th Mississippi Infantry Monument is located in Gettysburg Township, Pennsylvania.</lex>
+      <lex lang="en_bt" lid="Id4">The Monument to the 11th Mississippi Infantry is located in Gettysburg, Pennsylvania.</lex>
+      <lex lang="en_bt" lid="Id5">The 11th Mississippi Infantry Monument is in Gettysburg, Pennsylvania.</lex>
+      <lex lang="en_bt" lid="Id6">The 11th Mississippi Infantry Monument is located in Gettysburg Township, Pennsylvania.</lex>
+      <lex lang="en_bt" lid="Id7">The municipality of the 11th Mississippi Infantry Monument is Gettysburg, Pennsylvania.</lex>
+      </entry>
+    <entry category="Monument" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Estado | Pensilvania</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>11è_Monument_de_la_Infanteria_de_Mississipí | Estat | Pennsilvània</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument is in Pennsylvania.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry Monument is located in the state of Pennsylvania.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry Monument stands in the state of Pennsylvania.</lex>
+      <lex lang="en" lid="Id4">11th Mississippi Infantry Monument is in Pennsylvania.</lex>
+      <lex lang="en" lid="Id5">The 11th Mississippi Infantry Monument is found in Pennsylvania.</lex>
+      <lex lang="en" lid="Id6">The 11th Mississippi Infantry Monument is located in Pennsylvania state.</lex>
+      <lex lang="es" lid="Id1">El monumento a la 11ª Infantería de Mississippi está en Pensilvania.</lex>
+      <lex lang="es" lid="Id2">El monumento a la 11ª Infantería de Mississippi se encuentra en el estado de Pensilvania.</lex>
+      <lex lang="es" lid="Id3">El monumento a la 11ª Infantería de Mississippi se encuentra en el estado de Pensilvania.</lex>
+      <lex lang="es" lid="Id4">El monumento a la 11ª Infantería de Mississippi está en Pensilvania.</lex>
+      <lex lang="es" lid="Id5">El monumento a la 11ª Infantería de Mississippi se encuentra en Pensilvania.</lex>
+      <lex lang="es" lid="Id6">El Monumento a la 11ª Infantería del Mississippi se encuentra en el estado de Pensilvania.</lex>
+      <lex lang="ca" lid="Id1">L'11è Monument d'Infanteria de Mississipí es troba a Pennsilvània.</lex>
+      <lex lang="ca" lid="Id2">El 11è Mississippi Infantry Monument es troba a l'estat de Pennsilvània.</lex>
+      <lex lang="ca" lid="Id3">L'11è Monument d'Infanteria de Mississipí es troba a l'estat de Pennsilvània.</lex>
+      <lex lang="ca" lid="Id4">L'11è Monument de la Infanteria del Mississipí està a Pensilvània.</lex>
+      <lex lang="ca" lid="Id5">El Monument a la 11a Infanteria de Mississipí es troba a Pennsilvània.</lex>
+      <lex lang="ca" lid="Id6">El Monument a la 11a Infanteria de Mississipí es troba a l'estat de Pennsilvània.</lex>
+      <lex lang="en_bt" lid="Id1">The 11th Mississippi Infantry Monument is located in Pennsylvania.</lex>
+      <lex lang="en_bt" lid="Id2">The 11th Mississippi Infantry Monument is located in the state of Pennsylvania.</lex>
+      <lex lang="en_bt" lid="Id3">The 11th Mississippi Infantry Monument is located in the state of Pennsylvania.</lex>
+      <lex lang="en_bt" lid="Id4">The 11th Mississippi Infantry Monument is in Pennsylvania.</lex>
+      <lex lang="en_bt" lid="Id5">The Monument to the 11th Mississippi Infantry is located in Pennsylvania.</lex>
+      <lex lang="en_bt" lid="Id6">The Monument to the 11th Mississippi Infantry is located in the state of Pennsylvania.</lex>
+      </entry>
+    <entry category="Monument" eid="Id7" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Categoría | distrito_histórico_de_Estados_Unidos</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>14th_New_Jersey_Volunteer_Infantry_Monument | PàginaD'IniciDeL'Usuari | Districtes_històrics_dels_Estats_Units</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The 14th New Jersey Volunteer Infantry Monument belongs to the category of Historic districts in the United States.</lex>
+      <lex lang="en" lid="Id2">The 14th New Jersey Volunteer Infantry Monument is categorised as a historic district in the United States.</lex>
+      <lex lang="es" lid="Id1">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey pertenece a la categoría de Distritos históricos de Estados Unidos.</lex>
+      <lex lang="es" lid="Id2">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey está catalogado como distrito histórico en Estados Unidos.</lex>
+      <lex lang="ca" lid="Id1">El 14è Monument a la Infanteria Voluntària de Nova Jersey pertany a la categoria de districtes històrics dels Estats Units.</lex>
+      <lex lang="ca" lid="Id2">El 14è Monument de la Infanteria Voluntària de Nova Jersey està classificat com a districte històric dels Estats Units.</lex>
+      <lex lang="en_bt" lid="Id1">The 14th New Jersey Volunteer Infantry Monument belongs to the category of historic districts of the United States.</lex>
+      <lex lang="en_bt" lid="Id2">The 14th New Jersey Volunteer Infantry Monument is classified as a United States Historic District.</lex>
+      </entry>
+    <entry category="Monument" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | País | Estados_Unidos</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>14th_New_Jersey_Volunteer_Infantry_Monument | País | Estats_Units_d'Amèrica</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The 14th New Jersey Volunteer Infantry Monument is located in the United States.</lex>
+      <lex lang="en" lid="Id2">The 14th New Jersey Volunteer Infantry Monument is found in the United States.</lex>
+      <lex lang="en" lid="Id3">14th New Jersey Volunteer Infantry Monument is located in the United States.</lex>
+      <lex lang="en" lid="Id4">14th New Jersey Volunteer Infantry Memorial is in the United States.</lex>
+      <lex lang="es" lid="Id1">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey se encuentra en Estados Unidos.</lex>
+      <lex lang="es" lid="Id2">El monumento a la 14ª Infantería Voluntaria de Nueva Jersey se encuentra en Estados Unidos.</lex>
+      <lex lang="es" lid="Id3">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey se encuentra en Estados Unidos.</lex>
+      <lex lang="es" lid="Id4">14th New Jersey Volunteer Infantry Memorial se encuentra en Estados Unidos.</lex>
+      <lex lang="ca" lid="Id1">El 14è Monument a la Infanteria Voluntària de Nova Jersey es troba als Estats Units.</lex>
+      <lex lang="ca" lid="Id2">El 14è Monument a la Infanteria Voluntària de Nova Jersey es troba als Estats Units.</lex>
+      <lex lang="ca" lid="Id3">El 14th New Jersey Volunteer Infantry Monument es troba als Estats Units.</lex>
+      <lex lang="ca" lid="Id4">El 14è Memorial de la Infanteria Voluntària de Nova Jersey es troba als Estats Units.</lex>
+      <lex lang="en_bt" lid="Id1">The 14th New Jersey Volunteer Infantry Monument is located in the United States.</lex>
+      <lex lang="en_bt" lid="Id2">The 14th New Jersey Volunteer Infantry Monument is located in the United States.</lex>
+      <lex lang="en_bt" lid="Id3">The 14th New Jersey Volunteer Infantry Monument is located in the United States.</lex>
+      <lex lang="en_bt" lid="Id4">The 14th New Jersey Volunteer Infantry Memorial is located in the United States.</lex>
+      </entry>
+    <entry category="Monument" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Distrito | Monocacy_National_Battlefield</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>14th_New_Jersey_Volunteer_Infantry_Monument | Districte | Monocacy_National_Battlefield</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The 14th New Jersey Volunteer Infantry Monument is located in the district of the Monocacy National Battlefield.</lex>
+      <lex lang="en" lid="Id2">The 14th New Jersey Volunteer Infantry Monument is located on the Monocacy National Battlefield.</lex>
+      <lex lang="en" lid="Id3">The 14th New Jersey Volunteer Infantry Monument is located in the Monocacy National Battlefield.</lex>
+      <lex lang="en" lid="Id4">The 14th New Jersey Volunteer Infantry Monument is found in the Monocacy National Battlefield.</lex>
+      <lex lang="es" lid="Id1">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey se encuentra en el distrito del Campo de Batalla Nacional de Monocacy.</lex>
+      <lex lang="es" lid="Id2">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey se encuentra en el Campo de Batalla Nacional de Monocacy.</lex>
+      <lex lang="es" lid="Id3">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey se encuentra en el Campo de Batalla Nacional de Monocacy.</lex>
+      <lex lang="es" lid="Id4">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey se encuentra en el Campo de Batalla Nacional de Monocacy.</lex>
+      <lex lang="ca" lid="Id1">El 14è Monument de la Infanteria Voluntària de Nova Jersey es troba al districte del Monocacy National Battlefield.</lex>
+      <lex lang="ca" lid="Id2">El 14è Monument a la Infanteria Voluntària de Nova Jersey es troba al Camp de Batalla Nacional de Monocacy.</lex>
+      <lex lang="ca" lid="Id3">El 14è Monument a la Infanteria Voluntària de Nova Jersey es troba al Camp de Batalla Nacional de Monocacy.</lex>
+      <lex lang="ca" lid="Id4">El 14è Monument de la Infanteria Voluntària de Nova Jersey es troba al Monocacy National Battlefield.</lex>
+      <lex lang="en_bt" lid="Id1">The 14th New Jersey Volunteer Infantry Monument is located in the Monocacy National Battlefield District.</lex>
+      <lex lang="en_bt" lid="Id2">The 14th New Jersey Volunteer Infantry Monument is located at the Monocacy National Battlefield.</lex>
+      <lex lang="en_bt" lid="Id3">The 14th New Jersey Volunteer Infantry Monument is located at the Monocacy National Battlefield.</lex>
+      <lex lang="en_bt" lid="Id4">The 14th New Jersey Volunteer Infantry Monument is located at Monocacy National Battlefield.</lex>
+      </entry>
+    <entry category="Monument" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Establecido | 11-07-1907</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>14th_New_Jersey_Volunteer_Infantry_Monument | Establert | 1907-07-11</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The 14th New Jersey Volunteer Infantry Monument was established in 1907-07-11.</lex>
+      <lex lang="en" lid="Id2">The 14th New Jersey Volunteer Infantry Monument was established 1907-07-11.</lex>
+      <lex lang="en" lid="Id3">The 14th New Jersey Volunteer Infantry Monument was established on July 11th, 1907.</lex>
+      <lex lang="en" lid="Id4">The 14th New Jersey Volunteer Infantry Monument was established on 11th July 1907.</lex>
+      <lex lang="es" lid="Id1">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey se erigió en 11 de julio de 1907.</lex>
+      <lex lang="es" lid="Id2">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey se erigió el 11 de julio de 1907.</lex>
+      <lex lang="es" lid="Id3">El monumento a la 14ª Infantería Voluntaria de Nueva Jersey se erigió el 11 de julio de 1907.</lex>
+      <lex lang="es" lid="Id4">El monumento a la 14ª Infantería Voluntaria de Nueva Jersey se erigió el 11 de julio de 1907.</lex>
+      <lex lang="ca" lid="Id1">El 14è Monument de la Infanteria Voluntària de Nova Jersey va ser establert el 1907-07-11.</lex>
+      <lex lang="ca" lid="Id2">El 14è Monument de la Infanteria Voluntària de Nova Jersey va ser establert el 1907-07-11.</lex>
+      <lex lang="ca" lid="Id3">El 14è Monument de la Infanteria Voluntària de Nova Jersey va ser establert l'11 de juliol de 1907.</lex>
+      <lex lang="ca" lid="Id4">El 14è Monument de la Infanteria Voluntària de Nova Jersey va ser establert l'11 de juliol de 1907.</lex>
+      <lex lang="en_bt" lid="Id1">The 14th New Jersey Volunteer Infantry Monument was established on 1907-07-11.</lex>
+      <lex lang="en_bt" lid="Id2">The 14th New Jersey Volunteer Infantry Monument was established on 1907-07-11.</lex>
+      <lex lang="en_bt" lid="Id3">The 14th New Jersey Volunteer Infantry Monument was established on July 11, 1907.</lex>
+      <lex lang="en_bt" lid="Id4">The 14th New Jersey Volunteer Infantry Monument was established on July 11, 1907.</lex>
+      </entry>
+    <entry category="Monument" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | foundingDate | "1907-07-11"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | foundingDate | 1907-07-11</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | FechaDeFundación | 11-07-1907</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>14th_New_Jersey_Volunteer_Infantry_Monument | foundingDate | 1907-07-11</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>14th_New_Jersey_Volunteer_Infantry_Monument | DataDeFundació | 1907-07-11</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">14th New Jersey Volunteer Infantry Monument was founded 1907-07-11.</lex>
+      <lex lang="en" lid="Id2">The memorial depicting the 14th New Jersey Volunteer Infantry was founded on July 11th, 1907.</lex>
+      <lex lang="en" lid="Id3">The 14th New Jersey Volunteer Infantry Monument was started on 11th July 1907.</lex>
+      <lex lang="en" lid="Id4">The 14th New Jersey Volunteer Infantry Monument's founding date was on 1907-07-11.</lex>
+      <lex lang="es" lid="Id1">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey fue fundado el 11 de julio de 1907.</lex>
+      <lex lang="es" lid="Id2">El monumento conmemorativo que representa a la 14ª Infantería Voluntaria de Nueva Jersey se fundó el 11 de julio de 1907.</lex>
+      <lex lang="es" lid="Id3">El monumento a la 14ª Infantería Voluntaria de Nueva Jersey se comenzó a construir el 11 de julio de 1907.</lex>
+      <lex lang="es" lid="Id4">La fecha de fundación del Monumento a la 14ª Infantería Voluntaria de Nueva Jersey fue el 11 de julio de 1907.</lex>
+      <lex lang="ca" lid="Id1">El 14th New Jersey Volunteer Infantry Monument va ser fundat el 1907-07-11.</lex>
+      <lex lang="ca" lid="Id2">El memorial que representa la 14a Infanteria Voluntària de Nova Jersey va ser fundat l'11 de juliol de 1907.</lex>
+      <lex lang="ca" lid="Id3">El 14è Monument de la Infanteria Voluntària de Nova Jersey es va iniciar l'11 de juliol de 1907.</lex>
+      <lex lang="ca" lid="Id4">La data de fundació del 14th New Jersey Volunteer Infantry Monument va ser el 1907-07-11.</lex>
+      <lex lang="en_bt" lid="Id1">The 14th New Jersey Volunteer Infantry Monument was founded on 1907-07-11.</lex>
+      <lex lang="en_bt" lid="Id2">The memorial representing the 14th New Jersey Volunteer Infantry was founded on July 11, 1907.</lex>
+      <lex lang="en_bt" lid="Id3">The 14th New Jersey Volunteer Infantry Monument began on July 11, 1907.</lex>
+      <lex lang="en_bt" lid="Id4">The founding date of the 14th New Jersey Volunteer Infantry Monument was 1907-07-11.</lex>
+      </entry>
+    <entry category="Monument" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | owner | National_Park_Service</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | owner | National_Park_Service</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Propietario | Servicio_de_Parques_Nacionales</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>14th_New_Jersey_Volunteer_Infantry_Monument | owner | National_Park_Service</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>14th_New_Jersey_Volunteer_Infantry_Monument | Propietari | Servei_de_Parcs_Nacionals</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The 14th New Jersey Volunteer Infantry Monument is owned by the National Park Service.</lex>
+      <lex lang="en" lid="Id2">The National Park Service looks after the 14th New Jersey Volunteer Infantry Monument.</lex>
+      <lex lang="en" lid="Id3">14th New Jersey Volunteer Infantry Monument is owned by the National Park Service.</lex>
+      <lex lang="en" lid="Id4">The National Park Service is the owner of the 14th New Jersey Volunteer Infantry Monument.</lex>
+      <lex lang="es" lid="Id1">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey es propiedad del Servicio de Parques Nacionales.</lex>
+      <lex lang="es" lid="Id2">El Servicio de Parques Nacionales cuida del Monumento a la 14ª Infantería Voluntaria de Nueva Jersey.</lex>
+      <lex lang="es" lid="Id3">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey es propiedad del Servicio de Parques Nacionales.</lex>
+      <lex lang="es" lid="Id4">El Servicio de Parques Nacionales es el propietario del Monumento a la 14ª Infantería Voluntaria de Nueva Jersey.</lex>
+      <lex lang="ca" lid="Id1">El 14è Monument de la Infanteria Voluntària de Nova Jersey és propietat del Servei Nacional de Parcs.</lex>
+      <lex lang="ca" lid="Id2">El Servei de Parcs Nacionals cuida el 14è Monument de la Infanteria Voluntària de Nova Jersey.</lex>
+      <lex lang="ca" lid="Id3">El 14th New Jersey Volunteer Infantry Monument és propietat del National Park Service.</lex>
+      <lex lang="ca" lid="Id4">El Servei de Parcs Nacionals és el propietari del 14è Monument de la Infanteria Voluntària de Nova Jersey.</lex>
+      <lex lang="en_bt" lid="Id1">The 14th New Jersey Volunteer Infantry Monument is owned by the National Park Service.</lex>
+      <lex lang="en_bt" lid="Id2">The National Park Service maintains the 14th New Jersey Volunteer Infantry Monument.</lex>
+      <lex lang="en_bt" lid="Id3">The 14th New Jersey Volunteer Infantry Monument is owned by the National Park Service.</lex>
+      <lex lang="en_bt" lid="Id4">The National Park Service is the owner of the 14th New Jersey Volunteer Infantry Monument.</lex>
+      </entry>
+    <entry category="Monument" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | OrganizaciónPropietaria | Servicio_de_Parques_Nacionales</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>14th_New_Jersey_Volunteer_Infantry_Monument | OrganitzacióPropietària | Servei_de_Parcs_Nacionals</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The 14th New Jersey Volunteer Infantry Monument is owned by the National Park Service.</lex>
+      <lex lang="en" lid="Id2">The 14th New Jersey Volunteer Infantry Monument has been provided by the National Park Service.</lex>
+      <lex lang="en" lid="Id3">14th New Jersey Volunteer Infantry Monument is owned by the National Park Service.</lex>
+      <lex lang="en" lid="Id4">The National Park Service has responsibility for the 14th New Jersey Volunteer Infantry Monument.</lex>
+      <lex lang="en" lid="Id5">The National Park Service owns the 14th New Jersey Volunteer Infantry Monument.</lex>
+      <lex lang="es" lid="Id1">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey es propiedad del Servicio de Parques Nacionales.</lex>
+      <lex lang="es" lid="Id2">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey ha sido proporcionado por el Servicio de Parques Nacionales.</lex>
+      <lex lang="es" lid="Id3">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey es propiedad del Servicio de Parques Nacionales.</lex>
+      <lex lang="es" lid="Id4">El Servicio de Parques Nacionales es responsable del Monumento a la 14ª Infantería Voluntaria de Nueva Jersey.</lex>
+      <lex lang="es" lid="Id5">El Servicio de Parques Nacionales es el propietario del Monumento a la 14ª Infantería Voluntaria de Nueva Jersey.</lex>
+      <lex lang="ca" lid="Id1">El 14è Monument de la Infanteria Voluntària de Nova Jersey és propietat del Servei Nacional de Parcs.</lex>
+      <lex lang="ca" lid="Id2">El 14è Monument a la Infanteria Voluntària de Nova Jersey ha estat proporcionat pel Servei de Parcs Nacionals.</lex>
+      <lex lang="ca" lid="Id3">El 14th New Jersey Volunteer Infantry Monument és propietat del National Park Service.</lex>
+      <lex lang="ca" lid="Id4">El Servei de Parcs Nacionals és responsable del 14è Monument de la Infanteria Voluntària de Nova Jersey.</lex>
+      <lex lang="ca" lid="Id5">El Servei del Parc Nacional és el propietari del 14è Monument a la Infanteria Voluntària de Nova Jersey.</lex>
+      <lex lang="en_bt" lid="Id1">The 14th New Jersey Volunteer Infantry Monument is owned by the National Park Service.</lex>
+      <lex lang="en_bt" lid="Id2">The 14th New Jersey Volunteer Infantry Monument has been provided by the National Park Service.</lex>
+      <lex lang="en_bt" lid="Id3">The 14th New Jersey Volunteer Infantry Monument is owned by the National Park Service.</lex>
+      <lex lang="en_bt" lid="Id4">The National Park Service is responsible for the 14th New Jersey Volunteer Infantry Monument.</lex>
+      <lex lang="en_bt" lid="Id5">The National Park Service is the owner of the 14th New Jersey Volunteer Infantry Monument.</lex>
+      </entry>
+    <entry category="Monument" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | state | "Maryland"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | state | "Maryland"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Estado | Maryland</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>14th_New_Jersey_Volunteer_Infantry_Monument | state | "Maryland"</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>14th_New_Jersey_Volunteer_Infantry_Monument | Estat | Maryland</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The 14th New Jersey Volunteer Infantry Monuments is located in the state of Maryland.</lex>
+      <lex lang="en" lid="Id2">The 14th New Jersey Volunteer infantry Monument is in the state of Maryland.</lex>
+      <lex lang="en" lid="Id3">The 14th New Jersey Volunteer Infantry Monument is located in the state of Maryland.</lex>
+      <lex lang="es" lid="Id1">El 14th New Jersey Volunteer Infantry Monuments se encuentra en el estado de Maryland.</lex>
+      <lex lang="es" lid="Id2">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey se encuentra en el estado de Maryland.</lex>
+      <lex lang="es" lid="Id3">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey se encuentra en el estado de Maryland.</lex>
+      <lex lang="ca" lid="Id1">El 14è New Jersey Volunteer Infantry Monuments es troba a l'estat de Maryland.</lex>
+      <lex lang="ca" lid="Id2">El monument de la 14a Infanteria Voluntària de Nova Jersey es troba a l'estat de Maryland.</lex>
+      <lex lang="ca" lid="Id3">El 14è Monument a la Infanteria Voluntària de Nova Jersey es troba a l'estat de Maryland.</lex>
+      <lex lang="en_bt" lid="Id1">The 14th New Jersey Volunteer Infantry Monuments are located in the state of Maryland.</lex>
+      <lex lang="en_bt" lid="Id2">The 14th New Jersey Volunteer Infantry Monument is located in the state of Maryland.</lex>
+      <lex lang="en_bt" lid="Id3">The 14th New Jersey Volunteer Infantry Monument is located in the state of Maryland.</lex>
+      </entry>
+    <entry category="Monument" eid="Id15" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Condado_de_Adams | TieneAlNorte | Condado_de_Cumberland,_Pennsylvania</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Comtat_d'Adams,_Pennsylvania | TéAlSeuNord | Comtat_de_Cumberland,_Pennsylvania</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Adams County, Pennsylvania has Cumberland County, Pennsylvania to its north.</lex>
+      <lex lang="en" lid="Id2">Cumberland county, Pennsylvania is north of Adams County, Pennsylvania.</lex>
+      <lex lang="en" lid="Id3">Pennsylvania's Cumberland County is to the north of the Adams County.</lex>
+      <lex lang="en" lid="Id4">Cumberland County Pennsylvania is located in the north of Adams County Pennsylvania.</lex>
+      <lex lang="en" lid="Id5">To the north of Adams County, Pennsylvania is Cumberland County, Pennsylvania.</lex>
+      <lex lang="es" lid="Id1">El condado de Adams, Pensilvania, tiene al norte el condado de Cumberland, Pensilvania.</lex>
+      <lex lang="es" lid="Id2">El condado de Cumberland, Pensilvania, está al norte del condado de Adams, Pensilvania.</lex>
+      <lex lang="es" lid="Id3">El condado de Cumberland, en Pensilvania, está al norte del condado de Adams.</lex>
+      <lex lang="es" lid="Id4">Cumberland County Pennsylvania se encuentra en el norte de Adams County Pennsylvania.</lex>
+      <lex lang="es" lid="Id5">Al norte del condado de Adams, Pensilvania, se encuentra el condado de Cumberland, Pensilvania.</lex>
+      <lex lang="ca" lid="Id1">El comtat d'Adams, Pennsilvània té el comtat de Cumberland, Pennsilvània al seu nord.</lex>
+      <lex lang="ca" lid="Id2">El comtat de Cumberland, Pennsilvània és al nord del comtat d'Adams, Pennsilvània.</lex>
+      <lex lang="ca" lid="Id3">El Comtat de Cumberland de Pennsilvània es troba al nord del Comtat d'Adams.</lex>
+      <lex lang="ca" lid="Id4">El Comtat de Cumberland Pennsilvània es troba al nord del Comtat d'Adams Pennsilvània.</lex>
+      <lex lang="ca" lid="Id5">Al nord del comtat d'Adams, Pennsilvània és el comtat de Cumberland, Pennsilvània.</lex>
+      <lex lang="en_bt" lid="Id1">Adams County, Pennsylvania has Cumberland County, Pennsylvania to its north.</lex>
+      <lex lang="en_bt" lid="Id2">Cumberland County, Pennsylvania is north of Adams County, Pennsylvania.</lex>
+      <lex lang="en_bt" lid="Id3">Cumberland County, Pennsylvania is located to the north of Adams County.</lex>
+      <lex lang="en_bt" lid="Id4">Cumberland County Pennsylvania is located to the north of Adams County Pennsylvania.</lex>
+      <lex lang="en_bt" lid="Id5">North of Adams County, Pennsylvania is Cumberland County, Pennsylvania.</lex>
+      </entry>
+    <entry category="Monument" eid="Id16" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | southwest | Frederick_County,_Maryland</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSouthwest | Frederick_County,_Maryland</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Condado_de_Adams | TieneASuSuroeste | Condado_de_Frederick</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Adams_County,_Pennsylvania | hasToItsSouthwest | Frederick_County,_Maryland</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Comtat_d'Adams,_Pennsylvania | TéElSud-oest | Comtat_de_Frederick,_Maryland</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Frederick County, Maryland is to the southwest of Adams County, Pennsylvania.</lex>
+      <lex lang="en" lid="Id2">Adams County, Pennsylvania has Frederick County, Maryland to its southwest.</lex>
+      <lex lang="en" lid="Id3">Frederick County Maryland is southwest of Adams County Pennsylvania.</lex>
+      <lex lang="en" lid="Id4">Maryland's Frederick County is found to the southwest of Pennsylvania's Adams County.</lex>
+      <lex lang="es" lid="Id1">El condado de Frederick (Maryland) se encuentra al suroeste del condado de Adams (Pensilvania).</lex>
+      <lex lang="es" lid="Id2">El condado de Adams, en Pensilvania, tiene al suroeste el condado de Frederick, en Maryland.</lex>
+      <lex lang="es" lid="Id3">El condado de Frederick, en Maryland, está al suroeste del condado de Adams, en Pensilvania.</lex>
+      <lex lang="es" lid="Id4">El condado de Frederick, en Maryland, se encuentra al suroeste del condado de Adams, en Pensilvania.</lex>
+      <lex lang="ca" lid="Id1">El comtat de Frederick, Maryland està al sud-oest del comtat d'Adams, Pensilvània.</lex>
+      <lex lang="ca" lid="Id2">El comtat d'Adams, Pennsilvània té el comtat de Frederick, Maryland al seu sud-oest.</lex>
+      <lex lang="ca" lid="Id3">El comtat de Frederick Maryland és al sud-oest del comtat d'Adams Pennsilvània.</lex>
+      <lex lang="ca" lid="Id4">El comtat de Frederick de Maryland es troba al sud-oest del comtat d'Adams de Pennsilvània.</lex>
+      <lex lang="en_bt" lid="Id1">Frederick County, Maryland is southwest of Adams County, Pennsylvania.</lex>
+      <lex lang="en_bt" lid="Id2">Adams County, Pennsylvania has Frederick County, Maryland to its southwest.</lex>
+      <lex lang="en_bt" lid="Id3">Frederick County Maryland is southwest of Adams County Pennsylvania.</lex>
+      <lex lang="en_bt" lid="Id4">Frederick County, Maryland is located in southwestern Adams County, Pennsylvania.</lex>
+      </entry>
+    <entry category="Monument" eid="Id17" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | west | Franklin_County,_Pennsylvania</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsWest | Franklin_County,_Pennsylvania</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Condado_de_Adams | TieneASuOeste | Condado_de_Franklin,_Pennsylvania</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Adams_County,_Pennsylvania | hasToItsWest | Franklin_County,_Pennsylvania</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Comtat_d'Adams,_Pennsylvania | TéCapAL'Oest | Comtat_de_Franklin,_Pennsylvania</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Adams County Pennsylvania is East of Franklin County, Pennsylvania.</lex>
+      <lex lang="en" lid="Id2">To the west of Adams County, Pennsylvania, is Franklin County, Pennsylvania.</lex>
+      <lex lang="en" lid="Id3">Pennsylvania's Franklin County is found to the west of Adams County.</lex>
+      <lex lang="en" lid="Id4">Adams County, Pennsylvania has to its west Franklin County, Pennsylvania.</lex>
+      <lex lang="es" lid="Id1">El condado de Adams, Pensilvania, está al este del condado de Franklin, Pensilvania.</lex>
+      <lex lang="es" lid="Id2">Al oeste del condado de Adams, Pensilvania, se encuentra el condado de Franklin, Pensilvania.</lex>
+      <lex lang="es" lid="Id3">El condado de Franklin, en Pensilvania, se encuentra al oeste del condado de Adams.</lex>
+      <lex lang="es" lid="Id4">El condado de Adams, Pensilvania, tiene al oeste el condado de Franklin, Pensilvania.</lex>
+      <lex lang="ca" lid="Id1">El comtat d'Adams Pennsilvània és a l'est del comtat de Franklin, Pennsilvània.</lex>
+      <lex lang="ca" lid="Id2">A l'oest del comtat d'Adams, Pennsilvània, es troba el comtat de Franklin, Pennsilvània.</lex>
+      <lex lang="ca" lid="Id3">El comtat de Franklin de Pennsilvània es troba a l'oest del comtat d'Adams.</lex>
+      <lex lang="ca" lid="Id4">El comtat d'Adams, Pennsilvània té al seu oest el comtat de Franklin, Pennsilvània.</lex>
+      <lex lang="en_bt" lid="Id1">Adams County Pennsylvania is to the east of Franklin County, Pennsylvania.</lex>
+      <lex lang="en_bt" lid="Id2">To the west of Adams County, Pennsylvania, is Franklin County, Pennsylvania.</lex>
+      <lex lang="en_bt" lid="Id3">Franklin County, Pennsylvania is located to the west of Adams County.</lex>
+      <lex lang="en_bt" lid="Id4">Adams County, Pennsylvania is bordered on the west by Franklin County, Pennsylvania.</lex>
+      </entry>
+    <entry category="Monument" eid="Id18" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Atatürk_Monument_(İzmir) | open | "1932-07-27"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | "1932-07-27"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_Atatürk_(Esmirna) | FechaDeInauguración | 27-07-1932</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Atatürk_Monument_(İzmir) | inaugurationDate | "1932-07-27"</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Monument_a_Atatürk_(Izmir) | DataD'Inauguració | 1932-07-27</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The Ataturk Monument was inaugurated on 27th July, 1932.</lex>
+      <lex lang="en" lid="Id2">The inauguration date of the Atatürk Monument in Izmir is the 27th of July, 1932.</lex>
+      <lex lang="en" lid="Id3">The inauguration date for the Atatürk Monument (İzmir) is 1932-07-27.</lex>
+      <lex lang="en" lid="Id4">The inauguration of the Atatürk Monument was at July 27th, 1932.</lex>
+      <lex lang="es" lid="Id1">El monumento a Ataturk se inauguró el 27 de julio de 1932.</lex>
+      <lex lang="es" lid="Id2">La fecha de inauguración del monumento a Atatürk en Izmir es el 27 de julio de 1932.</lex>
+      <lex lang="es" lid="Id3">La fecha de inauguración del Monumento a Atatürk (Esmirna) es 27 de julio de 1932.</lex>
+      <lex lang="es" lid="Id4">La inauguración del Monumento a Atatürk tuvo lugar el 27 de julio de 1932.</lex>
+      <lex lang="ca" lid="Id1">El monument d'Atatürk va ser inaugurat el 27 de juliol de 1932.</lex>
+      <lex lang="ca" lid="Id2">La data d'inauguració del monument d'Atatürk a Izmir és el 27 de juliol de 1932.</lex>
+      <lex lang="ca" lid="Id3">La data d'inauguració del Monument d'Atatürk (İzmir) és 1932-07-27.</lex>
+      <lex lang="ca" lid="Id4">La inauguració del monument d'Atatürk va ser el 27 de juliol de 1932.</lex>
+      <lex lang="en_bt" lid="Id1">The monument to Atatürk was inaugurated on 27 July 1932.</lex>
+      <lex lang="en_bt" lid="Id2">The date of inauguration of the Atatürk monument in Izmir is 27 July 1932.</lex>
+      <lex lang="en_bt" lid="Id3">The opening date of the Atatürk Monument (İzmir) is 1932-07-27.</lex>
+      <lex lang="en_bt" lid="Id4">Atatürk's monument was inaugurated on July 27, 1932.</lex>
+      </entry>
+    <entry category="Monument" eid="Id19" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_Atatürk_(Esmirna) | Ubicación | Turquía</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Atatürk_Monument_(İzmir) | location | Turkey</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Monument_a_Atatürk_(Izmir) | Ubicació | Turquia</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The Atatürk Monument is located in Izmir, Turkey.</lex>
+      <lex lang="en" lid="Id2">The Ataturk Monument (Izmir) is located in Turkey.</lex>
+      <lex lang="en" lid="Id3">The Atatürk Monument is in Turkey.</lex>
+      <lex lang="en" lid="Id4">The Atatürk Monument is located in İzmir, Turkey.</lex>
+      <lex lang="en" lid="Id5">The Atatürk Monument (İzmir) can be found in Turkey.</lex>
+      <lex lang="en" lid="Id6">The Atatürk Monument (İzmir) is found in Turkey.</lex>
+      <lex lang="en" lid="Id7">Atatürk Monument is located in İzmir, Turkey.</lex>
+      <lex lang="es" lid="Id1">El Monumento a Atatürk se encuentra en Izmir (Turquía).</lex>
+      <lex lang="es" lid="Id2">El Monumento a Ataturk (Esmirna) se encuentra en Turquía.</lex>
+      <lex lang="es" lid="Id3">El monumento a Atatürk está en Turquía.</lex>
+      <lex lang="es" lid="Id4">El monumento a Atatürk se encuentra en Esmirna (Turquía).</lex>
+      <lex lang="es" lid="Id5">El Monumento a Atatürk (Esmirna) se encuentra en Turquía.</lex>
+      <lex lang="es" lid="Id6">El Monumento a Atatürk (İzmir) se encuentra en Turquía.</lex>
+      <lex lang="es" lid="Id7">El monumento a Atatürk se encuentra en Esmirna (Turquía).</lex>
+      <lex lang="ca" lid="Id1">El monument d'Atatürk es troba a Izmir, Turquia.</lex>
+      <lex lang="ca" lid="Id2">El monument d'Atatürk (Izmir) es troba a Turquia.</lex>
+      <lex lang="ca" lid="Id3">El monument d'Atatürk està a Turquia.</lex>
+      <lex lang="ca" lid="Id4">El monument d'Atatürk es troba a Izmir, Turquia.</lex>
+      <lex lang="ca" lid="Id5">El monument d'Atatürk (İzmir) es pot trobar a Turquia.</lex>
+      <lex lang="ca" lid="Id6">El monument d'Atatürk (İzmir) es troba a Turquia.</lex>
+      <lex lang="ca" lid="Id7">El monument d'Atatürk es troba a Izmir, Turquia.</lex>
+      <lex lang="en_bt" lid="Id1">The Atatürk Monument is located in Izmir, Turkey.</lex>
+      <lex lang="en_bt" lid="Id2">The Atatürk Monument (Izmir) is located in Turkey.</lex>
+      <lex lang="en_bt" lid="Id3">Atatürk's monument is in Turkey.</lex>
+      <lex lang="en_bt" lid="Id4">The Atatürk Monument is located in Izmir, Turkey.</lex>
+      <lex lang="en_bt" lid="Id5">The monument to Atatürk (İzmir) can be found in Turkey.</lex>
+      <lex lang="en_bt" lid="Id6">The Atatürk Monument (İzmir) is located in Turkey.</lex>
+      <lex lang="en_bt" lid="Id7">The Atatürk Monument is located in Izmir, Turkey.</lex>
+      </entry>
+    <entry category="Monument" eid="Id20" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Azerbaijan | capital | Baku</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | capital | Baku</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Azerbaiyán | Capital | Bakú</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Azerbaijan | capital | Baku</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Azerbaidjan | Capital | Bakú</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Baku is the capital of Azerbaijan.</lex>
+      <lex lang="en" lid="Id2">The capital of Azerbaijan is Baku.</lex>
+      <lex lang="es" lid="Id1">Bakú es la capital de Azerbaiyán.</lex>
+      <lex lang="es" lid="Id2">La capital de Azerbaiyán es Bakú.</lex>
+      <lex lang="ca" lid="Id1">Bakú és la capital de l'Azerbaidjan.</lex>
+      <lex lang="ca" lid="Id2">La capital de l'Azerbaidjan és Bakú.</lex>
+      <lex lang="en_bt" lid="Id1">Baku is the capital of Azerbaijan.</lex>
+      <lex lang="en_bt" lid="Id2">The capital of Azerbaijan is Baku.</lex>
+      </entry>
+    <entry category="Monument" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Azerbaiyán | Legislatura | Asamblea_Nacional_de_la_República_de_Azerbaiyán</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Azerbaidjan | Legislatura | Assemblea_Nacional_(Azerbaidjan)</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The National Assembly dictates the legislature of Azerbaijan.</lex>
+      <lex lang="en" lid="Id2">The National Assembly (Azerbaijan) is the source of legislature in Azerbaijan.</lex>
+      <lex lang="en" lid="Id3">The Azerbaijan legislature is known as the National Assembly.</lex>
+      <lex lang="en" lid="Id4">The National Assembly is the legislative branch of government in Azerbaijan.</lex>
+      <lex lang="en" lid="Id5">The legislature in Azerbaijan is National Assembly.</lex>
+      <lex lang="en" lid="Id6">Azerbaijan has legislature of National Assembly.</lex>
+      <lex lang="es" lid="Id1">La Asamblea Nacional dicta la legislatura de Azerbaiyán.</lex>
+      <lex lang="es" lid="Id2">La Asamblea Nacional (Azerbaiyán) es el órgano legislativo de Azerbaiyán.</lex>
+      <lex lang="es" lid="Id3">El poder legislativo de Azerbaiyán se conoce como Asamblea Nacional.</lex>
+      <lex lang="es" lid="Id4">La Asamblea Nacional es el poder legislativo de Azerbaiyán.</lex>
+      <lex lang="es" lid="Id5">El poder legislativo en Azerbaiyán es la Asamblea Nacional.</lex>
+      <lex lang="es" lid="Id6">Azerbaiyán tiene una Asamblea Nacional.</lex>
+      <lex lang="ca" lid="Id1">L'Assemblea Nacional dicta la legislatura de l'Azerbaidjan.</lex>
+      <lex lang="ca" lid="Id2">L'Assemblea Nacional (Azerbaidjan) és la font de la legislatura a l'Azerbaidjan.</lex>
+      <lex lang="ca" lid="Id3">La legislatura de l'Azerbaidjan és coneguda com l'Assemblea Nacional.</lex>
+      <lex lang="ca" lid="Id4">L'Assemblea Nacional és la branca legislativa del govern a l'Azerbaidjan.</lex>
+      <lex lang="ca" lid="Id5">El poder legislatiu a l'Azerbaidjan és l'Assemblea Nacional.</lex>
+      <lex lang="ca" lid="Id6">L'Azerbaidjan té una legislatura de l'Assemblea Nacional.</lex>
+      <lex lang="en_bt" lid="Id1">The National Assembly dictates the legislature of Azerbaijan.</lex>
+      <lex lang="en_bt" lid="Id2">The National Assembly (Azerbaijan) is the source of the legislature in Azerbaijan.</lex>
+      <lex lang="en_bt" lid="Id3">The legislature of Azerbaijan is known as the National Assembly.</lex>
+      <lex lang="en_bt" lid="Id4">The National Assembly is the legislative branch of government in Azerbaijan.</lex>
+      <lex lang="en_bt" lid="Id5">The legislative power in Azerbaijan is the National Assembly.</lex>
+      <lex lang="en_bt" lid="Id6">Azerbaijan has a legislature of the National Assembly.</lex>
+      </entry>
+    <entry category="Monument" eid="Id22" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_los_mártires_turcos_de_Bakú | DedicadoA | Soldados_del_ejército_otomano_muertos_en_la_batalla_de_Bakú</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Memorial_dels_màrtirs_turcs_de_Bakú | DedicatA | Soldats_de_l'exèrcit_otomà_morts_a_la_batalla_de_Bakú</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Baku Turkish Martyrs' Memorial is dedicated to the Ottoman Army soldiers killed in the Battle of Baku.</lex>
+      <lex lang="en" lid="Id2">The Baku Turkish Martyrs' Memorial is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku.</lex>
+      <lex lang="en" lid="Id3">The Baku Turkish Martyrs Memorial has been dedicated to Ottoman Army soldiers killed in the Battle of Baku.</lex>
+      <lex lang="en" lid="Id4">The Baku Turkish Martyrs Memorial is dedicated to the Ottoman Army soldiers killed in the Battle of Baku.</lex>
+      <lex lang="es" lid="Id1">El Monumento a los Mártires Turcos de Bakú está dedicado a los soldados del ejército otomano muertos en la Batalla de Bakú.</lex>
+      <lex lang="es" lid="Id2">El Monumento a los Mártires Turcos de Bakú está dedicado a los soldados del ejército otomano muertos en la batalla de Bakú.</lex>
+      <lex lang="es" lid="Id3">El Monumento a los Mártires Turcos de Bakú está dedicado a los soldados del ejército otomano muertos en la Batalla de Bakú.</lex>
+      <lex lang="es" lid="Id4">El Monumento a los Mártires Turcos de Bakú está dedicado a los soldados del ejército otomano muertos en la Batalla de Bakú.</lex>
+      <lex lang="ca" lid="Id1">El Memorial dels Màrtirs Turcs de Bakú està dedicat als soldats de l'exèrcit otomà morts a la Batalla de Bakú.</lex>
+      <lex lang="ca" lid="Id2">El Memorial dels Màrtirs Turcs de Bakú està dedicat als soldats de l'exèrcit otomà que van morir a la batalla de Bakú.</lex>
+      <lex lang="ca" lid="Id3">El Memori dels Màrtirs Turcs de Bakú ha estat dedicat als soldats de l'Exèrcit Otomà que van morir a la Batalla de Bakú.</lex>
+      <lex lang="ca" lid="Id4">El Memorial dels Màrtirs Turcs de Bakú està dedicat als soldats de l'exèrcit otomà que van morir a la batalla de Bakú.</lex>
+      <lex lang="en_bt" lid="Id1">The Baku Turkish Martyrs Memorial is dedicated to the soldiers of the Ottoman Army who died in the Battle of Baku.</lex>
+      <lex lang="en_bt" lid="Id2">The Baku Turkish Martyrs Memorial is dedicated to the soldiers of the Ottoman Army who died in the Battle of Baku.</lex>
+      <lex lang="en_bt" lid="Id3">The Memorial of the Turkish Martyrs of Baku has been dedicated to the soldiers of the Ottoman Army who died in the Battle of Baku.</lex>
+      <lex lang="en_bt" lid="Id4">The Baku Turkish Martyrs Memorial is dedicated to the soldiers of the Ottoman Army who died in the Battle of Baku.</lex>
+      </entry>
+    <entry category="Monument" eid="Id23" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monumento_a_los_mártires_turcos_de_Bakú | Diseñador | Hüseyin_Bütüner_y_Hilmi_Güner</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Memorial_dels_màrtirs_turcs_de_Bakú | Dissenyador | Hüseyin_Bütüner_i_Hilmi_Güner</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Baku Turkish Martyrs' Memorial's designer was Hüseyin Bütüner and Hilmi Güner.</lex>
+      <lex lang="en" lid="Id2">The Baku Turkish Martyrs' Memorial was designed by Hüseyin Bütüner and Hilmi Güner.</lex>
+      <lex lang="en" lid="Id3">The designers of the Turkish Martyrs' memorial are Huseyin Butuner and Hilmi Guner.</lex>
+      <lex lang="en" lid="Id4">The Baku Turkish Martyrs' Memorial was designed by Huseyin Butuner and Hilmi Guner.</lex>
+      <lex lang="en" lid="Id5">Hüseyin Bütüner and Hilmi Güner designed the Baku Turkish Martyrs' Memorial.</lex>
+      <lex lang="en" lid="Id6">Baku Turkish Martyrs' Memorial was designed by Huseyin Butuner and Hilmi Guner.</lex>
+      <lex lang="en" lid="Id7">The designers of the Baku Turkish Martyrs' Memorial are Hüseyin Bütüner and Hilmi Güner.</lex>
+      <lex lang="en" lid="Id8">Huseyin Butuner and Hilmi Guner are the designers of the Baku Turkish Martyrs' Memorial.</lex>
+      <lex lang="es" lid="Id1">El diseñador del Monumento a los Mártires Turcos de Bakú fue Hüseyin Bütüner e Hilmi Güner.</lex>
+      <lex lang="es" lid="Id2">El Monumento a los Mártires Turcos de Bakú fue diseñado por Hüseyin Bütüner e Hilmi Güner.</lex>
+      <lex lang="es" lid="Id3">Los diseñadores del monumento a los mártires turcos son Huseyin Butuner e Hilmi Guner.</lex>
+      <lex lang="es" lid="Id4">El Monumento a los Mártires Turcos de Bakú fue diseñado por Huseyin Butuner e Hilmi Guner.</lex>
+      <lex lang="es" lid="Id5">Hüseyin Bütüner y Hilmi Güner diseñaron el Monumento a los Mártires Turcos de Bakú.</lex>
+      <lex lang="es" lid="Id6">El Monumento a los Mártires Turcos de Bakú fue diseñado por Huseyin Butuner e Hilmi Guner.</lex>
+      <lex lang="es" lid="Id7">Los diseñadores del Monumento a los Mártires Turcos de Bakú son Hüseyin Bütüner e Hilmi Güner.</lex>
+      <lex lang="es" lid="Id8">Huseyin Butuner y Hilmi Guner son los diseñadores del Monumento a los Mártires Turcos de Bakú.</lex>
+      <lex lang="ca" lid="Id1">El dissenyador del Memorial dels Màrtirs Turcs de Bakú va ser Hüseyin Bütüner i Hilmi Güner.</lex>
+      <lex lang="ca" lid="Id2">El Memorial dels Màrtirs Turcs de Bakú va ser dissenyat per Hüseyin Bütüner i Hilmi Güner.</lex>
+      <lex lang="ca" lid="Id3">Els dissenyadors del memorial dels màrtirs turcs són Huseyin Butuner i Hilmi Guner.</lex>
+      <lex lang="ca" lid="Id4">El Memorial dels Màrtirs Turcs de Bakú va ser dissenyat per Huseyin Butuner i Hilmi Guner.</lex>
+      <lex lang="ca" lid="Id5">Hüseyin Bütüner i Hilmi Güner van dissenyar el Memorial dels Màrtirs Turcs de Bakú.</lex>
+      <lex lang="ca" lid="Id6">El Memorial dels Màrtirs Turcs de Bakú va ser dissenyat per Huseyin Butuner i Hilmi Guner.</lex>
+      <lex lang="ca" lid="Id7">Els dissenyadors del Memorial dels Màrtirs Turcs de Bakú són Hüseyin Bütüner i Hilmi Güner.</lex>
+      <lex lang="ca" lid="Id8">Huseyin Butuner i Hilmi Guner són els dissenyadors del Memorial dels Màrtirs Turcs de Bakú.</lex>
+      <lex lang="en_bt" lid="Id1">The designer of the Baku Turkish Martyrs Memorial was Hüseyin Bütüner and Hilmi Güner.</lex>
+      <lex lang="en_bt" lid="Id2">The Baku Turkish Martyrs Memorial was designed by Hüseyin Bütüner and Hilmi Güner.</lex>
+      <lex lang="en_bt" lid="Id3">The designers of the memorial to the Turkish martyrs are Huseyin Butuner and Hilmi Guner.</lex>
+      <lex lang="en_bt" lid="Id4">The Baku Turkish Martyrs Memorial was designed by Huseyin Butuner and Hilmi Guner.</lex>
+      <lex lang="en_bt" lid="Id5">Hüseyin Bütüner and Hilmi Güner designed the Baku Turkish Martyrs Memorial.</lex>
+      <lex lang="en_bt" lid="Id6">The Baku Turkish Martyrs Memorial was designed by Huseyin Butuner and Hilmi Guner.</lex>
+      <lex lang="en_bt" lid="Id7">The designers of the Baku Turkish Martyrs Memorial are Hüseyin Bütüner and Hilmi Güner.</lex>
+      <lex lang="en_bt" lid="Id8">Huseyin Butuner and Hilmi Guner are the designers of the Baku Turkish Martyrs' Memorial.</lex>
+      </entry>
+    <entry category="Monument" eid="Id24" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Plack_del_Hombre_Muerto | DedicadoA | Æthelwald,_Ealdorman_de_Anglia_Oriental</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Placa_de_l'home_mort | DedicatA | Æthelwald,_Ealdorman_d'East_Anglia</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The Dead Man's Plack is dedicated to Æthelwald, Ealdorman of East Anglia.</lex>
+      <lex lang="en" lid="Id2">Dead Man's Plack is dedicated to Æthelwald, Ealdorman of East Anglia.</lex>
+      <lex lang="es" lid="Id1">El Plack del Muerto está dedicado a Æthelwald, Ealdorman de Anglia Oriental.</lex>
+      <lex lang="es" lid="Id2">Dead Man's Plack está dedicado a Æthelwald, Ealdorman de Anglia Oriental.</lex>
+      <lex lang="ca" lid="Id1">La Placa de l'Home Mort està dedicada a Æthelwald, Ealdorman d'Ànglia Oriental.</lex>
+      <lex lang="ca" lid="Id2">La Placa de l'Home Mort està dedicada a Æthelwald, Ealdorman d'Ànglia Oriental.</lex>
+      <lex lang="en_bt" lid="Id1">The Plate of the Dead Man is dedicated to Æthelwald, Ealdorman of East Anglia.</lex>
+      <lex lang="en_bt" lid="Id2">The Plate of the Dead Man is dedicated to Æthelwald, Ealdorman of East Anglia.</lex>
+      </entry>
+    <entry category="Monument" eid="Id25" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | location | England</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | location | England</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Plack_del_Hombre_Muerto | Ubicación | Inglaterra</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Dead_Man's_Plack | location | England</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Placa_de_l'home_mort | Ubicació | Anglaterra</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The Dead Man's Plack is located in England.</lex>
+      <lex lang="en" lid="Id2">Dead Man's Plack is in England.</lex>
+      <lex lang="en" lid="Id3">Dead Man's Plack is found in England.</lex>
+      <lex lang="es" lid="Id1">The Dead Man's Plack se encuentra en Inglaterra.</lex>
+      <lex lang="es" lid="Id2">Dead Man's Plack está en Inglaterra.</lex>
+      <lex lang="es" lid="Id3">Dead Man's Plack se encuentra en Inglaterra.</lex>
+      <lex lang="ca" lid="Id1">La Placa de l'Home Mort es troba a Anglaterra.</lex>
+      <lex lang="ca" lid="Id2">La placa del mort està a Anglaterra.</lex>
+      <lex lang="ca" lid="Id3">Dead Man's Plack es troba a Anglaterra.</lex>
+      <lex lang="en_bt" lid="Id1">The Dead Man's Plate is in England.</lex>
+      <lex lang="en_bt" lid="Id2">The dead man's plaque is in England.</lex>
+      <lex lang="en_bt" lid="Id3">Dead Man's Plack is located in England.</lex>
+      </entry>
+    <entry category="Monument" eid="Id26" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | material | Rock_(geology)</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | material | Rock_(geology)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Plack_del_Hombre_Muerto | Material | roca_(geología)</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Dead_Man's_Plack | material | Rock_(geology)</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Placa_de_l'home_mort | Material | Roca_(geologia)</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The Dead Man's Plack is made from rock.</lex>
+      <lex lang="en" lid="Id2">Dead Man's Plack is made of rock.</lex>
+      <lex lang="en" lid="Id3">Dead Man's Plack is made from stone.</lex>
+      <lex lang="en" lid="Id4">The Dead Man's Plack is made with rock.</lex>
+      <lex lang="es" lid="Id1">El Dead Man's Plack está hecho de roca.</lex>
+      <lex lang="es" lid="Id2">Dead Man's Plack está hecho de roca.</lex>
+      <lex lang="es" lid="Id3">Dead Man's Plack está hecho de piedra.</lex>
+      <lex lang="es" lid="Id4">El Dead Man's Plack está hecho con roca.</lex>
+      <lex lang="ca" lid="Id1">La placa de l'home mort està feta de roca.</lex>
+      <lex lang="ca" lid="Id2">La Placa de l'Home Mort està feta de roca.</lex>
+      <lex lang="ca" lid="Id3">La Placa de l'Home Mort està feta de pedra.</lex>
+      <lex lang="ca" lid="Id4">La placa de l'home mort està feta de roca.</lex>
+      <lex lang="en_bt" lid="Id1">The dead man's plaque is made of rock.</lex>
+      <lex lang="en_bt" lid="Id2">The Dead Man's Plate is made of rock.</lex>
+      <lex lang="en_bt" lid="Id3">The Dead Man's Plate is made of stone.</lex>
+      <lex lang="en_bt" lid="Id4">The dead man's plaque is made of rock.</lex>
+      </entry>
+    <entry category="Monument" eid="Id27" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>England | capital | London</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>England | capital | London</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Inglaterra | Capital | Londres</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>England | capital | London</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Anglaterra | Capital | Londres</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">London is the capital of England.</lex>
+      <lex lang="en" lid="Id2">The capital of England is London.</lex>
+      <lex lang="en" lid="Id3">England's capital is London.</lex>
+      <lex lang="es" lid="Id1">Londres es la capital de Inglaterra.</lex>
+      <lex lang="es" lid="Id2">La capital de Inglaterra es Londres.</lex>
+      <lex lang="es" lid="Id3">La capital de Inglaterra es Londres.</lex>
+      <lex lang="ca" lid="Id1">Londres és la capital d'Anglaterra.</lex>
+      <lex lang="ca" lid="Id2">La capital d'Anglaterra és Londres.</lex>
+      <lex lang="ca" lid="Id3">La capital d'Anglaterra és Londres.</lex>
+      <lex lang="en_bt" lid="Id1">London is the capital of England.</lex>
+      <lex lang="en_bt" lid="Id2">The capital of England is London.</lex>
+      <lex lang="en_bt" lid="Id3">The capital of England is London.</lex>
+      </entry>
+    <entry category="Monument" eid="Id28" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>England | ethnicGroups | British_Arabs</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>England | ethnicGroup | British_Arabs</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Inglaterra | GrupoÉtnico | Árabes_británicos</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>England | ethnicGroup | British_Arabs</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Anglaterra | GrupÈtnic | Àrabs_britànics</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">One of the ethnic groups found in England is the British Arabs.</lex>
+      <lex lang="en" lid="Id2">The British Arabs are an English ethnic group.</lex>
+      <lex lang="es" lid="Id1">Uno de los grupos étnicos de Inglaterra son los árabes británicos.</lex>
+      <lex lang="es" lid="Id2">Los árabes británicos son un grupo étnico inglés.</lex>
+      <lex lang="ca" lid="Id1">Un dels grups ètnics que es troben a Anglaterra són els àrabs britànics.</lex>
+      <lex lang="ca" lid="Id2">Els àrabs britànics són un grup ètnic anglès.</lex>
+      <lex lang="en_bt" lid="Id1">One of the ethnic groups found in England are the British Arabs.</lex>
+      <lex lang="en_bt" lid="Id2">British Arabs are an English ethnic group.</lex>
+      </entry>
+    <entry category="Monument" eid="Id29" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>England | languages | Cornish_language</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>England | language | Cornish_language</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Inglaterra | Idioma | córnico</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>England | language | Cornish_language</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Anglaterra | Llengua | Llengua_de_Cornualles</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">One of the languages spoken in England is the Cornish language.</lex>
+      <lex lang="en" lid="Id2">Cornish language is spoken in England.</lex>
+      <lex lang="en" lid="Id3">Cornish is a language spoken in the Cornwall region of England.</lex>
+      <lex lang="es" lid="Id1">Una de las lenguas habladas en Inglaterra es el córnico.</lex>
+      <lex lang="es" lid="Id2">En Inglaterra se habla cornish.</lex>
+      <lex lang="es" lid="Id3">El córnico es una lengua hablada en la región inglesa de Cornualles.</lex>
+      <lex lang="ca" lid="Id1">Una de les llengües parlades a Anglaterra és la llengua còrnica.</lex>
+      <lex lang="ca" lid="Id2">El còrnic es parla a Anglaterra.</lex>
+      <lex lang="ca" lid="Id3">El còrnic és una llengua parlada a la regió de Cornualla d'Anglaterra.</lex>
+      <lex lang="en_bt" lid="Id1">One of the languages spoken in England is Cornish.</lex>
+      <lex lang="en_bt" lid="Id2">Cornish is spoken in England.</lex>
+      <lex lang="en_bt" lid="Id3">Cornish is a language spoken in the Cornwall region of England.</lex>
+      </entry>
+    <entry category="Monument" eid="Id30" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>England | religion | Church_of_England</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>England | religion | Church_of_England</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Inglaterra | Religión | Iglesia_de_Inglaterra</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>England | religion | Church_of_England</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Anglaterra | Religió | Església_d'Anglaterra</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">In England the main religion is the Church of England.</lex>
+      <lex lang="en" lid="Id2">The established religion in England is The Church of England.</lex>
+      <lex lang="en" lid="Id3">The religion of England is Church of England.</lex>
+      <lex lang="es" lid="Id1">En Inglaterra, la religión mayoritaria es la Iglesia de Inglaterra.</lex>
+      <lex lang="es" lid="Id2">La religión establecida en Inglaterra es la Iglesia de Inglaterra.</lex>
+      <lex lang="es" lid="Id3">La religión de Inglaterra es la Iglesia de Inglaterra.</lex>
+      <lex lang="ca" lid="Id1">A Anglaterra la religió principal és l'Església d'Anglaterra.</lex>
+      <lex lang="ca" lid="Id2">La religió establerta a Anglaterra és l'Església d'Anglaterra.</lex>
+      <lex lang="ca" lid="Id3">La religió d'Anglaterra és l'Església d'Anglaterra.</lex>
+      <lex lang="en_bt" lid="Id1">In England the main religion is the Church of England.</lex>
+      <lex lang="en_bt" lid="Id2">The established religion in England is the Church of England.</lex>
+      <lex lang="en_bt" lid="Id3">The religion of England is the Church of England.</lex>
+      </entry>
+    <entry category="Monument" eid="Id31" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monocacy_National_Battlefield | Ubicación | Condado_de_Frederick</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Monocacy_National_Battlefield | Ubicació | Comtat_de_Frederick,_Maryland</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Monocacy National Battlefield is located in Frederick County, Maryland.</lex>
+      <lex lang="en" lid="Id2">The Monocacy National Battlefield is located in Frederick County, Maryland.</lex>
+      <lex lang="en" lid="Id3">The Monocacy National Battlefield is in the county Frederick, Maryland.</lex>
+      <lex lang="es" lid="Id1">El Campo de Batalla Nacional de Monocacy se encuentra en el condado de Frederick, Maryland.</lex>
+      <lex lang="es" lid="Id2">El Campo de Batalla Nacional de Monocacy se encuentra en el condado de Frederick, Maryland.</lex>
+      <lex lang="es" lid="Id3">El Campo de Batalla Nacional de Monocacy se encuentra en el condado de Frederick, Maryland.</lex>
+      <lex lang="ca" lid="Id1">El Monocacy National Battlefield es troba al comtat de Frederick, Maryland.</lex>
+      <lex lang="ca" lid="Id2">El Monocacy National Battlefield es troba al comtat de Frederick, Maryland.</lex>
+      <lex lang="ca" lid="Id3">El Monocacy National Battlefield es troba al comtat de Frederick, Maryland.</lex>
+      <lex lang="en_bt" lid="Id1">The Monocacy National Battlefield is located in Frederick County, Maryland.</lex>
+      <lex lang="en_bt" lid="Id2">The Monocacy National Battlefield is located in Frederick County, Maryland.</lex>
+      <lex lang="en_bt" lid="Id3">The Monocacy National Battlefield is located in Frederick County, Maryland.</lex>
+      </entry>
+    <entry category="Monument" eid="Id32" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Monocacy_National_Battlefield | CiudadMásCercana | Frederick,_Maryland</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Monocacy_National_Battlefield | CiutatMésPropera | Frederick,_Maryland</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The city nearest to Monocacy National Battlefield is Frederick, Maryland.</lex>
+      <lex lang="en" lid="Id2">The nearest city to Monocacy National Battlefield is Frederick, Maryland.</lex>
+      <lex lang="es" lid="Id1">La ciudad más cercana a Monocacy National Battlefield es Frederick, Maryland.</lex>
+      <lex lang="es" lid="Id2">La ciudad más cercana a Monocacy National Battlefield es Frederick, Maryland.</lex>
+      <lex lang="ca" lid="Id1">La ciutat més propera al Monocacy National Battlefield és Frederick, Maryland.</lex>
+      <lex lang="ca" lid="Id2">La ciutat més propera al Monocacy National Battlefield és Frederick, Maryland.</lex>
+      <lex lang="en_bt" lid="Id1">The closest city to the Monocacy National Battlefield is Frederick, Maryland.</lex>
+      <lex lang="en_bt" lid="Id2">The closest city to the Monocacy National Battlefield is Frederick, Maryland.</lex>
+      </entry>
+    <entry category="Monument" eid="Id33" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Turkey | capital | Ankara</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | capital | Ankara</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Turquía | Capital | Ankara</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Turkey | capital | Ankara</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Turquia | Capital | Ankara</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Ankara is the capital of Turkey.</lex>
+      <lex lang="en" lid="Id2">The capital of Turkey is Ankara.</lex>
+      <lex lang="en" lid="Id3">Turkey's capital is Ankara.</lex>
+      <lex lang="en" lid="Id4">Ankara is the Turkish capital.</lex>
+      <lex lang="es" lid="Id1">Ankara es la capital de Turquía.</lex>
+      <lex lang="es" lid="Id2">La capital de Turquía es Ankara.</lex>
+      <lex lang="es" lid="Id3">La capital de Turquía es Ankara.</lex>
+      <lex lang="es" lid="Id4">Ankara es la capital turca.</lex>
+      <lex lang="ca" lid="Id1">Ankara és la capital de Turquia.</lex>
+      <lex lang="ca" lid="Id2">La capital de Turquia és Ankara.</lex>
+      <lex lang="ca" lid="Id3">La capital de Turquia és Ankara.</lex>
+      <lex lang="ca" lid="Id4">Ankara és la capital de Turquia.</lex>
+      <lex lang="en_bt" lid="Id1">Ankara is the capital of Turkey.</lex>
+      <lex lang="en_bt" lid="Id2">The capital of Turkey is Ankara.</lex>
+      <lex lang="en_bt" lid="Id3">The capital of Turkey is Ankara.</lex>
+      <lex lang="en_bt" lid="Id4">Ankara is the capital of Turkey.</lex>
+      </entry>
+    <entry category="Monument" eid="Id34" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Turkey | currency | Turkish_lira</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | currency | Turkish_lira</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Turquía | Divisa | lira_turca</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Turkey | currency | Turkish_lira</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Turquia | Moneda | lira_turca</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The currency of Turkey is Turkish Lira.</lex>
+      <lex lang="en" lid="Id2">The currency of Turkey is the Turkish lira.</lex>
+      <lex lang="en" lid="Id3">The currency in Turkey is the Turkish Lira.</lex>
+      <lex lang="en" lid="Id4">Turkey's currency is the Turkish lira.</lex>
+      <lex lang="en" lid="Id5">The currency used in Turkey is lira.</lex>
+      <lex lang="en" lid="Id6">The Turkish currency is the Turkish lira.</lex>
+      <lex lang="es" lid="Id1">La moneda de Turquía es la lira turca.</lex>
+      <lex lang="es" lid="Id2">La moneda de Turquía es la lira turca.</lex>
+      <lex lang="es" lid="Id3">La moneda de Turquía es la lira turca.</lex>
+      <lex lang="es" lid="Id4">La moneda de Turquía es la lira turca.</lex>
+      <lex lang="es" lid="Id5">La moneda utilizada en Turquía es la lira.</lex>
+      <lex lang="es" lid="Id6">La moneda turca es la lira turca.</lex>
+      <lex lang="ca" lid="Id1">La moneda de Turquia és la lira turca.</lex>
+      <lex lang="ca" lid="Id2">La moneda de Turquia és la lira turca.</lex>
+      <lex lang="ca" lid="Id3">La moneda de Turquia és la lira turca.</lex>
+      <lex lang="ca" lid="Id4">La moneda de Turquia és la lira turca.</lex>
+      <lex lang="ca" lid="Id5">La moneda utilitzada a Turquia és la lira.</lex>
+      <lex lang="ca" lid="Id6">La moneda turca és la lira turca.</lex>
+      <lex lang="en_bt" lid="Id1">The currency of Turkey is the Turkish lira.</lex>
+      <lex lang="en_bt" lid="Id2">The currency of Turkey is the Turkish lira.</lex>
+      <lex lang="en_bt" lid="Id3">The currency of Turkey is the Turkish lira.</lex>
+      <lex lang="en_bt" lid="Id4">The currency of Turkey is the Turkish lira.</lex>
+      <lex lang="en_bt" lid="Id5">The currency used in Turkey is the lira.</lex>
+      <lex lang="en_bt" lid="Id6">The Turkish currency is the Turkish lira.</lex>
+      </entry>
+    <entry category="Monument" eid="Id35" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Turkey | largestCity | Istanbul</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | largestCity | Istanbul</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Turquía | CiudadMásGrande | Estambul</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Turkey | largestCity | Istanbul</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Turquia | CiutatMésGran | Istanbul</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The largest city in Turkey is Istanbul.</lex>
+      <lex lang="en" lid="Id2">Istanbul is the largest city in Turkey.</lex>
+      <lex lang="en" lid="Id3">Turkey's largest City is Istanbul.</lex>
+      <lex lang="es" lid="Id1">La ciudad más grande de Turquía es Estambul.</lex>
+      <lex lang="es" lid="Id2">Estambul es la ciudad más grande de Turquía.</lex>
+      <lex lang="es" lid="Id3">La ciudad más grande de Turquía es Estambul.</lex>
+      <lex lang="ca" lid="Id1">La ciutat més gran de Turquia és Istanbul.</lex>
+      <lex lang="ca" lid="Id2">Istanbul és la ciutat més gran de Turquia.</lex>
+      <lex lang="ca" lid="Id3">La ciutat més gran de Turquia és Istanbul.</lex>
+      <lex lang="en_bt" lid="Id1">The largest city in Turkey is Istanbul.</lex>
+      <lex lang="en_bt" lid="Id2">Istanbul is the largest city in Turkey.</lex>
+      <lex lang="en_bt" lid="Id3">The largest city in Turkey is Istanbul.</lex>
+      </entry>
+    <entry category="Monument" eid="Id36" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Turkey | leader | Ahmet_Davutoğlu</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Turkey | leaderName | Ahmet_Davutoğlu</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Turquía | Líder | Ahmet_Davutoğlu</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Turkey | leader | Ahmet_Davutoğlu</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Turquia | Líder | Ahmet_Davutoğlu</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Ahmet Davutoglu is a leader of Turkey.</lex>
+      <lex lang="en" lid="Id2">Ahmet Davutoglu is the leader of Turkey.</lex>
+      <lex lang="en" lid="Id3">Leader of Turkey is Ahmet Davutoglu.</lex>
+      <lex lang="en" lid="Id4">Ahmet Davutoğlu is Turkey's leader.</lex>
+      <lex lang="en" lid="Id5">The Leader Of Turkey is Ahmet Davutoğlu.</lex>
+      <lex lang="en" lid="Id6">Ahmet Davutoglu is the Turkish leader.</lex>
+      <lex lang="en" lid="Id7">Turkey's leader is Ahmet Davutoğlu.</lex>
+      <lex lang="en" lid="Id8">Turkey leader name is Ahmet Davutoğlu.</lex>
+      <lex lang="en" lid="Id9">The Turkish leader's name is Ahmet Davutoglu.</lex>
+      <lex lang="es" lid="Id1">Ahmet Davutoglu es dirigente de Turquía.</lex>
+      <lex lang="es" lid="Id2">Ahmet Davutoglu es el líder de Turquía.</lex>
+      <lex lang="es" lid="Id3">El líder de Turquía es Ahmet Davutoglu.</lex>
+      <lex lang="es" lid="Id4">Ahmet Davutoğlu es el líder de Turquía.</lex>
+      <lex lang="es" lid="Id5">El líder de Turquía es Ahmet Davutoğlu.</lex>
+      <lex lang="es" lid="Id6">Ahmet Davutoglu es el líder turco.</lex>
+      <lex lang="es" lid="Id7">El líder de Turquía es Ahmet Davutoğlu.</lex>
+      <lex lang="es" lid="Id8">El líder de Turquía se llama Ahmet Davutoğlu.</lex>
+      <lex lang="es" lid="Id9">El líder turco se llama Ahmet Davutoglu.</lex>
+      <lex lang="ca" lid="Id1">Ahmet Davutoglu és un líder de Turquia.</lex>
+      <lex lang="ca" lid="Id2">Ahmet Davutoglu és el líder de Turquia.</lex>
+      <lex lang="ca" lid="Id3">El líder de Turquia és Ahmet Davutoglu.</lex>
+      <lex lang="ca" lid="Id4">Ahmet Davutoğlu és el líder de Turquia.</lex>
+      <lex lang="ca" lid="Id5">El líder de Turquia és Ahmet Davutoğlu.</lex>
+      <lex lang="ca" lid="Id6">Ahmet Davutoglu és el líder turc.</lex>
+      <lex lang="ca" lid="Id7">El líder de Turquia és Ahmet Davutoğlu.</lex>
+      <lex lang="ca" lid="Id8">El nom del líder de Turquia és Ahmet Davutoğlu.</lex>
+      <lex lang="ca" lid="Id9">El nom del líder turc és Ahmet Davutoglu.</lex>
+      <lex lang="en_bt" lid="Id1">Ahmet Davutoglu is a leader of Turkey.</lex>
+      <lex lang="en_bt" lid="Id2">Ahmet Davutoglu is the leader of Turkey.</lex>
+      <lex lang="en_bt" lid="Id3">The leader of Turkey is Ahmet Davutoglu.</lex>
+      <lex lang="en_bt" lid="Id4">Ahmet Davutoğlu is the leader of Turkey.</lex>
+      <lex lang="en_bt" lid="Id5">The leader of Turkey is Ahmet Davutoğlu.</lex>
+      <lex lang="en_bt" lid="Id6">Ahmet Davutoglu is the Turkish leader.</lex>
+      <lex lang="en_bt" lid="Id7">The leader of Turkey is Ahmet Davutoğlu.</lex>
+      <lex lang="en_bt" lid="Id8">The name of the leader of Turkey is Ahmet Davutoğlu.</lex>
+      <lex lang="en_bt" lid="Id9">The name of the Turkish leader is Ahmet Davutoglu.</lex>
+      </entry>
+    <entry category="Monument" eid="Id37" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Turkey | leaderTitle | President_of_Turkey</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leaderTitle | President_of_Turkey</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Turquía | TítuloDeLíder | presidente_de_Turquía</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Turkey | leaderTitle | President_of_Turkey</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Turquia | LíderTítol | president_de_Turquia</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The leader's title in Turkey is the President of Turkey.</lex>
+      <lex lang="en" lid="Id2">Turkey's leader is the President of Turkey.</lex>
+      <lex lang="en" lid="Id3">President of Turkey is the official title of the Turkish leader.</lex>
+      <lex lang="es" lid="Id1">El título del líder en Turquía es el de Presidente de Turquía.</lex>
+      <lex lang="es" lid="Id2">El líder de Turquía es el Presidente de Turquía.</lex>
+      <lex lang="es" lid="Id3">Presidente de Turquía es el título oficial del dirigente turco.</lex>
+      <lex lang="ca" lid="Id1">El títol del líder a Turquia és el President de Turquia.</lex>
+      <lex lang="ca" lid="Id2">El líder de Turquia és el president de Turquia.</lex>
+      <lex lang="ca" lid="Id3">President de Turquia és el títol oficial del líder turc.</lex>
+      <lex lang="en_bt" lid="Id1">The title of the leader in Turkey is the President of Turkey.</lex>
+      <lex lang="en_bt" lid="Id2">The leader of Turkey is the president of Turkey.</lex>
+      <lex lang="en_bt" lid="Id3">President of Turkey is the official title of the Turkish leader.</lex>
+      </entry>
+    </entries>
+  </benchmark>

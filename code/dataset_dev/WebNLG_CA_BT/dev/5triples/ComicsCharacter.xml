@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="ComicsCharacter" eid="Id1" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Tim_Brooke-Taylor</otriple>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | creator | John_Geering</otriple>
+        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
+        <otriple>Bananaman | lastAired | "1986-04-15"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Tim_Brooke-Taylor</mtriple>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bananaman | creator | John_Geering</mtriple>
+        <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
+        <mtriple>Bananaman | lastAired | "1986-04-15"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Bananaman | ProtagonizadaPor | Tim_Brooke-Taylor</striple>
+        <striple>Bananaman | EmitidoPor | BBC</striple>
+        <striple>Bananaman | Creador | John_Geering</striple>
+        <striple>Bananaman | EmitidoPorPrimeraVez | 03-10-1983</striple>
+        <striple>Bananaman | ÚltimaEmisión | 15-04-1986</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Bananaman | starring | Tim_Brooke-Taylor</bttriple>
+        <bttriple>Bananaman | broadcastedBy | BBC</bttriple>
+        <bttriple>Bananaman | creator | John_Geering</bttriple>
+        <bttriple>Bananaman | firstAired | "1983-10-03"</bttriple>
+        <bttriple>Bananaman | lastAired | "1986-04-15"</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Bananamà | ProtagonitzadaPer | Tim_Brooke-Taylor</ctriple>
+        <ctriple>Bananamà | TransmèsPer | BBC</ctriple>
+        <ctriple>Bananamà | Creador | John_Geering</ctriple>
+        <ctriple>Bananamà | PrimeraEmissió | 1983-10-03</ctriple>
+        <ctriple>Bananamà | ÚltimaEmissió | 1986-04-15</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Bananaman was shown on the BBC, first airing on 3 October 1983 and the final broadcast being 15 April 1986. It was created by John Geering and starred Tim Brooke-Taylor.</lex>
+      <lex lang="en" lid="Id2">The BBC began airing Bananaman October 3rd, 1983 and the last episode was broadcast on April 15th, 1986. John Geering is one of the creators of Bananaman which also starred Tim Brooke-Taylor.</lex>
+      <lex lang="en" lid="Id3">The TV character Bananaman was created by John Geering. The programme was broadcast by the BBC and starred Tim Brooke-Taylor. It first aired on the 10th March 1983 and was last shown on April 15th 1986.</lex>
+      <lex lang="es" lid="Id1">Bananaman se emitió en la BBC por primera vez el 3 de octubre de 1983 y su última emisión fue el 15 de abril de 1986. Fue creada por John Geering y protagonizada por Tim Brooke-Taylor.</lex>
+      <lex lang="es" lid="Id2">La BBC empezó a emitir Bananaman el 3 de octubre de 1983 y el último episodio se emitió el 15 de abril de 1986. John Geering es uno de los creadores de Bananaman, que también protagonizó Tim Brooke-Taylor.</lex>
+      <lex lang="es" lid="Id3">El personaje televisivo Bananaman fue creado por John Geering. El programa fue emitido por la BBC y protagonizado por Tim Brooke-Taylor. Se emitió por primera vez el 10 de marzo de 1983 y por última vez el 15 de abril de 1986.</lex>
+      <lex lang="ca" lid="Id1">Bananaman es va mostrar a la BBC, es va emetre per primera vegada el 3 d' octubre de 1983 i l' última emissió va ser el 15 d' abril de 1986. Va ser creat per John Geering i protagonitzat per Tim Brooke- Taylor.</lex>
+      <lex lang="ca" lid="Id2">La BBC va començar a emetre Bananaman el 3 d'octubre de 1983 i l'últim episodi es va emetre el 15 d'abril de 1986. John Geering és un dels creadors de Bananaman que també va protagonitzar Tim Brooke-Taylor.</lex>
+      <lex lang="ca" lid="Id3">El personatge de televisió Bananaman va ser creat per John Geering. El programa va ser emès per la BBC i protagonitzat per Tim Brooke-Taylor. Es va emetre per primera vegada el 10 de març de 1983 i es va emetre per última vegada el 15 d'abril de 1986.</lex>
+      <lex lang="en_bt" lid="Id1">Bananaman was shown on the BBC, first airing on 3 October 1983 and last airing on 15 April 1986. It was created by John Geering and starred Tim Brooke-Taylor.</lex>
+      <lex lang="en_bt" lid="Id2">The BBC began broadcasting Bananaman on 3 October 1983 and the last episode was broadcast on 15 April 1986. John Geering is one of the creators of Bananaman who also starred in Tim Brooke-Taylor.</lex>
+      <lex lang="en_bt" lid="Id3">The television character Bananaman was created by John Geering. The show was broadcast by the BBC and starred Tim Brooke-Taylor. It first aired on 10 March 1983 and last aired on 15 April 1986.</lex>
+      </entry>
+    <entry category="ComicsCharacter" eid="Id2" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Baymax | creator | Steven_T._Seagle</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Scott_Adsit</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | creators | Steven_T._Seagle</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Scott_Adsit</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Duncan_Rouleau | nationality | Americans</mtriple>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+        <mtriple>Baymax | creator | Steven_T._Seagle</mtriple>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Scott_Adsit</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Duncan_Rouleau | Nacionalidad | Estadounidense</striple>
+        <striple>Baymax | Creador | Duncan_Rouleau</striple>
+        <striple>Baymax | Creador | Steven_T._Seagle</striple>
+        <striple>Baymax | Serie | Big_Hero_6_(película)</striple>
+        <striple>Big_Hero_6_(película) | ProtagonizadaPor | Scott_Adsit</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Duncan_Rouleau | nationality | Americans</bttriple>
+        <bttriple>Baymax | creator | Duncan_Rouleau</bttriple>
+        <bttriple>Baymax | creator | Steven_T._Seagle</bttriple>
+        <bttriple>Baymax | series | Big_Hero_6_(film)</bttriple>
+        <bttriple>Big_Hero_6_(film) | starring | Scott_Adsit</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Duncan_Rouleau | Nacionalitat | estatunidenc</ctriple>
+        <ctriple>Baymax | Creador | Duncan_Rouleau</ctriple>
+        <ctriple>Baymax | Creador | Steven_T._Seagle</ctriple>
+        <ctriple>Baymax | Sèrie | Big_Hero_6_(pel·lícula)</ctriple>
+        <ctriple>Big_Hero_6_(pel·lícula) | ProtagonitzadaPer | Scott_Adsit</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Baymax is a character from the film Big Hero 6 starring Scott Adsit. He was created by Steven T Seagle and the American, Duncan Rouleau.</lex>
+      <lex lang="en" lid="Id2">American Duncan Rouleau and Steven T. Seagle created Baymax. Baymax is a character in Big Hero 6 which starred Scott Adsit.</lex>
+      <lex lang="en" lid="Id3">Baymax was created by American Duncan Rouleau and Steven T. Seagle. Baymax is a character in Big Hero 6 which stars Scott Adsit.</lex>
+      <lex lang="es" lid="Id1">Baymax es un personaje de la película Big Hero 6 protagonizada por Scott Adsit. Fue creado por Steven T Seagle y el Estadounidense Duncan Rouleau.</lex>
+      <lex lang="es" lid="Id2">Los Estadounidenses Duncan Rouleau y Steven T. Seagle crearon a Baymax. Baymax es un personaje de Big Hero 6, protagonizada por Scott Adsit.</lex>
+      <lex lang="es" lid="Id3">Baymax fue creado por los Estadounidenses Duncan Rouleau y Steven T. Seagle. Baymax es un personaje de Big Hero 6, protagonizada por Scott Adsit.</lex>
+      <lex lang="ca" lid="Id1">Baymax és un personatge de la pel·lícula Big Hero 6, protagonitzada per Scott Adsit. Va ser creat per Steven T. Seagle i l'americà Duncan Rouleau.</lex>
+      <lex lang="ca" lid="Id2">Els americans Duncan Rouleau i Steven T. Seagle van crear Baymax. Baymax és un personatge de Big Hero 6 protagonitzat per Scott Adsit.</lex>
+      <lex lang="ca" lid="Id3">Baymax va ser creat pels americans Duncan Rouleau i Steven T. Seagle. Baymax és un personatge de Big Hero 6 protagonitzat per Scott Adsit.</lex>
+      <lex lang="en_bt" lid="Id1">Baymax is a character in the film Big Hero 6, starring Scott Adsit. He was created by Steven T. Seagle and American Duncan Rouleau.</lex>
+      <lex lang="en_bt" lid="Id2">Americans Duncan Rouleau and Steven T. Seagle created Baymax. Baymax is a character in Big Hero 6 starring Scott Adsit.</lex>
+      <lex lang="en_bt" lid="Id3">Baymax was created by Americans Duncan Rouleau and Steven T. Seagle. Baymax is a Big Hero 6 character starring Scott Adsit.</lex>
+      </entry>
+    </entries>
+  </benchmark>

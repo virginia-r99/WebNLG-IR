@@ -1,0 +1,544 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="City" eid="Id1" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Abilene,_Texas | isPartOf | Texas</otriple>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>Abilene,_Texas | country | United_States</otriple>
+        <otriple>Texas | language | English_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abilene,_Texas | isPartOf | Texas</mtriple>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>Abilene,_Texas | country | United_States</mtriple>
+        <mtriple>Texas | language | English_language</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Abilene,_Texas | FormaParteDe | Texas</striple><striple>Estados_Unidos | Capital | Washington_D._C.</striple><striple>Abilene,_Texas | País | Estados_Unidos</striple><striple>Texas | Idioma | inglés</striple></spanishtripleset><lex lang="en" lid="Id1">Abilene is part of Texas in the United States. Washington, D.C. is the capital of the U.S and English is its official language.</lex>
+      <lex lang="en" lid="Id2">Abilene, Texas, where English is spoken, is in the United States which has Washington D.C. as its capital.</lex>
+      <lex lang="en" lid="Id3">Abilene, Texas (English is one of the languages spoken), is in the United States, where Washington D.C. is the capital.</lex>
+    <lex lang="es" lid="Id1">Abilene es parte de Texas en los Estados Unidos. Washington D.C. es la capital de EE.UU. y el inglés es su lengua oficial.</lex><lex lang="es" lid="Id2">Abilene (Texas), donde se habla inglés, está en Estados Unidos, cuya capital es Washington D.C.</lex><lex lang="es" lid="Id3">Abilene, Texas (el inglés es una de las lenguas habladas), está en Estados Unidos, donde Washington D.C. es la capital.</lex></entry>
+    <entry category="City" eid="Id2" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Albany,_Georgia | subdivisionName | Georgia_(U.S._state)</otriple>
+        <otriple>United_States | demonym | Americans</otriple>
+        <otriple>Albany,_Georgia | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Albany,_Georgia | isPartOf | Georgia_(U.S._state)</mtriple>
+        <mtriple>United_States | demonym | Americans</mtriple>
+        <mtriple>Albany,_Georgia | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Albany,_Georgia | FormaParteDe | Georgia_(Estado_de_EE.UU.)</striple><striple>Estados_Unidos | Gentilicio | Estadounidense</striple><striple>Albany,_Georgia | País | Estados_Unidos</striple><striple>Estados_Unidos | GrupoÉtnico | Afroestadounidense</striple></spanishtripleset><lex lang="en" lid="Id1">Albany, Georgia, is located within the United States where the inhabitants are called Americans. One of the ethnic groups in the United States are the African Americans.</lex>
+      <lex lang="en" lid="Id2">Albany is part of the state of Georgia in the United States. The people living in the US are called Americans and include the ethnic group of African Americans.</lex>
+      <lex lang="en" lid="Id3">Albany is located in the US state of Georgia. Americans are the people occupying the U.S, where one of the ethnic groups is the African Americans.</lex>
+    <lex lang="es" lid="Id1">Albany, Georgia, está situada en Estados Unidos, donde sus habitantes se llaman Estadounidense. Uno de los grupos étnicos de Estados Unidos son los afroEstadounidense.</lex><lex lang="es" lid="Id2">Albany forma parte del estado de Georgia, en Estados Unidos. Las personas que viven en ella se denominan Estadounidenses e incluyen el grupo étnico de los afroEstadounidense.</lex><lex lang="es" lid="Id3">Albany se encuentra en el estado Estadounidense de Georgia. UU, donde uno de los grupos étnicos es el de los afroEstadounidense.</lex></entry>
+    <entry category="City" eid="Id3" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Albany,_Georgia | subdivisionName | Georgia_(U.S._state)</otriple>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>Albany,_Georgia | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Albany,_Georgia | isPartOf | Georgia_(U.S._state)</mtriple>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>Albany,_Georgia | country | United_States</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Albany,_Georgia | FormaParteDe | Georgia_(Estado_de_EE.UU.)</striple><striple>Estados_Unidos | GrupoÉtnico | estadounidense_asiático</striple><striple>Estados_Unidos | Idioma | inglés</striple><striple>Albany,_Georgia | País | Estados_Unidos</striple></spanishtripleset><lex lang="en" lid="Id1">Albany is part of Georgia, in the United States. the country where English is spoken, and one of the ethnic groups is Asian Americans.</lex>
+      <lex lang="en" lid="Id2">Albany, Georgia, is in the United States, where English is the language, and where Asian Americans are one of the ethnic groups.</lex>
+      <lex lang="en" lid="Id3">Albany, Georgia is in the United States where English is spoken and Asian Americans are among the ethnic groups.</lex>
+    <lex lang="es" lid="Id1">Albany forma parte de Georgia, en Estados Unidos. país donde se habla inglés, y uno de los grupos étnicos es el de los asiático-americanos.</lex><lex lang="es" lid="Id2">Albany, Georgia, está en Estados Unidos, donde el inglés es el idioma, y donde los asiático-americanos son uno de los grupos étnicos.</lex><lex lang="es" lid="Id3">Albany, Georgia, se encuentra en Estados Unidos, donde se habla inglés y los asiático-americanos forman parte de los grupos étnicos.</lex></entry>
+    <entry category="City" eid="Id4" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Albany,_Oregon | subdivisionName | Oregon</otriple>
+        <otriple>Oregon | capital | Salem,_Oregon</otriple>
+        <otriple>Albany,_Oregon | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Albany,_Oregon | isPartOf | Oregon</mtriple>
+        <mtriple>Oregon | capital | Salem,_Oregon</mtriple>
+        <mtriple>Albany,_Oregon | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Albany,_Oregon | FormaParteDe | Oregón</striple><striple>Oregón | Capital | Salem,_Oregón</striple><striple>Albany,_Oregon | País | Estados_Unidos</striple><striple>Estados_Unidos | GrupoÉtnico | Afroestadounidense</striple></spanishtripleset><lex lang="en" lid="Id1">Albany is a city in Oregon, where the capital is Salem. Albany is located in the United States, where there is an ethnic group called African Americans.</lex>
+      <lex lang="en" lid="Id2">Albany is a city in Oregon located in the U.S. Salem is the capital of that state. African Americans are one ethnic group in the U.S.</lex>
+      <lex lang="en" lid="Id3">Albany is part of Oregon (capital is Salem), in the Unite States, where African Americans are one of the ethnic groups.</lex>
+    <lex lang="es" lid="Id1">Albany es una ciudad de Oregón, cuya capital es Salem. Albany se encuentra en Estados Unidos, donde hay un grupo étnico llamado afroamericanos.</lex><lex lang="es" lid="Id2">Albany es una ciudad de Oregón situada en EE.UU. Salem es la capital de ese estado. Los afroamericanos son un grupo étnico de Estados Unidos.</lex><lex lang="es" lid="Id3">Albany forma parte de Oregón (su capital es Salem), en Estados Unidos, donde los afroamericanos son uno de los grupos étnicos.</lex></entry>
+    <entry category="City" eid="Id5" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Albuquerque,_New_Mexico | areaLand | 4.862e+08</otriple>
+        <otriple>Albuquerque,_New_Mexico | populationDensity | "1142.3"^^xsd:double</otriple>
+        <otriple>Albuquerque,_New_Mexico | areaCode | 505575</otriple>
+        <otriple>Albuquerque,_New_Mexico | areaTotal | "490.9"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Albuquerque,_New_Mexico | areaCode | "505, 575"</otriple>
+        <otriple>Albuquerque,_New_Mexico | areaLand | 4.862e+08</otriple>
+        <otriple>Albuquerque,_New_Mexico | areaTotal | 4.909e+08</otriple>
+        <otriple>Albuquerque,_New_Mexico | populationDensity | "1142.3"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Albuquerque,_New_Mexico | areaCode | 505, 575</mtriple>
+        <mtriple>Albuquerque,_New_Mexico | areaOfLand | 486.2 (square kilometres)</mtriple>
+        <mtriple>Albuquerque,_New_Mexico | areaTotal | 490.9 (square kilometres)</mtriple>
+        <mtriple>Albuquerque,_New_Mexico | populationDensity | 1142.3 (inhabitants per square kilometre)</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Albuquerque,_Nuevo_México | CódigoDeÁrea | 505,_575</striple><striple>Albuquerque,_Nuevo_México | SuperficieDeTerreno | 486,2_(kilómetros_cuadrados)</striple><striple>Albuquerque,_Nuevo_México | ÁreaTotal | 490,9_(kilómetros_cuadrados)</striple><striple>Albuquerque,_Nuevo_México | DensidadDePoblación | 1142,3_(habitantes_por_kilómetro_cuadrado)</striple></spanishtripleset><lex lang="en" lid="Id1">Albuquerque, in New Mexico, has a total are of 490.9 square kilometres and a land area of 486.2 square kilometres. It has a population density of 1142.3 people per square kilometers, and the area codes are 505 and 575.</lex>
+      <lex lang="en" lid="Id2">Albuquerque, New Mexico covers a total of 490.9 sq kms which includes a land area of 486.2 sq km. It has the area codes 505 and 575 and a population density of 1142.3 inhabitants per sq km.</lex>
+    <lex lang="es" lid="Id1">Albuquerque, en Nuevo México, tiene una superficie total de 490,9 kilómetros cuadrados y una superficie terrestre de 486,2 kilómetros cuadrados. Tiene una densidad de población de 1.142,3 habitantes por kilómetro cuadrado, y los códigos de área son 505 y 575.</lex><lex lang="es" lid="Id2">Albuquerque, Nuevo México, tiene una superficie total de 490,9 km2, de los cuales 486,2 km2 son de tierra. Tiene los códigos de área 505 y 575 y una densidad de población de 1.142,3 habitantes por km2.</lex></entry>
+    <entry category="City" eid="Id6" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Amarillo,_Texas | isPartOf | Potter_County,_Texas</otriple>
+        <otriple>Potter_County,_Texas | state | Texas</otriple>
+        <otriple>Potter_County,_Texas | country | United_States</otriple>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amarillo,_Texas | isPartOf | Potter_County,_Texas</mtriple>
+        <mtriple>Potter_County,_Texas | state | Texas</mtriple>
+        <mtriple>Potter_County,_Texas | country | United_States</mtriple>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Amarillo,_Texas | FormaParteDe | Condado_de_Potter,_Texas</striple><striple>Condado_de_Potter,_Texas | Estado | Texas</striple><striple>Condado_de_Potter,_Texas | País | Estados_Unidos</striple><striple>Estados_Unidos | Capital | Washington_D._C.</striple></spanishtripleset><lex lang="en" lid="Id1">Amarillo is part of Potter County, Texas, in the United States, the capital of which, is Washington, D.C.</lex>
+      <lex lang="en" lid="Id2">Amarillo is located in the United States and comprises part of Potter County in the state of Texas. The capital of the country is found in Washington DC.</lex>
+      <lex lang="en" lid="Id3">Amarillo is part of Potter County, Texas, U.S. Washington D.C. is the capital of the U.S.</lex>
+    <lex lang="es" lid="Id1">Amarillo forma parte del condado de Potter, Texas, en Estados Unidos, cuya capital es Washington, D.C.</lex><lex lang="es" lid="Id2">Amarillo está situado en Estados Unidos y comprende parte del condado de Potter, en el estado de Texas. La capital del país se encuentra en Washington DC.</lex><lex lang="es" lid="Id3">Amarillo es parte del condado de Potter, Texas, EE.UU. Washington D.C. es la capital de EE.UU.</lex></entry>
+    <entry category="City" eid="Id7" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Anaheim,_California | isPartOf | Orange_County,_California</otriple>
+        <otriple>Orange_County,_California | subdivisionName | Greater_Los_Angeles_Area</otriple>
+        <otriple>Anaheim,_California | leaderTitle | California_State_Assembly</otriple>
+        <otriple>Anaheim,_California | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Anaheim,_California | isPartOf | Orange_County,_California</mtriple>
+        <mtriple>Orange_County,_California | isPartOf | Greater_Los_Angeles_Area</mtriple>
+        <mtriple>Anaheim,_California | leaderTitle | California_State_Assembly</mtriple>
+        <mtriple>Anaheim,_California | country | United_States</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Anaheim | FormaParteDe | Condado_de_Orange,_California</striple><striple>Condado_de_Orange,_California | FormaParteDe | Área_metropolitana_de_Los_Ángeles</striple><striple>Anaheim | TítuloDeLíder | Asamblea_Estatal_de_California</striple><striple>Anaheim | País | Estados_Unidos</striple></spanishtripleset><lex lang="en" lid="Id1">Anaheim, California in the U.S. is led by the California State Assembly and is part of Orange County which forms part of the Greater L.A. area.</lex>
+      <lex lang="en" lid="Id2">Led by the California State Assembly, Anaheim, is in Orange County, California (part of the Greater Los Angeles area), in the United States.</lex>
+      <lex lang="en" lid="Id3">Anaheim is a city in Orange County (part of the Greater Los Angeles area) which is part of California in the U.S. Anaheim is led by the California State Assembly.</lex>
+    <lex lang="es" lid="Id1">Anaheim, California, en Estados Unidos, está dirigida por la Asamblea del Estado de California y forma parte del Condado de Orange, que a su vez forma parte del área metropolitana de Los Ángeles.</lex><lex lang="es" lid="Id2">Dirigida por la Asamblea del Estado de California, Anaheim, se encuentra en el Condado de Orange, California (parte del área metropolitana de Los Ángeles), en Estados Unidos.</lex><lex lang="es" lid="Id3">Anaheim es una ciudad del condado de Orange (parte del área metropolitana de Los Ángeles), que forma parte de California, en Estados Unidos.</lex></entry>
+    <entry category="City" eid="Id8" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Angola,_Indiana | country | United_States</otriple>
+        <otriple>Angola,_Indiana | subdivisionName | Pleasant_Township,_Steuben_County,_Indiana</otriple>
+        <otriple>Angola,_Indiana | areaTotal | "16.55"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+        <otriple>Angola,_Indiana | isPartOf | Indiana</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Angola,_Indiana | country | United_States</otriple>
+        <otriple>Angola,_Indiana | subdivisionName | Pleasant_Township,_Steuben_County,_Indiana</otriple>
+        <otriple>Angola,_Indiana | areaTotal | "16.55002402504704"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+        <otriple>Angola,_Indiana | isPartOf | Indiana</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Angola,_Indiana | isPartOf | Pleasant_Township,_Steuben_County,_Indiana</otriple>
+        <otriple>Angola,_Indiana | country | United_States</otriple>
+        <otriple>Angola,_Indiana | subdivisionName | Indiana</otriple>
+        <otriple>Angola,_Indiana | areaTotal | "16.55"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Angola,_Indiana | isPartOf | Pleasant_Township,_Steuben_County,_Indiana</mtriple>
+        <mtriple>Angola,_Indiana | country | United_States</mtriple>
+        <mtriple>Angola,_Indiana | isPartOf | Indiana</mtriple>
+        <mtriple>Angola,_Indiana | areaTotal | 16.55 (square kilometres)</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Angola | FormaParteDe | Municipio_de_Pleasant_(condado_de_Steuben,_Indiana)</striple><striple>Angola | País | Estados_Unidos</striple><striple>Angola | FormaParteDe | Indiana</striple><striple>Angola | ÁreaTotal | 16,55_(kilómetros_cuadrados)</striple></spanishtripleset><lex lang="en" lid="Id1">Angola is part of Pleasant Township in Steuben County, Indiana, in the U.S. and is 16.55 square kilometres in size.</lex>
+      <lex lang="en" lid="Id2">Angola is part of Pleasant Township in Steuben County and covers a total area of 16.55 square kilometres. The city is in Indiana, United States.</lex>
+      <lex lang="en" lid="Id3">Angola is part of Pleasant township, Steuben County in the US. It is located in the state of Indiana and has a total area of 16.55 sq km.</lex>
+    <lex lang="es" lid="Id1">Angola es parte de Pleasant Township en el condado de Steuben, Indiana, en los EE.UU. y tiene una superficie de 16,55 kilómetros cuadrados.</lex><lex lang="es" lid="Id2">Angola forma parte del municipio de Pleasant, en el condado de Steuben, y tiene una superficie total de 16,55 kilómetros cuadrados. La ciudad está en Indiana, Estados Unidos.</lex><lex lang="es" lid="Id3">La localidad Angola es parte de Pleasant township, Steuben County en Estados Unidos. Se encuentra en el estado de Indiana y tiene una superficie total de 16,55 km².</lex></entry>
+    <entry category="City" eid="Id9" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Angola,_Indiana | subdivisionName | Steuben_County,_Indiana</otriple>
+        <otriple>United_States | demonym | Americans</otriple>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+        <otriple>Angola,_Indiana | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Angola,_Indiana | isPartOf | Steuben_County,_Indiana</mtriple>
+        <mtriple>United_States | demonym | Americans</mtriple>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+        <mtriple>Angola,_Indiana | country | United_States</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Angola | FormaParteDe | Condado_de_Steuben</striple><striple>Estados_Unidos | Gentilicio | Estadounidense</striple><striple>Estados_Unidos | GrupoÉtnico | pueblos_nativos_de_los_Estados_Unidos</striple><striple>Angola | País | Estados_Unidos</striple></spanishtripleset><lex lang="en" lid="Id1">Angola is in Steuben County, Indiana and that's in the U.S. where people are known as Americans and is also home to Native Americans.</lex>
+      <lex lang="en" lid="Id2">The people living in the United States are known as Americans and include the ethnic group of Native Americans. The country is the location of Angola which is found in Steuben County, Indiana.</lex>
+      <lex lang="en" lid="Id3">Angola, Indiana is in Steuben County, in the United States, where Native Americans are an ethnic group.</lex>
+    <lex lang="es" lid="Id1">Angola se encuentra en el condado de Steuben (Indiana), en Estados Unidos, donde se conoce a la población como "americana", y es también el hogar de los nativos Estadounidense.</lex><lex lang="es" lid="Id2">Las personas que viven en los Estados Unidos son conocidos como Estadounidenses e incluyen el grupo étnico de los nativos Estadounidense. El país es la ubicación de Angola que se encuentra en el condado de Steuben, Indiana.</lex><lex lang="es" lid="Id3">Angola, Indiana se encuentra en el condado de Steuben, en los Estados Unidos, donde los nativos Estadounidense son un grupo étnico.</lex></entry>
+    <entry category="City" eid="Id10" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Antioch,_California | utcOffset | "&amp;minus;7"</otriple>
+        <otriple>Antioch,_California | populationTotal | 102372</otriple>
+        <otriple>Antioch,_California | areaCode | "925"</otriple>
+        <otriple>Antioch,_California | areaTotal | 7.5324e+07</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Antioch,_California | utcOffset | "&amp;minus;7"</otriple>
+        <otriple>Antioch,_California | areaCode | 925</otriple>
+        <otriple>Antioch,_California | populationTotal | 102372</otriple>
+        <otriple>Antioch,_California | areaTotal | "75.324"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Antioch,_California | utcOffset | "&amp;minus;7"</otriple>
+        <otriple>Antioch,_California | populationTotal | 102372</otriple>
+        <otriple>Antioch,_California | areaCode | "925"</otriple>
+        <otriple>Antioch,_California | areaTotal | "75.324"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Antioch,_California | utcOffset | "-7"</mtriple>
+        <mtriple>Antioch,_California | populationTotal | 102372</mtriple>
+        <mtriple>Antioch,_California | areaCode | 925</mtriple>
+        <mtriple>Antioch,_California | areaTotal | 75.324 (square kilometres)</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Antioch,_California | DesplazamientoUTC | -7</striple><striple>Antioch,_California | PoblaciónTotal | 102372</striple><striple>Antioch,_California | CódigoDeÁrea | 925</striple><striple>Antioch,_California | ÁreaTotal | 75.324_(kilómetros_cuadrados)</striple></spanishtripleset><lex lang="en" lid="Id1">The total area of Antioch, California is 75.324 square km and uses UTC offset of -7.It has a total population of 102372 inhabitants and its area code is 925.</lex>
+      <lex lang="en" lid="Id2">The total area of Antioch, California is 75.324 square km., has an UTC offset of -7 and its population is 102372. The area code there is 925.</lex>
+      <lex lang="en" lid="Id3">Antioch, California has a UTC offset of - 7, the population is 102372, the area code is 925, and has a total area of 75.324 square km.</lex>
+    <lex lang="es" lid="Id1">El área total de Antioch, California es de 75,324 km cuadrados y utiliza el desplazamiento UTC de -7. Tiene una población total de 102372 habitantes y su código de área es 925.</lex><lex lang="es" lid="Id2">La superficie total de Antioch, California, es de 75,324 km2, tiene un desfase UTC de -7 y su población es de 102372 habitantes. El prefijo telefónico es 925.</lex><lex lang="es" lid="Id3">Antioch, California tiene un desplazamiento UTC de - 7, la población es 102372, el código de área es 925, y tiene una superficie total de 75,324 km cuadrados.</lex></entry>
+    <entry category="City" eid="Id11" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Attica,_Indiana | areaTotal | 4.14e+06</otriple>
+        <otriple>Attica,_Indiana | isPartOf | Logan_Township,_Fountain_County,_Indiana</otriple>
+        <otriple>Attica,_Indiana | subdivisionName | Fountain_County,_Indiana</otriple>
+        <otriple>Attica,_Indiana | populationDensity | "783.1"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Attica,_Indiana | areaTotal | 4.14e+06</otriple>
+        <otriple>Attica,_Indiana | isPartOf | Logan_Township,_Fountain_County,_Indiana</otriple>
+        <otriple>Attica,_Indiana | subdivisionName | Fountain_County,_Indiana</otriple>
+        <otriple>Attica,_Indiana | populationDensity | "783.054"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Attica,_Indiana | areaTotal | 4.14 (square kilometres)</mtriple>
+        <mtriple>Attica,_Indiana | isPartOf | Logan_Township,_Fountain_County,_Indiana</mtriple>
+        <mtriple>Attica,_Indiana | isPartOf | Fountain_County,_Indiana</mtriple>
+        <mtriple>Attica,_Indiana | populationDensity | 783.1 (inhabitants per square kilometre)</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Attica | ÁreaTotal | 4,14_(kilómetros_cuadrados)</striple><striple>Attica | FormaParteDe | Municipio_de_Logan_(condado_de_Fountain,_Indiana)</striple><striple>Attica | FormaParteDe | Condado_de_Fountain,_Indiana</striple><striple>Attica | DensidadDePoblación | 783,1_(habitantes_por_kilómetro_cuadrado)</striple></spanishtripleset><lex lang="en" lid="Id1">Attica is part of Logan Township, Fountain County in Indiana. It has a total area of 4.14 sq km and a population density of 783.1 inhabitants per sq km.</lex>
+      <lex lang="en" lid="Id2">Attica, Indiana is part of Logan Township, Fountain County, Indiana and is 4.14 square kilometres large and has a population density of 783.1 people per square kilometre.</lex>
+      <lex lang="en" lid="Id3">The city of Attica is found in Logan Township, part of Fountain County in Indiana. The city has a total area of 4.14 sq km and the population density is 783.1 inhabitants per sq km.</lex>
+    <lex lang="es" lid="Id1">Attica es parte de Logan Township, Condado de Fountain en Indiana. Tiene una superficie total de 4,14 km2 y una densidad de población de 783,1 habitantes por km2.</lex><lex lang="es" lid="Id2">Attica, Indiana es parte de Logan Township, Condado de Fountain, Indiana y tiene una superficie de 4,14 kilómetros cuadrados y una densidad de población de 783,1 personas por kilómetro cuadrado.</lex><lex lang="es" lid="Id3">La ciudad de Attica se encuentra en el municipio de Logan, parte del condado de Fountain en Indiana. La ciudad tiene una superficie total de 4,14 kilómetros cuadrados y la densidad de población es de 783,1 habitantes por kilómetro cuadrado.</lex></entry>
+    <entry category="City" eid="Id12" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Attica,_Indiana | subdivisionName | United_States</otriple>
+        <otriple>Attica,_Indiana | areaTotal | 4.14e+06</otriple>
+        <otriple>Attica,_Indiana | isPartOf | Logan_Township,_Fountain_County,_Indiana</otriple>
+        <otriple>Attica,_Indiana | populationDensity | "783.054"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Attica,_Indiana | isPartOf | United_States</mtriple>
+        <mtriple>Attica,_Indiana | areaTotal | 4.14 (square kilometres)</mtriple>
+        <mtriple>Attica,_Indiana | isPartOf | Logan_Township,_Fountain_County,_Indiana</mtriple>
+        <mtriple>Attica,_Indiana | populationDensity | 783.1 (inhabitants per square kilometre)</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Attica | FormaParteDe | Estados_Unidos</striple><striple>Attica | ÁreaTotal | 4,14_(kilómetros_cuadrados)</striple><striple>Attica | FormaParteDe | Municipio_de_Logan_(condado_de_Fountain,_Indiana)</striple><striple>Attica | DensidadDePoblación | 783,1_(habitantes_por_kilómetro_cuadrado)</striple></spanishtripleset><lex lang="en" lid="Id1">Attica is part of Logan Township, Fountain County, Indiana, U.S. and has 783.1 inhabitants for each of the 4.14 square kilometres it covers.</lex>
+      <lex lang="en" lid="Id2">Attica is part of Logan Township, Fountain County, Indiana in the United States. The area of Attica Indiana is 4.14 Sq Km and it has a 783.1 inhabitants per square kilometres population density.</lex>
+      <lex lang="en" lid="Id3">Attica is part of Logan Township, Fountain County, Indiana in the United States. It covers a total area of 4.14 sq kms and the population density if 783.1 inhabitants per sq km.</lex>
+    <lex lang="es" lid="Id1">Attica es parte de Logan Township, Fountain County, Indiana, EE.UU. y tiene 783,1 habitantes por cada uno de los 4,14 kilómetros cuadrados que abarca.</lex><lex lang="es" lid="Id2">Attica es parte de Logan Township, Condado de Fountain, Indiana en los Estados Unidos. El área de Attica Indiana es de 4,14 kilómetros cuadrados y tiene una densidad de población de 783,1 habitantes por kilómetro cuadrado.</lex><lex lang="es" lid="Id3">Attica es parte de Logan Township, Condado de Fountain, Indiana en los Estados Unidos. Cubre una superficie total de 4,14 kilómetros cuadrados y la densidad de población si 783,1 habitantes por kilómetro cuadrado.</lex></entry>
+    <entry category="City" eid="Id13" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Attica,_Indiana | subdivisionName | United_States</otriple>
+        <otriple>Attica,_Indiana | populationDensity | "783.1"^^xsd:double</otriple>
+        <otriple>Attica,_Indiana | isPartOf | Fountain_County,_Indiana</otriple>
+        <otriple>Attica,_Indiana | areaTotal | "4.14"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Attica,_Indiana | isPartOf | United_States</mtriple>
+        <mtriple>Attica,_Indiana | populationDensity | 783.1 (inhabitants per square kilometre)</mtriple>
+        <mtriple>Attica,_Indiana | isPartOf | Fountain_County,_Indiana</mtriple>
+        <mtriple>Attica,_Indiana | areaTotal | 4.14 (square kilometres)</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Attica | FormaParteDe | Estados_Unidos</striple><striple>Attica | DensidadDePoblación | 783,1_(habitantes_por_kilómetro_cuadrado)</striple><striple>Attica | FormaParteDe | Condado_de_Fountain,_Indiana</striple><striple>Attica | ÁreaTotal | 4,14_(kilómetros_cuadrados)</striple></spanishtripleset><lex lang="en" lid="Id1">The population density, of Attica, Fountain County, Indiana in the USA is 783.1 inhabitants per square kilometre. It has an area of 4.14 SqKm.</lex>
+      <lex lang="en" lid="Id2">Attica is located in Fountain County, Indiana in the United States of America. It has a total area of 4.14 sq km with a population density of 783.1 inhabitants per sq km.</lex>
+      <lex lang="en" lid="Id3">Attica is part of Fountain County, Indiana in the United States. Its total area is 4.14 square kilometres and it has a 783.1 inhabitants/sq km population density.</lex>
+    <lex lang="es" lid="Id1">La densidad de población, de Attica, Condado de Fountain, Indiana en los EE.UU. es 783,1 habitantes por kilómetro cuadrado. Tiene una superficie de 4,14 SqKm.</lex><lex lang="es" lid="Id2">Attica está situada en el condado de Fountain, Indiana en los Estados Unidos de América. Tiene una superficie total de 4,14 km2 con una densidad de población de 783,1 habitantes por km2.</lex><lex lang="es" lid="Id3">Attica es parte del Condado de Fountain, Indiana en los Estados Unidos. Su superficie total es de 4,14 kilómetros cuadrados y tiene una densidad de población de 783,1 habitantes/km2.</lex></entry>
+    <entry category="City" eid="Id14" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Auburn,_Alabama | isPartOf | Lee_County,_Alabama</otriple>
+        <otriple>Lee_County,_Alabama | country | United_States</otriple>
+        <otriple>Lee_County,_Alabama | state | Alabama</otriple>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Auburn,_Alabama | isPartOf | Lee_County,_Alabama</mtriple>
+        <mtriple>Lee_County,_Alabama | country | United_States</mtriple>
+        <mtriple>Lee_County,_Alabama | state | Alabama</mtriple>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Auburn,_Alabama | FormaParteDe | Condado_de_Lee,_Alabama</striple><striple>Condado_de_Lee,_Alabama | País | Estados_Unidos</striple><striple>Condado_de_Lee,_Alabama | Estado | Alabama</striple><striple>Estados_Unidos | GrupoÉtnico | estadounidense_asiático</striple></spanishtripleset><lex lang="en" lid="Id1">Auburn is part of Lee County in Alabama which is located in the United States where you can also find asian americans.</lex>
+      <lex lang="en" lid="Id2">The Asian Americans are an ethnic group in the United States where Lee County is located. Auburn is found in this County which is in the state of Alabama.</lex>
+      <lex lang="en" lid="Id3">Auburn is part of Lee County, Alabama, in the United States, where one of the ethnic groups is Asian American.</lex>
+    <lex lang="es" lid="Id1">Auburn es parte del condado de Lee en Alabama que se encuentra en los Estados Unidos, donde también se pueden encontrar asiático-americanos.</lex><lex lang="es" lid="Id2">Los asiático-americanos son un grupo étnico de Estados Unidos, donde se encuentra el condado de Lee. Auburn se encuentra en este Condado que está en el estado de Alabama.</lex><lex lang="es" lid="Id3">Auburn forma parte del condado de Lee, Alabama, en Estados Unidos, donde uno de los grupos étnicos es el asiático-americano.</lex></entry>
+    <entry category="City" eid="Id15" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Auburn,_Washington | areaTotal | 7.74147e+07</otriple>
+        <otriple>Auburn,_Washington | country | United_States</otriple>
+        <otriple>Auburn,_Washington | isPartOf | Washington_(state)</otriple>
+        <otriple>Auburn,_Washington | subdivisionName | Pierce_County,_Washington</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auburn,_Washington | isPartOf | Pierce_County,_Washington</otriple>
+        <otriple>Auburn,_Washington | country | United_States</otriple>
+        <otriple>Auburn,_Washington | subdivisionName | Washington_(state)</otriple>
+        <otriple>Auburn,_Washington | areaTotal | "77.41"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auburn,_Washington | isPartOf | Pierce_County,_Washington</otriple>
+        <otriple>Auburn,_Washington | areaTotal | 7.74147e+07</otriple>
+        <otriple>Auburn,_Washington | country | United_States</otriple>
+        <otriple>Auburn,_Washington | subdivisionName | Washington_(state)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Auburn,_Washington | isPartOf | Pierce_County,_Washington</mtriple>
+        <mtriple>Auburn,_Washington | country | United_States</mtriple>
+        <mtriple>Auburn,_Washington | isPartOf | Washington_(state)</mtriple>
+        <mtriple>Auburn,_Washington | areaTotal | 77.41 (square kilometres)</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Auburn,_Washington | FormaParteDe | Condado_de_Pierce,_Washington</striple><striple>Auburn,_Washington | País | Estados_Unidos</striple><striple>Auburn,_Washington | FormaParteDe | Washington</striple><striple>Auburn,_Washington | ÁreaTotal | 77,41_(kilómetros_cuadrados)</striple></spanishtripleset><lex lang="en" lid="Id1">Auburn is in Pierce County, Washington in the U.S. Its total area is 77.41 sq. km.</lex>
+      <lex lang="en" lid="Id2">With a total area of 77.41 sq kms, Auburn, part of Pierce County, is part of the state of Washington, in the United States.</lex>
+      <lex lang="en" lid="Id3">Auburn, Washington is located within the United States and belong to Pierce County. The total area of Auburn is 77.41 square kilometres.</lex>
+    <lex lang="es" lid="Id1">Auburn está en el condado de Pierce, Washington en EE.UU. Su superficie total es de 77,41 km2.</lex><lex lang="es" lid="Id2">Con una superficie total de 77,41 km², Auburn, que forma parte del condado de Pierce, pertenece al estado de Washington, en Estados Unidos.</lex><lex lang="es" lid="Id3">Auburn, Washington se encuentra dentro de los Estados Unidos y pertenece al Condado de Pierce. La superficie total de Auburn es de 77,41 kilómetros cuadrados.</lex></entry>
+    <entry category="City" eid="Id16" shape="(X (X) (X (X (X))))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Auburn,_Washington | isPartOf | Pierce_County,_Washington</otriple>
+        <otriple>Auburn,_Washington | subdivisionName | Washington_(state)</otriple>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>Washington_(state) | country | United_States</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auburn,_Washington | isPartOf | Washington_(state)</otriple>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>Auburn,_Washington | subdivisionName | Pierce_County,_Washington</otriple>
+        <otriple>Washington_(state) | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Auburn,_Washington | isPartOf | Pierce_County,_Washington</mtriple>
+        <mtriple>Auburn,_Washington | isPartOf | Washington_(state)</mtriple>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>Washington_(state) | country | United_States</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Auburn,_Washington | FormaParteDe | Condado_de_Pierce,_Washington</striple><striple>Auburn,_Washington | FormaParteDe | Washington</striple><striple>Estados_Unidos | Capital | Washington_D._C.</striple><striple>Washington | País | Estados_Unidos</striple></spanishtripleset><lex lang="en" lid="Id1">Auburn is located in Pierce County, Washington in the U.S.The capital city of the United States is Washington DC.</lex>
+      <lex lang="en" lid="Id2">Auburn, Pierce County, Washington, which is located in the United States (with its capital as Washington, D.C.).</lex>
+      <lex lang="en" lid="Id3">The capital of the U.S. is Washington, D.C. Washington state, in the United States, is where Auburn, part of Pierce County, Washington, is located.</lex>
+    <lex lang="es" lid="Id1">Auburn está situada en el condado de Pierce, Washington en los EE.UU.La capital de los Estados Unidos es Washington DC.</lex><lex lang="es" lid="Id2">Auburn, en el condado de Pierce (Washington), en Estados Unidos (con capital en Washington, D.C.).</lex><lex lang="es" lid="Id3">La capital de Estados Unidos es Washington, D.C. El estado de Washington, en Estados Unidos, es donde se encuentra Auburn, parte del condado de Pierce, Washington.</lex></entry>
+    <entry category="City" eid="Id17" shape="(X (X) (X (X (X))))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Auburn,_Washington | isPartOf | Pierce_County,_Washington</otriple>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>Pierce_County,_Washington | country | United_States</otriple>
+        <otriple>Auburn,_Washington | subdivisionName | King_County,_Washington</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>Auburn,_Washington | subdivisionName | Pierce_County,_Washington</otriple>
+        <otriple>Pierce_County,_Washington | country | United_States</otriple>
+        <otriple>Auburn,_Washington | isPartOf | King_County,_Washington</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Auburn,_Washington | isPartOf | Pierce_County,_Washington</mtriple>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>Pierce_County,_Washington | country | United_States</mtriple>
+        <mtriple>Auburn,_Washington | isPartOf | King_County,_Washington</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Auburn,_Washington | FormaParteDe | Condado_de_Pierce,_Washington</striple><striple>Estados_Unidos | Capital | Washington_D._C.</striple><striple>Condado_de_Pierce,_Washington | País | Estados_Unidos</striple><striple>Auburn,_Washington | FormaParteDe | Condado_de_King,_Washington</striple></spanishtripleset><lex lang="en" lid="Id1">Washington DC is the capital of the United States where Auburn is to be found. It is part of both King County and Pierce County in Washington.</lex>
+      <lex lang="en" lid="Id2">Auburn is part of both Pierce County and King County in Washington in the United States. The country's capital city is Washington DC.</lex>
+    <lex lang="es" lid="Id1">Washington DC es la capital de Estados Unidos, donde se encuentra Auburn. Forma parte de los condados de King y Pierce, en Washington.</lex><lex lang="es" lid="Id2">Auburn forma parte de los condados de Pierce y King, en Washington, Estados Unidos. La capital del país es Washington DC.</lex></entry>
+    <entry category="City" eid="Id18" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Austin,_Texas | areaTotal | "703.9587683893247"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+        <otriple>Austin,_Texas | areaLand | 6.86088e+08</otriple>
+        <otriple>Austin,_Texas | populationDensity | "1296.65"^^xsd:double</otriple>
+        <otriple>Austin,_Texas | areaCode | 512</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Austin,_Texas | areaLand | 6.86088e+08</otriple>
+        <otriple>Austin,_Texas | areaTotal | 7.03959e+08</otriple>
+        <otriple>Austin,_Texas | populationDensity | "1296.65"^^xsd:double</otriple>
+        <otriple>Austin,_Texas | areaCode | 512</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Austin,_Texas | areaTotal | "703.9587683893247"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+        <otriple>Austin,_Texas | populationDensity | "1296.654601076267"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Austin,_Texas | areaLand | 6.86088e+08</otriple>
+        <otriple>Austin,_Texas | areaCode | 512</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Austin,_Texas | populationDensity | "1296.654601076267"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Austin,_Texas | areaLand | 6.86088e+08</otriple>
+        <otriple>Austin,_Texas | areaTotal | 7.03959e+08</otriple>
+        <otriple>Austin,_Texas | areaCode | 512</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Austin,_Texas | populationDensity | 1296.65 (inhabitants per square kilometre)</mtriple>
+        <mtriple>Austin,_Texas | areaOfLand | 686.0 (square kilometres)</mtriple>
+        <mtriple>Austin,_Texas | areaTotal | 703.95 (square kilometres)</mtriple>
+        <mtriple>Austin,_Texas | areaCode | 512</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Austin,_Texas | DensidadDePoblación | 1296,65_(habitantes_por_kilómetro_cuadrado)</striple><striple>Austin,_Texas | SuperficieDeTerreno | 686,0_(kilómetros_cuadrados)</striple><striple>Austin,_Texas | ÁreaTotal | 703,95_(kilómetros_cuadrados)</striple><striple>Austin,_Texas | CódigoDeÁrea | 512</striple></spanishtripleset><lex lang="en" lid="Id1">Austin in Texas has a population of 1296.65 people per square kilometer, a land area of 686 square kilometres, a total area of 703.95 square kilometres and the area code of Austin (Texas), is 512.</lex>
+      <lex lang="en" lid="Id2">Austin, Texas covers 686.0 square kilometres of land and has a total area of 703.95 square kilometres. The population is 1296.65 inhabitants per square kilometre and the area code is 512.</lex>
+      <lex lang="en" lid="Id3">Austin, Texas has a population of 1296.65 people per square kilometer and covers 686 sq. km. of land. The area code there is 512 and its area is 703.95 sq. km.</lex>
+    <lex lang="es" lid="Id1">Austin en Texas tiene una población de 1296,65 habitantes por kilómetro cuadrado, una superficie terrestre de 686 kilómetros cuadrados, una superficie total de 703,95 kilómetros cuadrados y el código de área de Austin (Texas), es 512.</lex><lex lang="es" lid="Id2">Austin, Texas, tiene una superficie de 686,0 kilómetros cuadrados y un área total de 703,95 kilómetros cuadrados. La población es de 1.296,65 habitantes por kilómetro cuadrado y el código de área es el 512.</lex><lex lang="es" lid="Id3">Austin (Texas) tiene una población de 1.296,65 habitantes por kilómetro cuadrado y una superficie de 686 km2. Su código de área es el 512 y su superficie es de 703,95 km2.</lex></entry>
+    <entry category="City" eid="Id19" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Antioch,_California | isPartOf | Contra_Costa_County,_California</otriple>
+        <otriple>Antioch,_California | settlementType | California</otriple>
+        <otriple>Contra_Costa_County,_California | subdivisionName | San_Francisco_Bay_Area</otriple>
+        <otriple>California | language | Spanish_language</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Contra_Costa_County,_California | isPartOf | San_Francisco_Bay_Area</otriple>
+        <otriple>Antioch,_California | settlementType | California</otriple>
+        <otriple>Antioch,_California | subdivisionName | Contra_Costa_County,_California</otriple>
+        <otriple>California | language | Spanish_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Contra_Costa_County,_California | isPartOf | San_Francisco_Bay_Area</mtriple>
+        <mtriple>Antioch,_California | isPartOf | California</mtriple>
+        <mtriple>Antioch,_California | isPartOf | Contra_Costa_County,_California</mtriple>
+        <mtriple>California | language | Spanish_language</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Condado_de_Contra_Costa,_California | FormaParteDe | Área_de_la_Bahía_de_San_Francisco</striple><striple>Antioch,_California | FormaParteDe | California</striple><striple>Antioch,_California | FormaParteDe | Condado_de_Contra_Costa,_California</striple><striple>California | Idioma | español</striple></spanishtripleset><lex lang="en" lid="Id1">Antioch, Contra Costa County is part of the San Francisco Bay region of, Spanish speaking, California.</lex>
+      <lex lang="en" lid="Id2">The city of Antioch is located within California, where the Spanish language is spoken. Antioch, is part of Contra Costa County in California, which is part of the San Francisco Bay area.</lex>
+      <lex lang="en" lid="Id3">Antioch, is part of Contra Costa County and part of the San Francisco Bay Area in California. Spanish is spoken in California.</lex>
+    <lex lang="es" lid="Id1">Antioch, en el condado de Contra Costa, forma parte de la región de la Bahía de San Francisco, en California, de habla hispana.</lex><lex lang="es" lid="Id2">La ciudad de Antioch se encuentra dentro de California, donde se habla el idioma español. Antioch, es parte del Condado de Contra Costa en California, que forma parte del área de la Bahía de San Francisco.</lex><lex lang="es" lid="Id3">Antioch, es parte del Condado de Contra Costa y parte del Área de la Bahía de San Francisco en California. En California se habla español.</lex></entry>
+    <entry category="City" eid="Id20" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Indiana | capital | Indianapolis</otriple>
+        <otriple>Anderson,_Indiana | isPartOf | Adams_Township,_Madison_County,_Indiana</otriple>
+        <otriple>Indiana | country | United_States</otriple>
+        <otriple>Anderson,_Indiana | subdivisionName | Indiana</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Indiana | capital | Indianapolis</mtriple>
+        <mtriple>Anderson,_Indiana | isPartOf | Adams_Township,_Madison_County,_Indiana</mtriple>
+        <mtriple>Indiana | country | United_States</mtriple>
+        <mtriple>Anderson,_Indiana | isPartOf | Indiana</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Indiana | Capital | Indianápolis</striple><striple>Anderson | FormaParteDe | Municipio_de_Adams_(Indiana)</striple><striple>Indiana | País | Estados_Unidos</striple><striple>Anderson | FormaParteDe | Indiana</striple></spanishtripleset><lex lang="en" lid="Id1">Anderson (United States), is located in Adams Township, Madison County, Indiana, the capital of which is, Indianapolis.</lex>
+      <lex lang="en" lid="Id2">Indianapolis is the capital of Indiana, United States. Anderson is a city in Indiana and is located within Adams Township, Madison County.</lex>
+      <lex lang="en" lid="Id3">Anderson is part of Adams Township, Madison County, Indiana (U.S.), where the state's capital is Indianapolis.</lex>
+    <lex lang="es" lid="Id1">Anderson (Estados Unidos), se encuentra en Adams Township, Condado de Madison, Indiana, cuya capital es, Indianápolis.</lex><lex lang="es" lid="Id2">Indianápolis es la capital de Indiana, Estados Unidos. Anderson es una ciudad de Indiana situada en el municipio de Adams, en el condado de Madison.</lex><lex lang="es" lid="Id3">Anderson forma parte del municipio de Adams, en el condado de Madison, Indiana (EE.UU.), cuya capital es Indianápolis.</lex></entry>
+    <entry category="City" eid="Id21" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Indiana | capital | Indianapolis</otriple>
+        <otriple>Indiana | country | United_States</otriple>
+        <otriple>Anderson,_Indiana | isPartOf | Lafayette_Township,_Madison_County,_Indiana</otriple>
+        <otriple>Anderson,_Indiana | subdivisionName | Indiana</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Indiana | capital | Indianapolis</mtriple>
+        <mtriple>Indiana | country | United_States</mtriple>
+        <mtriple>Anderson,_Indiana | isPartOf | Lafayette_Township,_Madison_County,_Indiana</mtriple>
+        <mtriple>Anderson,_Indiana | isPartOf | Indiana</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Indiana | Capital | Indianápolis</striple><striple>Indiana | País | Estados_Unidos</striple><striple>Anderson | FormaParteDe | Municipio_de_Lafayette_(condado_de_Madison,_Indiana)</striple><striple>Anderson | FormaParteDe | Indiana</striple></spanishtripleset><lex lang="en" lid="Id1">Indianapolis is the capital of Indiana, United States. Anderson, Indiana is part of Lafayette Township, Madison County, Indiana.</lex>
+      <lex lang="en" lid="Id2">Anderson is part of Lafayette Township, Madison County, in the United States. It is located in the state of Indiana which has the capital city of Indianapolis.</lex>
+      <lex lang="en" lid="Id3">Anderson is in Lafayette township, Madison County, Indiana, US, where the capital is Indianapolis.</lex>
+    <lex lang="es" lid="Id1">Indianápolis es la capital de Indiana, Estados Unidos. Anderson, Indiana es parte de Lafayette Township, Condado de Madison, Indiana.</lex><lex lang="es" lid="Id2">Anderson es parte de Lafayette Township, Condado de Madison, en los Estados Unidos. Se encuentra en el estado de Indiana, cuya capital es Indianápolis.</lex><lex lang="es" lid="Id3">Anderson está en el municipio de Lafayette, condado de Madison, Indiana, EE.UU., donde la capital es Indianápolis.</lex></entry>
+    <entry category="City" eid="Id22" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>Albany,_Oregon | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+        <otriple>Albany,_Oregon | subdivisionName | Linn_County,_Oregon</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>Albany,_Oregon | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+        <mtriple>Albany,_Oregon | isPartOf | Linn_County,_Oregon</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Estados_Unidos | Capital | Washington_D._C.</striple><striple>Albany,_Oregon | País | Estados_Unidos</striple><striple>Estados_Unidos | GrupoÉtnico | pueblos_nativos_de_los_Estados_Unidos</striple><striple>Albany,_Oregon | FormaParteDe | Condado_de_Linn,_Oregón</striple></spanishtripleset><lex lang="en" lid="Id1">Albany is part of Linn County in Oregon, United States. The capital of the US is Washington DC and Native Americans are among the ethnic groups of the country.</lex>
+      <lex lang="en" lid="Id2">Albany is part of Linn County, Oregon, United States. The Native Americans are an ethnic group within the United States, where Washington DC is the capital.</lex>
+    <lex lang="es" lid="Id1">Albany es parte del condado de Linn en Oregón, Estados Unidos. La capital de EE.UU. es Washington DC y entre los grupos étnicos del país se encuentran los nativos americanos.</lex><lex lang="es" lid="Id2">Albany es parte del condado de Linn, Oregón, Estados Unidos. Los nativos americanos son un grupo étnico dentro de Estados Unidos, donde Washington DC es la capital.</lex></entry>
+    <entry category="City" eid="Id23" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+        <otriple>Akron,_Ohio | country | United_States</otriple>
+        <otriple>Akron,_Ohio | subdivisionName | Summit_County,_Ohio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+        <mtriple>Akron,_Ohio | country | United_States</mtriple>
+        <mtriple>Akron,_Ohio | isPartOf | Summit_County,_Ohio</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Estados_Unidos | Capital | Washington_D._C.</striple><striple>Estados_Unidos | GrupoÉtnico | pueblos_nativos_de_los_Estados_Unidos</striple><striple>Akron | País | Estados_Unidos</striple><striple>Akron | FormaParteDe | Condado_de_Summit,_Ohio</striple></spanishtripleset><lex lang="en" lid="Id1">Native Americans are one of the ethnic groups in the United States of America. The capital of which, is Washington, D.C. Also in the U.S., is Akron, which is located within Summit County, Ohio.</lex>
+      <lex lang="en" lid="Id2">Akron is a part of Summit County, Ohio in the United States. Native Americans are an ethnic group that occupy the U.S. and that country's capital is Washington, D.C.</lex>
+      <lex lang="en" lid="Id3">Washington DC is the capital of the United States where the Native Americans form one of the ethnic groups. The country is the location of Akron, Summit County, Ohio.</lex>
+    <lex lang="es" lid="Id1">Los nativos americanos son uno de los grupos étnicos de los Estados Unidos de América. Su capital es Washington, D.C. También en Estados Unidos se encuentra Akron, en el condado de Summit, Ohio.</lex><lex lang="es" lid="Id2">Akron es una parte del condado de Summit, Ohio, en Estados Unidos. Los nativos americanos son un grupo étnico que ocupa los EE.UU. y la capital de ese país es Washington, D.C.</lex><lex lang="es" lid="Id3">Washington DC es la capital de Estados Unidos, donde los nativos americanos forman uno de los grupos étnicos. En el país se encuentra Akron, en el condado de Summit, Ohio.</lex></entry>
+    <entry category="City" eid="Id24" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>United_States | demonym | Americans</otriple>
+        <otriple>Albany,_Georgia | subdivisionName | Dougherty_County,_Georgia</otriple>
+        <otriple>Albany,_Georgia | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | demonym | Americans</mtriple>
+        <mtriple>Albany,_Georgia | isPartOf | Dougherty_County,_Georgia</mtriple>
+        <mtriple>Albany,_Georgia | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Estados_Unidos | Gentilicio | Estadounidense</striple><striple>Albany,_Georgia | FormaParteDe | Condado_de_Dougherty,_Georgia</striple><striple>Albany,_Georgia | País | Estados_Unidos</striple><striple>Estados_Unidos | GrupoÉtnico | pueblos_nativos_de_los_Estados_Unidos</striple></spanishtripleset><lex lang="en" lid="Id1">The people inhabiting the United States are known as Americans and include the ethnic group of Native Americans. The country is the location of Albany, a city in Dougherty County, Georgia.</lex>
+      <lex lang="en" lid="Id2">The Native Americans are an ethnic group within the United States, where Americans live. Albany is located in Dougherty County, Georgia, United States.</lex>
+      <lex lang="en" lid="Id3">Albany is a city in Dougherty County, Georgia, United States. Americans and Native Americans are an ethnic group within the United States.</lex>
+    <lex lang="es" lid="Id1">Los habitantes de Estados Unidos se conocen como Estadounidenses e incluyen al grupo étnico de los nativos Estadounidense. En el país se encuentra Albany, una ciudad del condado de Dougherty, Georgia.</lex><lex lang="es" lid="Id2">Los nativos Estadounidense son un grupo étnico dentro de los Estados Unidos, donde viven los Estadounidenses. Albany se encuentra en el condado de Dougherty, Georgia, Estados Unidos.</lex><lex lang="es" lid="Id3">Albany es una ciudad del condado de Dougherty, Georgia, Estados Unidos. Los Estadounidenses y los nativos Estadounidense son un grupo étnico dentro de Estados Unidos.</lex></entry>
+    <entry category="City" eid="Id25" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>United_States | demonym | Americans</otriple>
+        <otriple>Akron,_Ohio | country | United_States</otriple>
+        <otriple>Akron,_Ohio | subdivisionName | Summit_County,_Ohio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>United_States | demonym | Americans</mtriple>
+        <mtriple>Akron,_Ohio | country | United_States</mtriple>
+        <mtriple>Akron,_Ohio | isPartOf | Summit_County,_Ohio</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Estados_Unidos | GrupoÉtnico | estadounidense_asiático</striple><striple>Estados_Unidos | Gentilicio | Estadounidense</striple><striple>Akron | País | Estados_Unidos</striple><striple>Akron | FormaParteDe | Condado_de_Summit,_Ohio</striple></spanishtripleset><lex lang="en" lid="Id1">Akron is located in the United States in Summit County, Ohio. The inhabitants of the country are known as Americans and include the ethnic group of Asian Americans.</lex>
+      <lex lang="en" lid="Id2">One ethnic group that lives in the United States are Asian Americans. People that inhabit that country are called Americans. Akron, Summit County, Ohio is located there.</lex>
+      <lex lang="en" lid="Id3">Akron in Summit County, Ohio is part of the U.S. where Asian Americans are one of several ethnic groups among all Americans.</lex>
+    <lex lang="es" lid="Id1">Akron se encuentra en Estados Unidos, en el condado de Summit, Ohio. Sus habitantes se denominan Estadounidenses e incluyen el grupo étnico de los Estadounidenses de origen asiático.</lex><lex lang="es" lid="Id2">Un grupo étnico que vive en Estados Unidos son los asiático-Estadounidense. Las personas que habitan en ese país se llaman Estadounidenses. Allí se encuentra Akron, en el condado de Summit, Ohio.</lex><lex lang="es" lid="Id3">Akron, en el condado de Summit (Ohio), forma parte de Estados Unidos, donde los Estadounidenses de origen asiático son uno de varios grupos étnicos entre todos los Estadounidenses.</lex></entry>
+    <entry category="City" eid="Id26" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>Angola,_Indiana | subdivisionName | Steuben_County,_Indiana</otriple>
+        <otriple>Angola,_Indiana | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>Angola,_Indiana | isPartOf | Steuben_County,_Indiana</mtriple>
+        <mtriple>Angola,_Indiana | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Estados_Unidos | Idioma | inglés</striple><striple>Angola | FormaParteDe | Condado_de_Steuben</striple><striple>Angola | País | Estados_Unidos</striple><striple>Estados_Unidos | GrupoÉtnico | estadounidense_asiático</striple></spanishtripleset><lex lang="en" lid="Id1">English is the language of the United States, where Asian Americans are an ethnic group and where Angola, Steuben County, Indiana is located.</lex>
+      <lex lang="en" lid="Id2">Angola is part of Steuben County, Indiana, United States. English is the language spoken in the United States and some Asian Americans live there.</lex>
+      <lex lang="en" lid="Id3">The Asian Americans are an ethnic group in the United States which uses the English language. The country is the location of Angola, part of Steuben County in Indiana.</lex>
+    <lex lang="es" lid="Id1">El inglés es el idioma de Estados Unidos, donde los asiático-americanos constituyen un grupo étnico y donde se encuentra Angola, Steuben County, Indiana.</lex><lex lang="es" lid="Id2">Angola es parte del condado de Steuben, Indiana, Estados Unidos. El inglés es el idioma que se habla en Estados Unidos y allí viven algunos asiático-americanos.</lex><lex lang="es" lid="Id3">Los asiático-americanos son un grupo étnico de Estados Unidos que utiliza la lengua inglesa. El país es la ubicación de Angola, parte del condado de Steuben en Indiana.</lex></entry>
+    <entry category="City" eid="Id27" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>United_States_House_of_Representatives | location | United_States</otriple>
+        <otriple>United_States_House_of_Representatives | isPartOf | United_States_Congress</otriple>
+        <otriple>Anaheim,_California | leaderTitle | United_States_House_of_Representatives</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>United_States_House_of_Representatives | location | United_States</mtriple>
+        <mtriple>United_States_House_of_Representatives | isPartOf | United_States_Congress</mtriple>
+        <mtriple>Anaheim,_California | leaderTitle | United_States_House_of_Representatives</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Estados_Unidos | Idioma | inglés</striple><striple>Cámara_de_Representantes_de_los_Estados_Unidos | Ubicación | Estados_Unidos</striple><striple>Cámara_de_Representantes_de_los_Estados_Unidos | FormaParteDe | Congreso_de_los_Estados_Unidos</striple><striple>Anaheim | TítuloDeLíder | Cámara_de_Representantes_de_los_Estados_Unidos</striple></spanishtripleset><lex lang="en" lid="Id1">The United States House of Representatives is part of the United States Congress and leads Anaheim, California. It is located within the US where the English language is spoken.</lex>
+      <lex lang="en" lid="Id2">Anaheim in California is led by the United States House of Representatives, part of the United States Congress. English is spoken in the US, which is where the House of Representatives is located.</lex>
+    <lex lang="es" lid="Id1">La Cámara de Representantes de Estados Unidos forma parte del Congreso de Estados Unidos y dirige Anaheim, California. Se encuentra dentro de los EE.UU. donde se habla la lengua inglesa.</lex><lex lang="es" lid="Id2">Anaheim, en California, es la sede de la Cámara de Representantes, que forma parte del Congreso de los Estados Unidos. En EE.UU., donde se encuentra la Cámara de Representantes, se habla inglés.</lex></entry>
+  </entries>
+</benchmark>

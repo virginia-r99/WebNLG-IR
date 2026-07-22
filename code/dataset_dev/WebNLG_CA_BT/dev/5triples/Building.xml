@@ -1,0 +1,995 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Building" eid="Id1" shape="(X (X (X) (X) (X (X))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>20_Fenchurch_Street | location | United_Kingdom</otriple>
+        <otriple>United_Kingdom | capital | London</otriple>
+        <otriple>London | leaderName | Boris_Johnson</otriple>
+        <otriple>United_Kingdom | leader | Elizabeth_II</otriple>
+        <otriple>United_Kingdom | currency | Pound_sterling</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>20_Fenchurch_Street | location | United_Kingdom</mtriple>
+        <mtriple>United_Kingdom | capital | London</mtriple>
+        <mtriple>London | leader | Boris_Johnson</mtriple>
+        <mtriple>United_Kingdom | leader | Elizabeth_II</mtriple>
+        <mtriple>United_Kingdom | currency | Pound_sterling</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>20_Fenchurch_Street | Ubicación | Reino_Unido</striple>
+        <striple>Reino_Unido | Capital | Londres</striple>
+        <striple>Londres | Líder | Boris_Johnson</striple>
+        <striple>Reino_Unido | Líder | Isabel_II_del_Reino_Unido</striple>
+        <striple>Reino_Unido | Divisa | libra_esterlina</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>20_Fenchurch_Street | location | United_Kingdom</bttriple>
+        <bttriple>United_Kingdom | capital | London</bttriple>
+        <bttriple>London | leader | Boris_Johnson</bttriple>
+        <bttriple>United_Kingdom | leader | Elizabeth_II</bttriple>
+        <bttriple>United_Kingdom | currency | Pound_sterling</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>20_Fenchurch_Street | Ubicació | Regne_Unit</ctriple>
+        <ctriple>Regne_Unit | Capital | Londres</ctriple>
+        <ctriple>Londres | Líder | Boris_Johnson</ctriple>
+        <ctriple>Regne_Unit | Líder | Elisabet_II_del_Regne_Unit</ctriple>
+        <ctriple>Regne_Unit | Moneda | lliura_esterlina</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">20 Fenchurch Street is located within the United Kingdom, where London is the capital, and the currency is pounds sterling. Boris Johnson is the leader in London, and one of the leaders of the United Kingdom is Elizabeth II.</lex>
+      <lex lang="en" lid="Id2">The United Kingdom uses the currency of the pound sterling and is led by Elizabeth II along with Boris Johnson. The capital city is London and the country is also the location of 20 Fenchurch Street.</lex>
+      <lex lang="es" lid="Id1">20 Fenchurch Street se encuentra en el Reino Unido, donde Londres es la capital y la moneda es la libra esterlina. Boris Johnson es el líder en Londres, y una de las líderes del Reino Unido es Isabel II.</lex>
+      <lex lang="es" lid="Id2">El Reino Unido utiliza la moneda de la libra esterlina y está dirigido por Isabel II junto con Boris Johnson. Su capital es Londres y en el país también se encuentra el número 20 de Fenchurch Street.</lex>
+      <lex lang="ca" lid="Id1">El 20 Fenchurch Street es troba dins del Regne Unit, on Londres és la capital, i la moneda és la lliura esterlina. Boris Johnson és el líder a Londres, i un dels líders del Regne Unit és Elisabet II.</lex>
+      <lex lang="ca" lid="Id2">El Regne Unit utilitza la moneda de la lliura esterlina i és dirigit per Elisabet II juntament amb Boris Johnson. La capital és Londres i el país és també la ubicació de 20 Fenchurch Street.</lex>
+      <lex lang="en_bt" lid="Id1">20 Fenchurch Street is within the United Kingdom, where London is the capital, and the currency is the pound sterling. Boris Johnson is the leader in London, and one of the leaders of the United Kingdom is Elizabeth II.</lex>
+      <lex lang="en_bt" lid="Id2">The United Kingdom uses the pound sterling currency and is led by Elizabeth II along with Boris Johnson. The capital is London and the country is also the location of 20 Fenchurch Street.</lex>
+      </entry>
+    <entry category="Building" eid="Id2" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>250_Delaware_Avenue | location | Buffalo,_New_York</otriple>
+        <otriple>250_Delaware_Avenue | buildingStartDate | "January, 2014"</otriple>
+        <otriple>250_Delaware_Avenue | cost | "1.1E8"^^&lt;http://dbpedia.org/datatype/usDollar&gt;</otriple>
+        <otriple>250_Delaware_Avenue | floorArea | "30843.8"^^xsd:double</otriple>
+        <otriple>250_Delaware_Avenue | floorCount | "12"^^xsd:positiveInteger</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>250_Delaware_Avenue | location | Buffalo,_New_York</otriple>
+        <otriple>250_Delaware_Avenue | buildingStartDate | "January, 2014"</otriple>
+        <otriple>250_Delaware_Avenue | cost | "1.1E8"^^&lt;http://dbpedia.org/datatype/usDollar&gt;</otriple>
+        <otriple>250_Delaware_Avenue | floorArea | "30843.8"^^xsd:double</otriple>
+        <otriple>250_Delaware_Avenue | floorCount | 12</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>250_Delaware_Avenue | location | Buffalo,_New_York</mtriple>
+        <mtriple>250_Delaware_Avenue | buildingStartDate | "January, 2014"</mtriple>
+        <mtriple>250_Delaware_Avenue | cost | "110 million (dollars)"</mtriple>
+        <mtriple>250_Delaware_Avenue | floorArea | 30843.8 (square metres)</mtriple>
+        <mtriple>250_Delaware_Avenue | floorCount | 12</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Avenida_Delaware_250 | Ubicación | Búfalo,_Nueva_York</striple>
+        <striple>Avenida_Delaware_250 | FechaDeInicioDeLaConstrucción | Enero,_2014</striple>
+        <striple>Avenida_Delaware_250 | Coste | 110_millones_(dólares)</striple>
+        <striple>Avenida_Delaware_250 | Superficie | 30843,8_(metros_cuadrados)</striple>
+        <striple>Avenida_Delaware_250 | RecuentoDePisos | 12</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>250_Delaware_Avenue | location | Buffalo,_New_York</bttriple>
+        <bttriple>250_Delaware_Avenue | buildingStartDate | "January, 2014"</bttriple>
+        <bttriple>250_Delaware_Avenue | cost | "110 million (dollars)"</bttriple>
+        <bttriple>250_Delaware_Avenue | floorArea | 30843.8 (square metres)</bttriple>
+        <bttriple>250_Delaware_Avenue | floorCount | 12</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>250_Delaware_Avenue | Ubicació | Buffalo,_Nova_York</ctriple>
+        <ctriple>250_Delaware_Avenue | DataD'IniciDeLaConstrucció | Janvier,_2014</ctriple>
+        <ctriple>250_Delaware_Avenue | Costos | 110_milions_(dòlars)</ctriple>
+        <ctriple>250_Delaware_Avenue | ÀreaDelPis | 30843.8_(metres_quadrats)</ctriple>
+        <ctriple>250_Delaware_Avenue | CompteDePlantes | 12</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">250 Delaware Avenue was built in Buffalo New York at a cost of 110 million dollars. Construction began in January 2014 and the building has 12 floors with an area of 30843.8 square metres.</lex>
+      <lex lang="en" lid="Id2">There are 12 floors at 250 Delaware Avenue in Buffalo, New York. Construction, which began in January 2014 cost 110 million dollars for a floor area of 30843.8 square metres.</lex>
+      <lex lang="es" lid="Id1">250 Delaware Avenue se construyó en Buffalo Nueva York con un coste de 110 millones de dólares. La construcción comenzó en enero de 2014 y el edificio tiene 12 plantas con una superficie de 30843,8 metros cuadrados.</lex>
+      <lex lang="es" lid="Id2">En el 250 de Delaware Avenue, en Buffalo (Nueva York), hay 12 plantas. La construcción, que comenzó en enero de 2014, costó 110 millones de dólares para una superficie de 30843,8 metros cuadrados.</lex>
+      <lex lang="ca" lid="Id1">250 Delaware Avenue es va construir a Buffalo, Nova York, amb un cost de 110 milions de dòlars. La construcció va començar el gener de 2014 i l'edifici té 12 plantes amb una superfície de 30843,8 metres quadrats.</lex>
+      <lex lang="ca" lid="Id2">Hi ha 12 plantes al 250 Delaware Avenue a Buffalo, Nova York. La construcció, que va començar el gener de 2014, va costar 110 milions de dòlars per una superfície de 30843,8 metres quadrats.</lex>
+      <lex lang="en_bt" lid="Id1">250 Delaware Avenue was built in Buffalo, New York, at a cost of $110 million. Construction began in January 2014 and the building has 12 floors with a floor area of 30,843.8 square meters.</lex>
+      <lex lang="en_bt" lid="Id2">There are 12 floors at 250 Delaware Avenue in Buffalo, New York. Construction, which began in January 2014, cost $110 million for an area of 30,843.8 square feet.</lex>
+      </entry>
+    <entry category="Building" eid="Id3" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>300_North_LaSalle | location | Chicago</otriple>
+        <otriple>Chicago | leaderName | Rahm_Emanuel</otriple>
+        <otriple>Chicago | isPartOf | DuPage_County,_Illinois</otriple>
+        <otriple>300_North_LaSalle | floorCount | "60"^^xsd:positiveInteger</otriple>
+        <otriple>Chicago | country | United_States</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>300_North_LaSalle | location | Chicago</mtriple>
+        <mtriple>Chicago | leader | Rahm_Emanuel</mtriple>
+        <mtriple>Chicago | isPartOf | DuPage_County,_Illinois</mtriple>
+        <mtriple>300_North_LaSalle | floorCount | 60</mtriple>
+        <mtriple>Chicago | country | United_States</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>300_North_LaSalle | Ubicación | Chicago</striple>
+        <striple>Chicago | Líder | Rahm_Emanuel</striple>
+        <striple>Chicago | FormaParteDe | Condado_de_DuPage,_Illinois</striple>
+        <striple>300_North_LaSalle | RecuentoDePisos | 60</striple>
+        <striple>Chicago | País | Estados_Unidos</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>300_North_LaSalle | location | Chicago</bttriple>
+        <bttriple>Chicago | leader | Rahm_Emanuel</bttriple>
+        <bttriple>Chicago | isPartOf | DuPage_County,_Illinois</bttriple>
+        <bttriple>300_North_LaSalle | floorCount | 60</bttriple>
+        <bttriple>Chicago | country | United_States</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>300_North_LaSalle | Ubicació | Chicago</ctriple>
+        <ctriple>Chicago | Líder | Rahm_Emanuel</ctriple>
+        <ctriple>Chicago | ÉsPartDe | Comtat_de_DuPage,_Illinois</ctriple>
+        <ctriple>300_North_LaSalle | CompteDePlantes | 60</ctriple>
+        <ctriple>Chicago | País | Estats_Units_d'Amèrica</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Rahm Emanuel is the leader of Chicago, DuPage County, Illinois, United States which is the location of the building at 300 North LaSalle which has 60 floors.</lex>
+      <lex lang="en" lid="Id2">300 North LaSalle has 60 floors and is located in Chicago, DuPage County, Illinois, United States. The leader of Chicago is Rahm Emanuel.</lex>
+      <lex lang="en" lid="Id3">300 North LaSalle, which has 60 floors, is located in Chicago which is part of DuPage County in Illinois, United States. The leader of Chicago is Rahm Emanuel.</lex>
+      <lex lang="es" lid="Id1">Rahm Emanuel es el líder de Chicago, en el condado de DuPage, Illinois, Estados Unidos, donde se encuentra el edificio de 300 North LaSalle, de 60 plantas.</lex>
+      <lex lang="es" lid="Id2">300 North LaSalle tiene 60 plantas y está situado en Chicago, en el condado de DuPage, Illinois, Estados Unidos. El líder de Chicago es Rahm Emanuel.</lex>
+      <lex lang="es" lid="Id3">300 North LaSalle, que tiene 60 plantas, está situado en Chicago, que forma parte del condado de DuPage en Illinois, Estados Unidos. El líder de Chicago es Rahm Emanuel.</lex>
+      <lex lang="ca" lid="Id1">Rahm Emanuel és el líder de Chicago, comtat de DuPage, Illinois, Estats Units que és la ubicació de l'edifici al 300 North LaSalle que té 60 pisos.</lex>
+      <lex lang="ca" lid="Id2">El 300 North LaSalle té 60 plantes i es troba a Chicago, al comtat de DuPage, Illinois, Estats Units. El líder de Chicago és Rahm Emanuel.</lex>
+      <lex lang="ca" lid="Id3">El 300 North LaSalle, que té 60 pisos, està situat a Chicago que forma part del comtat de DuPage a Illinois, Estats Units. El líder de Chicago és Rahm Emanuel.</lex>
+      <lex lang="en_bt" lid="Id1">Rahm Emanuel is the leader of Chicago, DuPage County, Illinois, United States which is the location of the building at 300 North LaSalle which has 60 floors.</lex>
+      <lex lang="en_bt" lid="Id2">300 North LaSalle has 60 floors and is located in Chicago, DuPage County, Illinois, United States.The leader of Chicago is Rahm Emanuel.</lex>
+      <lex lang="en_bt" lid="Id3">The 300 North LaSalle, which has 60 floors, is located in Chicago which is part of DuPage County in Illinois, United States.The leader of Chicago is Rahm Emanuel.</lex>
+      </entry>
+    <entry category="Building" eid="Id4" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>3Arena | owner | Live_Nation_Entertainment</otriple>
+        <otriple>Dublin | leaderTitle | Dáil_Éireann</otriple>
+        <otriple>Dublin | country | Republic_of_Ireland</otriple>
+        <otriple>3Arena | location | Dublin</otriple>
+        <otriple>Dublin | isPartOf | Leinster</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>3Arena | owner | Live_Nation_Entertainment</otriple>
+        <otriple>Dublin | leaderTitle | Dáil_Éireann</otriple>
+        <otriple>Dublin | country | Republic_of_Ireland</otriple>
+        <otriple>3Arena | location | Dublin</otriple>
+        <otriple>Dublin | subdivisionName | Leinster</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>3Arena | owner | Live_Nation_Entertainment</mtriple>
+        <mtriple>Dublin | leaderTitle | Dáil_Éireann</mtriple>
+        <mtriple>Dublin | country | Republic_of_Ireland</mtriple>
+        <mtriple>3Arena | location | Dublin</mtriple>
+        <mtriple>Dublin | isPartOf | Leinster</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>3Arena | Propietario | Live_Nation_Entertainment</striple>
+        <striple>Dublín | TítuloDeLíder | Dáil_Éireann</striple>
+        <striple>Dublín | País | Irlanda</striple>
+        <striple>3Arena | Ubicación | Dublín</striple>
+        <striple>Dublín | FormaParteDe | Leinster</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>3Arena | owner | Live_Nation_Entertainment</bttriple>
+        <bttriple>Dublin | leaderTitle | Dáil_Éireann</bttriple>
+        <bttriple>Dublin | country | Republic_of_Ireland</bttriple>
+        <bttriple>3Arena | location | Dublin</bttriple>
+        <bttriple>Dublin | isPartOf | Leinster</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Tele2_Arena | Propietari | Live_Nation</ctriple>
+        <ctriple>Dublín | LíderTítol | Dáil_Eireann</ctriple>
+        <ctriple>Dublín | País | República_d'Irlanda</ctriple>
+        <ctriple>Tele2_Arena | Ubicació | Dublín</ctriple>
+        <ctriple>Dublín | ÉsPartDe | Leinster</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">3Arena (owned by Live Nation Entertainment) is located in Dublin, Republic of Ireland. Dáil Éireann is a leader in Dublin, which is part of Leinster.</lex>
+      <lex lang="en" lid="Id2">3Arena, owned by Live Nation Entertainment, is located in Dublin, which is part of Leinster in the Republic of Ireland. Dáil Éireann is a leader in Dublin.</lex>
+      <lex lang="en" lid="Id3">Located in Dublin, Leinster, 3Arena is owned by Live Nation Entertainment. Dublin is also part of the Republic of Ireland and is led by Dáil Éireann.</lex>
+      <lex lang="es" lid="Id1">El 3Arena (propiedad de Live Nation Entertainment) está situado en Dublín, República de Irlanda. Dáil Éireann es un líder de Dublín, que forma parte de Leinster.</lex>
+      <lex lang="es" lid="Id2">El 3Arena, propiedad de Live Nation Entertainment, está situado en Dublín, que forma parte de Leinster, en la República de Irlanda. Dáil Éireann es un líder en Dublín.</lex>
+      <lex lang="es" lid="Id3">Situado en Dublín (Leinster), el 3Arena es propiedad de Live Nation Entertainment. Dublín también forma parte de la República de Irlanda y está dirigida por Dáil Éireann.</lex>
+      <lex lang="ca" lid="Id1">3Arena (propietat de Live Nation Entertainment) es troba a Dublín, República d'Irlanda. Dáil Éireann és un líder a Dublín, que forma part de Leinster.</lex>
+      <lex lang="ca" lid="Id2">3Arena, propietat de Live Nation Entertainment, es troba a Dublín, que forma part de Leinster a la República d'Irlanda. Dáil Éireann és un líder a Dublín.</lex>
+      <lex lang="ca" lid="Id3">Situat a Dublín, Leinster, 3Arena és propietat de Live Nation Entertainment. Dublín és també part de la República d'Irlanda i està dirigit per Dáil Éireann.</lex>
+      <lex lang="en_bt" lid="Id1">3Arena (owned by Live Nation Entertainment) is located in Dublin, Republic of Ireland. Dáil Éireann is a leader in Dublin, which is part of Leinster.</lex>
+      <lex lang="en_bt" lid="Id2">3Arena, owned by Live Nation Entertainment, is located in Dublin, which is part of Leinster in the Republic of Ireland. Dáil Éireann is a leader in Dublin.</lex>
+      <lex lang="en_bt" lid="Id3">Located in Dublin, Leinster, 3Arena is owned by Live Nation Entertainment. Dublin is also part of the Republic of Ireland and is governed by Dáil Éireann.</lex>
+      </entry>
+    <entry category="Building" eid="Id5" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Adisham_Hall | architecturalStyle | "Tudor and Jacabian"@en</otriple>
+        <otriple>Adisham_Hall | location | Sri_Lanka</otriple>
+        <otriple>Adisham_Hall | buildingEndDate | "1931"</otriple>
+        <otriple>Adisham_Hall | buildingStartDate | "1927"</otriple>
+        <otriple>Adisham_Hall | address | "St. Benedict's Monastery, Adisham, Haputhale, Sri Lanka"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adisham_Hall | architecturalStyle | "Tudor and Jacabian"</mtriple>
+        <mtriple>Adisham_Hall | location | Sri_Lanka</mtriple>
+        <mtriple>Adisham_Hall | completionDate | 1931</mtriple>
+        <mtriple>Adisham_Hall | buildingStartDate | "1927"</mtriple>
+        <mtriple>Adisham_Hall | address | "St. Benedict's Monastery, Adisham, Haputhale, Sri Lanka"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Sala_Adisham | EstiloArquitectónico | Tudor_y_Jacabian</striple>
+        <striple>Sala_Adisham | Ubicación | Sri_Lanka</striple>
+        <striple>Sala_Adisham | FechaDeFinalización | 1931</striple>
+        <striple>Sala_Adisham | FechaDeInicioDeLaConstrucción | 1927</striple>
+        <striple>Sala_Adisham | Dirección | Monasterio_de_San_Benito,_Adisham,_Haputhale,_Sri_Lanka</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Adisham_Hall | architecturalStyle | "Tudor and Jacabian"</bttriple>
+        <bttriple>Adisham_Hall | location | Sri_Lanka</bttriple>
+        <bttriple>Adisham_Hall | completionDate | 1931</bttriple>
+        <bttriple>Adisham_Hall | buildingStartDate | "1927"</bttriple>
+        <bttriple>Adisham_Hall | address | "St. Benedict's Monastery, Adisham, Haputhale, Sri Lanka"</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Adisham_Hall | EstilArquitectònic | Tudor_i_Jacabian</ctriple>
+        <ctriple>Adisham_Hall | Ubicació | Sri_Lanka</ctriple>
+        <ctriple>Adisham_Hall | DataDeFinalització | 1931</ctriple>
+        <ctriple>Adisham_Hall | DataD'IniciDeLaConstrucció | 1927</ctriple>
+        <ctriple>Adisham_Hall | Adreça | Monestir_de_Sant_Benet,_Adisham,_Haputhale,_Sri_Lanka</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Adisham Hall in Sri Lanka was constructed between 1927 and 1931 at St Benedict's Monastery, Adisham, Haputhale, Sri Lanka in the Tudor and Jacobean style of architecture.</lex>
+      <lex lang="en" lid="Id2">Construction of Adisham Hall took place between 1927 and 1931 in the architectural style of Tudor and Jacobean. It is located at St Benedict's Monastery, Adisham, Haputhale, Sri Lanka.</lex>
+      <lex lang="es" lid="Id1">El Adisham Hall de Sri Lanka se construyó entre 1927 y 1931 en el monasterio de San Benito, Adisham, Haputhale, Sri Lanka, en estilo arquitectónico tudor y jacobino.</lex>
+      <lex lang="es" lid="Id2">El Adisham Hall se construyó entre 1927 y 1931 en estilo arquitectónico tudor y jacobino. Se encuentra en el Monasterio de San Benito, Adisham, Haputhale, Sri Lanka.</lex>
+      <lex lang="ca" lid="Id1">Adisham Hall a Sri Lanka va ser construït entre 1927 i 1931 al monestir de Sant Benet, Adisham, Haputhale, Sri Lanka en l'estil Tudor i Jacobean de l'arquitectura.</lex>
+      <lex lang="ca" lid="Id2">La construcció de l'Adisham Hall va tenir lloc entre 1927 i 1931 en l'estil arquitectònic de Tudor i Jacobean. Es troba al Monestir de Sant Benet, Adisham, Haputhale, Sri Lanka.</lex>
+      <lex lang="en_bt" lid="Id1">Adisham Hall in Sri Lanka was built between 1927 and 1931 at the monastery of St. Benedict, Adisham, Haputhale, Sri Lanka in the Tudor and Jacobean style of architecture.</lex>
+      <lex lang="en_bt" lid="Id2">The construction of Adisham Hall took place between 1927 and 1931 in the Tudor and Jacobean architectural style.It is located in the Monastery of St. Benedict, Adisham, Haputhale, Sri Lanka.</lex>
+      </entry>
+    <entry category="Building" eid="Id6" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Adisham_Hall | locationCountry | Sri_Lanka</otriple>
+        <otriple>Adisham_Hall | location | "Haputale, Sri Lanka"@en</otriple>
+        <otriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</otriple>
+        <otriple>Sri_Lanka | language | Tamil_language</otriple>
+        <otriple>Sri_Lanka | currency | Sri_Lankan_rupee</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adisham_Hall | country | Sri_Lanka</mtriple>
+        <mtriple>Adisham_Hall | location | "Haputale, Sri Lanka"</mtriple>
+        <mtriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</mtriple>
+        <mtriple>Sri_Lanka | language | Tamil_language</mtriple>
+        <mtriple>Sri_Lanka | currency | Sri_Lankan_rupee</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Sala_Adisham | País | Sri_Lanka</striple>
+        <striple>Sala_Adisham | Ubicación | Haputale,_Sri_Lanka</striple>
+        <striple>Sri_Lanka | Capital | Sri_Jayawardenapura_Kotte</striple>
+        <striple>Sri_Lanka | Idioma | tamil</striple>
+        <striple>Sri_Lanka | Divisa | rupia_esrilanquesa</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Adisham_Hall | country | Sri_Lanka</bttriple>
+        <bttriple>Adisham_Hall | location | "Haputale, Sri Lanka"</bttriple>
+        <bttriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</bttriple>
+        <bttriple>Sri_Lanka | language | Tamil_language</bttriple>
+        <bttriple>Sri_Lanka | currency | Sri_Lankan_rupee</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Adisham_Hall | País | Sri_Lanka</ctriple>
+        <ctriple>Adisham_Hall | Ubicació | Haputale,_Sri_Lanka</ctriple>
+        <ctriple>Sri_Lanka | Capital | Sri_Jayawardenapura</ctriple>
+        <ctriple>Sri_Lanka | Llengua | Llengua_tamil</ctriple>
+        <ctriple>Sri_Lanka | Moneda | rupia_de_Sri_Lanka</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Adisham Hall is located in Haputale, Sri Lanka. The capital of Sri Lanka is Sri Jayawardenepura Kotte, the language used in the country is Tamil and the currency is the Sri Lankan Rupee.</lex>
+      <lex lang="en" lid="Id2">Adisham Hall is in Haputale, Sri Lanka. The capital of Sri Lanka is Sri Jayawardenepura Kotte, the language spoken there is Tamil and the currency is the Sri Lankan Rupee.</lex>
+      <lex lang="en" lid="Id3">Adisham Hall is located at Haputale, Sri Lanka. Sri Jayawardenepura Kotte is the capital of Sri Lanka, where the currency is the Sri Lankan Rupee and the language used is Tamil.</lex>
+      <lex lang="es" lid="Id1">Adisham Hall se encuentra en Haputale, Sri Lanka. La capital de Sri Lanka es Sri Jayawardenepura Kotte, el idioma oficial del país es el tamil y la moneda es la rupia esrilanquesa.</lex>
+      <lex lang="es" lid="Id2">Adisham Hall se encuentra en Haputale, Sri Lanka. La capital de Sri Lanka es Sri Jayawardenepura Kotte, el idioma que se habla allí es el tamil y la moneda es la rupia de Sri Lanka.</lex>
+      <lex lang="es" lid="Id3">Adisham Hall se encuentra en Haputale, Sri Lanka. Sri Jayawardenepura Kotte es la capital de Sri Lanka, donde la moneda es la rupia esrilanquesa y el idioma utilizado es el tamil.</lex>
+      <lex lang="ca" lid="Id1">Adisham Hall es troba a Haputale, Sri Lanka. La capital de Sri Lanka és Sri Jayawardenepura Kotte, la llengua utilitzada al país és el tamil i la moneda és la rupia de Sri Lanka.</lex>
+      <lex lang="ca" lid="Id2">Adisham Hall és a Haputale, Sri Lanka. La capital de Sri Lanka és Sri Jayawardenepura Kotte, la llengua parlada és el tàmil i la moneda és la rupia de Sri Lanka.</lex>
+      <lex lang="ca" lid="Id3">Adisham Hall es troba a Haputale, Sri Lanka. Sri Jayawardenepura Kotte és la capital de Sri Lanka, on la moneda és la rupia de Sri Lanka i la llengua utilitzada és el tàmil.</lex>
+      <lex lang="en_bt" lid="Id1">Adisham Hall is located in Haputale, Sri Lanka. The capital of Sri Lanka is Sri Jayawardenepura Kotte, the language used in the country is Tamil and the currency is the Sri Lankan rupee.</lex>
+      <lex lang="en_bt" lid="Id2">Adisham Hall is in Haputale, Sri Lanka. The capital of Sri Lanka is Sri Jayawardenepura Kotte, the spoken language is Tamil and the currency is the Sri Lankan rupee.</lex>
+      <lex lang="en_bt" lid="Id3">Adisham Hall is located in Haputale, Sri Lanka. Sri Jayawardenepura Kotte is the capital of Sri Lanka, where the currency is the Sri Lankan rupee and the language used is Tamil.</lex>
+      </entry>
+    <entry category="Building" eid="Id7" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Adisham_Hall | locationCountry | Sri_Lanka</otriple>
+        <otriple>Sri_Lanka | leader | Ranil_Wickremesinghe</otriple>
+        <otriple>Adisham_Hall | location | Haputale</otriple>
+        <otriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</otriple>
+        <otriple>Sri_Lanka | currency | Sri_Lankan_rupee</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Adisham_Hall | locationCountry | Sri_Lanka</otriple>
+        <otriple>Adisham_Hall | location | Haputale</otriple>
+        <otriple>Sri_Lanka | leaderName | Ranil_Wickremesinghe</otriple>
+        <otriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</otriple>
+        <otriple>Sri_Lanka | currency | Sri_Lankan_rupee</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adisham_Hall | country | Sri_Lanka</mtriple>
+        <mtriple>Adisham_Hall | location | Haputale</mtriple>
+        <mtriple>Sri_Lanka | leader | Ranil_Wickremesinghe</mtriple>
+        <mtriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</mtriple>
+        <mtriple>Sri_Lanka | currency | Sri_Lankan_rupee</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Sala_Adisham | País | Sri_Lanka</striple>
+        <striple>Sala_Adisham | Ubicación | Haputale</striple>
+        <striple>Sri_Lanka | Líder | Ranil_Wickremasinghe</striple>
+        <striple>Sri_Lanka | Capital | Sri_Jayawardenapura_Kotte</striple>
+        <striple>Sri_Lanka | Divisa | rupia_esrilanquesa</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Adisham_Hall | country | Sri_Lanka</bttriple>
+        <bttriple>Adisham_Hall | location | Haputale</bttriple>
+        <bttriple>Sri_Lanka | leader | Ranil_Wickremesinghe</bttriple>
+        <bttriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</bttriple>
+        <bttriple>Sri_Lanka | currency | Sri_Lankan_rupee</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Adisham_Hall | País | Sri_Lanka</ctriple>
+        <ctriple>Adisham_Hall | Ubicació | Haputalezimbabwe__districts._kgm</ctriple>
+        <ctriple>Sri_Lanka | Líder | Ranil_Wickremesinghe</ctriple>
+        <ctriple>Sri_Lanka | Capital | Sri_Jayawardenapura</ctriple>
+        <ctriple>Sri_Lanka | Moneda | rupia_de_Sri_Lanka</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Ranil Wickremesinghe is the leader of Sri Lanka where the capital city is Sri Jayawardenepura Kotte and the currency is the Sri Lankan rupee. Adisham Hall is located in the country at Haputale.</lex>
+      <lex lang="en" lid="Id2">Adisham Hall is located in Haputale, Sri Lanka. The capital of Sri Lanka is Sri Jayawardenepura Kotte with Ranil Wickremesinghe as its leader and the Rupee as its currency.</lex>
+      <lex lang="en" lid="Id3">Adisham Hall is located in Haputale, Sri Lanka, where the capital is called Sri Jayawardenepura Kotte. Ranil Wickremesinghe is a leader of Sri Lanka, and the currency is the Sri Lankan rupee.</lex>
+      <lex lang="es" lid="Id1">Ranil Wickremesinghe es el líder de Sri Lanka, donde la capital es Sri Jayawardenepura Kotte y la moneda es la rupia de Sri Lanka. Adisham Hall se encuentra en el país en Haputale.</lex>
+      <lex lang="es" lid="Id2">Adisham Hall se encuentra en Haputale, Sri Lanka. La capital de Sri Lanka es Sri Jayawardenepura Kotte, con Ranil Wickremesinghe como líder y la rupia como moneda.</lex>
+      <lex lang="es" lid="Id3">Adisham Hall se encuentra en Haputale, Sri Lanka, donde la capital se llama Sri Jayawardenepura Kotte. Ranil Wickremesinghe es un líder de Sri Lanka, y la moneda es la rupia de Sri Lanka.</lex>
+      <lex lang="ca" lid="Id1">Ranil Wickremesinghe és el líder de Sri Lanka, on la capital és Sri Jayawardenepura Kotte i la moneda és la rupia de Sri Lanka.</lex>
+      <lex lang="ca" lid="Id2">Adisham Hall es troba a Haputale, Sri Lanka. La capital de Sri Lanka és Sri Jayawardenepura Kotte amb Ranil Wickremesinghe com a líder i la rupia com a moneda.</lex>
+      <lex lang="ca" lid="Id3">L'Adisham Hall es troba a Haputale, Sri Lanka, on la capital s'anomena Sri Jayawardenepura Kotte. Ranil Wickremesinghe és un líder de Sri Lanka, i la moneda és la rupia de Sri Lanka.</lex>
+      <lex lang="en_bt" lid="Id1">Ranil Wickremesinghe is the leader of Sri Lanka, where the capital is Sri Jayawardenepura Kotte and the currency is the Sri Lankan rupee.</lex>
+      <lex lang="en_bt" lid="Id2">Adisham Hall is located in Haputale, Sri Lanka. The capital of Sri Lanka is Sri Jayawardenepura Kotte with Ranil Wickremesinghe as leader and the rupee as currency.</lex>
+      <lex lang="en_bt" lid="Id3">Adisham Hall is located in Haputale, Sri Lanka, where the capital is called Sri Jayawardenepura Kotte. Ranil Wickremesinghe is a leader of Sri Lanka, and the currency is the Sri Lankan rupee.</lex>
+      </entry>
+    <entry category="Building" eid="Id8" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Akita_Museum_of_Art | country | Japan</otriple>
+        <otriple>Akita,_Akita | subdivisionName | Akita_Prefecture</otriple>
+        <otriple>Japan | leader | Tarō_Asō</otriple>
+        <otriple>Japan | ethnicGroup | Japanese_people</otriple>
+        <otriple>Akita_Museum_of_Art | location | Akita,_Akita</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akita_Museum_of_Art | country | Japan</mtriple>
+        <mtriple>Akita,_Akita | isPartOf | Akita_Prefecture</mtriple>
+        <mtriple>Japan | leader | Tarō_Asō</mtriple>
+        <mtriple>Japan | ethnicGroup | Japanese_people</mtriple>
+        <mtriple>Akita_Museum_of_Art | location | Akita,_Akita</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Museo_de_Arte_de_Akita | País | Japón</striple>
+        <striple>Akita,_Akita | FormaParteDe | Prefectura_de_Akita</striple>
+        <striple>Japón | Líder | Tarō_Asō</striple>
+        <striple>Japón | GrupoÉtnico | japoneses</striple>
+        <striple>Museo_de_Arte_de_Akita | Ubicación | Akita,_Akita</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Akita_Museum_of_Art | country | Japan</bttriple>
+        <bttriple>Akita,_Akita | isPartOf | Akita_Prefecture</bttriple>
+        <bttriple>Japan | leader | Tarō_Asō</bttriple>
+        <bttriple>Japan | ethnicGroup | Japanese_people</bttriple>
+        <bttriple>Akita_Museum_of_Art | location | Akita,_Akita</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Museu_d'Art_d'Akita | País | Japó</ctriple>
+        <ctriple>Akita,_Akita | ÉsPartDe | prefectura_d'Akita</ctriple>
+        <ctriple>Japó | Líder | Tarō_Asō</ctriple>
+        <ctriple>Japó | GrupÈtnic | japonesos</ctriple>
+        <ctriple>Museu_d'Art_d'Akita | Ubicació | Akita,_Akita</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The main ethnic group in Japan are the Japanese and the leader is Tarō Asō. Akita Museum of Art is in Akita, Akita which is part of Japan and the Akita Prefecture.</lex>
+      <lex lang="en" lid="Id2">The Akita Museum of Art is located in Akita, Akita which is located in Japan. The leader of Japan is Taro Aso and the main ethnic group in Japan is the Japanese. Akita, Akita is part of Akita Prefecture.</lex>
+      <lex lang="en" lid="Id3">Akita Museum of Art is in the city of Akita, Japan. The main ethnic group in Japan are the Japanese, the leader is Taro Aso and Akita, Akita is part of Akita Prefecture.</lex>
+      <lex lang="es" lid="Id1">El principal grupo étnico de Japón son los japoneses y el líder es Tarō Asō. El Museo de Arte de Akita se encuentra en Akita, Akita, que forma parte de Japón y de la prefectura de Akita.</lex>
+      <lex lang="es" lid="Id2">El Museo de Arte de Akita se encuentra en Akita, Akita que se encuentra en Japón. El líder de Japón es Taro Aso y el principal grupo étnico de Japón es el japonés. Akita, Akita es parte de la Prefectura de Akita.</lex>
+      <lex lang="es" lid="Id3">El Museo de Arte de Akita se encuentra en la ciudad de Akita, Japón. El principal grupo étnico en Japón son los japoneses, el líder es Taro Aso y Akita, Akita es parte de la prefectura de Akita.</lex>
+      <lex lang="ca" lid="Id1">El principal grup ètnic del Japó són els japonesos i el seu líder és Tarō Asō. El Museu d'Art d'Akita es troba a Akita, Akita, que forma part del Japó i de la prefectura d'Akita.</lex>
+      <lex lang="ca" lid="Id2">El Museu d' Art d' Akita es troba a Akita, Akita, que es troba al Japó. El líder del Japó és Taro Aso i el principal grup ètnic del Japó són els japonesos. Akita, Akita forma part de la Prefectura d' Akita.</lex>
+      <lex lang="ca" lid="Id3">El Museu d'Art d'Akita es troba a la ciutat d'Akita, Japó. El principal grup ètnic del Japó són els japonesos, el líder és Taro Aso i Akita, Akita forma part de la prefectura d'Akita.</lex>
+      <lex lang="en_bt" lid="Id1">The main ethnic group of Japan is Japanese and its leader is Tarō Asō. The Akita Art Museum is located in Akita, Akita, which is part of Japan and Akita Prefecture.</lex>
+      <lex lang="en_bt" lid="Id2">The Akita Art Museum is located in Akita, Akita, which is in Japan. The leader of Japan is Taro Aso and the main ethnic group in Japan are the Japanese. Akita, Akita is part of Akita Prefecture.</lex>
+      <lex lang="en_bt" lid="Id3">The Akita Art Museum is located in Akita City, Japan. The main ethnic group in Japan are the Japanese, the leader is Taro Aso and Akita, Akita is part of Akita Prefecture.</lex>
+      </entry>
+    <entry category="Building" eid="Id9" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Amdavad_ni_Gufa | location | Gujarat</otriple>
+        <otriple>Amdavad_ni_Gufa | locationTown | Ahmedabad</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+        <otriple>India | leaderName | Narendra_Modi</otriple>
+        <otriple>Gujarat | leaderTitle | Gujarat_Legislative_Assembly</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Amdavad_ni_Gufa | location | Ahmedabad</otriple>
+        <otriple>Amdavad_ni_Gufa | locationTown | Gujarat</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+        <otriple>India | leaderName | Narendra_Modi</otriple>
+        <otriple>Gujarat | leaderTitle | Gujarat_Legislative_Assembly</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amdavad_ni_Gufa | location | Gujarat</mtriple>
+        <mtriple>Amdavad_ni_Gufa | location | Ahmedabad</mtriple>
+        <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
+        <mtriple>India | leader | Narendra_Modi</mtriple>
+        <mtriple>Gujarat | leaderTitle | Gujarat_Legislative_Assembly</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Amdavad_ni_Gufa | Ubicación | Guyarat</striple>
+        <striple>Amdavad_ni_Gufa | Ubicación | Ahmedabad</striple>
+        <striple>Amdavad_ni_Gufa | País | India</striple>
+        <striple>India | Líder | Narendra_Modi</striple>
+        <striple>Guyarat | TítuloDeLíder | Asamblea_Legislativa_de_Gujarat</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Amdavad_ni_Gufa | location | Gujarat</bttriple>
+        <bttriple>Amdavad_ni_Gufa | location | Ahmedabad</bttriple>
+        <bttriple>Amdavad_ni_Gufa | country | India</bttriple>
+        <bttriple>India | leader | Narendra_Modi</bttriple>
+        <bttriple>Gujarat | leaderTitle | Gujarat_Legislative_Assembly</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Amdavad_ni_Gufa | Ubicació | Gujarat</ctriple>
+        <ctriple>Amdavad_ni_Gufa | Ubicació | Ahmadabad</ctriple>
+        <ctriple>Amdavad_ni_Gufa | País | Índia</ctriple>
+        <ctriple>Índia | Líder | Narendra_Modi</ctriple>
+        <ctriple>Gujarat | LíderTítol | Assemblea_Legislativa_del_Gujarat</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Amdavad ni Gufa is located in Gujarat, Ahmedabad, India. Gujarat's leader is known as the Gujarat Legislative Assembly, and the leader of India is Narendra Modi.</lex>
+      <lex lang="en" lid="Id2">Amdavad ni Gufa is located in Gujarat, Ahmedabad which is in India. The leader of India is Narendra Modi but the leader of Gujarat is the Gujarat Legislative Assembly.</lex>
+      <lex lang="en" lid="Id3">Amdavad ni Gufa is in Gujarat, Ahmedabad which is in India. Gujarat's leader is the Gujarat Legislative Assembly and Narendra Modi is the prime minister of India.</lex>
+      <lex lang="es" lid="Id1">Amdavad ni Gufa se encuentra en Gujarat, Ahmedabad, India. El líder de Gujarat es conocido como la Asamblea Legislativa de Gujarat, y el líder de la India es Narendra Modi.</lex>
+      <lex lang="es" lid="Id2">Amdavad ni Gufa se encuentra en Gujarat, Ahmedabad que está en India. El líder de la India es Narendra Modi, pero el líder de Gujarat es la Asamblea Legislativa de Gujarat.</lex>
+      <lex lang="es" lid="Id3">Amdavad ni Gufa está en Gujarat, Ahmedabad que está en India. El líder de Gujarat es la Asamblea Legislativa de Gujarat y Narendra Modi es el primer ministro de la India.</lex>
+      <lex lang="ca" lid="Id1">Amdavad ni Gufa es troba a Gujarat, Ahmedabad, Índia. El líder de Gujarat és conegut com l'Assemblea Legislativa de Gujarat, i el líder de l'Índia és Narendra Modi.</lex>
+      <lex lang="ca" lid="Id2">Amdavad ni Gufa es troba a Gujarat, Ahmedabad, Índia. El líder de l'Índia és Narendra Modi, però el líder de Gujarat és l'Assemblea Legislativa de Gujarat.</lex>
+      <lex lang="ca" lid="Id3">Amdavad ni Gufa és a Gujarat, Ahmedabad, a l'Índia. El líder de Gujarat és l'Assemblea Legislativa de Gujarat i Narendra Modi és el primer ministre de l'Índia.</lex>
+      <lex lang="en_bt" lid="Id1">Amdavad ni Gufa is located in Gujarat, Ahmedabad, India. The leader of Gujarat is known as the Gujarat Legislative Assembly, and the leader of India is Narendra Modi.</lex>
+      <lex lang="en_bt" lid="Id2">Amdavad ni Gufa is located in Gujarat, Ahmedabad, India. The leader of India is Narendra Modi, but the leader of Gujarat is the Gujarat Legislative Assembly.</lex>
+      <lex lang="en_bt" lid="Id3">Amdavad ni Gufa is in Gujarat, Ahmedabad, India. The leader of Gujarat is the Gujarat Legislative Assembly and Narendra Modi is the Prime Minister of India.</lex>
+      </entry>
+    <entry category="Building" eid="Id10" shape="(X (X (X)) (X (X (X))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Amdavad_ni_Gufa | location | Gujarat</otriple>
+        <otriple>India | leaderName | T._S._Thakur</otriple>
+        <otriple>Ahmedabad | country | India</otriple>
+        <otriple>Amdavad_ni_Gufa | locationTown | Ahmedabad</otriple>
+        <otriple>Gujarat | leaderTitle | Gujarat_Legislative_Assembly</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amdavad_ni_Gufa | location | Gujarat</mtriple>
+        <mtriple>India | leader | T._S._Thakur</mtriple>
+        <mtriple>Ahmedabad | country | India</mtriple>
+        <mtriple>Amdavad_ni_Gufa | location | Ahmedabad</mtriple>
+        <mtriple>Gujarat | leaderTitle | Gujarat_Legislative_Assembly</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Amdavad_ni_Gufa | Ubicación | Guyarat</striple>
+        <striple>India | Líder | T._S._Thakur</striple>
+        <striple>Ahmedabad | País | India</striple>
+        <striple>Amdavad_ni_Gufa | Ubicación | Ahmedabad</striple>
+        <striple>Guyarat | TítuloDeLíder | Asamblea_Legislativa_de_Gujarat</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Amdavad_ni_Gufa | location | Gujarat</bttriple>
+        <bttriple>India | leader | T._S._Thakur</bttriple>
+        <bttriple>Ahmedabad | country | India</bttriple>
+        <bttriple>Amdavad_ni_Gufa | location | Ahmedabad</bttriple>
+        <bttriple>Gujarat | leaderTitle | Gujarat_Legislative_Assembly</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Amdavad_ni_Gufa | Ubicació | Gujarat</ctriple>
+        <ctriple>Índia | Líder | T._S._Thakur</ctriple>
+        <ctriple>Ahmadabad | País | Índia</ctriple>
+        <ctriple>Amdavad_ni_Gufa | Ubicació | Ahmadabad</ctriple>
+        <ctriple>Gujarat | LíderTítol | Assemblea_Legislativa_del_Gujarat</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Amdavad ni Gufa is located in Ahmedabad, Gujarat, India; led by the Gujarat Legislative Assembly, including leader T S Thakur.</lex>
+      <lex lang="es" lid="Id1">Amdavad ni Gufa se encuentra en Ahmedabad, Gujarat, India; está dirigida por la Asamblea Legislativa de Gujarat, incluido el líder T S Thakur.</lex>
+      <lex lang="ca" lid="Id1">Amdavad ni Gufa es troba a Ahmedabad, Gujarat, Índia; liderat per l'Assemblea Legislativa de Gujarat, incloent el líder T S Thakur.</lex>
+      <lex lang="en_bt" lid="Id1">Amdavad ni Gufa is located in Ahmedabad, Gujarat, India; led by the Gujarat Legislative Assembly, including leader T S Thakur.</lex>
+      </entry>
+    <entry category="Building" eid="Id11" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Ampara_Hospital | country | Sri_Lanka</otriple>
+        <otriple>Sri_Lanka | leader | Ranil_Wickremesinghe</otriple>
+        <otriple>Ampara_Hospital | beds | 476</otriple>
+        <otriple>Ampara_Hospital | state | Eastern_Province,_Sri_Lanka</otriple>
+        <otriple>Eastern_Province,_Sri_Lanka | leaderName | Austin_Fernando</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Ampara_Hospital | country | Sri_Lanka</otriple>
+        <otriple>Sri_Lanka | leader | Ranil_Wickremesinghe</otriple>
+        <otriple>Ampara_Hospital | bedCount | "476"^^xsd:nonNegativeInteger</otriple>
+        <otriple>Ampara_Hospital | state | Eastern_Province,_Sri_Lanka</otriple>
+        <otriple>Eastern_Province,_Sri_Lanka | leaderName | Austin_Fernando</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ampara_Hospital | country | Sri_Lanka</mtriple>
+        <mtriple>Sri_Lanka | leader | Ranil_Wickremesinghe</mtriple>
+        <mtriple>Ampara_Hospital | bedCount | 476</mtriple>
+        <mtriple>Ampara_Hospital | state | Eastern_Province,_Sri_Lanka</mtriple>
+        <mtriple>Eastern_Province,_Sri_Lanka | leader | Austin_Fernando</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Hospital_de_Ampara | País | Sri_Lanka</striple>
+        <striple>Sri_Lanka | Líder | Ranil_Wickremasinghe</striple>
+        <striple>Hospital_de_Ampara | RecuentoDeCamas | 476</striple>
+        <striple>Hospital_de_Ampara | Estado | Provincia_del_Este,_Sri_Lanka</striple>
+        <striple>Provincia_del_Este,_Sri_Lanka | Líder | Austin_Fernando</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Ampara_Hospital | country | Sri_Lanka</bttriple>
+        <bttriple>Sri_Lanka | leader | Ranil_Wickremesinghe</bttriple>
+        <bttriple>Ampara_Hospital | bedCount | 476</bttriple>
+        <bttriple>Ampara_Hospital | state | Eastern_Province,_Sri_Lanka</bttriple>
+        <bttriple>Eastern_Province,_Sri_Lanka | leader | Austin_Fernando</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Hospital_d'Ampara | País | Sri_Lanka</ctriple>
+        <ctriple>Sri_Lanka | Líder | Ranil_Wickremesinghe</ctriple>
+        <ctriple>Hospital_d'Ampara | CompteDeLlits | 476</ctriple>
+        <ctriple>Hospital_d'Ampara | Estat | Província_oriental,_Sri_Lanka</ctriple>
+        <ctriple>Província_oriental,_Sri_Lanka | Líder | Austin_Fernando</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The 476 bed Ampara Hospital is situated in the Eastern Province state of Sri Lanka where Austin Fernando is the leader. The country's leader is Ranil Wickremesinghe.</lex>
+      <lex lang="en" lid="Id2">Ampara Hospital, which has 476 beds, is located in the Eastern Province of Sri Lanka led by Austin Fernando. The leader of Sri Lanka is Ranil Wickremesinghe.</lex>
+      <lex lang="en" lid="Id3">There are 476 beds at Ampara Hospital in the Eastern Province of Sri Lanka where Austin Fernando is the leader. Another leader within the country is Ranil Wickremesinghe.</lex>
+      <lex lang="es" lid="Id1">El Hospital de Ampara, con 476 camas, está situado en el estado de la Provincia Oriental de Sri Lanka, donde Austin Fernando es el líder. El líder del país es Ranil Wickremesinghe.</lex>
+      <lex lang="es" lid="Id2">El hospital de Ampara, que cuenta con 476 camas, está situado en la provincia oriental de Sri Lanka, dirigida por Austin Fernando. El líder de Sri Lanka es Ranil Wickremesinghe.</lex>
+      <lex lang="es" lid="Id3">Hay 476 camas en el hospital de Ampara, en la provincia oriental de Sri Lanka, donde Austin Fernando es el líder. Otro líder dentro del país es Ranil Wickremesinghe.</lex>
+      <lex lang="ca" lid="Id1">L'hospital d'Ampara, amb 476 llits, està situat a l'estat de la Província Oriental de Sri Lanka, on Austin Fernando és el líder, mentre que el líder del país és Ranil Wickremesinghe.</lex>
+      <lex lang="ca" lid="Id2">L'hospital d'Ampara, que té 476 llits, es troba a la província oriental de Sri Lanka, dirigida per Austin Fernando, el líder de Sri Lanka és Ranil Wickremesinghe.</lex>
+      <lex lang="ca" lid="Id3">Hi ha 476 llits a l'hospital d'Ampara a la província oriental de Sri Lanka, on Austin Fernando n'és el líder. Un altre líder al país és Ranil Wickremesinghe.</lex>
+      <lex lang="en_bt" lid="Id1">The 476-bed Ampara hospital is located in the Eastern Province state of Sri Lanka, where Austin Fernando is the leader, while the country's leader is Ranil Wickremesinghe.</lex>
+      <lex lang="en_bt" lid="Id2">The Ampara hospital, which has 476 beds, is located in the eastern province of Sri Lanka, run by Austin Fernando, the Sri Lankan leader is Ranil Wickremesinghe.</lex>
+      <lex lang="en_bt" lid="Id3">There are 476 beds in the Ampara hospital in the eastern province of Sri Lanka, where Austin Fernando is the leader. Another leader in the country is Ranil Wickremesinghe.</lex>
+      </entry>
+    <entry category="Building" eid="Id12" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
+        <otriple>Julia_Morgan | significantBuilding | Los_Angeles_Herald-Examiner</otriple>
+        <otriple>Julia_Morgan | significantBuildings | Riverside_Art_Museum</otriple>
+        <otriple>Julia_Morgan | significantProject | Hearst_Castle</otriple>
+        <otriple>Julia_Morgan | birthPlace | California</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Los_Angeles_Herald-Examiner</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Riverside_Art_Museum</mtriple>
+        <mtriple>Julia_Morgan | significantProject | Hearst_Castle</mtriple>
+        <mtriple>Julia_Morgan | birthPlace | California</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Asilomar_Conference_Grounds | Arquitecto | Julia_Morgan</striple>
+        <striple>Julia_Morgan | EdificioSignificativo | Los_Angeles_Herald-Examiner</striple>
+        <striple>Julia_Morgan | EdificioSignificativo | Museo_de_Arte_de_Riverside</striple>
+        <striple>Julia_Morgan | ProyectoSignificativo | Castillo_Hearst</striple>
+        <striple>Julia_Morgan | LugarDeNacimiento | California</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</bttriple>
+        <bttriple>Julia_Morgan | significantBuilding | Los_Angeles_Herald-Examiner</bttriple>
+        <bttriple>Julia_Morgan | significantBuilding | Riverside_Art_Museum</bttriple>
+        <bttriple>Julia_Morgan | significantProject | Hearst_Castle</bttriple>
+        <bttriple>Julia_Morgan | birthPlace | California</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Centre_de_convencions_Asilomar | Arquitecte | Julia_Morgan</ctriple>
+        <ctriple>Julia_Morgan | EdificiSignificatiu | Los_Angeles_Herald-Examiner</ctriple>
+        <ctriple>Julia_Morgan | EdificiSignificatiu | Museu_d'Art_de_Riverside</ctriple>
+        <ctriple>Julia_Morgan | ProjecteSignificatiu | Hearst_Castle</ctriple>
+        <ctriple>Julia_Morgan | LlocDeNaixement | Califòrnia</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Julia Morgan, who was born in California, designed the Asilomar Conference Grounds, the Los Angeles Herald examiner building, The Riverside Art Museum and Hearst Castle.</lex>
+      <lex lang="en" lid="Id2">Julia Morgan was an architect born in California. She designed Asilomar Conference Grounds, The Riverside Art Museum, Hearst Castle and the Los Angeles Herald Examiner building.</lex>
+      <lex lang="es" lid="Id1">Julia Morgan, nacida en California, diseñó el Asilomar Conference Grounds, el edificio del Los Angeles Herald examiner, el Riverside Art Museum y el castillo Hearst.</lex>
+      <lex lang="es" lid="Id2">Julia Morgan fue una arquitecta nacida en California. Diseñó el Asilomar Conference Grounds, el Riverside Art Museum, el Hearst Castle y el edificio de Los Angeles Herald Examiner.</lex>
+      <lex lang="ca" lid="Id1">Julia Morgan, que va néixer a Califòrnia, va dissenyar el Asilomar Conference Grounds, l'edifici de l'examinador de Los Angeles Herald, el Riverside Art Museum i el Castell Hearst.</lex>
+      <lex lang="ca" lid="Id2">Julia Morgan va ser una arquitecta nascuda a Califòrnia. Va dissenyar l'Asilomar Conference Grounds, el Riverside Art Museum, el Hearst Castle i l'edifici del Los Angeles Herald Examiner.</lex>
+      <lex lang="en_bt" lid="Id1">Julia Morgan, who was born in California, designed the Asilomar Conference Grounds, the Los Angeles Herald Examiner Building, the Riverside Art Museum and Hearst Castle.</lex>
+      <lex lang="en_bt" lid="Id2">Julia Morgan was a California-born architect who designed the Asilomar Conference Grounds, the Riverside Art Museum, Hearst Castle and the Los Angeles Herald Examiner building.</lex>
+      </entry>
+    <entry category="Building" eid="Id13" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
+        <otriple>Julia_Morgan | significantBuildings | Riverside_Art_Museum</otriple>
+        <otriple>Julia_Morgan | significantProject | Hearst_Castle</otriple>
+        <otriple>Julia_Morgan | significantBuilding | Chinatown,_San_Francisco</otriple>
+        <otriple>Julia_Morgan | birthPlace | California</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Riverside_Art_Museum</mtriple>
+        <mtriple>Julia_Morgan | significantProject | Hearst_Castle</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Chinatown,_San_Francisco</mtriple>
+        <mtriple>Julia_Morgan | birthPlace | California</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Asilomar_Conference_Grounds | Arquitecto | Julia_Morgan</striple>
+        <striple>Julia_Morgan | EdificioSignificativo | Museo_de_Arte_de_Riverside</striple>
+        <striple>Julia_Morgan | ProyectoSignificativo | Castillo_Hearst</striple>
+        <striple>Julia_Morgan | EdificioSignificativo | Chinatown,_San_Francisco</striple>
+        <striple>Julia_Morgan | LugarDeNacimiento | California</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</bttriple>
+        <bttriple>Julia_Morgan | significantBuilding | Riverside_Art_Museum</bttriple>
+        <bttriple>Julia_Morgan | significantProject | Hearst_Castle</bttriple>
+        <bttriple>Julia_Morgan | significantBuilding | Chinatown,_San_Francisco</bttriple>
+        <bttriple>Julia_Morgan | birthPlace | California</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Centre_de_convencions_Asilomar | Arquitecte | Julia_Morgan</ctriple>
+        <ctriple>Julia_Morgan | EdificiSignificatiu | Museu_d'Art_de_Riverside</ctriple>
+        <ctriple>Julia_Morgan | ProjecteSignificatiu | Hearst_Castle</ctriple>
+        <ctriple>Julia_Morgan | EdificiSignificatiu | Barri_xinès,_San_Francisco</ctriple>
+        <ctriple>Julia_Morgan | LlocDeNaixement | Califòrnia</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Asilomar Conference Grounds were designed by Julia Morgan (born in California), who is known for a number of buildings, including Hearst Castle and The Riverside Art Museum, and her work in San Francisco's Chinatown.</lex>
+      <lex lang="en" lid="Id2">Julia Morgan, the architect, was born in California and some of her significant projects include: the Asilomar Conference Grounds, The Riverside Art Museum, Hearst Castle and some buildings in Chinatown, San Francisco.</lex>
+      <lex lang="en" lid="Id3">Julia Morgan, born in California, was the architect behind the grounds of Asilomar Conference, the Riverside Art Museum, Hearst Castle and Chinatown in San Francisco.</lex>
+      <lex lang="es" lid="Id1">El Asilomar Conference Grounds fue diseñado por Julia Morgan (nacida en California), conocida por varios edificios, como el Castillo Hearst y el Museo de Arte de Riverside, y por su trabajo en el barrio chino de San Francisco.</lex>
+      <lex lang="es" lid="Id2">Julia Morgan, la arquitecta, nació en California y algunos de sus proyectos más significativos son: el Asilomar Conference Grounds, The Riverside Art Museum, Hearst Castle y algunos edificios de Chinatown, San Francisco.</lex>
+      <lex lang="es" lid="Id3">Julia Morgan, nacida en California, fue la arquitecta de los terrenos de la Conferencia de Asilomar, el Museo de Arte de Riverside, el Castillo Hearst y el barrio chino de San Francisco.</lex>
+      <lex lang="ca" lid="Id1">Asilomar Conference Grounds va ser dissenyat per Julia Morgan (nascuda a Califòrnia), que és coneguda per una sèrie d'edificis, incloent Hearst Castle i The Riverside Art Museum, i el seu treball al Chinatown de San Francisco.</lex>
+      <lex lang="ca" lid="Id2">Julia Morgan, l'arquitecta, va néixer a Califòrnia i alguns dels seus projectes importants inclouen: l'Asilomar Conference Grounds, The Riverside Art Museum, Hearst Castle i alguns edificis a Chinatown, San Francisco.</lex>
+      <lex lang="ca" lid="Id3">Julia Morgan, nascuda a Califòrnia, va ser l'arquitecta darrere dels terrenys de la Conferència d'Asilomar, el Museu d'Art Riverside, el Castell Hearst i Chinatown a San Francisco.</lex>
+      <lex lang="en_bt" lid="Id1">The Asilomar Conference Grounds was designed by Julia Morgan (born in California), who is known for a number of buildings, including Hearst Castle and The Riverside Art Museum, and her work in San Francisco's Chinatown.</lex>
+      <lex lang="en_bt" lid="Id2">Julia Morgan, the architect, was born in California and some of her major projects include: the Asilomar Conference Grounds, The Riverside Art Museum, Hearst Castle and some buildings in Chinatown, San Francisco.</lex>
+      <lex lang="en_bt" lid="Id3">Julia Morgan, born in California, was the architect behind the Asilomar Conference grounds, the Riverside Art Museum, Hearst Castle and Chinatown in San Francisco.</lex>
+      </entry>
+    <entry category="Building" eid="Id14" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</otriple>
+        <otriple>Asilomar_Conference_Grounds | added | "1987-02-27"^^xsd:date</otriple>
+        <otriple>Asilomar_Conference_Grounds | architecturalStyle | Arts_and_Crafts_movement</otriple>
+        <otriple>Asilomar_Conference_Grounds | nrhpReferenceNumber | "87000823"</otriple>
+        <otriple>Asilomar_Conference_Grounds | yearOfConstruction | "1913"^^xsd:gYear</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | addedToTheNationalRegisterOfHistoricPlaces | "1987-02-27"</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | architecturalStyle | Arts_and_Crafts_movement</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | NationalRegisterOfHistoricPlacesReferenceNumber | "87000823"</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | yearOfConstruction | 1913</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Asilomar_Conference_Grounds | Ubicación | Pacific_Grove,_California</striple>
+        <striple>Asilomar_Conference_Grounds | IncluidaEnElRegistroNacionalDeLugaresHistóricos | 27-02-1987</striple>
+        <striple>Asilomar_Conference_Grounds | EstiloArquitectónico | Arts_and_Crafts</striple>
+        <striple>Asilomar_Conference_Grounds | NúmeroDeReferenciaDelRegistroNacionalDeLugaresHistóricos | 87000823</striple>
+        <striple>Asilomar_Conference_Grounds | AñoDeConstrucción | 1913</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</bttriple>
+        <bttriple>Asilomar_Conference_Grounds | addedToTheNationalRegisterOfHistoricPlaces | "1987-02-27"</bttriple>
+        <bttriple>Asilomar_Conference_Grounds | architecturalStyle | Arts_and_Crafts_movement</bttriple>
+        <bttriple>Asilomar_Conference_Grounds | NationalRegisterOfHistoricPlacesReferenceNumber | "87000823"</bttriple>
+        <bttriple>Asilomar_Conference_Grounds | yearOfConstruction | 1913</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Centre_de_convencions_Asilomar | Ubicació | Pacific_Grove,_Califòrnia</ctriple>
+        <ctriple>Centre_de_convencions_Asilomar | S'HaAfegitAlRegistreNacionalDeLlocsHistòrics | 1987-02-27</ctriple>
+        <ctriple>Centre_de_convencions_Asilomar | EstilArquitectònic | Arts_and_Crafts</ctriple>
+        <ctriple>Centre_de_convencions_Asilomar | NúmeroDeReferènciaDelRegistreNacionalDeLlocsHistòrics | 87000823</ctriple>
+        <ctriple>Centre_de_convencions_Asilomar | AnyDeConstrucció | 1913</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The Asilomar Conference Grounds were constructed in 1913. They are located in Pacific Grove, California and they were added to the National Register of Historic Places on February 27th 1987 (with reference number 87000823). The grounds are in the architectural style of the Arts and Crafts Movement.</lex>
+      <lex lang="en" lid="Id2">Asilomar Conference Grounds are located in Pacific Grove, California. They were constructed in 1913 with the architectural style of the Arts and Crafts Movement. They were added to the National Register of Historic Places on 27 February 1987 with reference number "87000823".</lex>
+      <lex lang="en" lid="Id3">The Asilomar Conference Grounds were constructed in 1913 and are in Pacific Grove, California. They have an Arts and Crafts movement style architecture and were added to the National Register of Historic Places on 27 February 1987 with the reference number 87000823.</lex>
+      <lex lang="es" lid="Id1">Los Asilomar Conference Grounds se construyeron en 1913. Se encuentran en Pacific Grove, California, y fueron inscritos en el Registro Nacional de Lugares Históricos el 27 de febrero de 1987 (con el número de referencia 87000823). Los terrenos siguen el estilo arquitectónico del movimiento Arts and Crafts.</lex>
+      <lex lang="es" lid="Id2">El Asilomar Conference Grounds está situado en Pacific Grove, California. Se construyeron en 1913 con el estilo arquitectónico del Movimiento Arts and Crafts. Fueron inscritos en el Registro Nacional de Lugares Históricos el 27 de febrero de 1987 con el número de referencia "87000823".</lex>
+      <lex lang="es" lid="Id3">Los Asilomar Conference Grounds se construyeron en 1913 y están en Pacific Grove, California. Tienen una arquitectura de estilo del movimiento Arts and Crafts y se añadieron al Registro Nacional de Lugares Históricos el 27 de febrero de 1987 con el número de referencia 87000823.</lex>
+      <lex lang="ca" lid="Id1">Els terrenys de la conferència d' Asilomar van ser construïts el 1913. Es troben a Pacific Grove, Califòrnia i van ser afegits al Registre Nacional de Llocs Històrics el 27 de febrer de 1987 (amb el número de referència 87000823). Els terrenys tenen l' estil arquitectònic del Moviment d' Arts i Oficis.</lex>
+      <lex lang="ca" lid="Id2">Els terrenys de la Conferència d'Asilomar es troben a Pacific Grove, Califòrnia. Es van construir l'any 1913 amb l'estil arquitectònic del Moviment Arts and Crafts. Es van afegir al Registre Nacional de Llocs Històrics el 27 de febrer de 1987 amb el número de referència "87000823".</lex>
+      <lex lang="ca" lid="Id3">Els terrenys de la conferència d'Asilomar van ser construïts el 1913 i estan a Pacific Grove, Califòrnia. Tenen una arquitectura d'estil Arts and Crafts i van ser afegits al Registre Nacional de Llocs Històrics el 27 de febrer de 1987 amb el número de referència 87000823.</lex>
+      <lex lang="en_bt" lid="Id1">The Asilomar Conference Grounds were built in 1913. They are located in Pacific Grove, California and were added to the National Register of Historic Places on February 27, 1987 (reference number 87000823). The grounds are in the architectural style of the Arts and Crafts Movement.</lex>
+      <lex lang="en_bt" lid="Id2">The Asilomar Conference grounds are located in Pacific Grove, California. They were built in 1913 in the architectural style of the Arts and Crafts Movement. They were added to the National Register of Historic Places on February 27, 1987 with reference number "87000823".</lex>
+      <lex lang="en_bt" lid="Id3">The Asilomar Conference Grounds were built in 1913 and are located in Pacific Grove, California. They have an Arts and Crafts style architecture and were added to the National Register of Historic Places on February 27, 1987 with reference number 87000823.</lex>
+      </entry>
+    <entry category="Building" eid="Id15" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | 23rd_Street_(Manhattan)</otriple>
+        <otriple>Asser_Levy_Public_Baths | architecturalStyle | Romanesque_Revival_architecture</otriple>
+        <otriple>Asser_Levy_Public_Baths | nrhpReferenceNumber | "80002709"</otriple>
+        <otriple>Asser_Levy_Public_Baths | yearOfConstruction | "1904"^^xsd:gYear</otriple>
+        <otriple>Asser_Levy_Public_Baths | added | "1980-04-23"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | location | 23rd_Street_(Manhattan)</mtriple>
+        <mtriple>Asser_Levy_Public_Baths | architecturalStyle | Romanesque_Revival_architecture</mtriple>
+        <mtriple>Asser_Levy_Public_Baths | NationalRegisterOfHistoricPlacesReferenceNumber | "80002709"</mtriple>
+        <mtriple>Asser_Levy_Public_Baths | yearOfConstruction | 1904</mtriple>
+        <mtriple>Asser_Levy_Public_Baths | addedToTheNationalRegisterOfHistoricPlaces | "1980-04-23"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Baños_públicos_de_Asser_Levy | Ubicación | Calle_23_(Manhattan)</striple>
+        <striple>Baños_públicos_de_Asser_Levy | EstiloArquitectónico | neorrománico</striple>
+        <striple>Baños_públicos_de_Asser_Levy | NúmeroDeReferenciaDelRegistroNacionalDeLugaresHistóricos | 80002709</striple>
+        <striple>Baños_públicos_de_Asser_Levy | AñoDeConstrucción | 1904</striple>
+        <striple>Baños_públicos_de_Asser_Levy | IncluidaEnElRegistroNacionalDeLugaresHistóricos | 23-04-1980</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Asser_Levy_Public_Baths | location | 23rd_Street_(Manhattan)</bttriple>
+        <bttriple>Asser_Levy_Public_Baths | architecturalStyle | Romanesque_Revival_architecture</bttriple>
+        <bttriple>Asser_Levy_Public_Baths | NationalRegisterOfHistoricPlacesReferenceNumber | "80002709"</bttriple>
+        <bttriple>Asser_Levy_Public_Baths | yearOfConstruction | 1904</bttriple>
+        <bttriple>Asser_Levy_Public_Baths | addedToTheNationalRegisterOfHistoricPlaces | "1980-04-23"</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Banys_públics_Asser_Levy | Ubicació | 23rd_Street_(Manhattan)</ctriple>
+        <ctriple>Banys_públics_Asser_Levy | EstilArquitectònic | Neoromànic</ctriple>
+        <ctriple>Banys_públics_Asser_Levy | NúmeroDeReferènciaDelRegistreNacionalDeLlocsHistòrics | 80002709</ctriple>
+        <ctriple>Banys_públics_Asser_Levy | AnyDeConstrucció | 1904</ctriple>
+        <ctriple>Banys_públics_Asser_Levy | S'HaAfegitAlRegistreNacionalDeLlocsHistòrics | 1980-04-23</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Asser Levy Public Baths, built in 1904 in a Romanesque Revival style, is located at 23rd Street (Manhattan). The site was added to the National Register of Historic Places on 1980-04-23, with Reference Number 80002709.</lex>
+      <lex lang="en" lid="Id2">The Asser Levy Public baths are located on 23rd Street in Manhattan and have the Romanesque Revival style of architecture. They were built in 1904 and added to the National Register of Historic Places with the reference number 80002709 on 23 April 1980.</lex>
+      <lex lang="en" lid="Id3">The Asser Levy Public Baths was built in 1904 in the architectural style of Romanesque Revival, and is located on 23rd Street, Manhattan. The site was added to the National Register of Historic Places on "1980-04-23", with reference number 80002709.</lex>
+      <lex lang="es" lid="Id1">Los Baños Públicos Asser Levy, construidos en 1904 en estilo renacimiento románico, se encuentran en la calle 23 (Manhattan). El lugar fue inscrito en el Registro Nacional de Lugares Históricos el 23-04-1980, con el número de referencia 80002709.</lex>
+      <lex lang="es" lid="Id2">Los baños públicos Asser Levy están situados en la calle 23 de Manhattan y son de estilo arquitectónico renacimiento románico. Fueron construidos en 1904 y añadidos al Registro Nacional de Lugares Históricos con el número de referencia 80002709 el 23 de abril de 1980.</lex>
+      <lex lang="es" lid="Id3">Los Baños Públicos Asser Levy fueron construidos en 1904 en el estilo arquitectónico del Renacimiento Románico, y están situados en la calle 23 de Manhattan. El lugar fue inscrito en el Registro Nacional de Lugares Históricos el "1980-04-23", con el número de referencia 80002709.</lex>
+      <lex lang="ca" lid="Id1">Els banys públics Asser Levy, construïts el 1904 en un estil romànic, es troben al carrer 23 (Manhattan). El lloc va ser afegit al Registre Nacional de Llocs Històrics el 23 d'abril de 1980 amb el número de referència 80002709.</lex>
+      <lex lang="ca" lid="Id2">Els banys públics Asser Levy estan ubicats al carrer 23 de Manhattan i tenen un estil arquitectònic neoromànic. Es van construir l'any 1904 i es van afegir al Registre Nacional de Llocs Històrics amb el número de referència 80002709 el 23 d'abril de 1980.</lex>
+      <lex lang="ca" lid="Id3">Els Banys Públics Asser Levy van ser construïts el 1904 en l'estil arquitectònic del Renaixement Romànic, i es troben al carrer 23 de Manhattan. El lloc va ser afegit al Registre Nacional de Llocs Històrics el 23 d'abril de 1980, amb el número de referència 80002709.</lex>
+      <lex lang="en_bt" lid="Id1">The Asser Levy Public Baths, built in 1904 in a Romanesque style, are located on 23rd Street (Manhattan). The site was added to the National Register of Historic Places on April 23, 1980 with reference number 80002709.</lex>
+      <lex lang="en_bt" lid="Id2">The Asser Levy Public Baths are located on 23rd Street in Manhattan and have a Neo-Romanesque architectural style. They were built in 1904 and were added to the National Register of Historic Places with reference number 80002709 on April 23, 1980.</lex>
+      <lex lang="en_bt" lid="Id3">The Asser Levy Public Baths were built in 1904 in the Romanesque Revival architectural style, and are located on 23rd Street in Manhattan. The site was added to the National Register of Historic Places on April 23, 1980, with reference number 80002709.</lex>
+      </entry>
+    <entry category="Building" eid="Id16" shape="(X (X (X) (X) (X (X))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | New_York_City</otriple>
+        <otriple>New_York_City | country | United_States</otriple>
+        <otriple>Manhattan | leaderName | Gale_Brewer</otriple>
+        <otriple>New_York_City | isPartOf | New_York</otriple>
+        <otriple>New_York_City | subdivisionName | Manhattan</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | location | New_York_City</mtriple>
+        <mtriple>New_York_City | country | United_States</mtriple>
+        <mtriple>Manhattan | leader | Gale_Brewer</mtriple>
+        <mtriple>New_York_City | isPartOf | New_York</mtriple>
+        <mtriple>New_York_City | isPartOf | Manhattan</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Baños_públicos_de_Asser_Levy | Ubicación | Nueva_York</striple>
+        <striple>Nueva_York | País | Estados_Unidos</striple>
+        <striple>Manhattan | Líder | Gale_Brewer</striple>
+        <striple>Nueva_York | FormaParteDe | New_York</striple>
+        <striple>Nueva_York | FormaParteDe | Manhattan</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Asser_Levy_Public_Baths | location | New_York_City</bttriple>
+        <bttriple>New_York_City | country | United_States</bttriple>
+        <bttriple>Manhattan | leader | Gale_Brewer</bttriple>
+        <bttriple>New_York_City | isPartOf | New_York</bttriple>
+        <bttriple>New_York_City | isPartOf | Manhattan</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Banys_públics_Asser_Levy | Ubicació | Nova_York</ctriple>
+        <ctriple>Nova_York | País | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Manhattan | Líder | Gale_Brewer</ctriple>
+        <ctriple>Nova_York | ÉsPartDe | Nova_York</ctriple>
+        <ctriple>Nova_York | ÉsPartDe | Manhattan</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The Asser Levy Public Baths are found in New York City, New York, United States. Another part of New York City is Manhattan where Gale Brewer is the leader.</lex>
+      <lex lang="en" lid="Id2">Gale Brewer is the leader of Manhattan which is part of New York City, New York, United States. New York City is the location of Asser Levy Public Baths.</lex>
+      <lex lang="en" lid="Id3">The location of Asser Levy Public Baths are New York City, US.New York City and Manhattan are part of New York. The leader of Manhattan is Gale Brewer.</lex>
+      <lex lang="es" lid="Id1">Los baños públicos Asser Levy se encuentran en la ciudad de Nueva York, Nueva York, Estados Unidos. Otra parte de la ciudad de Nueva York es Manhattan, donde Gale Brewer es la líder.</lex>
+      <lex lang="es" lid="Id2">Gale Brewer es la líder de Manhattan, que forma parte de la ciudad de Nueva York, Nueva York, Estados Unidos. En Nueva York se encuentran los baños públicos Asser Levy.</lex>
+      <lex lang="es" lid="Id3">La ubicación de los baños públicos de Asser Levy es la ciudad de Nueva York, EE. UU. La ciudad de Nueva York y Manhattan son parte de Nueva York. El líder de Manhattan es Gale Brewer.</lex>
+      <lex lang="ca" lid="Id1">Els banys públics Asser Levy es troben a la ciutat de Nova York, Nova York, Estats Units. Una altra part de la ciutat de Nova York és Manhattan on Gale Brewer és el líder.</lex>
+      <lex lang="ca" lid="Id2">Gale Brewer és el líder de Manhattan, que forma part de la ciutat de Nova York, Nova York, Estats Units. La ciutat de Nova York és la ubicació dels Banys Públics Asser Levy.</lex>
+      <lex lang="ca" lid="Id3">La ubicació dels banys públics Asser Levy és la ciutat de Nova York, EUA. La ciutat de Nova York i Manhattan són part de Nova York. El líder de Manhattan és Gale Brewer.</lex>
+      <lex lang="en_bt" lid="Id1">The Asser Levy public baths are located in New York City, New York, United States. Another part of New York City is Manhattan where Gale Brewer is the leader.</lex>
+      <lex lang="en_bt" lid="Id2">Gale Brewer is the leader of Manhattan, which is part of New York City, New York, United States. New York City is the location of the Asser Levy Public Baths.</lex>
+      <lex lang="en_bt" lid="Id3">The location of the Asser Levy Public Baths is New York City, USA. New York City and Manhattan are part of New York. The leader of Manhattan is Gale Brewer.</lex>
+      </entry>
+    <entry category="Building" eid="Id17" shape="(X (X (X (X) (X) (X))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Birmingham | postalCode | B_postcode_area</otriple>
+        <otriple>103_Colmore_Row | architect | John_Madin</otriple>
+        <otriple>John_Madin | birthPlace | Birmingham</otriple>
+        <otriple>Birmingham | governingBody | Birmingham_City_Council</otriple>
+        <otriple>Birmingham | leaderName | Andrew_Mitchell</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Birmingham | postalCode | B_postcode_area</mtriple>
+        <mtriple>103_Colmore_Row | architect | John_Madin</mtriple>
+        <mtriple>John_Madin | birthPlace | Birmingham</mtriple>
+        <mtriple>Birmingham | governingBody | Birmingham_City_Council</mtriple>
+        <mtriple>Birmingham | leader | Andrew_Mitchell</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Birmingham | CódigoPostal | Código_postal_de_la_zona_B</striple>
+        <striple>103_Colmore_Row | Arquitecto | John_Madin</striple>
+        <striple>John_Madin | LugarDeNacimiento | Birmingham</striple>
+        <striple>Birmingham | ÓrganoRector | Ayuntamiento_de_Birmingham</striple>
+        <striple>Birmingham | Líder | Andrew_Mitchell</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Birmingham | postalCode | B_postcode_area</bttriple>
+        <bttriple>103_Colmore_Row | architect | John_Madin</bttriple>
+        <bttriple>John_Madin | birthPlace | Birmingham</bttriple>
+        <bttriple>Birmingham | governingBody | Birmingham_City_Council</bttriple>
+        <bttriple>Birmingham | leader | Andrew_Mitchell</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Birmingham | CòdiPostal | Àrea_de_codi_postal_B</ctriple>
+        <ctriple>103_Colmore_Row | Arquitecte | John_Madin</ctriple>
+        <ctriple>John_Madin | LlocDeNaixement | Birmingham</ctriple>
+        <ctriple>Birmingham | ÒrganDeGovern | Ajuntament_de_Birmingham</ctriple>
+        <ctriple>Birmingham | Líder | Andrew_Mitchell</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">103 Colmore Row was designed by the architect John Madin, who was born in Birmingham, where the postal code is 'B'. Andrew Mitchell is the leader of the city and Birmingham City Council is the governing body.</lex>
+      <lex lang="en" lid="Id2">The City Council is the governing body for Birmingham where Andrew Mitchell is a leader. The city has the B postcode and is the birthplace of the Architect John Madin who designed 103 Colmore Row.</lex>
+      <lex lang="en" lid="Id3">Birmingham is led by Andrew Mitchell and the Birmingham City Council. The town, which has the B postcode, is the birthplace of architect John Madin who designed 103 Colmore Row.</lex>
+      <lex lang="es" lid="Id1">El 103 de Colmore Row fue diseñado por el arquitecto John Madin, nacido en Birmingham, cuyo código postal es la "B". Andrew Mitchell es el líder de la ciudad y el Ayuntamiento de Birmingham es el órgano de gobierno.</lex>
+      <lex lang="es" lid="Id2">El Ayuntamiento es el órgano de gobierno de Birmingham, donde Andrew Mitchell es uno de sus dirigentes. La ciudad tiene el código postal B y es el lugar de nacimiento del arquitecto John Madin, que diseñó el 103 de Colmore Row.</lex>
+      <lex lang="es" lid="Id3">Birmingham está dirigida por Andrew Mitchell y el Ayuntamiento de Birmingham. La ciudad, que tiene el código postal B, es la cuna del arquitecto John Madin, que diseñó el número 103 de Colmore Row.</lex>
+      <lex lang="ca" lid="Id1">103 Colmore Row va ser dissenyat per l'arquitecte John Madin, que va néixer a Birmingham, on el codi postal és 'B'. Andrew Mitchell és el líder de la ciutat i Birmingham City Council és l'òrgan de govern.</lex>
+      <lex lang="ca" lid="Id2">El Consell Municipal és l' òrgan de govern de Birmingham on Andrew Mitchell és un líder. La ciutat té el codi postal B i és el lloc de naixement de l' arquitecte John Madin que va dissenyar el 103 Colmore Row.</lex>
+      <lex lang="ca" lid="Id3">Birmingham està dirigida per Andrew Mitchell i el Consell de la Ciutat de Birmingham. La ciutat, que té el codi postal B, és el lloc de naixement de l'arquitecte John Madin que va dissenyar el 103 Colmore Row.</lex>
+      <lex lang="en_bt" lid="Id1">103 Colmore Row was designed by the architect John Madin, who was born in Birmingham, where the postal code is 'B'. Andrew Mitchell is the leader of the city and Birmingham City Council is the governing body.</lex>
+      <lex lang="en_bt" lid="Id2">The City Council is the governing body of Birmingham where Andrew Mitchell is a leader. The city has the postal code B and is the birthplace of the architect John Madin who designed 103 Colmore Row.</lex>
+      <lex lang="en_bt" lid="Id3">Birmingham is governed by Andrew Mitchell and the Birmingham City Council.The city, which has postal code B, is the birthplace of the architect John Madin who designed 103 Colmore Row.</lex>
+      </entry>
+    <entry category="Building" eid="Id18" shape="(X (X (X) (X (X) (X))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Mulatu_Teshome</otriple>
+        <otriple>Ethiopia | leaderName | Hailemariam_Desalegn</otriple>
+        <otriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+        <otriple>Addis_Ababa | country | Ethiopia</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Hailemariam_Desalegn</otriple>
+        <otriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</otriple>
+        <otriple>Ethiopia | leaderName | Mulatu_Teshome</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+        <otriple>Addis_Ababa | country | Ethiopia</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leader | Mulatu_Teshome</mtriple>
+        <mtriple>Ethiopia | leader | Hailemariam_Desalegn</mtriple>
+        <mtriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
+        <mtriple>Addis_Ababa | country | Ethiopia</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Etiopía | Líder | Mulatu_Teshome</striple>
+        <striple>Etiopía | Líder | Haile_Mariam_Desalegne</striple>
+        <striple>Adís_Abeba | FormaParteDe | Estadio_de_Adís_Abeba</striple>
+        <striple>Ayuntamiento_de_Addis_Abeba | Ubicación | Adís_Abeba</striple>
+        <striple>Adís_Abeba | País | Etiopía</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Ethiopia | leader | Mulatu_Teshome</bttriple>
+        <bttriple>Ethiopia | leader | Hailemariam_Desalegn</bttriple>
+        <bttriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</bttriple>
+        <bttriple>Addis_Ababa_City_Hall | location | Addis_Ababa</bttriple>
+        <bttriple>Addis_Ababa | country | Ethiopia</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Etiòpia | Líder | Mulatu_Teschome</ctriple>
+        <ctriple>Etiòpia | Líder | Hailemariam_Desalegn</ctriple>
+        <ctriple>Addis_Abeba | ÉsPartDe | Estadi_d'Addis_Abeba</ctriple>
+        <ctriple>Ajuntament_d'Addis_Abeba | Ubicació | Addis_Abeba</ctriple>
+        <ctriple>Addis_Abeba | País | Etiòpia</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Hailemariam Desalegn and Mulatu Teshome are leaders within Ethiopia. The Addis Ababa Stadium and the Addis Ababa City Hall are both located within the country in Addis Ababa.</lex>
+      <lex lang="en" lid="Id2">Addis Ababa Stadium and Addis Ababa City Hall are located in Addis Ababa, Ethiopia. The country is led by Mulatu Teshome and Hailemariam Desalegn.</lex>
+      <lex lang="en" lid="Id3">Addis Ababa Stadium and Addis Ababa City Hall are both located in Addis Ababa, Ethiopia. Mulatu Teshome and Hailemariam Desalegn are leaders in the country.</lex>
+      <lex lang="es" lid="Id1">Hailemariam Desalegn y Mulatu Teshome son dirigentes de Etiopía. El Estadio de Addis Abeba y el Ayuntamiento de Addis Abeba se encuentran en Addis Abeba.</lex>
+      <lex lang="es" lid="Id2">El Estadio de Addis Abeba y el Ayuntamiento de Addis Abeba se encuentran en Addis Abeba (Etiopía). El país está dirigido por Mulatu Teshome y Hailemariam Desalegn.</lex>
+      <lex lang="es" lid="Id3">El Estadio de Addis Abeba y el Ayuntamiento de Addis Abeba se encuentran en Addis Abeba (Etiopía). Mulatu Teshome y Hailemariam Desalegn son dirigentes del país.</lex>
+      <lex lang="ca" lid="Id1">Hailemariam Desalegn i Mulatu Teshome són líders d'Etiòpia, i l'Estadi d'Addis Abeba i l'Ajuntament d'Addis Abeba es troben a Addis Abeba.</lex>
+      <lex lang="ca" lid="Id2">L'Estadi d'Addis Abeba i l'Ajuntament d'Addis Abeba es troben a Addis Abeba, Etiòpia. El país està dirigit per Mulatu Teshome i Hailemariam Desalegn.</lex>
+      <lex lang="ca" lid="Id3">L'Estadi d'Addis Abeba i l'Ajuntament d'Addis Abeba es troben a Addis Abeba, Etiòpia. Mulatu Teshome i Hailemariam Desalegn són líders del país.</lex>
+      <lex lang="en_bt" lid="Id1">Hailemariam Desalegn and Mulatu Teshome are leaders of Ethiopia, and the Addis Ababa Stadium and Addis Ababa City Hall are located in Addis Ababa.</lex>
+      <lex lang="en_bt" lid="Id2">The Addis Ababa Stadium and Addis Ababa City Hall are located in Addis Ababa, Ethiopia.The country is ruled by Mulatu Teshome and Hailemariam Desalegn.</lex>
+      <lex lang="en_bt" lid="Id3">The Addis Ababa Stadium and Addis Ababa City Hall are located in Addis Ababa, Ethiopia. Mulatu Teshome and Hailemariam Desalegn are leaders of the country.</lex>
+      </entry>
+    <entry category="Building" eid="Id19" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leaderName | John_Roberts</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | John_Roberts</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Estados_Unidos | GrupoÉtnico | Afroestadounidense</striple>
+        <striple>Estados_Unidos | Idioma | inglés</striple>
+        <striple>Estados_Unidos | TítuloDeLíder | presidente_de_los_Estados_Unidos</striple>
+        <striple>Estados_Unidos | Líder | John_Roberts</striple>
+        <striple>Avenida_Delaware_250 | Ubicación | Estados_Unidos</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>United_States | ethnicGroup | African_Americans</bttriple>
+        <bttriple>United_States | language | English_language</bttriple>
+        <bttriple>United_States | leaderTitle | President_of_the_United_States</bttriple>
+        <bttriple>United_States | leader | John_Roberts</bttriple>
+        <bttriple>250_Delaware_Avenue | location | United_States</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Estats_Units_d'Amèrica | GrupÈtnic | negres_estatunidencs</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | Llengua | Llengua_anglesa</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | LíderTítol | president_dels_Estats_Units</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | Líder | John_Roberts</ctriple>
+        <ctriple>250_Delaware_Avenue | Ubicació | Estats_Units_d'Amèrica</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The President is the primary leader of English language speaking United States, (includes leader John Roberts), has the ethnic African American group and is home to 250 Delaware Avenue.</lex>
+      <lex lang="en" lid="Id2">250 Delaware Avenue is located in the United States, where the leader is known as the President of the United States, supported by the United States of America`s Chief Justice, John Roberts. The main language is English, and one of the ethnic groups is the African Americans.</lex>
+      <lex lang="es" lid="Id1">El Presidente es el principal líder de habla Inglés Estados Unidos, (incluye el líder John Roberts), tiene el grupo étnico afroamericano y es el hogar de 250 Delaware Avenue.</lex>
+      <lex lang="es" lid="Id2">El 250 de Delaware Avenue se encuentra en Estados Unidos, donde el líder es el Presidente de Estados Unidos, apoyado por el Presidente del Tribunal Supremo de Estados Unidos, John Roberts. El idioma principal es el inglés, y uno de los grupos étnicos es el de los afroamericanos.</lex>
+      <lex lang="ca" lid="Id1">El president és el líder principal dels Estats Units de parla anglesa, (inclou el líder John Roberts), té el grup ètnic afroamericà i és la llar de 250 Delaware Avenue.</lex>
+      <lex lang="ca" lid="Id2">El 250 Delaware Avenue es troba als Estats Units, on el líder és conegut com el President dels Estats Units, amb el suport del President del Tribunal Suprem dels Estats Units d'Amèrica, John Roberts.</lex>
+      <lex lang="en_bt" lid="Id1">The president is the principal leader of the English-speaking United States, (including leader John Roberts), has the African American ethnic group and is home to 250 Delaware Avenue.</lex>
+      <lex lang="en_bt" lid="Id2">250 Delaware Avenue is located in the United States, where the leader is known as the President of the United States, with the support of the Chief Justice of the United States of America, John Roberts.</lex>
+      </entry>
+    <entry category="Building" eid="Id20" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leaderName | Joe_Biden</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+        <otriple>United_States | ethnicGroup | White_Americans</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | Joe_Biden</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | White_Americans</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Estados_Unidos | Idioma | inglés</striple>
+        <striple>Estados_Unidos | TítuloDeLíder | presidente_de_los_Estados_Unidos</striple>
+        <striple>Estados_Unidos | Líder | Joe_Biden</striple>
+        <striple>Avenida_Delaware_250 | Ubicación | Estados_Unidos</striple>
+        <striple>Estados_Unidos | GrupoÉtnico | blanco_estadounidense</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>United_States | language | English_language</bttriple>
+        <bttriple>United_States | leaderTitle | President_of_the_United_States</bttriple>
+        <bttriple>United_States | leader | Joe_Biden</bttriple>
+        <bttriple>250_Delaware_Avenue | location | United_States</bttriple>
+        <bttriple>United_States | ethnicGroup | White_Americans</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Estats_Units_d'Amèrica | Llengua | Llengua_anglesa</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | LíderTítol | president_dels_Estats_Units</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | Líder | Joseph_Robinette_Biden,_Jr.</ctriple>
+        <ctriple>250_Delaware_Avenue | Ubicació | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | GrupÈtnic | blancs_estatunidencs</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Joe Biden is a leader of the United States which is led by a President. The White Americans are one of the ethnic groups of the country which uses the English language and is where 250 Delaware Avenue is located.</lex>
+      <lex lang="en" lid="Id2">250 Delaware Avenue is located in the United States, where English is spoken. The President of the United States is the main leader, alongside Joe Biden, and an ethnic group in the country is White Americans.</lex>
+      <lex lang="es" lid="Id1">Joe Biden es un dirigente de los Estados Unidos que está dirigido por un Presidente. Los americanos blancos son uno de los grupos étnicos del país que utiliza la lengua inglesa y es donde se encuentra el 250 de Delaware Avenue.</lex>
+      <lex lang="es" lid="Id2">250 Delaware Avenue se encuentra en Estados Unidos, donde se habla inglés. El Presidente de Estados Unidos es el líder principal, junto a Joe Biden, y un grupo étnico del país es el de los estadounidenses blancos.</lex>
+      <lex lang="ca" lid="Id1">Joe Biden és un líder dels Estats Units que està dirigit per un president. Els americans blancs són un dels grups ètnics del país que utilitza la llengua anglesa i és on es troba el 250 Delaware Avenue.</lex>
+      <lex lang="ca" lid="Id2">El 250 Delaware Avenue es troba als Estats Units, on es parla anglès. El president dels Estats Units és el líder principal, juntament amb Joe Biden, i un grup ètnic del país són els americans blancs.</lex>
+      <lex lang="en_bt" lid="Id1">Joe Biden is a leader of the United States who is led by a president. White Americans are one of the country's English-speaking ethnic groups and are located at 250 Delaware Avenue.</lex>
+      <lex lang="en_bt" lid="Id2">250 Delaware Avenue is located in the English-speaking United States. The President of the United States is the main leader, along with Joe Biden, and one of the country's ethnic groups is White Americans.</lex>
+      </entry>
+    </entries>
+  </benchmark>

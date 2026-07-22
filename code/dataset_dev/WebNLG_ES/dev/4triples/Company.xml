@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Company" eid="Id1" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>AmeriGas | locationCity | King_of_Prussia,_Pennsylvania</otriple>
+        <otriple>King_of_Prussia,_Pennsylvania | timeZone | North_American_Eastern_Time_Zone</otriple>
+        <otriple>AmeriGas | locationCountry | United_States</otriple>
+        <otriple>United_States | areaTotal | 9833520000000.0</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AmeriGas | city | King_of_Prussia,_Pennsylvania</mtriple>
+        <mtriple>King_of_Prussia,_Pennsylvania | timeZone | North_American_Eastern_Time_Zone</mtriple>
+        <mtriple>AmeriGas | country | United_States</mtriple>
+        <mtriple>United_States | areaTotal | 9833516.63  (square kilometres)</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>AmeriGas | Ciudad | King_of_Prussia,_Pennsylvania</striple><striple>King_of_Prussia,_Pennsylvania | ZonaHoraria | Zona_horaria_del_este_de_Norteamérica</striple><striple>AmeriGas | País | Estados_Unidos</striple><striple>Estados_Unidos | ÁreaTotal | 9833516,63_(kilómetros_cuadrados)</striple></spanishtripleset><lex lang="en" lid="Id1">AmeriGas is located in King of Prussia, Pennsylvania which is in the North American Eastern Time Zone. AmeriGas is working in the United States which has a total area of 9,833,516.63 square kilometers.</lex>
+      <lex lang="en" lid="Id2">Located in King of Prussia, Pennsylvania, AmeriGas serves customers in the United States, which covers a total area of 9833516.63 square kilometers. King of Prussia is in the North American Eastern time zone.</lex>
+      <lex lang="en" lid="Id3">AmeriGas, located in the city of King of Prussia, Pennsylvania, is in the North American Eastern Time Zone of the United States. The United States has a total area of 9833516.63 square kilometres.</lex>
+    <lex lang="es" lid="Id1">AmeriGas tiene su sede en King of Prussia, Pennsylvania, que está en la zona horaria del este de Norteamérica. AmeriGas trabaja en Estados Unidos, que tiene una superficie total de 9.833.516,63 kilómetros cuadrados.</lex><lex lang="es" lid="Id2">Con sede en King of Prussia, Pensilvania, AmeriGas atiende a clientes de Estados Unidos, que abarca una superficie total de 9833516,63 kilómetros cuadrados. King of Prussia se encuentra en la zona horaria del este de Norteamérica.</lex><lex lang="es" lid="Id3">AmeriGas, situada en la ciudad de King of Prussia, Pennsylvania, se encuentra en la zona horaria del este de Estados Unidos. Estados Unidos tiene una superficie total de 9833516,63 kilómetros cuadrados.</lex></entry>
+    <entry category="Company" eid="Id2" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>AmeriGas | locationCity | King_of_Prussia,_Pennsylvania</otriple>
+        <otriple>United_States | areaTotal | 9833520000000.0</otriple>
+        <otriple>United_States | foundingDate | 1776-07-04</otriple>
+        <otriple>AmeriGas | locationCountry | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AmeriGas | city | King_of_Prussia,_Pennsylvania</mtriple>
+        <mtriple>United_States | areaTotal | 9833516.63  (square kilometres)</mtriple>
+        <mtriple>United_States | foundingDate | 1776-07-04</mtriple>
+        <mtriple>AmeriGas | country | United_States</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>AmeriGas | Ciudad | King_of_Prussia,_Pennsylvania</striple><striple>Estados_Unidos | ÁreaTotal | 9833516,63_(kilómetros_cuadrados)</striple><striple>Estados_Unidos | FechaDeFundación | 04-07-1776</striple><striple>AmeriGas | País | Estados_Unidos</striple></spanishtripleset><lex lang="en" lid="Id1">The United States, founded on July 4, 1776 covers a total area of 9833516.63 (square kilometres). AmeriGas works in the United States while located at King of Prussia, Pennsylvania.</lex>
+      <lex lang="en" lid="Id2">King of Prussia, Pennsylvania is the base of the American company of AmeriGas. The United States was founded on July 4, 1776 and has a total area of 9833516.63 (square kilometres).</lex>
+      <lex lang="en" lid="Id3">AmeriGas, based in King of Prussia, Pennsylvania, United States. The US was founded on July 4th, 1776 and has a total area of 9,833,516.63 square kilometers.</lex>
+    <lex lang="es" lid="Id1">Estados Unidos, fundado el 04-07-1776, tiene una superficie total de 9833516,63 (kilómetros cuadrados). AmeriGas trabaja en Estados Unidos desde King of Prussia, Pensilvania.</lex><lex lang="es" lid="Id2">King of Prussia (Pensilvania) es la sede de la empresa estadounidense AmeriGas. Estados Unidos se fundó el 04-07-1776 y tiene una superficie total de 9833516,63 (kilómetros cuadrados).</lex><lex lang="es" lid="Id3">AmeriGas, con sede en King of Prussia, Pensilvania, Estados Unidos. Estados Unidos se fundó el 04-07-1776 y tiene una superficie total de 9.833.516,63 kilómetros cuadrados.</lex></entry>
+    <entry category="Company" eid="Id3" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Chinabank | foundingYear | 1920-01-01</otriple>
+        <otriple>Chinabank | numberOfEmployees | 5594</otriple>
+        <otriple>Chinabank | netIncome | 1.51E10</otriple>
+        <otriple>Chinabank | numberOfLocations | 295</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Chinabank | foundingDate | 1920-08-16</otriple>
+        <otriple>Chinabank | numberOfEmployees | 5594</otriple>
+        <otriple>Chinabank | netIncome | 1.51E10</otriple>
+        <otriple>Chinabank | numberOfLocations | 295</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Chinabank | foundingDate | 1920-08-16</mtriple>
+        <mtriple>Chinabank | numberOfEmployees | 5594</mtriple>
+        <mtriple>Chinabank | netIncome | 15100000000</mtriple>
+        <mtriple>Chinabank | numberOfLocations | 295</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Chinabank | FechaDeFundación | 16-08-1920</striple><striple>Chinabank | NúmeroDeEmpleados | 5594</striple><striple>Chinabank | IngresosNetos | 15100000000</striple><striple>Chinabank | NúmeroDeUbicaciones | 295</striple></spanishtripleset><lex lang="en" lid="Id1">Chinabank was founded on August 16th 1920. It has 295 banking center with 5594 worker and a net income of 15,100,000,000.</lex>
+      <lex lang="en" lid="Id2">Chinabank was founded on 16 August, 1920. It has 295 locations, 5594 employees and a net income of 15,100,000,000.</lex>
+      <lex lang="en" lid="Id3">Chinabank (founded 1920-08-16) employs 5594 people with 295 branch locations, earning net income of 15100000000 currently.</lex>
+    <lex lang="es" lid="Id1">Chinabank se fundó el 16-08-1920. Tiene 295 centros bancarios con 5594 trabajadores y unos ingresos netos de 15.100.000.000.</lex><lex lang="es" lid="Id2">Chinabank se fundó el 16-08-1920. Cuenta con 295 sucursales, 5.594 empleados y unos ingresos netos de 15.100.000.000.</lex><lex lang="es" lid="Id3">Chinabank (fundado en 16-08-1920) emplea a 5.594 personas con 295 sucursales y obtiene unos ingresos netos de 15100000000 en la actualidad.</lex></entry>
+    <entry category="Company" eid="Id4" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>GMA_New_Media | location | Quezon_City</otriple>
+        <otriple>GMA_New_Media | industry | Entertainment</otriple>
+        <otriple>GMA_New_Media | product | World_Wide_Web</otriple>
+        <otriple>GMA_New_Media | subsidiary | Philippine_Entertainment_Portal</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>GMA_New_Media | location | Quezon_City</mtriple>
+        <mtriple>GMA_New_Media | industry | Entertainment</mtriple>
+        <mtriple>GMA_New_Media | product | World_Wide_Web</mtriple>
+        <mtriple>GMA_New_Media | subsidiary | Philippine_Entertainment_Portal</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>GMA_Nuevos_Medios | Ubicación | Ciudad_Quezon</striple><striple>GMA_Nuevos_Medios | Industria | entretenimiento</striple><striple>GMA_Nuevos_Medios | Producto | World_Wide_Web</striple><striple>GMA_Nuevos_Medios | Filial | Portal_filipino_del_entretenimiento</striple></spanishtripleset><lex lang="en" lid="Id1">The entertainment company, GMA New Media, is based in Quezon City. It, and its subsidiary, Philippine Entertainment Portal, offer World Wide Web services.</lex>
+      <lex lang="en" lid="Id2">GMA New Media, located in the city of Quezon, produces web services and develops applications for the entertainment industry. Philippine Entertainment Portal, Inc. is a subsidiary of GMA New Media.</lex>
+      <lex lang="en" lid="Id3">GMA New Media is an entertainment industry maker of websites headquartered in Quezon City. Philippine Entertainment Portal is a GMA New Media subsidiary.</lex>
+    <lex lang="es" lid="Id1">La empresa de entretenimiento GMA New Media tiene su sede en Quezon City. Tanto ella como su filial, Philippine Entertainment Portal, ofrecen servicios de World Wide Web.</lex><lex lang="es" lid="Id2">GMA New Media, con sede en la ciudad de Quezón, produce servicios web y desarrolla aplicaciones para la industria del entretenimiento. Philippine Entertainment Portal, Inc. es una filial de GMA New Media.</lex><lex lang="es" lid="Id3">GMA New Media es un fabricante de sitios web del sector del entretenimiento con sede en Quezon City. Philippine Entertainment Portal es una filial de GMA New Media.</lex></entry>
+    <entry category="Company" eid="Id5" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>GMA_New_Media | product | Mobile_Applications</otriple>
+        <otriple>GMA_New_Media | keyPerson | Felipe_Gozon</otriple>
+        <otriple>GMA_New_Media | location | GMA_Network_Center</otriple>
+        <otriple>GMA_New_Media | location | Philippines</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>GMA_New_Media | product | Mobile_Applications</mtriple>
+        <mtriple>GMA_New_Media | keyPerson | Felipe_Gozon</mtriple>
+        <mtriple>GMA_New_Media | location | GMA_Network_Center</mtriple>
+        <mtriple>GMA_New_Media | location | Philippines</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>GMA_Nuevos_Medios | Producto | Aplicaciones_móviles</striple><striple>GMA_Nuevos_Medios | PersonaClave | Felipe_Gozon</striple><striple>GMA_Nuevos_Medios | Ubicación | Centro_de_la_red_GMA</striple><striple>GMA_Nuevos_Medios | Ubicación | Filipinas</striple></spanishtripleset><lex lang="en" lid="Id1">GMA New Media makes mobile apps and is located in the GMA Network Center. Felipe Gozon is the key person of GMA New Media, which is located in the Philippines.</lex>
+      <lex lang="en" lid="Id2">The Philippine mobile application company, GMA New Media, is based in the GMA Network Center. One of GMA New Media's leaders is Felipe Gozon.</lex>
+      <lex lang="en" lid="Id3">Felipe Gozon is a key person at GMA New Media, a company located in the GMA Network Center in the Philippines with product offerings that include mobile applications.</lex>
+    <lex lang="es" lid="Id1">GMA New Media fabrica aplicaciones para móviles y está ubicada en el GMA Network Center. Felipe Gozón es la persona clave de GMA New Media, que se encuentra en Filipinas.</lex><lex lang="es" lid="Id2">La empresa filipina de aplicaciones móviles GMA New Media tiene su sede en el GMA Network Center. Uno de los dirigentes de GMA New Media es Felipe Gozón.</lex><lex lang="es" lid="Id3">Felipe Gozón es una persona clave en GMA New Media, una empresa ubicada en el GMA Network Center de Filipinas con una oferta de productos que incluye aplicaciones móviles.</lex></entry>
+    <entry category="Company" eid="Id6" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Hypermarcas | industry | Pharmaceuticals</otriple>
+        <otriple>Hypermarcas | keyPerson | CEO</otriple>
+        <otriple>Hypermarcas | foundingYear | 2001-01-01</otriple>
+        <otriple>Hypermarcas | type | S.A._(corporation)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Hypermarcas | industry | Pharmaceuticals</mtriple>
+        <mtriple>Hypermarcas | keyPerson | CEO</mtriple>
+        <mtriple>Hypermarcas | foundingDate | 2001-01-01</mtriple>
+        <mtriple>Hypermarcas | type | S.A._(corporation)</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Hipermarcas | Industria | Productos_farmacéuticos</striple><striple>Hipermarcas | PersonaClave | DIRECTOR_GENERAL</striple><striple>Hipermarcas | FechaDeFundación | 01-01-2001</striple><striple>Hipermarcas | Tipo | sociedad_anónima</striple></spanishtripleset><lex lang="en" lid="Id1">Hypermarcas is a type of S.A (corporation) that is managed by its CEO. On January 1, 2001 Hypermarcas began its forage into the pharmaceuticals industry.</lex>
+      <lex lang="en" lid="Id2">The CEO is the key person in Hypermarcas, a type of S.A. corporation in the pharmaceutical industry, founded on 2001-01-01.</lex>
+      <lex lang="en" lid="Id3">Hypermarcas is a pharmaceutical S.A. corporation founded on January 1, 2001 with a CEO serving as its key person.</lex>
+    <lex lang="es" lid="Id1">Hypermarcas es un tipo de S.A. (sociedad anónima) gestionada por su director general. El 1 de enero de 2001 Hypermarcas inició su andadura en la industria farmacéutica.</lex><lex lang="es" lid="Id2">El CEO es la persona clave en Hypermarcas, un tipo de sociedad anónima S.A. en la industria farmacéutica, fundada el 01-01-2001.</lex><lex lang="es" lid="Id3">Hypermarcas es una sociedad anónima farmacéutica fundada el 1 de enero de 2001 con un director general como persona clave.</lex></entry>
+    <entry category="Company" eid="Id7" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Hypermarcas | location | São_Paulo</otriple>
+        <otriple>Brazil | leaderTitle | "President of the Supreme Federal Court"</otriple>
+        <otriple>Hypermarcas | location | Brazil</otriple>
+        <otriple>Hypermarcas | product | Drugs</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Hypermarcas | location | São_Paulo</mtriple>
+        <mtriple>Brazil | leaderTitle | "President of the Supreme Federal Court"</mtriple>
+        <mtriple>Hypermarcas | location | Brazil</mtriple>
+        <mtriple>Hypermarcas | product | Drugs</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Hipermarcas | Ubicación | São_Paulo</striple><striple>Brasil | TítuloDeLíder | Anexo:Presidentes_del_Supremo_Tribunal_Federal</striple><striple>Hipermarcas | Ubicación | Brasil</striple><striple>Hipermarcas | Producto | Drogas</striple></spanishtripleset><lex lang="en" lid="Id1">Hypermarcas which produces pharmaceutical drugs, is location in Sao Paulo, Brazil. President of the Supreme Federal Court is one of the leaders in Brazil.</lex>
+      <lex lang="en" lid="Id2">Sao Paulo, Brazil is the location of Hypermarcas. This drug company is under the rule of the President of the Supreme Federal Court (title of Brazil's leader).</lex>
+      <lex lang="en" lid="Id3">Hypermarcas is located in Sao Paulo, Brazil. Their main product is drugs, and their leader has the title of President of the Supreme Federal Court.</lex>
+    <lex lang="es" lid="Id1">Hypermarcas que produce medicamentos farmacéuticos, se encuentra en Sao Paulo, Brasil. El Presidente del Supremo Tribunal Federal es uno de los líderes de Brasil.</lex><lex lang="es" lid="Id2">Sao Paulo, Brasil, es la sede de Hypermarcas. Esta empresa farmacéutica está bajo el gobierno del Presidente del Supremo Tribunal Federal (título del líder de Brasil).</lex><lex lang="es" lid="Id3">Hypermarcas se encuentra en Sao Paulo, Brasil. Su principal producto son los medicamentos, y su líder tiene el título de Presidente del Supremo Tribunal Federal.</lex></entry>
+    <entry category="Company" eid="Id8" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Hypermarcas | numberOfEmployees | 10252</otriple>
+        <otriple>Hypermarcas | product | Healthcare</otriple>
+        <otriple>Hypermarcas | location | São_Paulo</otriple>
+        <otriple>Hypermarcas | revenue | 1.8E9</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Hypermarcas | numberOfEmployees | 10252</mtriple>
+        <mtriple>Hypermarcas | product | Healthcare</mtriple>
+        <mtriple>Hypermarcas | location | São_Paulo</mtriple>
+        <mtriple>Hypermarcas | revenue | 1800000000</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Hipermarcas | NúmeroDeEmpleados | 10252</striple><striple>Hipermarcas | Producto | Sanidad</striple><striple>Hipermarcas | Ubicación | São_Paulo</striple><striple>Hipermarcas | Ingresos | 1800000000</striple></spanishtripleset><lex lang="en" lid="Id1">Hypermarcas is located in Sao Paulo and has 10,252 employees. They make healthcare products and their revenue is $1,800,000,000.</lex>
+      <lex lang="en" lid="Id2">Located in São Paulo, Hypermarcas has 10252 employees, and produces healthcare products. Hypermarcas makes $1,800,000,000 a year.</lex>
+      <lex lang="en" lid="Id3">Hypermarcas, which as 10252 employees and earns 1800000000 yearly selling healthcare products, is located in Sao Paulo.</lex>
+    <lex lang="es" lid="Id1">Hypermarcas tiene su sede en Sao Paulo y cuenta con 10.252 empleados. Fabrican productos sanitarios y sus ingresos ascienden a 1.800.000.000 de dólares.</lex><lex lang="es" lid="Id2">Ubicada en São Paulo, Hypermarcas tiene 10252 empleados y produce productos de salud. Hypermarcas gana 1.800.000.000 de dólares al año.</lex><lex lang="es" lid="Id3">Hypermarcas, que cuenta con 10252 empleados y gana 1800000000 al año vendiendo productos sanitarios, está ubicada en Sao Paulo.</lex></entry>
+  </entries>
+</benchmark>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Monument" eid="Id1" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | west | Franklin_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southwest | Frederick_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsWest | Franklin_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSouthwest | Frederick_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Condado_de_Adams | TieneASuOeste | Condado_de_Franklin,_Pennsylvania</striple><striple>Condado_de_Adams | TieneASuSuroeste | Condado_de_Frederick</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Ubicación | Condado_de_Adams</striple></spanishtripleset><lex lang="en" lid="Id1">Adams County, Pennsylvania is the location of the 11th Mississippi Infantry monument. Franklin County Pennsylvania is to the west and Frederick County to the south west.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry Monument is located in Adams County Pennsylvania, between Franklin County to the west and Frederick County to the southwest.</lex>
+    <lex lang="es" lid="Id1">En el condado de Adams, Pensilvania, se encuentra el monumento a la 11ª Infantería del Mississippi. El condado de Franklin, Pensilvania, está al oeste y el condado de Frederick, al suroeste.</lex><lex lang="es" lid="Id2">El monumento a la 11ª Infantería del Mississippi se encuentra en el condado de Adams, en Pensilvania, entre los condados de Franklin, al oeste, y Frederick, al suroeste.</lex></entry>
+    <entry category="Monument" eid="Id2" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Azerbaijan | leader | Artur_Rasizade</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | leader | Artur_Rasizade</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Azerbaiyán | Líder | Artur_Rasizade</striple><striple>Monumento_a_los_mártires_turcos_de_Bakú | DedicadoA | Soldados_del_ejército_otomano_muertos_en_la_batalla_de_Bakú</striple><striple>Monumento_a_los_mártires_turcos_de_Bakú | Ubicación | Azerbaiyán</striple></spanishtripleset><lex lang="en" lid="Id1">The Baku Turkish Martyrs' memorial which is dedicated to the soldiers of the Ottoman army who were killed in the Battle of Baku is located in Azerbaijan. At present Artur Rasizade is the leader of the country.</lex>
+    <lex lang="es" lid="Id1">El monumento a los mártires turcos de Bakú, dedicado a los soldados del ejército otomano muertos en la batalla de Bakú, se encuentra en Azerbaiyán. En la actualidad, Artur Rasizade es el líder del país.</lex></entry>
+    <entry category="Monument" eid="Id3" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Monumento_a_los_mártires_turcos_de_Bakú | DedicadoA | Soldados_del_ejército_otomano_muertos_en_la_batalla_de_Bakú</striple><striple>Monumento_a_los_mártires_turcos_de_Bakú | Ubicación | Azerbaiyán</striple><striple>Monumento_a_los_mártires_turcos_de_Bakú | Diseñador | Hüseyin_Bütüner_y_Hilmi_Güner</striple></spanishtripleset><lex lang="en" lid="Id1">The Baku Turkish Martyrs Memorial in Azerbaijan was designed by Hüseyin Bütüner and Hilmi Güner and is dedicated to Ottoman Army soldiers killed in the Battle of Baku.</lex>
+      <lex lang="en" lid="Id2">The Baku Turkish Martyrs' Memorial in Azerbaijan was designed by Hüseyin Bütüner and Hilmi Güner and is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku.</lex>
+      <lex lang="en" lid="Id3">The Baku Turkish Martyrs' Memorial in Azerbaijan, designed by Hüseyin Bütüner and Hilmi Güner, is dedicated to the Ottoman Army soldiers killed in the Battle of Baku.</lex>
+    <lex lang="es" lid="Id1">El Monumento a los Mártires Turcos de Bakú, en Azerbaiyán, fue diseñado por Hüseyin Bütüner e Hilmi Güner y está dedicado a los soldados del ejército otomano muertos en la Batalla de Bakú.</lex><lex lang="es" lid="Id2">El monumento a los mártires turcos de Bakú, en Azerbaiyán, fue diseñado por Hüseyin Bütüner e Hilmi Güner y está dedicado a los soldados del ejército otomano muertos en la batalla de Bakú.</lex><lex lang="es" lid="Id3">El monumento a los mártires turcos de Bakú, en Azerbaiyán, diseñado por Hüseyin Bütüner y Hilmi Güner, está dedicado a los soldados del ejército otomano muertos en la batalla de Bakú.</lex></entry>
+    <entry category="Monument" eid="Id4" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Azerbaijan | leaderName | Artur_Rasizade</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Azerbaijan | leader | Artur_Rasizade</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Monumento_a_los_mártires_turcos_de_Bakú | Ubicación | Azerbaiyán</striple><striple>Azerbaiyán | Líder | Artur_Rasizade</striple><striple>Monumento_a_los_mártires_turcos_de_Bakú | Diseñador | Hüseyin_Bütüner_y_Hilmi_Güner</striple></spanishtripleset><lex lang="en" lid="Id1">Azerbaijan, where the leader is Artur Rasizade, is the location of the Baku Turkish Martyrs Memorial. The memorial was designed by Huseyin Butuner and Hilmi Guner.</lex>
+      <lex lang="en" lid="Id2">The Baku Turkish Martyrs' Memorial, designed by Huseyin Butuner and Hilmi Guner, is located in Azerbaijan, where the leader is Artur Rasizade.</lex>
+    <lex lang="es" lid="Id1">En Azerbaiyán, cuyo líder es Artur Rasizade, se encuentra el Monumento a los Mártires Turcos de Bakú. El monumento fue diseñado por Huseyin Butuner y Hilmi Guner.</lex><lex lang="es" lid="Id2">El Monumento a los Mártires Turcos de Bakú, diseñado por Huseyin Butuner e Hilmi Guner, se encuentra en Azerbaiyán, donde el responsable es Artur Rasizade.</lex></entry>
+    <entry category="Monument" eid="Id5" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | nativeName | "Türk Şehitleri Anıtı"@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | nativeName | "Türk Şehitleri Anıtı"</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Monumento_a_los_mártires_turcos_de_Bakú | Ubicación | Azerbaiyán</striple><striple>Monumento_a_los_mártires_turcos_de_Bakú | NombreNativo | Türk_Şehitleri_Anıtı</striple><striple>Monumento_a_los_mártires_turcos_de_Bakú | Diseñador | Hüseyin_Bütüner_y_Hilmi_Güner</striple></spanishtripleset><lex lang="en" lid="Id1">The Baku Turkish Martyrs' Memorial was designed by Huseyin Butuner and Hilmi Guner, and is located in Azerbaijan, where it is called Turk Sehitleri Aniti.</lex>
+    <lex lang="es" lid="Id1">El Monumento a los Mártires Turcos de Bakú fue diseñado por Huseyin Butuner e Hilmi Guner, y se encuentra en Azerbaiyán, donde se llama Turk Sehitleri Aniti.</lex></entry>
+  </entries>
+</benchmark>

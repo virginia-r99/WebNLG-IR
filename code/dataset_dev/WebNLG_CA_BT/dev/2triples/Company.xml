@@ -1,0 +1,379 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Company" eid="Id1" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>AmeriGas | locationCity | King_of_Prussia,_Pennsylvania</otriple>
+        <otriple>AmeriGas | industry | Energy_industry</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AmeriGas | city | King_of_Prussia,_Pennsylvania</mtriple>
+        <mtriple>AmeriGas | industry | Energy_industry</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>AmeriGas | Ciudad | King_of_Prussia,_Pennsylvania</striple>
+        <striple>AmeriGas | Industria | industria_de_la_energía</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>AmeriGas | city | King_of_Prussia,_Pennsylvania</bttriple>
+        <bttriple>AmeriGas | industry | Energy_industry</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>AmeriGas | Ciutat | Rei_de_Prússia,_Pensilvània</ctriple>
+        <ctriple>AmeriGas | Indústria | indústria_energètica</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Located in King of Prussia, Pennsylvania; Amerigas is in the energy industry.</lex>
+      <lex lang="en" lid="Id2">AmeriGas is an energy company in King of Prussia, Pennsylvania.</lex>
+      <lex lang="en" lid="Id3">AmeriGas is an energy company and is located in King of Prussia, Pennsylvania.</lex>
+      <lex lang="es" lid="Id1">Ubicada en King of Prussia, Pensilvania, Amerigas se dedica a la industria energética.</lex>
+      <lex lang="es" lid="Id2">AmeriGas es una empresa energética de King of Prussia, Pensilvania.</lex>
+      <lex lang="es" lid="Id3">AmeriGas es una empresa energética con sede en King of Prussia, Pensilvania.</lex>
+      <lex lang="ca" lid="Id1">Situada a King of Prussia, Pensilvània; Amerigas està en la indústria energètica.</lex>
+      <lex lang="ca" lid="Id2">AmeriGas és una empresa d'energia a King of Prussia, Pennsilvània.</lex>
+      <lex lang="ca" lid="Id3">AmeriGas és una empresa d'energia i es troba a King of Prussia, Pennsilvània.</lex>
+      <lex lang="en_bt" lid="Id1">Located in King of Prussia, Pennsylvania; Amerigas is in the energy industry.</lex>
+      <lex lang="en_bt" lid="Id2">AmeriGas is an energy company in King of Prussia, Pennsylvania.</lex>
+      <lex lang="en_bt" lid="Id3">AmeriGas is an energy company located in King of Prussia, Pennsylvania.</lex>
+      </entry>
+    <entry category="Company" eid="Id2" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>AmeriGas | regionServed | United_States</otriple>
+        <otriple>AmeriGas | industry | Energy_industry</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AmeriGas | regionServed | United_States</mtriple>
+        <mtriple>AmeriGas | industry | Energy_industry</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>AmeriGas | RegiónAtendida | Estados_Unidos</striple>
+        <striple>AmeriGas | Industria | industria_de_la_energía</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>AmeriGas | regionServed | United_States</bttriple>
+        <bttriple>AmeriGas | industry | Energy_industry</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>AmeriGas | RegióServida | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>AmeriGas | Indústria | indústria_energètica</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">AmeriGas is a company in the energy industry, and they serve all regions of the United States.</lex>
+      <lex lang="en" lid="Id2">AmeriGas is in the energy business and is located in the United States where its services are provided.</lex>
+      <lex lang="en" lid="Id3">AmeriGas's industry is classified as the energy industry. They serve the United States.</lex>
+      <lex lang="es" lid="Id1">AmeriGas es una empresa del sector energético que presta servicio en todas las regiones de Estados Unidos.</lex>
+      <lex lang="es" lid="Id2">AmeriGas se dedica al negocio de la energía y tiene su sede en Estados Unidos, donde presta sus servicios.</lex>
+      <lex lang="es" lid="Id3">La industria de AmeriGas está clasificada como industria energética. Prestan servicio en Estados Unidos.</lex>
+      <lex lang="ca" lid="Id1">AmeriGas és una empresa de la indústria energètica, i serveixen a totes les regions dels Estats Units.</lex>
+      <lex lang="ca" lid="Id2">AmeriGas està en el negoci de l'energia i està ubicada als Estats Units on es presten els seus serveis.</lex>
+      <lex lang="ca" lid="Id3">La indústria d'AmeriGas està classificada com a indústria energètica, serveixen als Estats Units.</lex>
+      <lex lang="en_bt" lid="Id1">AmeriGas is a company in the energy industry, and they serve all regions of the United States.</lex>
+      <lex lang="en_bt" lid="Id2">AmeriGas is in the energy business and is located in the United States where it provides its services.</lex>
+      <lex lang="en_bt" lid="Id3">AmeriGas's industry is classified as an energy industry, they serve the United States.</lex>
+      </entry>
+    <entry category="Company" eid="Id3" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Chinabank | service | Banking</otriple>
+        <otriple>Chinabank | netIncome | 1.51E10</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Chinabank | service | Banking</mtriple>
+        <mtriple>Chinabank | netIncome | 15100000000</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Chinabank | Servicio | Banca</striple>
+        <striple>Chinabank | IngresosNetos | 15100000000</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Chinabank | service | Banking</bttriple>
+        <bttriple>Chinabank | netIncome | 15100000000</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Chinabank | Servei | Serveis_bancaris</ctriple>
+        <ctriple>Chinabank | IngressosNets | 15100000000</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Chinabank currently pulls in 15100000000 in net income for its banking services.</lex>
+      <lex lang="en" lid="Id2">Chinabank provides banking services to customers, earning a net income of 15,100,000,000.</lex>
+      <lex lang="en" lid="Id3">Chinabank offers banking services to make a net income of 15,100,000,000.</lex>
+      <lex lang="es" lid="Id1">Chinabank obtiene actualmente unos ingresos netos de 15100000000 por sus servicios Bancarios.</lex>
+      <lex lang="es" lid="Id2">Chinabank presta servicios Bancarios a sus clientes, obteniendo unos ingresos netos de 15.100.000.000.</lex>
+      <lex lang="es" lid="Id3">Chinabank ofrece servicios Bancarios para obtener unos ingresos netos de 15.100.000.000.</lex>
+      <lex lang="ca" lid="Id1">En l'actualitat, Chinabank obté 15100000000 d'ingressos nets pels seus serveis bancaris.</lex>
+      <lex lang="ca" lid="Id2">Chinabank ofereix serveis bancaris als clients, guanyant un ingrés net de 15.100.000.000.</lex>
+      <lex lang="ca" lid="Id3">Chinabank ofereix serveis bancaris per obtenir uns ingressos nets de 15.100.000.000.</lex>
+      <lex lang="en_bt" lid="Id1">Currently, Chinabank earns 15.1 billion net income from its banking services.</lex>
+      <lex lang="en_bt" lid="Id2">Chinabank provides banking services to customers, earning a net income of 15,100,000,000.</lex>
+      <lex lang="en_bt" lid="Id3">Chinabank offers banking services for a net income of 15,100,000,000.</lex>
+      </entry>
+    <entry category="Company" eid="Id4" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Chinabank | type | Public_company</otriple>
+        <otriple>Chinabank | foundationPlace | Insular_Government_of_the_Philippine_Islands</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Chinabank | type | Public_company</mtriple>
+        <mtriple>Chinabank | foundationPlace | Insular_Government_of_the_Philippine_Islands</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Chinabank | Tipo | empresa_de_capital_abierto</striple>
+        <striple>Chinabank | LugarDeCimentación | Gobierno_Insular_de_las_Islas_Filipinas</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Chinabank | type | Public_company</bttriple>
+        <bttriple>Chinabank | foundationPlace | Insular_Government_of_the_Philippine_Islands</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Chinabank | Tipus | empresa_cotitzada</ctriple>
+        <ctriple>Chinabank | LlocDeFundació | Govern_Insular_de_les_illes_Filipines</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Chinabank, a publicly traded company, was founded in the Insular Government of the Philippine Islands.</lex>
+      <lex lang="en" lid="Id2">Chinabank is a publicly traded company that was founded in the Insular Government of the Philippine Islands.</lex>
+      <lex lang="en" lid="Id3">Chinabank is a public company with the Insular Government of the Philippine Islands being its foundation place.</lex>
+      <lex lang="es" lid="Id1">Chinabank, empresa que cotiza en bolsa, se fundó en el Gobierno Insular de las Islas Filipinas.</lex>
+      <lex lang="es" lid="Id2">Chinabank es una empresa que cotiza en bolsa y fue fundada en el Gobierno Insular de las Islas Filipinas.</lex>
+      <lex lang="es" lid="Id3">Chinabank es una empresa pública cuya sede fundacional es el Gobierno Insular de las Islas Filipinas.</lex>
+      <lex lang="ca" lid="Id1">Chinabank, una empresa cotitzada en borsa, es va fundar en el Govern Insular de les Illes Filipines.</lex>
+      <lex lang="ca" lid="Id2">Chinabank és una empresa cotitzada en borsa que va ser fundada en el Govern Insular de les Illes Filipines.</lex>
+      <lex lang="ca" lid="Id3">Chinabank és una empresa pública amb el Govern Insular de les Illes Filipines com a lloc de fundació.</lex>
+      <lex lang="en_bt" lid="Id1">Chinabank, a publicly traded company, was founded in the Government of the Philippine Islands.</lex>
+      <lex lang="en_bt" lid="Id2">Chinabank is a publicly traded company that was founded in the Insular Government of the Philippines.</lex>
+      <lex lang="en_bt" lid="Id3">Chinabank is a public company with the Insular Government of the Philippines as its place of foundation.</lex>
+      </entry>
+    <entry category="Company" eid="Id5" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>GMA_New_Media | product | Mobile_Applications</otriple>
+        <otriple>GMA_New_Media | industry | Mass_Media</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>GMA_New_Media | product | Mobile_Applications</mtriple>
+        <mtriple>GMA_New_Media | industry | Mass_Media</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>GMA_Nuevos_Medios | Producto | Aplicaciones_móviles</striple>
+        <striple>GMA_Nuevos_Medios | Industria | Medios_de_comunicación</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>GMA_New_Media | product | Mobile_Applications</bttriple>
+        <bttriple>GMA_New_Media | industry | Mass_Media</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>GMA_New_Media | Producte | Aplicacions_mòbils</ctriple>
+        <ctriple>GMA_New_Media | Indústria | mitjà_de_comunicació_de_massa</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">GMA new media is a mass media industry that makes mobile applications.</lex>
+      <lex lang="en" lid="Id2">GMA New Media is a company in the mass media industry that offers products such as mobile applications.</lex>
+      <lex lang="en" lid="Id3">GMA New Media makes mobile apps and is in the mass media industry.</lex>
+      <lex lang="es" lid="Id1">GMA new media es una industria de medios de comunicación de masas que fabrica aplicaciones para móviles.</lex>
+      <lex lang="es" lid="Id2">GMA New Media es una empresa del sector de los medios de comunicación de masas que ofrece productos como aplicaciones para móviles.</lex>
+      <lex lang="es" lid="Id3">GMA New Media fabrica aplicaciones para móviles y trabaja en el sector de los medios de comunicación.</lex>
+      <lex lang="ca" lid="Id1">GMA new media és una indústria de mitjans de comunicació que fa aplicacions mòbils.</lex>
+      <lex lang="ca" lid="Id2">GMA New Media és una empresa de la indústria de mitjans de comunicació de masses que ofereix productes com aplicacions mòbils.</lex>
+      <lex lang="ca" lid="Id3">GMA New Media fa aplicacions mòbils i està en la indústria dels mitjans de comunicació de massa.</lex>
+      <lex lang="en_bt" lid="Id1">GMA new media is a media industry that makes mobile applications.</lex>
+      <lex lang="en_bt" lid="Id2">GMA New Media is a company in the mass media industry that offers products such as mobile applications.</lex>
+      <lex lang="en_bt" lid="Id3">GMA New Media makes mobile applications and is in the mass media industry.</lex>
+      </entry>
+    <entry category="Company" eid="Id6" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Hypermarcas | industry | Pharmaceuticals</otriple>
+        <otriple>Hypermarcas | product | Cosmetics</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Hypermarcas | industry | Pharmaceuticals</mtriple>
+        <mtriple>Hypermarcas | product | Cosmetics</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Hipermarcas | Industria | Productos_farmacéuticos</striple>
+        <striple>Hipermarcas | Producto | cosméticos</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Hypermarcas | industry | Pharmaceuticals</bttriple>
+        <bttriple>Hypermarcas | product | Cosmetics</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Hypermarcas | Indústria | Productes_farmacèutics</ctriple>
+        <ctriple>Hypermarcas | Producte | cosmètica</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Hypermarcas is a pharmaceutical company that also sells cosmetics.</lex>
+      <lex lang="en" lid="Id2">Hypermarcas is a company in the pharmaceuticals industry that also produces cosmetics.</lex>
+      <lex lang="en" lid="Id3">Hypermarcas is a company that is both in the pharmaceutical and cosmetic production industries.</lex>
+      <lex lang="es" lid="Id1">Hypermarcas es una empresa farmacéutica que también vende cosméticos.</lex>
+      <lex lang="es" lid="Id2">Hypermarcas es una empresa del sector farmacéutico que también produce cosméticos.</lex>
+      <lex lang="es" lid="Id3">Hypermarcas es una empresa que se dedica tanto a la industria farmacéutica como a la cosmética.</lex>
+      <lex lang="ca" lid="Id1">Hypermarcas és una empresa farmacèutica que també ven cosmètics.</lex>
+      <lex lang="ca" lid="Id2">Hypermarcas és una empresa de la indústria farmacèutica que també produeix cosmètics.</lex>
+      <lex lang="ca" lid="Id3">Hypermarcas és una empresa que està tant en les indústries de producció farmacèutica i cosmètica.</lex>
+      <lex lang="en_bt" lid="Id1">Hypermarcas is a pharmaceutical company that also sells cosmetics.</lex>
+      <lex lang="en_bt" lid="Id2">Hypermarcas is a company in the pharmaceutical industry that also produces cosmetics.</lex>
+      <lex lang="en_bt" lid="Id3">Hypermarcas is a company that is both in the pharmaceutical and cosmetic production industries.</lex>
+      </entry>
+    <entry category="Company" eid="Id7" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Hypermarcas | keyPerson | CEO</otriple>
+        <otriple>Hypermarcas | type | S.A._(corporation)</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Hypermarcas | keyPerson | CEO</mtriple>
+        <mtriple>Hypermarcas | type | S.A._(corporation)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Hipermarcas | PersonaClave | DIRECTOR_GENERAL</striple>
+        <striple>Hipermarcas | Tipo | sociedad_anónima</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Hypermarcas | keyPerson | CEO</bttriple>
+        <bttriple>Hypermarcas | type | S.A._(corporation)</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Hypermarcas | PersonaClau | CEOConstellation_name_(optional)</ctriple>
+        <ctriple>Hypermarcas | Tipus | S.A._(corporació)</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Hypermarcas, a type of S.A (corporation) is managed by their CEO.</lex>
+      <lex lang="en" lid="Id2">Hypermarcas is an S.A. corporation with its CEO as its key person.</lex>
+      <lex lang="en" lid="Id3">Hypermarcas is a type of S.A. corporation, and their CEO acts as their key person.</lex>
+      <lex lang="es" lid="Id1">Hypermarcas, un tipo de S.A (sociedad anónima), está dirigida por su director general.</lex>
+      <lex lang="es" lid="Id2">Hypermarcas es una sociedad anónima con su director general como persona clave.</lex>
+      <lex lang="es" lid="Id3">Hypermarcas es un tipo de sociedad anónima, y su director general actúa como persona clave.</lex>
+      <lex lang="ca" lid="Id1">Hypermarcas, un tipus de S.A (corporació) és gestionat pel seu CEO.</lex>
+      <lex lang="ca" lid="Id2">Hypermarcas és una corporació S.A. amb el seu CEO com a persona clau.</lex>
+      <lex lang="ca" lid="Id3">Hypermarcas és un tipus de corporació S.A., i el seu CEO actua com la seva persona clau.</lex>
+      <lex lang="en_bt" lid="Id1">Hypermarcas, a type of S.A. (corporation) is managed by its CEO.</lex>
+      <lex lang="en_bt" lid="Id2">Hypermarcas is a corporation S.A. with its CEO as a key person.</lex>
+      <lex lang="en_bt" lid="Id3">Hypermarcas is a type of corporation S.A., and its CEO acts as its key person.</lex>
+      </entry>
+    <entry category="Company" eid="Id8" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Hypermarcas | location | Brazil</otriple>
+        <otriple>Hypermarcas | product | Drugs</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Hypermarcas | location | Brazil</mtriple>
+        <mtriple>Hypermarcas | product | Drugs</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Hipermarcas | Ubicación | Brasil</striple>
+        <striple>Hipermarcas | Producto | Drogas</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Hypermarcas | location | Brazil</bttriple>
+        <bttriple>Hypermarcas | product | Drugs</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Hypermarcas | Ubicació | Brasil</ctriple>
+        <ctriple>Hypermarcas | Producte | Drogues</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Hypermarcas, which is located in Brazil, is a company that makes drugs.</lex>
+      <lex lang="en" lid="Id2">Hypermarcas, which is located in Brazil, produces pharmaceutical drugs.</lex>
+      <lex lang="en" lid="Id3">Located in Brazil, Hypermarcas's main product is drugs.</lex>
+      <lex lang="es" lid="Id1">Hypermarcas, con sede en Brasil, es una empresa que fabrica medicamentos.</lex>
+      <lex lang="es" lid="Id2">Hypermarcas, situada en Brasil, produce medicamentos farmacéuticos.</lex>
+      <lex lang="es" lid="Id3">Situada en Brasil, el principal producto de Hypermarcas son los medicamentos.</lex>
+      <lex lang="ca" lid="Id1">Hypermarcas, ubicada al Brasil, és una empresa que fabrica medicaments.</lex>
+      <lex lang="ca" lid="Id2">Hypermarcas, que es troba al Brasil, produeix medicaments farmacèutics.</lex>
+      <lex lang="ca" lid="Id3">Situat al Brasil, el producte principal d'Hypermarcas són les drogues.</lex>
+      <lex lang="en_bt" lid="Id1">Hypermarcas, located in Brazil, is a company that makes medicines.</lex>
+      <lex lang="en_bt" lid="Id2">Hypermarcas, located in Brazil, produces pharmaceuticals.</lex>
+      <lex lang="en_bt" lid="Id3">Located in Brazil, Hypermarcas' main product is drugs.</lex>
+      </entry>
+    <entry category="Company" eid="Id9" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Hypermarcas | product | Drugs</otriple>
+        <otriple>Hypermarcas | location | São_Paulo</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Hypermarcas | product | Drugs</mtriple>
+        <mtriple>Hypermarcas | location | São_Paulo</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Hipermarcas | Producto | Drogas</striple>
+        <striple>Hipermarcas | Ubicación | São_Paulo</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Hypermarcas | product | Drugs</bttriple>
+        <bttriple>Hypermarcas | location | São_Paulo</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Hypermarcas | Producte | Drogues</ctriple>
+        <ctriple>Hypermarcas | Ubicació | São_Paulo</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The main product of Hypermarcas, which is located in São Paulo, is drugs.</lex>
+      <lex lang="en" lid="Id2">Hypermarcas makes drugs in São Paulo.</lex>
+      <lex lang="en" lid="Id3">Hypermarcas is a company located in Sao Paulo that produces pharmaceutical drugs.</lex>
+      <lex lang="es" lid="Id1">El principal producto de Hypermarcas, con sede en São Paulo, son los medicamentos.</lex>
+      <lex lang="es" lid="Id2">Hypermarcas fabrica medicamentos en São Paulo.</lex>
+      <lex lang="es" lid="Id3">Hypermarcas es una empresa situada en Sao Paulo que produce medicamentos farmacéuticos.</lex>
+      <lex lang="ca" lid="Id1">El producte principal d'Hypermarcas, que es troba a São Paulo, són les drogues.</lex>
+      <lex lang="ca" lid="Id2">Hypermarcas fabrica drogues a São Paulo.</lex>
+      <lex lang="ca" lid="Id3">Hypermarcas és una empresa situada a São Paulo que produeix medicaments farmacèutics.</lex>
+      <lex lang="en_bt" lid="Id1">The main product of Hypermarcas, which is located in São Paulo, is drugs.</lex>
+      <lex lang="en_bt" lid="Id2">Hypermarcas manufactures drugs in São Paulo.</lex>
+      <lex lang="en_bt" lid="Id3">Hypermarcas is a company located in São Paulo that produces pharmaceutical drugs.</lex>
+      </entry>
+    <entry category="Company" eid="Id10" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Trane | foundingYear | 1913-01-01</otriple>
+        <otriple>Trane | foundationPlace | La_Crosse,_Wisconsin</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Trane | foundingDate | 1913-01-01</mtriple>
+        <mtriple>Trane | foundationPlace | La_Crosse,_Wisconsin</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Trane | FechaDeFundación | 01-01-1913</striple>
+        <striple>Trane | LugarDeCimentación | La_Crosse,_Wisconsin</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Trane | foundingDate | 1913-01-01</bttriple>
+        <bttriple>Trane | foundationPlace | La_Crosse,_Wisconsin</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Trane | DataDeFundació | 1913-01-01</ctriple>
+        <ctriple>Trane | LlocDeFundació | La_Crosse,_Wisconsin</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Trane was founded in La Crosse, Wisconsin, on January 1, 1913.</lex>
+      <lex lang="en" lid="Id2">Trane was founded in La Crosse, Wisconsin, on 01-01-1913.</lex>
+      <lex lang="en" lid="Id3">Trane was founded in La Crosse, Wisconsin on January 1st, 1913.</lex>
+      <lex lang="es" lid="Id1">Trane se fundó en La Crosse, Wisconsin, el 01-01-1913.</lex>
+      <lex lang="es" lid="Id2">Trane se fundó en La Crosse, Wisconsin, el 01-01-1913.</lex>
+      <lex lang="es" lid="Id3">Trane fue fundada en La Crosse, Wisconsin, el 01-01-1913.</lex>
+      <lex lang="ca" lid="Id1">Trane va ser fundada a La Crosse, Wisconsin, l'1 de gener de 1913.</lex>
+      <lex lang="ca" lid="Id2">Trane va ser fundada a La Crosse, Wisconsin, el 01-01-1913.</lex>
+      <lex lang="ca" lid="Id3">Trane va ser fundada a La Crosse, Wisconsin l'1 de gener de 1913.</lex>
+      <lex lang="en_bt" lid="Id1">Trane was founded in La Crosse, Wisconsin on January 1, 1913.</lex>
+      <lex lang="en_bt" lid="Id2">Trane was founded in La Crosse, Wisconsin on January 1, 1913.</lex>
+      <lex lang="en_bt" lid="Id3">Trane was founded in La Crosse, Wisconsin on January 1, 1913.</lex>
+      </entry>
+    <entry category="Company" eid="Id11" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Trane | location | Swords,_Dublin</otriple>
+        <otriple>Trane | location | Ireland</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Trane | location | Swords,_Dublin</mtriple>
+        <mtriple>Trane | location | Ireland</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Trane | Ubicación | Swords,_Dublín</striple>
+        <striple>Trane | Ubicación | isla_de_Irlanda</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Trane | location | Swords,_Dublin</bttriple>
+        <bttriple>Trane | location | Ireland</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Trane | Ubicació | Espades,_Dublín</ctriple>
+        <ctriple>Trane | Ubicació | Irlanda</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Trane is located in Swords, Dublin, Ireland.</lex>
+      <lex lang="en" lid="Id2">Trane is located in Swords, Dublin, which is in Ireland.</lex>
+      <lex lang="en" lid="Id3">The location of Trane is in Swords, Dublin, Ireland.</lex>
+      <lex lang="es" lid="Id1">Trane se encuentra en Swords, Dublín, Irlanda.</lex>
+      <lex lang="es" lid="Id2">Trane tiene su sede en Swords, Dublín, que está en Irlanda.</lex>
+      <lex lang="es" lid="Id3">La sede de Trane se encuentra en Swords, Dublín, Irlanda.</lex>
+      <lex lang="ca" lid="Id1">Trane es troba a Swords, Dublín, Irlanda.</lex>
+      <lex lang="ca" lid="Id2">Trane es troba a Swords, Dublín, a Irlanda.</lex>
+      <lex lang="ca" lid="Id3">La ubicació de Trane és a Swords, Dublín, Irlanda.</lex>
+      <lex lang="en_bt" lid="Id1">Trane is located in Swords, Dublin, Ireland.</lex>
+      <lex lang="en_bt" lid="Id2">Trane is located in Swords, Dublin, Ireland.</lex>
+      <lex lang="en_bt" lid="Id3">Trane's location is in Swords, Dublin, Ireland.</lex>
+      </entry>
+    </entries>
+  </benchmark>

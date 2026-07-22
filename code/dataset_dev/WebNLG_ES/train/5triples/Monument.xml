@@ -1,0 +1,849 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Monument" eid="Id1" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | country | "United States"@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | country | "United States"</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | País | Estados_Unidos</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Ubicación | Condado_de_Adams</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Establecido | 2000</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Categoría | Propiedad_contribuidora</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Municipio | Gettysburg,_Pennsylvania</striple></spanishtripleset><lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument stands in Gettysburg, in Adams County, Pennsylvania. The American monument, built in 2000 is classed as a Contributing Property.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry Monument was established in 2000, and is considered a Contributing Property. It is located in the municipality of Gettysburg, in Adams County, Pennsylvania, USA.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry Monument is in Adams County, Gettysburg municipality, Pennsylvania in the United States. The Monument is categorized as a Contributing Property and was established in 2000.</lex>
+    <lex lang="es" lid="Id1">El monumento a la 11ª Infantería del Mississippi se encuentra en Gettysburg, en el condado de Adams, Pensilvania. El monumento estadounidense, construido en 2000, está clasificado como Bien Contribuyente.</lex><lex lang="es" lid="Id2">El monumento a la 11ª Infantería del Mississippi se erigió en 2000 y se considera un bien contribuyente. Se encuentra en el municipio de Gettysburg, en el condado de Adams, Pensilvania, Estados Unidos.</lex><lex lang="es" lid="Id3">El Monumento a la 11ª Infantería del Mississippi se encuentra en el condado de Adams, municipio de Gettysburg, Pensilvania, en Estados Unidos. El monumento está clasificado como propiedad contribuyente y se creó en 2000.</lex></entry>
+    <entry category="Monument" eid="Id2" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | country | "United States"@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | country | "United States"</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | País | Estados_Unidos</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Ubicación | Condado_de_Adams</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Estado | Pensilvania</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Establecido | 2000</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Categoría | Propiedad_contribuidora</striple></spanishtripleset><lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument was established in the year 2000 and is situated in Adams County, Pennsylvania, United States. The monument is categorised as a contributing property.</lex>
+      <lex lang="en" lid="Id2">In 2000 the 11th Mississippi Infantry monument was established in Adams County, Pennsylvania, US. It is now categorised as a contributing property.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry Monument is found in Adams County, Pennsylvania, USA. It was established in the year 2000 and is categorised as a contributing property.</lex>
+    <lex lang="es" lid="Id1">El monumento a la 11ª Infantería del Mississippi se creó en el año 2000 y está situado en el condado de Adams, Pensilvania, Estados Unidos. El monumento está clasificado como bien contribuyente.</lex><lex lang="es" lid="Id2">En 2000 se erigió el monumento a la 11ª Infantería del Mississippi en el condado de Adams, Pensilvania, Estados Unidos. Ahora está clasificado como bien contribuyente.</lex><lex lang="es" lid="Id3">El monumento a la 11ª Infantería del Mississippi se encuentra en el condado de Adams, Pensilvania, Estados Unidos. Se creó en el año 2000 y está clasificado como bien contribuyente.</lex></entry>
+    <entry category="Monument" eid="Id3" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | country | "United States"@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | range | Seminary_Ridge</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | country | "United States"</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Seminary_Ridge</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | País | Estados_Unidos</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Ubicación | Seminary_Ridge</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Ubicación | Condado_de_Adams</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Establecido | 2000</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Categoría | Propiedad_contribuidora</striple></spanishtripleset><lex lang="en" lid="Id1">The 11th Mississippi Infantry monument is located at Seminary Ridge, Adams County, Pennsylvania, United States. It was completed in 2000 and is categorized as Contributing Property.</lex>
+      <lex lang="en" lid="Id2">The location of the 11th Mississippi Infantry Monument is Seminary Ridge, Adams County, Pennsylvania, United States. The monument was established in the year 2000 and falls under the category of Contributing property.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry Monument is located in the Seminary Ridge, Adams County Pennsylvania USA. It was completed in 2000 and is a contributing property.</lex>
+    <lex lang="es" lid="Id1">El monumento a la 11ª Infantería del Mississippi se encuentra en Seminary Ridge, condado de Adams, Pensilvania, Estados Unidos. Se terminó de construir en 2000 y está clasificado como Bien Contribuyente.</lex><lex lang="es" lid="Id2">La ubicación del Monumento a la 11ª Infantería del Mississippi es Seminary Ridge, Condado de Adams, Pensilvania, Estados Unidos. El monumento se creó en el año 2000 y pertenece a la categoría de propiedad contribuyente.</lex><lex lang="es" lid="Id3">El monumento a la 11ª Infantería del Mississippi se encuentra en Seminary Ridge, en el condado de Adams, Pensilvania, Estados Unidos. Se completó en 2000 y es una propiedad contribuyente.</lex></entry>
+    <entry category="Monument" eid="Id4" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | country | "United States"@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | range | Seminary_Ridge</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | country | "United States"</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Seminary_Ridge</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | País | Estados_Unidos</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Ubicación | Seminary_Ridge</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Estado | Pensilvania</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Establecido | 2000</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Categoría | Propiedad_contribuidora</striple></spanishtripleset><lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument is in the Seminary Ridge, in the US state of Pennsylvania. Established in 2000, it is categorized as a contributing property.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry Monument, established in 2000 was built at Seminary Ridge, Pennsylvania USA and is a contributing property.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry Monument is found at Seminary Ridge, Pennsylvania, US. Established in 2000, the monument has a Contributing Property categorization.</lex>
+    <lex lang="es" lid="Id1">El Monumento a la 11ª Infantería del Mississippi se encuentra en Seminary Ridge, en el estado estadounidense de Pensilvania. Establecido en 2000, está clasificado como bien contribuyente.</lex><lex lang="es" lid="Id2">El Monumento a la 11ª Infantería del Mississippi, creado en 2000, se construyó en Seminary Ridge, Pensilvania, EE.UU., y es un bien contribuyente.</lex><lex lang="es" lid="Id3">El monumento a la 11ª Infantería del Mississippi se encuentra en Seminary Ridge, Pensilvania, Estados Unidos. Establecido en 2000, el monumento está clasificado como propiedad contribuyente.</lex></entry>
+    <entry category="Monument" eid="Id5" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | country | "United States"@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | country | "United States"@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | country | "United States"</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | País | Estados_Unidos</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Estado | Pensilvania</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Establecido | 2000</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Categoría | Propiedad_contribuidora</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Municipio | Gettysburg,_Pennsylvania</striple></spanishtripleset><lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument, established in 2000 was built at Seminary Ridge, Gettysburg Pennsylvania USA and is a contributing property.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry Monument (Gettysburg, Pennsylvania United States) was established in the year 2000 and is categorised as a contributing property.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry Monument, located in Gettysburg, Pennsylvania, in the United States, is a Contributing Property established in 2000.</lex>
+    <lex lang="es" lid="Id1">El Monumento a la 11ª Infantería de Mississippi, creado en 2000, se construyó en Seminary Ridge, Gettysburg, Pensilvania, EE. UU., y es un bien contribuyente.</lex><lex lang="es" lid="Id2">El Monumento a la 11ª Infantería del Mississippi (Gettysburg, Pensilvania, Estados Unidos) se erigió en el año 2000 y está catalogado como bien contribuyente.</lex><lex lang="es" lid="Id3">El Monumento a la 11ª Infantería del Mississippi, situado en Gettysburg, Pensilvania, en Estados Unidos, es un Bien Contribuyente creado en 2000.</lex></entry>
+    <entry category="Monument" eid="Id6" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | country | "United States"@en</otriple>
+        <otriple>Adams_County,_Pennsylvania | west | Franklin_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | country | "United States"</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsWest | Franklin_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | País | Estados_Unidos</striple><striple>Condado_de_Adams | TieneASuOeste | Condado_de_Franklin,_Pennsylvania</striple><striple>Condado_de_Adams | TieneASuSureste | Condado_de_Carroll,_Maryland</striple><striple>Condado_de_Adams | TieneAlNorte | Condado_de_Cumberland,_Pennsylvania</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Ubicación | Condado_de_Adams</striple></spanishtripleset><lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument is found in Adams County, Pennsylvania, USA. To the west of Adams County you will find Franklin County and to the north lies Cumberland County, both of Pennsylvania. To the southeast of Adams County lies Carroll County, Maryland.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania, USA. To the west of Adams County lies Franklin County and to the north is Cumberland County, both in Pennsylvania. To the southeast of Adams County lies Carroll County, Maryland.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania USA. Franklin County is to the west, Cumberland County is to the North and Carroll County is to the northwest.</lex>
+    <lex lang="es" lid="Id1">El monumento a la 11ª Infantería del Mississippi se encuentra en el condado de Adams, Pensilvania, Estados Unidos. Al oeste del condado de Adams se encuentra el condado de Franklin y al norte el condado de Cumberland, ambos en Pensilvania. Al sureste del condado de Adams se encuentra el condado de Carroll, Maryland.</lex><lex lang="es" lid="Id2">El monumento a la 11ª Infantería del Mississippi se encuentra en el condado de Adams, Pensilvania, Estados Unidos. Al oeste del condado de Adams se encuentra el condado de Franklin y al norte el condado de Cumberland, ambos en Pensilvania. Al sureste del condado de Adams se encuentra el condado de Carroll, Maryland.</lex><lex lang="es" lid="Id3">El monumento a la 11.ª Infantería del Mississippi se encuentra en el condado de Adams, Pensilvania (EE. UU.). El condado de Franklin está al oeste, el condado de Cumberland al norte y el condado de Carroll al noroeste.</lex></entry>
+    <entry category="Monument" eid="Id7" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Establecido | 2000</striple><striple>Condado_de_Adams | TieneAlNorte | Condado_de_Cumberland,_Pennsylvania</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Categoría | Propiedad_contribuidora</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Municipio | Gettysburg,_Pennsylvania</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Ubicación | Condado_de_Adams</striple></spanishtripleset><lex lang="en" lid="Id1">A monument to the 11th Mississippi Infantry was erected in 2000 in Gettysburg municipality in Adams County, Pennsylvania, which has Cumberland County, Pennsylvania to its north. The monument falls under the category of Contributing property.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry monument was established in 2000 in Gettysburg, Adams County, Pennsylvania, and falls under the category of contributing property. Adams County is located to the south of Cumberland County.</lex>
+    <lex lang="es" lid="Id1">En el año 2000 se erigió un monumento a la 11ª Infantería del Mississippi en el municipio de Gettysburg, en el condado de Adams, Pensilvania, que tiene al norte el condado de Cumberland, Pensilvania. El monumento pertenece a la categoría de propiedad contribuyente.</lex><lex lang="es" lid="Id2">El monumento a la 11ª Infantería del Mississippi se erigió en el año 2000 en Gettysburg, condado de Adams, Pensilvania, y pertenece a la categoría de bienes contribuyentes. El condado de Adams está situado al sur del condado de Cumberland.</lex></entry>
+    <entry category="Monument" eid="Id8" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Ubicación | Condado_de_Adams</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Estado | Pensilvania</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Establecido | 2000</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Categoría | Propiedad_contribuidora</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Municipio | Gettysburg,_Pennsylvania</striple></spanishtripleset><lex lang="en" lid="Id1">In the year 2000 the 11th Mississippi Infantry monument was established in the municipality of Gettysburg, Adams County, Pennsylvania. the monument falls under the category of contributing property.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry Monument, established in 2000, is a contributing property and located in Gettysburg and Adams County in Pennsylvania.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry monument is located in the municipality of Gettysburg, Adams County, Pennsylvania. It was established in 2000 and falls under the category of contributing property.</lex>
+    <lex lang="es" lid="Id1">En el año 2000 se estableció el monumento a la 11ª Infantería del Mississippi en el municipio de Gettysburg, condado de Adams, Pensilvania. el monumento pertenece a la categoría de bienes contribuyentes.</lex><lex lang="es" lid="Id2">El monumento a la 11ª Infantería del Mississippi, erigido en 2000, es un bien contribuyente y se encuentra en Gettysburg y en el condado de Adams, en Pensilvania.</lex><lex lang="es" lid="Id3">El monumento a la 11ª Infantería del Mississippi se encuentra en el municipio de Gettysburg, condado de Adams, Pensilvania. Se creó en 2000 y pertenece a la categoría de bienes contribuyentes.</lex></entry>
+    <entry category="Monument" eid="Id9" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | range | Seminary_Ridge</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Seminary_Ridge</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Ubicación | Seminary_Ridge</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Ubicación | Condado_de_Adams</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Establecido | 2000</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Categoría | Propiedad_contribuidora</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Municipio | Gettysburg,_Pennsylvania</striple></spanishtripleset><lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument is located at Seminary Ridge, Gettysburg, Adams County, Pennsylvania and was completed in 2000. It is categorized as a Contributing Property.</lex>
+      <lex lang="en" lid="Id2">Established in 2000, the 11th Mississippi Infantry Monument is found in the Seminary Ridge, Adams County, Pennsylvania. It has a Contributing Property designation in Gettysburg.</lex>
+      <lex lang="en" lid="Id3">Located at Seminary Ridge in the municipality of Gettysburg, which is in Adams County, Pennsylvania, the 11th Mississippi Infantry Monument was established in 2000, and is categorized as a Contributing Property.</lex>
+    <lex lang="es" lid="Id1">El monumento a la 11ª Infantería del Mississippi se encuentra en Seminary Ridge, Gettysburg, condado de Adams, Pensilvania, y se terminó de construir en el año 2000. Está clasificado como Bien de Interés Cultural.</lex><lex lang="es" lid="Id2">Establecido en 2000, el Monumento a la 11ª Infantería del Mississippi se encuentra en Seminary Ridge, condado de Adams, Pensilvania. Ha sido declarado Bien de Interés Cultural en Gettysburg.</lex><lex lang="es" lid="Id3">Situado en Seminary Ridge, en el municipio de Gettysburg, en el condado de Adams, Pensilvania, el monumento a la 11ª Infantería del Mississippi se erigió en el año 2000 y está clasificado como Bien de Interés Cultural.</lex></entry>
+    <entry category="Monument" eid="Id10" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | range | Seminary_Ridge</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Seminary_Ridge</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Ubicación | Seminary_Ridge</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Ubicación | Condado_de_Adams</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Estado | Pensilvania</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Establecido | 2000</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Categoría | Propiedad_contribuidora</striple></spanishtripleset><lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument is located at Seminary Ridge, Adams County, Pennsylvania. Erected in 2000 the Monument falls under the category of Contributing property.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry Monument is located at Seminary Ridge, Adams County, Pennsylvania. The monument was erected in the year 2000 and is categorized as a Contributing Property.</lex>
+    <lex lang="es" lid="Id1">El Monumento a la 11ª Infantería del Mississippi se encuentra en Seminary Ridge, Condado de Adams, Pensilvania. Erigido en 2000, el monumento pertenece a la categoría de propiedad contribuyente.</lex><lex lang="es" lid="Id2">El monumento a la 11ª Infantería del Mississippi se encuentra en Seminary Ridge, condado de Adams, Pensilvania. El monumento fue erigido en el año 2000 y está categorizado como Propiedad Contribuyente.</lex></entry>
+    <entry category="Monument" eid="Id11" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"@en</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | País | Estados_Unidos</striple><striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Categoría | distrito_histórico_de_Estados_Unidos</striple><striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Distrito | Monocacy_National_Battlefield</striple><striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | OrganizaciónPropietaria | Servicio_de_Parques_Nacionales</striple><striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Establecido | 11-07-1907</striple></spanishtripleset><lex lang="en" lid="Id1">The 14th New Jersey Volunteer Infantry Monument is located in the Monocacy National Battlefield and was established on July 11th, 1907. It has been categorised as a historic district in the United States and was provided by the National Park Service.</lex>
+      <lex lang="en" lid="Id2">The 14th New Jersey Volunteer Infantry monument was established on 11 July 1907 and is owned by the National Park Service. It is located within the Monocacy National Battlefield and belongs to the category of historic districts of the United States.</lex>
+    <lex lang="es" lid="Id1">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey se encuentra en el Campo de Batalla Nacional de Monocacy y se erigió el 11 de julio de 1907. Ha sido categorizado como distrito histórico en los Estados Unidos y fue proporcionado por el Servicio de Parques Nacionales.</lex><lex lang="es" lid="Id2">El monumento a la 14ª Infantería Voluntaria de Nueva Jersey se erigió el 11 de julio de 1907 y es propiedad del Servicio de Parques Nacionales. Se encuentra dentro del Campo de Batalla Nacional de Monocacy y pertenece a la categoría de distritos históricos de Estados Unidos.</lex></entry>
+    <entry category="Monument" eid="Id12" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"^^xsd:date</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"@en</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+        <otriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+        <mtriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Establecido | 11-07-1907</striple><striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | País | Estados_Unidos</striple><striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Categoría | distrito_histórico_de_Estados_Unidos</striple><striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Distrito | Monocacy_National_Battlefield</striple><striple>Monocacy_National_Battlefield | CiudadMásCercana | Frederick,_Maryland</striple></spanishtripleset><lex lang="en" lid="Id1">The 14th New Jersey Volunteer Infantry Monument is located on the Monocacy National Battlefield, Frederick, Maryland. The monument was established on 1907-07-11 and belongs to the category of Historic districts in the United States.</lex>
+      <lex lang="en" lid="Id2">The 14th New Jersey Volunteer Infantry Monument was established July 11th, 1907 and is a historic district founded in the Monocacy National Battlefield (USA). The nearest city is Frederick, Maryland.</lex>
+    <lex lang="es" lid="Id1">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey se encuentra en el Campo de Batalla Nacional de Monocacy, Frederick, Maryland. El monumento se creó el 11 de julio de 1907 y pertenece a la categoría de Distritos históricos de Estados Unidos.</lex><lex lang="es" lid="Id2">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey se estableció el 11 de julio de 1907 y es un distrito histórico fundado en el Campo de Batalla Nacional de Monocacy (EE.UU.). La ciudad más cercana es Frederick, Maryland.</lex></entry>
+    <entry category="Monument" eid="Id13" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Condado_de_Adams | TieneASuSureste | Condado_de_Carroll,_Maryland</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Establecido | 2000</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Categoría | Propiedad_contribuidora</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Municipio | Gettysburg,_Pennsylvania</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Ubicación | Condado_de_Adams</striple></spanishtripleset><lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument is in the municipality of Gettysburg, Adams County, Pennsylvania. The monument was completed in the year 2000 and is categorised as a contributing property. Adams County, Pennsylvania has Carroll County, Maryland to its southeast.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry Monument's location is Gettysburg, Adams County, Pennsylvania. It was erected in the year 2000 and is categorized as a Contributing Property. Carroll County Maryland is southeast of Adams County Pennsylvania.</lex>
+    <lex lang="es" lid="Id1">El Monumento a la 11ª Infantería del Mississippi se encuentra en el municipio de Gettysburg, condado de Adams, Pensilvania. El monumento se terminó de construir en el año 2000 y está clasificado como bien contribuyente. El condado de Adams, Pensilvania, limita al sureste con el condado de Carroll, Maryland.</lex><lex lang="es" lid="Id2">El monumento a la 11ª Infantería del Mississippi se encuentra en Gettysburg, condado de Adams, Pensilvania. Fue erigido en el año 2000 y está clasificado como Bien de Interés Cultural. El condado de Carroll, Maryland, se encuentra al sureste del condado de Adams, Pensilvania.</lex></entry>
+    <entry category="Monument" eid="Id14" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Condado_de_Adams | TieneASuSureste | Condado_de_Carroll,_Maryland</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Establecido | 2000</striple><striple>Condado_de_Adams | TieneAlNorte | Condado_de_Cumberland,_Pennsylvania</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Categoría | Propiedad_contribuidora</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Ubicación | Condado_de_Adams</striple></spanishtripleset><lex lang="en" lid="Id1">Carroll County Maryland is located southeast and Cumberland County just to the north of Adams County, Pennsylvania which is the location of the 11th Mississippi Infantry monument. The monument was established in the year 2000 and is categorised as a contributing property.</lex>
+      <lex lang="en" lid="Id2">Adams County, Pennsylvania lies to the northwest of Carroll County, Maryland and south of Cumberland County. It is the location of the 11th Mississippi Infantry monument which was erected in 2000 and is categorised as a contributing property.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania. It was established in 2000 and is categorised as a contributing property. Adams County has Cumberland County to its north and Carroll County of Maryland to its southeast.</lex>
+    <lex lang="es" lid="Id1">El condado de Carroll, Maryland, está situado al sureste y el condado de Cumberland justo al norte del condado de Adams, Pensilvania, donde se encuentra el monumento a la 11ª Infantería del Mississippi. El monumento se erigió en el año 2000 y está clasificado como bien contribuyente.</lex><lex lang="es" lid="Id2">El condado de Adams, en Pensilvania, se encuentra al noroeste del condado de Carroll, en Maryland, y al sur del condado de Cumberland. Aquí se encuentra el monumento a la 11.ª Infantería del Mississippi, erigido en 2000 y clasificado como bien contribuyente.</lex><lex lang="es" lid="Id3">El monumento a la 11ª Infantería del Mississippi se encuentra en el condado de Adams, Pensilvania. Se erigió en 2000 y está clasificado como bien contribuyente. El condado de Adams limita al norte con el condado de Cumberland y al sureste con el condado de Carroll, en Maryland.</lex></entry>
+    <entry category="Monument" eid="Id15" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southwest | Frederick_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSouthwest | Frederick_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Condado_de_Adams | TieneASuSureste | Condado_de_Carroll,_Maryland</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Establecido | 2000</striple><striple>Condado_de_Adams | TieneAlNorte | Condado_de_Cumberland,_Pennsylvania</striple><striple>Condado_de_Adams | TieneASuSuroeste | Condado_de_Frederick</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Ubicación | Condado_de_Adams</striple></spanishtripleset><lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument's location is Adams County, Pennsylvania and was established in the year 2000. Adams County, Pennsylvania has Carroll County to its southeast and Frederick County to its southwest - both of these counties are in Maryland. To the north of Adams County is Cumberland County Pennsylvania.</lex>
+      <lex lang="en" lid="Id2">Adams County, Pennsylvania, is the location of the 11th Mississippi Infantry monument which was established in the year 2000. Adams County is south of Cumberland County, and northwest of Carroll County in Maryland and northeast of Frederick County, Maryland.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry Monument was established in 2000 and is located in Adams County, Pennsylvania. To the north of Adams County is Cumberland County, also of Pennsylvania. Maryland's Carroll County and Frederick County are found to the southeast and southwest of Adams County respectively.</lex>
+    <lex lang="es" lid="Id1">El monumento a la 11ª Infantería del Mississippi se encuentra en el condado de Adams, Pensilvania, y fue erigido en el año 2000. El condado de Adams, Pennsylvania tiene el condado de Carroll a su sureste y el condado de Frederick a su suroeste - ambos de estos condados se encuentran en Maryland. Al norte del condado de Adams se encuentra el condado de Cumberland, Pensilvania.</lex><lex lang="es" lid="Id2">En el condado de Adams, Pensilvania, se encuentra el monumento a la 11ª Infantería del Mississippi, creado en el año 2000. El condado de Adams se encuentra al sur del condado de Cumberland y al noroeste del condado de Carroll, en Maryland, y al noreste del condado de Frederick, en Maryland.</lex><lex lang="es" lid="Id3">El monumento a la 11ª Infantería del Mississippi se creó en 2000 y se encuentra en el condado de Adams, Pensilvania. Al norte del condado de Adams se encuentra el condado de Cumberland, también de Pensilvania. Los condados de Carroll y Frederick, en Maryland, se encuentran al sureste y suroeste del condado de Adams, respectivamente.</lex></entry>
+    <entry category="Monument" eid="Id16" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | west | Franklin_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsWest | Franklin_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Condado_de_Adams | TieneASuOeste | Condado_de_Franklin,_Pennsylvania</striple><striple>Condado_de_Adams | TieneASuSureste | Condado_de_Carroll,_Maryland</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Establecido | 2000</striple><striple>Condado_de_Adams | TieneAlNorte | Condado_de_Cumberland,_Pennsylvania</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Ubicación | Condado_de_Adams</striple></spanishtripleset><lex lang="en" lid="Id1">Cumberland County Pennsylvania lies to the north of Adams County which is the location of the 11th Mississippi Infantry monument which was established in the year 2000. The County is located to the east of Franklin County Pennsylvania and Carroll County Maryland can be found to the southeast.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry Monument was erected in 2000 and is located in Adams County, Pennsylvania. To the west of Adams County can be found Franklin County and to the north Cumberland County, both of Pennsylvania. Carroll County Maryland is southeast of Adams County Pennsylvania.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania and was established in the year 2000. Franklin County (to the west) and Cumberland County (to the north) are nearby counties in Pennsylvania. Carroll County, Maryland is to the southeast of Adams County.</lex>
+    <lex lang="es" lid="Id1">El condado de Cumberland, en Pensilvania, está situado al norte del condado de Adams, donde se encuentra el monumento a la 11ª Infantería del Mississippi, erigido en el año 2000. El condado se encuentra al este del condado de Franklin Pennsylvania y el condado de Carroll Maryland se puede encontrar al sureste.</lex><lex lang="es" lid="Id2">El Monumento a la 11ª Infantería del Mississippi fue erigido en 2000 y se encuentra en el condado de Adams, Pensilvania. Al oeste del condado de Adams se encuentra el condado de Franklin y al norte el condado de Cumberland, ambos de Pensilvania. El condado de Carroll, en Maryland, se encuentra al sureste del condado de Adams, en Pensilvania.</lex><lex lang="es" lid="Id3">El monumento a la 11ª Infantería del Mississippi se encuentra en el condado de Adams, Pensilvania, y fue erigido en el año 2000. El condado de Franklin (al oeste) y el condado de Cumberland (al norte) son condados cercanos en Pensilvania. El condado de Carroll (Maryland) se encuentra al sureste del condado de Adams.</lex></entry>
+    <entry category="Monument" eid="Id17" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | west | Franklin_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsWest | Franklin_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Condado_de_Adams | TieneASuOeste | Condado_de_Franklin,_Pennsylvania</striple><striple>Condado_de_Adams | TieneASuSureste | Condado_de_Carroll,_Maryland</striple><striple>Condado_de_Adams | TieneAlNorte | Condado_de_Cumberland,_Pennsylvania</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Categoría | Propiedad_contribuidora</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Ubicación | Condado_de_Adams</striple></spanishtripleset><lex lang="en" lid="Id1">Adams County, Pennsylvania is located east of Franklin County and south of Cumberland County, while Carroll County in Maryland lies to the southeast. Adams County is the location of the 11th Mississippi Infantry monument which is categorised as a contributing property.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry monument, which has a contributing property categorization, is found in Adams County, Pennsylvania. Adams County is bounded by Franklin County to the west; Cumberland County to the north and Carroll County to the South-east. All except Carroll County are in Pennsylvania, which is in Maryland.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry Monument is in Adams County, Pennsylvania and is categorized as a contributing property. Adams county lies to the east of Franklin County and has Cumberland County to the north and Carroll County, Maryland to the south-east.</lex>
+    <lex lang="es" lid="Id1">El condado de Adams, en Pensilvania, está situado al este del condado de Franklin y al sur del condado de Cumberland, mientras que el condado de Carroll, en Maryland, se encuentra al sureste. En el condado de Adams se encuentra el monumento a la 11.ª Infantería del Mississippi, clasificado como bien contribuyente.</lex><lex lang="es" lid="Id2">El monumento a la 11ª Infantería del Mississippi, que tiene la categoría de propiedad contribuyente, se encuentra en el condado de Adams, Pensilvania. El condado de Adams limita al oeste con el condado de Franklin, al norte con el condado de Cumberland y al sureste con el condado de Carroll. Todos, excepto el condado de Carroll, se encuentran en Pensilvania, que a su vez está en Maryland.</lex><lex lang="es" lid="Id3">El Monumento a la 11ª Infantería del Mississippi se encuentra en el condado de Adams, Pensilvania, y está clasificado como bien contribuyente. El condado de Adams se encuentra al este del condado de Franklin y tiene el condado de Cumberland al norte y el condado de Carroll, Maryland, al sureste.</lex></entry>
+    <entry category="Monument" eid="Id18" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | west | Franklin_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southwest | Frederick_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsWest | Franklin_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSouthwest | Frederick_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Condado_de_Adams | TieneASuOeste | Condado_de_Franklin,_Pennsylvania</striple><striple>Condado_de_Adams | TieneASuSureste | Condado_de_Carroll,_Maryland</striple><striple>Condado_de_Adams | TieneAlNorte | Condado_de_Cumberland,_Pennsylvania</striple><striple>Condado_de_Adams | TieneASuSuroeste | Condado_de_Frederick</striple><striple>Monumento_a_la_11ª_Infantería_del_Mississippi | Ubicación | Condado_de_Adams</striple></spanishtripleset><lex lang="en" lid="Id1">Adams County, Pennsylvania is the location of the 11th Mississippi Infantry monument. To the west is Franklin County and to the north is Cumberland County. Carroll County, Maryland is located to the southeast, and Frederick County, Maryland - to the southwest.</lex>
+      <lex lang="en" lid="Id2">Adams County is located to the south of Cumberland County and east of Franklin County, Pennsylvania. Carroll County, Maryland is to the southeast, and Frederick County is to the southwest. It is the location of the 11th Mississippi Infantry Monument.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania. To the west of Adams County lies Franklin County, to the north is Cumberland County and the southwest lies Frederick County - all in Pennsylvania. To the southeast of Adams County lies Carroll County, Maryland.</lex>
+    <lex lang="es" lid="Id1">En el condado de Adams, Pensilvania, se encuentra el monumento a la 11ª Infantería del Mississippi. Al oeste se encuentra el condado de Franklin y al norte el condado de Cumberland. El condado de Carroll, Maryland, se encuentra al sureste, y el condado de Frederick, Maryland, al suroeste.</lex><lex lang="es" lid="Id2">El condado de Adams está situado al sur del condado de Cumberland y al este del condado de Franklin, Pensilvania. El condado de Carroll, Maryland, está al sureste, y el condado de Frederick, al suroeste. En él se encuentra el Monumento al 11º Soldado de Infantería del Mississippi.</lex><lex lang="es" lid="Id3">El monumento a la 11ª Infantería del Mississippi se encuentra en el condado de Adams, Pensilvania. Al oeste del condado de Adams se encuentra el condado de Franklin, al norte el condado de Cumberland y al suroeste el condado de Frederick, todos ellos en Pensilvania. Al sureste del condado de Adams se encuentra el condado de Carroll, Maryland.</lex></entry>
+    <entry category="Monument" eid="Id19" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</otriple>
+        <otriple>Turkey | capital | Ankara</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | material | "Bronze"@en</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | "1932-07-27"^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</mtriple>
+        <mtriple>Turkey | capital | Ankara</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | material | "Bronze"</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | "1932-07-27"</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Monumento_a_Atatürk_(Esmirna) | Diseñador | Pietro_Canonica</striple><striple>Turquía | Capital | Ankara</striple><striple>Monumento_a_Atatürk_(Esmirna) | Material | bronce</striple><striple>Monumento_a_Atatürk_(Esmirna) | FechaDeInauguración | 27-07-1932</striple><striple>Monumento_a_Atatürk_(Esmirna) | Ubicación | Turquía</striple></spanishtripleset><lex lang="en" lid="Id1">The bronze Ataturk monument in Izmir was designed by Pietro Canonica and was inaugurated in Turkey, where the capital is Ankara, on 27 July 1932.</lex>
+      <lex lang="en" lid="Id2">The Ataturk Monument in Turkey was designed in bronze by Pietro Canonica, It was inaugurated July 27th, 1932. The capital city of Turkey is Ankara .</lex>
+      <lex lang="en" lid="Id3">The Atatürk Monument (inaugurated on 27th July, 1932) in Izmir was designed by Pietro Canonica and is made of bronze. The Monument is located in İzmir, Turkey whose capital city is Ankara.</lex>
+    <lex lang="es" lid="Id1">El monumento de bronce a Ataturk en Izmir fue diseñado por Pietro Canonica e inaugurado en Turquía, cuya capital es Ankara, el 27 de julio de 1932.</lex><lex lang="es" lid="Id2">El monumento a Ataturk en Turquía fue diseñado en bronce por Pietro Canonica. Se inauguró el 27 de julio de 1932. La capital de Turquía es Ankara.</lex><lex lang="es" lid="Id3">El Monumento a Atatürk (inaugurado el 27 de julio de 1932) en Esmirna fue diseñado por Pietro Canonica y es de bronce. El monumento se encuentra en Esmirna (Turquía), cuya capital es Ankara.</lex></entry>
+    <entry category="Monument" eid="Id20" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</otriple>
+        <otriple>Turkey | leaderName | Ahmet_Davutoğlu</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | material | "Bronze"@en</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | "1932-07-27"^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</mtriple>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | material | "Bronze"</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | "1932-07-27"</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Monumento_a_Atatürk_(Esmirna) | Diseñador | Pietro_Canonica</striple><striple>Turquía | Líder | Ahmet_Davutoğlu</striple><striple>Monumento_a_Atatürk_(Esmirna) | Material | bronce</striple><striple>Monumento_a_Atatürk_(Esmirna) | FechaDeInauguración | 27-07-1932</striple><striple>Monumento_a_Atatürk_(Esmirna) | Ubicación | Turquía</striple></spanishtripleset><lex lang="en" lid="Id1">The Atatürk Monument in Turkey (İzmir) was designed by Pietro Canonica, is made of bronze and was inaugurated on 27th July, 1932. The Turkish leader's name is Ahmet Davutoglu.</lex>
+      <lex lang="en" lid="Id2">Designed by Pietro Canonica in bronze, The Atatürk Monument in Turkey was inaugurated in Izmir on July 27th 1932. The leader of Turkey is Ahmet Davutoglu.</lex>
+      <lex lang="en" lid="Id3">The Atatürk Monument in Izmir, Turkey, is made from Bronze. Designed by Pietro Canonica it was inaugurated on the 27th of July, 1932. Turkey's current leader is Ahmet Davutoğlu.</lex>
+    <lex lang="es" lid="Id1">El monumento a Atatürk en Turquía (Esmirna) fue diseñado por Pietro Canonica, es de bronce y se inauguró el 27 de julio de 1932. El nombre del líder turco es Ahmet Davutoglu.</lex><lex lang="es" lid="Id2">Diseñado por Pietro Canonica en bronce, el monumento a Atatürk en Turquía se inauguró en Izmir el 27 de julio de 1932. El líder de Turquía es Ahmet Davutoglu.</lex><lex lang="es" lid="Id3">El monumento a Atatürk en Izmir (Turquía) es de bronce. Fue diseñado por Pietro Canonica e inaugurado el 27 de julio de 1932. El actual líder de Turquía es Ahmet Davutoğlu.</lex></entry>
+    <entry category="Monument" eid="Id21" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</otriple>
+        <otriple>Turkey | leaderName | Ahmet_Davutoğlu</otriple>
+        <otriple>Turkey | currency | Turkish_lira</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | "1932-07-27"^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</mtriple>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        <mtriple>Turkey | currency | Turkish_lira</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | "1932-07-27"</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Monumento_a_Atatürk_(Esmirna) | Diseñador | Pietro_Canonica</striple><striple>Turquía | Líder | Ahmet_Davutoğlu</striple><striple>Turquía | Divisa | lira_turca</striple><striple>Monumento_a_Atatürk_(Esmirna) | FechaDeInauguración | 27-07-1932</striple><striple>Monumento_a_Atatürk_(Esmirna) | Ubicación | Turquía</striple></spanishtripleset><lex lang="en" lid="Id1">The 27th July, 1932 was the inauguration date of the Ataturk Monument in Izmir, Turkey; which was designed by Pietro Canonica. Ahmet Davutoglu is Turkeys leader and their national currency is the lira.</lex>
+      <lex lang="en" lid="Id2">Pietro Canonica designed the Ataturk Monument, which was inaugurated July 27, 1932 in Izmir, Turkey. The country's leader is Ahmet Davutoglu, and the currency is the Turkish lira.</lex>
+      <lex lang="en" lid="Id3">Pietro Canonica designed the Ataturk monument in Izmir which was inaugurated in Turkey on 27 July 1932. The Turkish currency is the lira and the leader is Ahmet Davutoglu.</lex>
+    <lex lang="es" lid="Id1">El 27 de julio de 1932 se inauguró el monumento a Ataturk en Izmir (Turquía), diseñado por Pietro Canonica. Ahmet Davutoglu es el líder turco y su moneda nacional es la lira.</lex><lex lang="es" lid="Id2">Pietro Canonica diseñó el monumento a Ataturk, inaugurado el 27 de julio de 1932 en Izmir (Turquía). El líder del país es Ahmet Davutoglu, y la moneda es la lira turca.</lex><lex lang="es" lid="Id3">Pietro Canonica diseñó el monumento a Ataturk en Izmir, inaugurado en Turquía el 27 de julio de 1932. La moneda turca es la lira y el líder es Ahmet Davutoglu.</lex></entry>
+    <entry category="Monument" eid="Id22" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Azerbaijan | capital | Baku</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Azerbaijan | leaderName | Artur_Rasizade</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | capital | Baku</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Azerbaijan | leader | Artur_Rasizade</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Azerbaiyán | Capital | Bakú</striple><striple>Monumento_a_los_mártires_turcos_de_Bakú | DedicadoA | Soldados_del_ejército_otomano_muertos_en_la_batalla_de_Bakú</striple><striple>Monumento_a_los_mártires_turcos_de_Bakú | Ubicación | Azerbaiyán</striple><striple>Azerbaiyán | Líder | Artur_Rasizade</striple><striple>Monumento_a_los_mártires_turcos_de_Bakú | Diseñador | Hüseyin_Bütüner_y_Hilmi_Güner</striple></spanishtripleset><lex lang="en" lid="Id1">Baku Turkish Martyrs' Memorial, designed by Hüseyin Bütüner and Hilmi Güner, is dedicated to the Ottoman Army soldiers killed in the Battle of Baku. The memorial is in Azerbaijan, whose capital is Baku and whose leader is Artur Rasizade.</lex>
+      <lex lang="en" lid="Id2">The Baku Turkish Martyrs' Memorial in Azerbaijan is dedicated to the Ottoman Army soldiers killed in the Battle of Baku. It was designed by Hüseyin Bütüner and Hilmi Güner. The leader of Turkey is Artur Rasizade.</lex>
+    <lex lang="es" lid="Id1">El Monumento a los Mártires Turcos de Bakú, diseñado por Hüseyin Bütüner e Hilmi Güner, está dedicado a los soldados del ejército otomano muertos en la Batalla de Bakú. El monumento se encuentra en Azerbaiyán, cuya capital es Bakú y cuyo líder es Artur Rasizade.</lex><lex lang="es" lid="Id2">El Monumento a los Mártires Turcos de Bakú, en Azerbaiyán, está dedicado a los soldados del ejército otomano muertos en la batalla de Bakú. Fue diseñado por Hüseyin Bütüner y Hilmi Güner. El líder de Turquía es Artur Rasizade.</lex></entry>
+    <entry category="Monument" eid="Id23" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Azerbaijan | capital | Baku</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | material | "Red granite and white marble"@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | capital | Baku</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | material | "Red granite and white marble"</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Azerbaiyán | Capital | Bakú</striple><striple>Monumento_a_los_mártires_turcos_de_Bakú | Material | Granito_rojo_y_mármol_blanco</striple><striple>Monumento_a_los_mártires_turcos_de_Bakú | DedicadoA | Soldados_del_ejército_otomano_muertos_en_la_batalla_de_Bakú</striple><striple>Monumento_a_los_mártires_turcos_de_Bakú | Ubicación | Azerbaiyán</striple><striple>Monumento_a_los_mártires_turcos_de_Bakú | Diseñador | Hüseyin_Bütüner_y_Hilmi_Güner</striple></spanishtripleset><lex lang="en" lid="Id1">A red granite and white marble monument dedicated to the Ottoman Army soldiers killed in the battle of Baku, is found in the capital of Azerbaijan, Baku. It is called the Turkish Martyrs Memorial and was designed by Huseyin Butuner and Hilmi Guner.</lex>
+      <lex lang="en" lid="Id2">The Baku Turkish Martyrs Memorial is made from red granite and white marble and is dedicated to the Ottoman Army soldiers killed in the Battle of Baku. It is located in Azerbaijan (capital Baku) and was designed by Huseyin Butuner and Hilmi Guner.</lex>
+    <lex lang="es" lid="Id1">En la capital de Azerbaiyán, Bakú, hay un monumento de granito rojo y mármol blanco dedicado a los soldados del ejército otomano muertos en la batalla de Bakú. Se llama Monumento a los Mártires Turcos y fue diseñado por Huseyin Butuner y Hilmi Guner.</lex><lex lang="es" lid="Id2">El Monumento a los Mártires Turcos de Bakú es de granito rojo y mármol blanco y está dedicado a los soldados del ejército otomano muertos en la Batalla de Bakú. Se encuentra en Azerbaiyán (capital, Bakú) y fue diseñado por Huseyin Butuner y Hilmi Guner.</lex></entry>
+    <entry category="Monument" eid="Id24" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Azerbaijan | leader | Artur_Rasizade</otriple>
+        <otriple>Azerbaijan | capital | Baku</otriple>
+        <otriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | leader | Artur_Rasizade</mtriple>
+        <mtriple>Azerbaijan | capital | Baku</mtriple>
+        <mtriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Azerbaiyán | Líder | Artur_Rasizade</striple><striple>Azerbaiyán | Capital | Bakú</striple><striple>Azerbaiyán | TítuloDeLíder | primer_ministro_de_Azerbaiyán</striple><striple>Monumento_a_los_mártires_turcos_de_Bakú | DedicadoA | Soldados_del_ejército_otomano_muertos_en_la_batalla_de_Bakú</striple><striple>Monumento_a_los_mártires_turcos_de_Bakú | Ubicación | Azerbaiyán</striple></spanishtripleset><lex lang="en" lid="Id1">Azerbaijan's leader is the Prime Minister and his name is Artur Rasizade. Baku Turkish Martyrs' Memorial, which is dedicated to the Ottoman Army soldiers killed in the Battle of Baku, is located in Azerbaijan whose capital is Baku.</lex>
+      <lex lang="en" lid="Id2">Artur Rasizade is the Prime Minister, the leader, of Azerbaijan. The capital city is Baku where the Turkish Martyrs Memorial is located. It is dedicated to the soldiers of the Ottoman army killed in the Battle of Baku.</lex>
+    <lex lang="es" lid="Id1">El líder de Azerbaiyán es el Primer Ministro y se llama Artur Rasizade. El Monumento a los Mártires Turcos de Bakú, dedicado a los soldados del ejército otomano muertos en la Batalla de Bakú, se encuentra en Azerbaiyán, cuya capital es Bakú.</lex><lex lang="es" lid="Id2">Artur Rasizade es el Primer Ministro, el líder, de Azerbaiyán. La capital es Bakú, donde se encuentra el Monumento a los Mártires Turcos. Está dedicado a los soldados del ejército otomano muertos en la batalla de Bakú.</lex></entry>
+    <entry category="Monument" eid="Id25" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | material | "Red granite and white marble"@en</otriple>
+        <otriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | nativeName | "Türk Şehitleri Anıtı"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | material | "Red granite and white marble"</mtriple>
+        <mtriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | nativeName | "Türk Şehitleri Anıtı"</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Monumento_a_los_mártires_turcos_de_Bakú | Material | Granito_rojo_y_mármol_blanco</striple><striple>Azerbaiyán | TítuloDeLíder | primer_ministro_de_Azerbaiyán</striple><striple>Monumento_a_los_mártires_turcos_de_Bakú | DedicadoA | Soldados_del_ejército_otomano_muertos_en_la_batalla_de_Bakú</striple><striple>Monumento_a_los_mártires_turcos_de_Bakú | Ubicación | Azerbaiyán</striple><striple>Monumento_a_los_mártires_turcos_de_Bakú | NombreNativo | Türk_Şehitleri_Anıtı</striple></spanishtripleset><lex lang="en" lid="Id1">The Baku Turkish Martyrs' Memorial in Azerbaijan is dedicated to the Ottoman Army soldiers killed in the Battle of Baku. The native name of the memorial is "Türk Sehitleri Aniti" and is made from red granite and white marble. The Prime Minister of Azerbaijan is the official title of the leader of the country.</lex>
+      <lex lang="en" lid="Id2">The Baku Turkish Martyrs memorial is dedicated to the Ottoman Army soldiers killed in the Battle of Baku. The red granite and white marble memorial is also known as Turk Sehitleri Aniti and is located in Azerbaijan where the leader is known as the Prime Minister.</lex>
+    <lex lang="es" lid="Id1">El Monumento a los Mártires Turcos de Bakú, en Azerbaiyán, está dedicado a los soldados del ejército otomano muertos en la batalla de Bakú. El nombre nativo del monumento es "Türk Sehitleri Aniti" y está hecho de granito rojo y mármol blanco. El Primer Ministro de Azerbaiyán es el título oficial del dirigente del país.</lex><lex lang="es" lid="Id2">El monumento a los mártires turcos de Bakú está dedicado a los soldados del ejército otomano muertos en la batalla de Bakú. El monumento conmemorativo de granito rojo y mármol blanco también se conoce como Turk Sehitleri Aniti y se encuentra en Azerbaiyán, donde el líder es conocido como el Primer Ministro.</lex></entry>
+    <entry category="Monument" eid="Id26" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | material | "Red granite and white marble"@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Azerbaijan | leaderName | Artur_Rasizade</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | material | "Red granite and white marble"</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Azerbaijan | leader | Artur_Rasizade</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Monumento_a_los_mártires_turcos_de_Bakú | Material | Granito_rojo_y_mármol_blanco</striple><striple>Monumento_a_los_mártires_turcos_de_Bakú | DedicadoA | Soldados_del_ejército_otomano_muertos_en_la_batalla_de_Bakú</striple><striple>Monumento_a_los_mártires_turcos_de_Bakú | Ubicación | Azerbaiyán</striple><striple>Azerbaiyán | Líder | Artur_Rasizade</striple><striple>Monumento_a_los_mártires_turcos_de_Bakú | Diseñador | Hüseyin_Bütüner_y_Hilmi_Güner</striple></spanishtripleset><lex lang="en" lid="Id1">Huseyin Butuner and Hilmi Guner designed the red granite and white marble Baku Turkish Martyrs memorial which is dedicated to the Ottoman army soldiers killed in the Battle of Baku. The memorial is located in Azerbaijan where the leader is Artur Rasizade.</lex>
+      <lex lang="en" lid="Id2">Huseyin Butuner and Hilmi Guner designed the red granite and white marble Baku Turkish Martyrs memorial. The memorial is dedicated to the soldiers of the Ottoman army who died in the battle of Baku and is located in Azerbaijan where the leader is Artur Rasizade.</lex>
+    <lex lang="es" lid="Id1">Huseyin Butuner y Hilmi Guner diseñaron el monumento a los mártires turcos de Bakú, de granito rojo y mármol blanco, dedicado a los soldados del ejército otomano muertos en la batalla de Bakú. El monumento está situado en Azerbaiyán, bajo la dirección de Artur Rasizade.</lex><lex lang="es" lid="Id2">Huseyin Butuner y Hilmi Guner diseñaron el monumento a los mártires turcos de Bakú, de granito rojo y mármol blanco. El monumento está dedicado a los soldados del ejército otomano que murieron en la batalla de Bakú y se encuentra en Azerbaiyán, donde el jefe es Artur Rasizade.</lex></entry>
+    <entry category="Monument" eid="Id27" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | material | "Red granite and white marble"@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | nativeName | "Türk Şehitleri Anıtı"@en</otriple>
+        <otriple>Azerbaijan | leaderName | Artur_Rasizade</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | material | "Red granite and white marble"</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | nativeName | "Türk Şehitleri Anıtı"</mtriple>
+        <mtriple>Azerbaijan | leader | Artur_Rasizade</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Monumento_a_los_mártires_turcos_de_Bakú | Material | Granito_rojo_y_mármol_blanco</striple><striple>Monumento_a_los_mártires_turcos_de_Bakú | DedicadoA | Soldados_del_ejército_otomano_muertos_en_la_batalla_de_Bakú</striple><striple>Monumento_a_los_mártires_turcos_de_Bakú | Ubicación | Azerbaiyán</striple><striple>Monumento_a_los_mártires_turcos_de_Bakú | NombreNativo | Türk_Şehitleri_Anıtı</striple><striple>Azerbaiyán | Líder | Artur_Rasizade</striple></spanishtripleset><lex lang="en" lid="Id1">The leader of Azerbaijan is Artur Rasizade. The country is the location of the Baku Turkish Martyrs memorial which is made of red granite and white marble and dedicated to the soldiers of the Ottoman army killed in the Battle of Baku. The native name of the memorial is Turk Sehitleri Aniti.</lex>
+      <lex lang="en" lid="Id2">The alternative name of the Baku Turkish Martyrs memorial is Turk Sehitleri Aniti. It is located in Azerbaijan which is led by Artur Rasizade. The memorial is made of red granite and white marble and dedicated to the soldiers of the Ottoman army killed in the Battle of Baku.</lex>
+      <lex lang="en" lid="Id3">Turk Sehitleri Aniti is the local name of the red granite and white marble Baku Turkish Martyrs memorial. The memorial is located in Baku, Azerbaijan where the leader is Artur Rasizade. It is dedicated to the memory of the Ottoman army soldiers killed in the battle of Baku.</lex>
+    <lex lang="es" lid="Id1">El líder de Azerbaiyán es Artur Rasizade. En el país se encuentra el monumento a los mártires turcos de Bakú, de granito rojo y mármol blanco, dedicado a los soldados del ejército otomano muertos en la batalla de Bakú. El nombre nativo del monumento es Turk Sehitleri Aniti.</lex><lex lang="es" lid="Id2">El nombre alternativo del monumento a los mártires turcos de Bakú es Turk Sehitleri Aniti. Se encuentra en Azerbaiyán y está dirigido por Artur Rasizade. El monumento está hecho de granito rojo y mármol blanco y dedicado a los soldados del ejército otomano muertos en la batalla de Bakú.</lex><lex lang="es" lid="Id3">Turk Sehitleri Aniti es el nombre local del monumento conmemorativo de granito rojo y mármol blanco a los mártires turcos de Bakú. El monumento se encuentra en Bakú (Azerbaiyán) y su director es Artur Rasizade. Está dedicado a la memoria de los soldados del ejército otomano muertos en la batalla de Bakú.</lex></entry>
+    <entry category="Monument" eid="Id28" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | location | England</otriple>
+        <otriple>England | capital | London</otriple>
+        <otriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</otriple>
+        <otriple>England | languages | Cornish_language</otriple>
+        <otriple>England | religion | Church_of_England</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | location | England</mtriple>
+        <mtriple>England | capital | London</mtriple>
+        <mtriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</mtriple>
+        <mtriple>England | language | Cornish_language</mtriple>
+        <mtriple>England | religion | Church_of_England</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Plack_del_Hombre_Muerto | Ubicación | Inglaterra</striple><striple>Inglaterra | Capital | Londres</striple><striple>Plack_del_Hombre_Muerto | DedicadoA | Æthelwald,_Ealdorman_de_Anglia_Oriental</striple><striple>Inglaterra | Idioma | córnico</striple><striple>Inglaterra | Religión | Iglesia_de_Inglaterra</striple></spanishtripleset><lex lang="en" lid="Id1">England, where the capital is London, is the home of the Cornish language and the established religion of the Church of England. It is also the location of Dead Mans Plack which is dedicated to Aethelwald, Ealdorman of East Anglia.</lex>
+      <lex lang="en" lid="Id2">Dead Man's Plack is in England (capital: London, religion: the Church of England) and is dedicated to Æthelwald, Ealdorman of East Anglia. Cornish is a language spoken in the Cornwall region of England.</lex>
+    <lex lang="es" lid="Id1">Inglaterra, cuya capital es Londres, es el hogar de la lengua córnica y de la religión establecida de la Iglesia de Inglaterra. También es el lugar donde se encuentra Dead Mans Plack, dedicado a Aethelwald, Ealdorman de Anglia Oriental.</lex><lex lang="es" lid="Id2">Dead Man's Plack se encuentra en Inglaterra (capital: Londres, religión: Iglesia de Inglaterra) y está dedicada a Æthelwald, Ealdorman de Anglia Oriental. El córnico es una lengua hablada en la región inglesa de Cornualles.</lex></entry>
+    <entry category="Monument" eid="Id29" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | location | England</otriple>
+        <otriple>England | capital | London</otriple>
+        <otriple>England | languages | Cornish_language</otriple>
+        <otriple>England | religion | Church_of_England</otriple>
+        <otriple>Dead_Man's_Plack | material | Rock_(geology)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | location | England</mtriple>
+        <mtriple>England | capital | London</mtriple>
+        <mtriple>England | language | Cornish_language</mtriple>
+        <mtriple>England | religion | Church_of_England</mtriple>
+        <mtriple>Dead_Man's_Plack | material | Rock_(geology)</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Plack_del_Hombre_Muerto | Ubicación | Inglaterra</striple><striple>Inglaterra | Capital | Londres</striple><striple>Inglaterra | Idioma | córnico</striple><striple>Inglaterra | Religión | Iglesia_de_Inglaterra</striple><striple>Plack_del_Hombre_Muerto | Material | roca_(geología)</striple></spanishtripleset><lex lang="en" lid="Id1">Dead Man's Plack (made of rock) is found in England whose capital city is London. The main religion of this country is the Church of England and in the Cornwall region a language called Cornish is sometimes spoken.</lex>
+      <lex lang="en" lid="Id2">The established religion in England is The Church of England and the capital is London. Cornish language can be heard spoken and you can find Dead Man's Plack which is made of rock.</lex>
+      <lex lang="en" lid="Id3">The Dead Man's Plack is located in England and made of stone. The established religion in England is the Church of England, and Cornish is one of the languages spoken in the country, with London being the capital.</lex>
+    <lex lang="es" lid="Id1">Dead Man's Plack (hecho de roca) se encuentra en Inglaterra, cuya capital es Londres. La religión principal de este país es la Iglesia de Inglaterra y en la región de Cornualles se habla a veces una lengua llamada córnico.</lex><lex lang="es" lid="Id2">La religión establecida en Inglaterra es la Iglesia de Inglaterra y la capital es Londres. Se puede oír hablar en córnico y se encuentra el Dead Man's Plack, hecho de roca.</lex><lex lang="es" lid="Id3">El Dead Man's Plack se encuentra en Inglaterra y está hecho de piedra. La religión establecida en Inglaterra es la Iglesia de Inglaterra, y el córnico es una de las lenguas habladas en el país, cuya capital es Londres.</lex></entry>
+    <entry category="Monument" eid="Id30" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | location | England</otriple>
+        <otriple>England | ethnicGroups | British_Arabs</otriple>
+        <otriple>England | capital | London</otriple>
+        <otriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</otriple>
+        <otriple>Dead_Man's_Plack | material | Rock_(geology)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | location | England</mtriple>
+        <mtriple>England | ethnicGroup | British_Arabs</mtriple>
+        <mtriple>England | capital | London</mtriple>
+        <mtriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</mtriple>
+        <mtriple>Dead_Man's_Plack | material | Rock_(geology)</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Plack_del_Hombre_Muerto | Ubicación | Inglaterra</striple><striple>Inglaterra | GrupoÉtnico | Árabes_británicos</striple><striple>Inglaterra | Capital | Londres</striple><striple>Plack_del_Hombre_Muerto | DedicadoA | Æthelwald,_Ealdorman_de_Anglia_Oriental</striple><striple>Plack_del_Hombre_Muerto | Material | roca_(geología)</striple></spanishtripleset><lex lang="en" lid="Id1">Dead Man's Plack is a rock monument located in England and dedicated to Aethelwald, Ealdorman of East Anglia. One of the English ethnic groups are the British Arabs, and the capital of the country is London.</lex>
+      <lex lang="en" lid="Id2">The British Arabs are one of the ethnic groups to be found in England, where the capital city is London. Also located in the country is Dead Man's Plack, a stone monument dedicated to Aethelwald, Ealdorman of East Anglia.</lex>
+      <lex lang="en" lid="Id3">England's capital is London and one of the ethnic groups found in the country are the British Arabs. Dead Mans Plack is a rock monument found in the country and dedicated to Aethelwald, Ealdorman of East Anglia.</lex>
+    <lex lang="es" lid="Id1">Dead Man's Plack es un monumento rupestre situado en Inglaterra y dedicado a Aethelwald, Ealdorman de Anglia Oriental. Uno de los grupos étnicos ingleses son los árabes británicos, y la capital del país es Londres.</lex><lex lang="es" lid="Id2">Los árabes británicos son uno de los grupos étnicos que se encuentran en Inglaterra, cuya capital es Londres. También se encuentra en el país Dead Man's Plack, un monumento de piedra dedicado a Aethelwald, Ealdorman de Anglia Oriental.</lex><lex lang="es" lid="Id3">La capital de Inglaterra es Londres y uno de los grupos étnicos que se encuentran en el país son los árabes británicos. Dead Mans Plack es un monumento rupestre hallado en el país y dedicado a Aethelwald, Ealdorman de Anglia Oriental.</lex></entry>
+    <entry category="Monument" eid="Id31" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | location | England</otriple>
+        <otriple>England | ethnicGroups | British_Arabs</otriple>
+        <otriple>England | capital | London</otriple>
+        <otriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</otriple>
+        <otriple>England | languages | Cornish_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | location | England</mtriple>
+        <mtriple>England | ethnicGroup | British_Arabs</mtriple>
+        <mtriple>England | capital | London</mtriple>
+        <mtriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</mtriple>
+        <mtriple>England | language | Cornish_language</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Plack_del_Hombre_Muerto | Ubicación | Inglaterra</striple><striple>Inglaterra | GrupoÉtnico | Árabes_británicos</striple><striple>Inglaterra | Capital | Londres</striple><striple>Plack_del_Hombre_Muerto | DedicadoA | Æthelwald,_Ealdorman_de_Anglia_Oriental</striple><striple>Inglaterra | Idioma | córnico</striple></spanishtripleset><lex lang="en" lid="Id1">The capital of England is London and one of the many ethnic groups found in the country are the British Arabs. Dead Man's Plack is located within the country and dedicated to Aethelwald, Ealdorman of East Anglia. Within the region of Cornwall the old Cornish language can still be heard.</lex>
+      <lex lang="en" lid="Id2">Dead Man's Plack, located in England, is dedicated to Æthelwald, Ealdorman of East Anglia. England's capital city is London and one of the ethnic groups of the country are the British Arabs. One of the languages spoken in England is Cornish.</lex>
+      <lex lang="en" lid="Id3">London is the capital of England where the Cornish language can be heard in the region of Cornwall. The country contains different ethnic groups, one of which is the British Arabs. It is also the location of Dead Mans Plack which is dedicated to Aethelwald, Ealdorman of East Anglia.</lex>
+    <lex lang="es" lid="Id1">La capital de Inglaterra es Londres y uno de los muchos grupos étnicos que se encuentran en el país son los árabes británicos. Dentro del país se encuentra Dead Man's Plack, dedicada a Aethelwald, Ealdorman de Anglia Oriental. En la región de Cornualles aún puede oírse la antigua lengua córnica.</lex><lex lang="es" lid="Id2">Dead Man's Plack, situada en Inglaterra, está dedicada a Æthelwald, Ealdorman de Anglia Oriental. La capital de Inglaterra es Londres y uno de los grupos étnicos del país son los árabes británicos. Una de las lenguas habladas en Inglaterra es el córnico.</lex><lex lang="es" lid="Id3">Londres es la capital de Inglaterra, donde el córnico puede oírse en la región de Cornualles. En el país conviven diferentes grupos étnicos, uno de los cuales es el de los árabes británicos. También es el lugar donde se encuentra Dead Mans Plack, dedicado a Aethelwald, Ealdorman de Anglia Oriental.</lex></entry>
+    <entry category="Monument" eid="Id32" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | location | England</otriple>
+        <otriple>England | ethnicGroups | British_Arabs</otriple>
+        <otriple>England | capital | London</otriple>
+        <otriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</otriple>
+        <otriple>England | religion | Church_of_England</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | location | England</mtriple>
+        <mtriple>England | ethnicGroup | British_Arabs</mtriple>
+        <mtriple>England | capital | London</mtriple>
+        <mtriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</mtriple>
+        <mtriple>England | religion | Church_of_England</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Plack_del_Hombre_Muerto | Ubicación | Inglaterra</striple><striple>Inglaterra | GrupoÉtnico | Árabes_británicos</striple><striple>Inglaterra | Capital | Londres</striple><striple>Plack_del_Hombre_Muerto | DedicadoA | Æthelwald,_Ealdorman_de_Anglia_Oriental</striple><striple>Inglaterra | Religión | Iglesia_de_Inglaterra</striple></spanishtripleset><lex lang="en" lid="Id1">The established religion of England, where the capital is London, is The Church of England. Located within the country is Dead Man's Plack which is dedicated to Aethelwald, Ealdorman of East Anglia. One of the ethnic groups in the country are the British Arabs.</lex>
+      <lex lang="en" lid="Id2">The Dead Man's Plack, found in England, is dedicated to Æthelwald, Ealdorman of East Anglia. England's capital city is London, the main religion is the Church of England and one of the ethnic groups in the country are the British Arabs.</lex>
+    <lex lang="es" lid="Id1">La religión establecida en Inglaterra, cuya capital es Londres, es la Iglesia de Inglaterra. Dentro del país se encuentra Dead Man's Plack, dedicado a Aethelwald, Ealdorman de Anglia Oriental. Uno de los grupos étnicos del país son los árabes británicos.</lex><lex lang="es" lid="Id2">El Plack del Hombre Muerto, hallado en Inglaterra, está dedicado a Æthelwald, Ealdorman de Anglia Oriental. La capital de Inglaterra es Londres, la religión principal es la Iglesia de Inglaterra y uno de los grupos étnicos del país son los árabes británicos.</lex></entry>
+    <entry category="Monument" eid="Id33" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | location | England</otriple>
+        <otriple>England | ethnicGroups | British_Arabs</otriple>
+        <otriple>England | capital | London</otriple>
+        <otriple>England | languages | Cornish_language</otriple>
+        <otriple>England | religion | Church_of_England</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | location | England</mtriple>
+        <mtriple>England | ethnicGroup | British_Arabs</mtriple>
+        <mtriple>England | capital | London</mtriple>
+        <mtriple>England | language | Cornish_language</mtriple>
+        <mtriple>England | religion | Church_of_England</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Plack_del_Hombre_Muerto | Ubicación | Inglaterra</striple><striple>Inglaterra | GrupoÉtnico | Árabes_británicos</striple><striple>Inglaterra | Capital | Londres</striple><striple>Inglaterra | Idioma | córnico</striple><striple>Inglaterra | Religión | Iglesia_de_Inglaterra</striple></spanishtripleset><lex lang="en" lid="Id1">Dead Man's Plack is found in England (capital: London, religion: The Church of England). One of the ethnic groups found in England is the British Arabs and one of the languages spoken in England is the Cornish language.</lex>
+      <lex lang="en" lid="Id2">England, where the capital city is London, is the location of Dead Man's Plack. The established religion of the country is The Church of England and one of the several indigenous languages is the Cornish language. There are various ethnic groups one of which is the British Arabs.</lex>
+      <lex lang="en" lid="Id3">The Cornish language is still spoken within England although not often heard within the capital, London. It is also the location of Dead Man's Plack. One of the ethnic groups in the country are the British Arabs, and the established religion is the Church of England.</lex>
+    <lex lang="es" lid="Id1">Dead Man's Plack se encuentra en Inglaterra (capital: Londres, religión: Iglesia de Inglaterra). Uno de los grupos étnicos de Inglaterra son los árabes británicos y una de las lenguas habladas en Inglaterra es el córnico.</lex><lex lang="es" lid="Id2">En Inglaterra, cuya capital es Londres, se encuentra Dead Man's Plack. La religión oficial del país es la Iglesia de Inglaterra y una de las lenguas autóctonas es el córnico. Existen varios grupos étnicos, uno de los cuales es el de los árabes británicos.</lex><lex lang="es" lid="Id3">La lengua córnica aún se habla en Inglaterra, aunque no es frecuente oírla en la capital, Londres. Allí se encuentra también Dead Man's Plack. Uno de los grupos étnicos del país son los árabes británicos, y la religión establecida es la Iglesia de Inglaterra.</lex></entry>
+    <entry category="Monument" eid="Id34" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | location | England</otriple>
+        <otriple>England | ethnicGroups | British_Arabs</otriple>
+        <otriple>England | capital | London</otriple>
+        <otriple>England | religion | Church_of_England</otriple>
+        <otriple>Dead_Man's_Plack | material | Rock_(geology)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | location | England</mtriple>
+        <mtriple>England | ethnicGroup | British_Arabs</mtriple>
+        <mtriple>England | capital | London</mtriple>
+        <mtriple>England | religion | Church_of_England</mtriple>
+        <mtriple>Dead_Man's_Plack | material | Rock_(geology)</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Plack_del_Hombre_Muerto | Ubicación | Inglaterra</striple><striple>Inglaterra | GrupoÉtnico | Árabes_británicos</striple><striple>Inglaterra | Capital | Londres</striple><striple>Inglaterra | Religión | Iglesia_de_Inglaterra</striple><striple>Plack_del_Hombre_Muerto | Material | roca_(geología)</striple></spanishtripleset><lex lang="en" lid="Id1">The British Arabs are one of the ethnic groups to be found in England, which has the capital city of London. England is the location of the rock monument known as Dead Man's Plack, and where the main religion is the Church of England.</lex>
+      <lex lang="en" lid="Id2">Dead Man's Plack (made of rock) is found in England, the capital of which is London. The British Arabs are an English ethnic group and the main religion of the country is the Church of England.</lex>
+      <lex lang="en" lid="Id3">Dead Man's Plack is found in England and is made from rock. The capital of England is London and its religion is Church of England. The British Arabs are an English ethnic group.</lex>
+    <lex lang="es" lid="Id1">Los árabes británicos son uno de los grupos étnicos que se encuentran en Inglaterra, cuya capital es Londres. En Inglaterra se encuentra el monumento rocoso conocido como Dead Man's Plack, y donde la religión principal es la Iglesia de Inglaterra.</lex><lex lang="es" lid="Id2">El Dead Man's Plack (hecho de roca) se encuentra en Inglaterra, cuya capital es Londres. Los árabes británicos son un grupo étnico inglés y la principal religión del país es la Iglesia de Inglaterra.</lex><lex lang="es" lid="Id3">Dead Man's Plack se encuentra en Inglaterra y está hecho de roca. La capital de Inglaterra es Londres y su religión es la Iglesia de Inglaterra. Los árabes británicos son un grupo étnico inglés.</lex></entry>
+    <entry category="Monument" eid="Id35" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"@en</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+        <otriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+        <mtriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Monocacy_National_Battlefield | Ubicación | Condado_de_Frederick</striple><striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | País | Estados_Unidos</striple><striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Categoría | distrito_histórico_de_Estados_Unidos</striple><striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Distrito | Monocacy_National_Battlefield</striple><striple>Monocacy_National_Battlefield | CiudadMásCercana | Frederick,_Maryland</striple></spanishtripleset><lex lang="en" lid="Id1">The 14th New Jersey Volunteer Infantry Monument is located in the district of the Monocacy National Battlefield, Frederick County, Maryland and is categorised as a historic district in the United States. Frederick is the closest city to the battlefield.</lex>
+      <lex lang="en" lid="Id2">The 14th New Jersey Volunteer Infantry Monument is located on the Monocacy National Battlefield, Frederick County, Maryland and is categorised as a historic district in the United States. The closest city to the battlefield is Frederick.</lex>
+      <lex lang="en" lid="Id3">The 14th New Jersey Volunteer Infantry Monument is a historic district and is found at the Monocacy National Battlefield in Frederick County, Maryland, U.S.A. The nearest city to the battlefield is Frederick.</lex>
+    <lex lang="es" lid="Id1">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey se encuentra en el distrito del Campo de Batalla Nacional de Monocacy, en el condado de Frederick, Maryland, y está catalogado como distrito histórico en Estados Unidos. Frederick es la ciudad más cercana al campo de batalla.</lex><lex lang="es" lid="Id2">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey se encuentra en el Campo de Batalla Nacional de Monocacy, en el condado de Frederick, Maryland, y está clasificado como distrito histórico en Estados Unidos. La ciudad más cercana al campo de batalla es Frederick.</lex><lex lang="es" lid="Id3">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey es un distrito histórico y se encuentra en el Campo de Batalla Nacional de Monocacy, en el condado de Frederick, Maryland, EE.UU. La ciudad más cercana al campo de batalla es Frederick.</lex></entry>
+    <entry category="Monument" eid="Id36" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | owner | National_Park_Service</otriple>
+        <otriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | foundingDate | "1907-07-11"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | owner | National_Park_Service</mtriple>
+        <mtriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | foundingDate | 1907-07-11</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Monocacy_National_Battlefield | Ubicación | Condado_de_Frederick</striple><striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Distrito | Monocacy_National_Battlefield</striple><striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Propietario | Servicio_de_Parques_Nacionales</striple><striple>Monocacy_National_Battlefield | CiudadMásCercana | Frederick,_Maryland</striple><striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | FechaDeFundación | 11-07-1907</striple></spanishtripleset><lex lang="en" lid="Id1">The city of Frederick, Maryland is the nearest city to the Monocacy National Battlefield, Frederick County, where the 14th New Jersey Volunteer Infantry monument is located. The founding date of the memorial was 11 July 1907 and it is looked after by the National Park Service.</lex>
+      <lex lang="en" lid="Id2">A memorial in honour of the 14th New Jersey Volunteer Infantry was founded on 11th July, 1907. The monument is located in the Monocacy National Battlefield (Frederick County, Maryland), which is owned by the National Park service. The Battlefield has Frederick, Maryland as the nearest city.</lex>
+    <lex lang="es" lid="Id1">La ciudad de Frederick, Maryland, es la ciudad más cercana al Campo de Batalla Nacional de Monocacy, en el condado de Frederick, donde se encuentra el monumento a la 14ª Infantería Voluntaria de Nueva Jersey. La fecha de fundación del monumento fue el 11 de julio de 1907 y está custodiado por el Servicio de Parques Nacionales.</lex><lex lang="es" lid="Id2">El 11 de julio de 1907 se erigió un monumento en honor de la 14ª Infantería Voluntaria de Nueva Jersey. El monumento se encuentra en el Campo de Batalla Nacional de Monocacy (condado de Frederick, Maryland), propiedad del Servicio de Parques Nacionales. La ciudad más cercana al campo de batalla es Frederick, Maryland.</lex></entry>
+    <entry category="Monument" eid="Id37" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"^^xsd:date</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Monocacy_National_Battlefield | Ubicación | Condado_de_Frederick</striple><striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Establecido | 11-07-1907</striple><striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Categoría | distrito_histórico_de_Estados_Unidos</striple><striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Distrito | Monocacy_National_Battlefield</striple><striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | OrganizaciónPropietaria | Servicio_de_Parques_Nacionales</striple></spanishtripleset><lex lang="en" lid="Id1">Frederick County, Maryland is the location of the Monocacy National Battlefield where the 14th New Jersey Volunteer Infantry monument is located. It was established on 11 July 1907 being provided by the National Park Service and is categorised as a historic district in the United States.</lex>
+      <lex lang="en" lid="Id2">The 14th New Jersey Volunteer Infantry Monument which was established 1907-07-11 is found in the Monocacy National Battlefield, Frederick County, Maryland. The monument has been provided by the National Park Service and belongs to the category of Historic districts in the United States.</lex>
+    <lex lang="es" lid="Id1">En el condado de Frederick, Maryland, se encuentra el Campo de Batalla Nacional de Monocacy, donde está el monumento a la 14ª Infantería Voluntaria de Nueva Jersey. Fue establecido el 11 de julio de 1907 siendo proporcionado por el Servicio de Parques Nacionales y está categorizado como distrito histórico en los Estados Unidos.</lex><lex lang="es" lid="Id2">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey, creado el 11 de julio de 1907, se encuentra en el Campo de Batalla Nacional de Monocacy, en el condado de Frederick, Maryland. El monumento ha sido proporcionado por el Servicio de Parques Nacionales y pertenece a la categoría de distritos históricos en los Estados Unidos.</lex></entry>
+    <entry category="Monument" eid="Id38" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"^^xsd:date</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+        <otriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+        <mtriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Monocacy_National_Battlefield | Ubicación | Condado_de_Frederick</striple><striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Establecido | 11-07-1907</striple><striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Categoría | distrito_histórico_de_Estados_Unidos</striple><striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Distrito | Monocacy_National_Battlefield</striple><striple>Monocacy_National_Battlefield | CiudadMásCercana | Frederick,_Maryland</striple></spanishtripleset><lex lang="en" lid="Id1">Frederick city in Frederick County, Maryland is the nearest city to the Monocacy National Battlefield which is the location of the 14th New Jersey Volunteer Infantry monument. The monument was established on 11 July 1907 and belongs to the category of historic districts in the United States.</lex>
+      <lex lang="en" lid="Id2">The city of Frederick, Maryland in Frederick county is the nearest city to the location of the 14th New Jersey Volunteer Infantry monument at Monocacy National Battlefield. The monument was established on 11 July 1907 and belongs to the category of the historic districts of the United States.</lex>
+      <lex lang="en" lid="Id3">The 14th New Jersey Volunteer Infantry monument which belongs to the category of historic districts in the United States, was established on 11 July 1907 within the Monocacy National Battlefield in Frederick County Maryland. The nearest city to the battlefield is Frederick.</lex>
+    <lex lang="es" lid="Id1">La ciudad de Frederick, en el condado de Frederick (Maryland), es la más cercana al Campo de Batalla Nacional de Monocacy, donde se encuentra el monumento a la 14ª Infantería Voluntaria de Nueva Jersey. El monumento se creó el 11 de julio de 1907 y pertenece a la categoría de distritos históricos de Estados Unidos.</lex><lex lang="es" lid="Id2">La ciudad de Frederick, Maryland, en el condado de Frederick, es la ciudad más cercana a la ubicación del monumento a la 14ª Infantería Voluntaria de Nueva Jersey en el Campo de Batalla Nacional de Monocacy. El monumento se creó el 11 de julio de 1907 y pertenece a la categoría de distritos históricos de Estados Unidos.</lex><lex lang="es" lid="Id3">El monumento a la 14ª Infantería Voluntaria de Nueva Jersey, que pertenece a la categoría de distritos históricos de Estados Unidos, se estableció el 11 de julio de 1907 dentro del Campo de Batalla Nacional de Monocacy, en el condado de Frederick, Maryland. La ciudad más cercana al campo de batalla es Frederick.</lex></entry>
+    <entry category="Monument" eid="Id39" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"^^xsd:date</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"@en</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Monocacy_National_Battlefield | Ubicación | Condado_de_Frederick</striple><striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Establecido | 11-07-1907</striple><striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | País | Estados_Unidos</striple><striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Categoría | distrito_histórico_de_Estados_Unidos</striple><striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Distrito | Monocacy_National_Battlefield</striple></spanishtripleset><lex lang="en" lid="Id1">The Monocacy National Battlefield is found in Frederick County, Maryland. The 14th New Jersey Volunteer Infantry Monument was established on July 11th, 1907 and can be found in the Monocacy National Battlefield. The monument is part of the category of Historic districts in the United States.</lex>
+      <lex lang="en" lid="Id2">The 14th New Jersey Volunteer Infantry Monument is located in the district of the Monocacy National Battlefield, Frederick County, United States. It was established on 11 July 1907 and is categorised as a historic district.</lex>
+    <lex lang="es" lid="Id1">El Campo de Batalla Nacional de Monocacy se encuentra en el condado de Frederick, Maryland. El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey se erigió el 11 de julio de 1907 y se encuentra en el Campo de Batalla Nacional de Monocacy. El monumento pertenece a la categoría de Distritos históricos de Estados Unidos.</lex><lex lang="es" lid="Id2">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey se encuentra en el distrito del Campo de Batalla Nacional de Monocacy, en el condado de Frederick (Estados Unidos). Se creó el 11 de julio de 1907 y está clasificado como distrito histórico.</lex></entry>
+    <entry category="Monument" eid="Id40" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"^^xsd:date</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+        <otriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+        <mtriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Monocacy_National_Battlefield | Ubicación | Condado_de_Frederick</striple><striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Establecido | 11-07-1907</striple><striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | Distrito | Monocacy_National_Battlefield</striple><striple>Monocacy_National_Battlefield | CiudadMásCercana | Frederick,_Maryland</striple><striple>Monumento_a_la_14ª_Infantería_Voluntaria_de_Nueva_Jersey | OrganizaciónPropietaria | Servicio_de_Parques_Nacionales</striple></spanishtripleset><lex lang="en" lid="Id1">The 14th New Jersey Volunteer Infantry Monument established 11th July 1907 is located on the Monocacy National Battlefield, Frederick County, Maryland. The National Park Service is responsible for its upkeep.</lex>
+      <lex lang="en" lid="Id2">The 14th New Jersey Volunteer Infantry Monument by the National Park Service, located in the Monocacy National Battlefield was established in 1907-07-11. The Monocacy National Battlefield is located in Frederick County, Maryland and the nearest city to it is Frederick, Maryland.</lex>
+    <lex lang="es" lid="Id1">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey, erigido el 11 de julio de 1907, se encuentra en el Campo de Batalla Nacional de Monocacy, en el condado de Frederick, Maryland. El Servicio de Parques Nacionales es responsable de su mantenimiento.</lex><lex lang="es" lid="Id2">El Monumento a la 14ª Infantería Voluntaria de Nueva Jersey del Servicio de Parques Nacionales, situado en el Campo de Batalla Nacional de Monocacy, se estableció en 11 de julio de 1907. El Monocacy National Battlefield se encuentra en el condado de Frederick, Maryland, y la ciudad más cercana es Frederick, Maryland.</lex></entry>
+    <entry category="Monument" eid="Id41" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Turkey | leader | Ahmet_Davutoğlu</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</otriple>
+        <otriple>Turkey | capital | Ankara</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | "1932-07-27"^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</mtriple>
+        <mtriple>Turkey | capital | Ankara</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | "1932-07-27"</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Turquía | Líder | Ahmet_Davutoğlu</striple><striple>Monumento_a_Atatürk_(Esmirna) | Diseñador | Pietro_Canonica</striple><striple>Turquía | Capital | Ankara</striple><striple>Monumento_a_Atatürk_(Esmirna) | FechaDeInauguración | 27-07-1932</striple><striple>Monumento_a_Atatürk_(Esmirna) | Ubicación | Turquía</striple></spanishtripleset><lex lang="en" lid="Id1">The Ataturk monument (Izmir) which was designed by Pietro Canonica is located in Turkey. The country's leader is Ahmet Davutoglu and the capital is Ankara. The monument was inaugurated on 27 July 1932.</lex>
+      <lex lang="en" lid="Id2">Ataturk monument, which was designed by Pietro Canonica is located in Izmur, Turkey where its inauguration took place on 27 July 1932. The capital of Turkey is Ankara and the leader is Ahmet Davutoglu.</lex>
+      <lex lang="en" lid="Id3">The Atatürk Monument (İzmir), located in Turkey, was designed by Pietro Canonica. Led by Ahmet Davutoğlu, the Monument can be found in Ankara, the capital of Turkey. The Monument was inaugurated on July 27th, 1932.</lex>
+    <lex lang="es" lid="Id1">El monumento a Ataturk (Izmir), diseñado por Pietro Canonica, se encuentra en Turquía. El dirigente del país es Ahmet Davutoglu y la capital es Ankara. El monumento se inauguró el 27 de julio de 1932.</lex><lex lang="es" lid="Id2">El monumento a Ataturk, diseñado por Pietro Canonica, está situado en Izmur (Turquía), donde se inauguró el 27 de julio de 1932. La capital de Turquía es Ankara y su líder Ahmet Davutoglu.</lex><lex lang="es" lid="Id3">El Monumento a Atatürk (İzmir), situado en Turquía, fue diseñado por Pietro Canonica. Dirigido por Ahmet Davutoğlu, el Monumento se encuentra en Ankara, la capital de Turquía. El Monumento fue inaugurado el 27 de julio de 1932.</lex></entry>
+    <entry category="Monument" eid="Id42" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Turkey | leader | Ahmet_Davutoğlu</otriple>
+        <otriple>Turkey | capital | Ankara</otriple>
+        <otriple>Turkey | largestCity | Istanbul</otriple>
+        <otriple>Turkey | currency | Turkish_lira</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        <mtriple>Turkey | capital | Ankara</mtriple>
+        <mtriple>Turkey | largestCity | Istanbul</mtriple>
+        <mtriple>Turkey | currency | Turkish_lira</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Turquía | Líder | Ahmet_Davutoğlu</striple><striple>Turquía | Capital | Ankara</striple><striple>Turquía | CiudadMásGrande | Estambul</striple><striple>Turquía | Divisa | lira_turca</striple><striple>Monumento_a_Atatürk_(Esmirna) | Ubicación | Turquía</striple></spanishtripleset><lex lang="en" lid="Id1">The capital of Turkey is Ankara, although the largest city is Istanbul. The leader of Turkey is Ahmet Davutoglu and the currency is known as the Turkish lira. The Ataturk monument is located within the country.</lex>
+      <lex lang="en" lid="Id2">Ankara is Turkey's capital city and the country's leader is Ahmet Davutoglu. Istanbul is the largest city in Turkey. The country's currency is the Turkish Lira and the Atatürk Monument is located in the country.</lex>
+      <lex lang="en" lid="Id3">Turkey's capital is Ankara though its largest city is Istanbul. The Leader Of Turkey is Ahmet Davutoğlu and the currency is the Turkish Lira. İzmir in Turkey is where you will find the Atatürk Monument.</lex>
+    <lex lang="es" lid="Id1">La capital de Turquía es Ankara, aunque la ciudad más grande es Estambul. El líder de Turquía es Ahmet Davutoglu y la moneda se conoce como lira turca. El monumento a Ataturk se encuentra en el interior del país.</lex><lex lang="es" lid="Id2">Ankara es la capital de Turquía y el líder del país es Ahmet Davutoglu. Estambul es la ciudad más grande de Turquía. La moneda del país es la lira turca y en ella se encuentra el monumento a Atatürk.</lex><lex lang="es" lid="Id3">La capital de Turquía es Ankara, aunque su ciudad más grande es Estambul. El líder de Turquía es Ahmet Davutoğlu y la moneda es la lira turca. En Esmirna, Turquía, se encuentra el monumento a Atatürk.</lex></entry>
+    <entry category="Monument" eid="Id43" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Turkey | leaderName | Ahmet_Davutoğlu</otriple>
+        <otriple>Turkey | capital | Ankara</otriple>
+        <otriple>Turkey | largestCity | Istanbul</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | "1932-07-27"^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        <mtriple>Turkey | capital | Ankara</mtriple>
+        <mtriple>Turkey | largestCity | Istanbul</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | "1932-07-27"</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Turquía | Líder | Ahmet_Davutoğlu</striple><striple>Turquía | Capital | Ankara</striple><striple>Turquía | CiudadMásGrande | Estambul</striple><striple>Monumento_a_Atatürk_(Esmirna) | FechaDeInauguración | 27-07-1932</striple><striple>Monumento_a_Atatürk_(Esmirna) | Ubicación | Turquía</striple></spanishtripleset><lex lang="en" lid="Id1">The Atatürk Monument located in İzmir, Turkey was inaugurated on 27th July, 1932. The capital of Turkey is Ankara and Istanbul is the largest city. Ahmet Davutoğlu is the leader of Turkey .</lex>
+      <lex lang="en" lid="Id2">Turkey's largest City is Istanbul and the capital is Ankara. The leader's name is Ahmet Davutoğlu. The Atatürk Monument of Turkey was inaugurated on July 27th, 1932.</lex>
+    <lex lang="es" lid="Id1">El monumento a Atatürk, situado en Esmirna (Turquía), se inauguró el 27 de julio de 1932. La capital de Turquía es Ankara y Estambul es la ciudad más grande. Ahmet Davutoğlu es el líder de Turquía.</lex><lex lang="es" lid="Id2">La ciudad más grande de Turquía es Estambul y la capital es Ankara. El líder se llama Ahmet Davutoğlu. El monumento a Atatürk de Turquía se inauguró el 27 de julio de 1932.</lex></entry>
+    <entry category="Monument" eid="Id44" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Turkey | leaderTitle | President_of_Turkey</otriple>
+        <otriple>Turkey | leader | Ahmet_Davutoğlu</otriple>
+        <otriple>Turkey | capital | Ankara</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | "1932-07-27"^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leaderTitle | President_of_Turkey</mtriple>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        <mtriple>Turkey | capital | Ankara</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | "1932-07-27"</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Turquía | TítuloDeLíder | presidente_de_Turquía</striple><striple>Turquía | Líder | Ahmet_Davutoğlu</striple><striple>Turquía | Capital | Ankara</striple><striple>Monumento_a_Atatürk_(Esmirna) | FechaDeInauguración | 27-07-1932</striple><striple>Monumento_a_Atatürk_(Esmirna) | Ubicación | Turquía</striple></spanishtripleset><lex lang="en" lid="Id1">Ankara is the capital of Turkey where the official title of the leader is the President of Turkey who is Ahmet Davutoglu. The Ataturk monument (Izmir) was inaugurated in the country on 27 July 1932.</lex>
+      <lex lang="en" lid="Id2">Turkey's leader and President is Ahmet Davutoglu. The Atatürk Monument of Turkey (capital Ankara) was inaugurated on July 27th, 1932.</lex>
+      <lex lang="en" lid="Id3">Ahmet Davutoğlu is Turkey's leader and his title is The President. Atatürk Monument is located in İzmir, Turkey (capital Ankara) and was inaugurated on 27th of July, 1932.</lex>
+    <lex lang="es" lid="Id1">Ankara es la capital de Turquía, donde el título oficial del líder es el de Presidente de Turquía, que es Ahmet Davutoglu. El monumento a Ataturk (Izmir) se inauguró en el país el 27 de julio de 1932.</lex><lex lang="es" lid="Id2">El líder y Presidente de Turquía es Ahmet Davutoglu. El monumento a Atatürk de Turquía (capital, Ankara) se inauguró el 27 de julio de 1932.</lex><lex lang="es" lid="Id3">Ahmet Davutoğlu es el líder de Turquía y su título es El Presidente. El monumento a Atatürk se encuentra en Esmirna (capital de Ankara) y fue inaugurado el 27 de julio de 1932.</lex></entry>
+    <entry category="Monument" eid="Id45" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Turkey | leaderTitle | President_of_Turkey</otriple>
+        <otriple>Turkey | leaderName | Ahmet_Davutoğlu</otriple>
+        <otriple>Turkey | capital | Ankara</otriple>
+        <otriple>Turkey | currency | Turkish_lira</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leaderTitle | President_of_Turkey</mtriple>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        <mtriple>Turkey | capital | Ankara</mtriple>
+        <mtriple>Turkey | currency | Turkish_lira</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Turquía | TítuloDeLíder | presidente_de_Turquía</striple><striple>Turquía | Líder | Ahmet_Davutoğlu</striple><striple>Turquía | Capital | Ankara</striple><striple>Turquía | Divisa | lira_turca</striple><striple>Monumento_a_Atatürk_(Esmirna) | Ubicación | Turquía</striple></spanishtripleset><lex lang="en" lid="Id1">Ankara is the capital of Turkey, where the Atatürk Monument (İzmir) can be found. Turkey's currency is the Turkish lira and the President and leader is Ahmet Davutoglu.</lex>
+      <lex lang="en" lid="Id2">Turkey's leader and therefore President is Ahmet Davutoğlu. The capital of Turkey is Ankara and the currency used in the country is the Turkish Lira. The Atatürk Monument (İzmir) can be found in Turkey.</lex>
+    <lex lang="es" lid="Id1">Ankara es la capital de Turquía, donde se encuentra el Monumento a Atatürk (İzmir). La moneda turca es la lira turca y el Presidente y líder es Ahmet Davutoglu.</lex><lex lang="es" lid="Id2">El líder y, por tanto, Presidente de Turquía es Ahmet Davutoğlu. La capital de Turquía es Ankara y la moneda oficial es la lira turca. En Turquía se encuentra el monumento a Atatürk (İzmir).</lex></entry>
+  </entries>
+</benchmark>

@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+	<entries>
+		<entry category="Astronaut" eid="Id1" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+			<originaltripleset>
+				<otriple>Alan_Bean | mission | Apollo_12</otriple>
+				<otriple>Apollo_12 | operator | NASA</otriple>
+				<otriple>Apollo_12 | crew1Up | David_Scott</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Alan_Bean | mission | Apollo_12</mtriple>
+				<mtriple>Apollo_12 | operator | NASA</mtriple>
+				<mtriple>Apollo_12 | commander | David_Scott</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Alan_L._Bean | Misión | Apolo_12</striple><striple>Apolo_12 | Operador | Administración_Nacional_de_Aeronáutica_y_del_Espacio</striple><striple>Apolo_12 | Comandante | David_Scott</striple></spanishtripleset><lex lang="en" lid="Id1">Alan Bean was under commander David Scott on Nasa's Apollo 12 mission.</lex>
+			<lex lang="en" lid="Id2">Alan Bean was a member of the NASA operated Apollo 12 crew commanded by David Scott.</lex>
+			<lex lang="en" lid="Id3">David Scott was the commander of the NASA operated Apollo 12 flight mission on which the crew included Alan Bean.</lex>
+			<lex lang="es" lid="Id1">Alan Bean estuvo a las órdenes del comandante David Scott en la misión Apolo 12 de la NASA.</lex>
+			<lex lang="es" lid="Id2">Alan Bean era miembro de la tripulación del Apolo 12, operado por la NASA y comandado por David Scott.</lex>
+			<lex lang="es" lid="Id3">David Scott fue el comandante de la misión Apolo 12, operada por la NASA, en la que viajaba Alan Bean.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id2" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+			<originaltripleset>
+				<otriple>Alan_Shepard | deathDate | "1998-07-21"^^xsd:date</otriple>
+				<otriple>Alan_Shepard | deathPlace | California</otriple>
+				<otriple>California | senators | Dianne_Feinstein</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Alan_Shepard | deathDate | "1998-07-21"</mtriple>
+				<mtriple>Alan_Shepard | deathPlace | California</mtriple>
+				<mtriple>California | senators | Dianne_Feinstein</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Alan_Bartlett_Shepard | FechaDeDefunción | 21-07-1998</striple><striple>Alan_Bartlett_Shepard | LugarDeLaMuerte | California</striple><striple>California | Senadores | Dianne_Feinstein</striple></spanishtripleset><lex lang="en" lid="Id1">Dianne Feinstein is a senator in California where Alan Shepard died on July 21 1998.</lex>
+			<lex lang="en" lid="Id2">Alan Shepard died on the 21st of July, 1998 in California (whose Senator was Dianne Feinstein).</lex>
+			<lex lang="es" lid="Id1">Dianne Feinstein es senadora por California, donde Alan Shepard murió el 21 de julio de 1998.</lex>
+			<lex lang="es" lid="Id2">Alan Shepard murió el 21 de julio de 1998 en California (cuya senadora era Dianne Feinstein).</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id3" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>Buzz_Aldrin | alternativeNames | "Edwin E. Aldrin, Jr."@en</otriple>
+				<otriple>Buzz_Aldrin | mission | Apollo_11</otriple>
+				<otriple>Buzz_Aldrin | almaMater | "Massachusetts Institute of Technology, Sc.D. 1963"@en</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Buzz_Aldrin | alternativeName | "Edwin E. Aldrin, Jr."</mtriple>
+				<mtriple>Buzz_Aldrin | mission | Apollo_11</mtriple>
+				<mtriple>Buzz_Aldrin | almaMater | "Massachusetts Institute of Technology, Sc.D. 1963"</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Buzz_Aldrin | NombreAlternativo | Edwin_E._Aldrin,_Jr.</striple><striple>Buzz_Aldrin | Misión | Apolo_11</striple><striple>Buzz_Aldrin | AlmaMáter | Instituto_Tecnológico_de_Massachusetts,_Sc.D._1963</striple></spanishtripleset><lex lang="en" lid="Id1">Buzz Aldrin, also called Edwin E. Aldrin Jr., graduated in 1963 from MIT with a Sc.D. and was a crew member on Apollo 11.</lex>
+			<lex lang="en" lid="Id2">Buzz Aldrin, whose real name was Edwin E. Aldrin, Jr., graduated from Massachusetts Institute of Technology in 1963 with a doctorate in Science and later became a crew member of Apollo 11.</lex>
+			<lex lang="en" lid="Id3">Buzz Aldrin (AKA Edwin E Aldrin Jr) graduated in 1963 from MIT with a Sc.D. was a crew member of Apollo 11.</lex>
+			<lex lang="en" lid="Id4">Buzz Aldrin, whose real name is Edwin E. Aldrin Jr., was a member of Apollo 11 who in 1963 graduated with a Sc. D. from MIT.</lex>
+			<lex lang="es" lid="Id1">Buzz Aldrin, también llamado Edwin E. Aldrin Jr., se licenció en 1963 por el Instituto de Tecnología de Massachusetts, Sc.D. 1963 y fue miembro de la tripulación del Apolo 11.</lex>
+			<lex lang="es" lid="Id2">Buzz Aldrin, cuyo verdadero nombre era Edwin E. Aldrin, Jr., se doctoró en Ciencias por el Instituto Tecnológico de Massachusetts en 1963 y posteriormente formó parte de la tripulación del Apolo 11.</lex>
+			<lex lang="es" lid="Id3">Buzz Aldrin (alias de Edwin E Aldrin Jr) se licenció en 1963 en el MIT y fue miembro de la tripulación del Apolo 11.</lex>
+			<lex lang="es" lid="Id4">Buzz Aldrin, cuyo verdadero nombre es Edwin E. Aldrin Jr., fue un miembro del Apolo 11 que en 1963 se graduó con un Sc. D. por el MIT.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id4" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</otriple>
+				<otriple>Buzz_Aldrin | timeInSpace | "52.0"^^&lt;http://dbpedia.org/datatype/minute&gt;</otriple>
+				<otriple>Buzz_Aldrin | mission | Apollo_11</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</mtriple>
+				<mtriple>Buzz_Aldrin | timeInSpace | "52.0"(minutes)</mtriple>
+				<mtriple>Buzz_Aldrin | mission | Apollo_11</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Buzz_Aldrin | LugarDeNacimiento | Glen_Ridge,_Nueva_Jersey</striple><striple>Buzz_Aldrin | TiempoEnElEspacio | 52.0_(minutos)</striple><striple>Buzz_Aldrin | Misión | Apolo_11</striple></spanishtripleset><lex lang="en" lid="Id1">Buzz Aldrin, who was a member of the Apollo 11 crew and spent 52 minutes in space, was born in Glen Ridge New Jersey.</lex>
+			<lex lang="en" lid="Id2">Born in Glen Ridge New Jersey, Apollo 11 crewman Buzz Aldrin spent 52 minutes in space.</lex>
+			<lex lang="en" lid="Id3">Born in Glen Ridge, NJ, Buzz Aldrin spent 52 minutes in space as part of Apollo 11's crew.</lex>
+			<lex lang="es" lid="Id1">Buzz Aldrin, que formó parte de la tripulación del Apolo 11 y pasó 52 minutos en el espacio, nació en Glen Ridge, Nueva Jersey.</lex>
+			<lex lang="es" lid="Id2">Nacido en Glen Ridge, Nueva Jersey, Buzz Aldrin, tripulante del Apolo 11, pasó 52 minutos en el espacio.</lex>
+			<lex lang="es" lid="Id3">Nacido en Glen Ridge, Nueva Jersey, Buzz Aldrin pasó 52 minutos en el espacio como parte de la tripulación del Apolo 11.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id5" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+			<originaltripleset>
+				<otriple>California | fossil | Smilodon</otriple>
+				<otriple>Alan_Shepard | deathPlace | California</otriple>
+				<otriple>Alan_Shepard | awards | Distinguished_Service_Medal_(United_States_Navy)</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>California | fossil | Smilodon</mtriple>
+				<mtriple>Alan_Shepard | deathPlace | California</mtriple>
+				<mtriple>Alan_Shepard | award | Distinguished_Service_Medal_(United_States_Navy)</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>California | Fósil | Smilodon</striple><striple>Alan_Bartlett_Shepard | LugarDeLaMuerte | California</striple><striple>Alan_Bartlett_Shepard | Premio | Medalla_al_Servicio_Distinguido_(Marina_de_los_Estados_Unidos)</striple></spanishtripleset><lex lang="en" lid="Id1">Alan Shepard, who was awarded the US Navy Distinguished Service Medal died in California. Iincidentally a Smilodon is a fossil from California.</lex>
+			<lex lang="en" lid="Id2">Alan Shepard was awarded the Distinguished Service Medal by United States Navy and died in California (where a Smilodon fossil was found).</lex>
+			<lex lang="en" lid="Id3">Alan Shepard, who was awarded the Distinguished Service Medal by the US Navy, died in California where the Smilodon fossil was found.</lex>
+			<lex lang="es" lid="Id1">Alan Shepard, condecorado con la Medalla al Servicio Distinguido de la Marina de los EE.UU. murió en California. Por cierto un Smilodon es un fósil de California.</lex>
+			<lex lang="es" lid="Id2">Alan Shepard recibió la Medalla al Servicio Distinguido de la Marina de los Estados Unidos y murió en California (donde se encontró un fósil de Smilodon).</lex>
+			<lex lang="es" lid="Id3">Alan Shepard, condecorado con la Medalla al Servicio Distinguido de la Marina estadounidense, murió en California, donde se encontró el fósil de Smilodon.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id6" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>Elliot_See | deathPlace | St._Louis</otriple>
+				<otriple>Elliot_See | deathDate | "1966-02-28"^^xsd:date</otriple>
+				<otriple>Elliot_See | selection | 1962</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Elliot_See | deathPlace | St._Louis</mtriple>
+				<mtriple>Elliot_See | deathDate | "1966-02-28"</mtriple>
+				<mtriple>Elliot_See | selectedByNasa | 1962</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Elliot_See | LugarDeLaMuerte | San_Luis</striple><striple>Elliot_See | FechaDeDefunción | 28-02-1966</striple><striple>Elliot_See | SeleccionadoPorLaNasa | 1962</striple></spanishtripleset><lex lang="en" lid="Id1">Elliot See who was selected by NASA in 1962 died on 28 February 1966 in St Louis.</lex>
+			<lex lang="en" lid="Id2">Elliot See, ex NASA worker since 1962, died in St Louis on the 28th of February 1966.</lex>
+			<lex lang="en" lid="Id3">Elliot See was selected by NASA in 1962. He died in St. Louis on 1966-02-28.</lex>
+			<lex lang="es" lid="Id1">Elliot See, seleccionado por la NASA en 1962, falleció el 28 de febrero de 1966 en San Luis.</lex>
+			<lex lang="es" lid="Id2">Elliot See, antiguo trabajador de la NASA desde 1962, falleció en San Luis el 28 de febrero de 1966.</lex>
+			<lex lang="es" lid="Id3">Elliot See fue seleccionado por la NASA en 1962. Murió en San Luis el 28-02-1966.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id7" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>Elliot_See | status | "Deceased"@en</otriple>
+				<otriple>Elliot_See | birthDate | "1927-07-23"^^xsd:date</otriple>
+				<otriple>Elliot_See | birthPlace | Dallas</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Elliot_See | status | "Deceased"</mtriple>
+				<mtriple>Elliot_See | birthDate | "1927-07-23"</mtriple>
+				<mtriple>Elliot_See | birthPlace | Dallas</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Elliot_See | Estado | Fallecido</striple><striple>Elliot_See | FechaDeNacimiento | 23-07-1927</striple><striple>Elliot_See | LugarDeNacimiento | Dallas</striple></spanishtripleset><lex lang="en" lid="Id1">Elliot See, born July 23 1927 in Dallas, has died.</lex>
+			<lex lang="en" lid="Id2">Elliot See is deceased, was born on 23rd July 1927 in Dallas.</lex>
+			<lex lang="en" lid="Id3">Elliot See (deceased) was born in Dallas 1927-07-23.</lex>
+			<lex lang="en" lid="Id4">Elliot See was born in Dallas on July 23, 1927. He is now deceased.</lex>
+			<lex lang="es" lid="Id1">Elliot See, nacido el 23 de julio de 1927 en Dallas, ha fallecido.</lex>
+			<lex lang="es" lid="Id2">Elliot See ha fallecido. Mació el 23 de julio de 1927 en Dallas.</lex>
+			<lex lang="es" lid="Id3">Elliot See (fallecido) nació en Dallas el 1927-07-23.</lex>
+			<lex lang="es" lid="Id4">Elliot See nació en Dallas el 23 de julio de 1927. Ha fallecido.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id8" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+			<originaltripleset>
+				<otriple>William_Anders | birthDate | "1933-10-17"^^xsd:date</otriple>
+				<otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
+				<otriple>William_Anders | mission | Apollo_8</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>William_Anders | birthDate | "1933-10-17"</mtriple>
+				<mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
+				<mtriple>William_Anders | mission | Apollo_8</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>William_Anders | FechaDeNacimiento | 17-10-1933</striple><striple>William_Anders | LugarDeNacimiento | Hong_Kong_Británico</striple><striple>William_Anders | Misión | Apolo_8</striple></spanishtripleset><lex lang="en" lid="Id1">Born on October 17th, 1933 in British Hong Kong, William Anders would serve as a crew member on Apollo 8.</lex>
+			<lex lang="en" lid="Id2">William Anders who was born on 17 October 1933 in British Hong Kong later served as a crew member of Apollo 8.</lex>
+			<lex lang="en" lid="Id3">William Anders, who was born in British Hong Kong on the 17th of October 1933, crewed Apollo 8.</lex>
+			<lex lang="es" lid="Id1">Nacido el 17 de octubre de 1933 en la Hong Kong británica, William Anders formaría parte de la tripulación del Apolo 8.</lex>
+			<lex lang="es" lid="Id2">William Anders, nacido el 17 de octubre de 1933 en la Hong Kong británica, fue posteriormente miembro de la tripulación del Apolo 8.</lex>
+			<lex lang="es" lid="Id3">William Anders, nacido en la Hong Kong británica el 17 de octubre de 1933, formó parte de la tripulación del Apolo 8.</lex>
+		</entry>
+	</entries>
+</benchmark>

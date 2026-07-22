@@ -1,0 +1,348 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="CelestialBody" eid="Id1" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>(19255)_1994_VK8 | orbitalPeriod | 8.78885e+09</otriple>
+        <otriple>(19255)_1994_VK8 | periapsis | 6.15591e+12</otriple>
+        <otriple>(19255)_1994_VK8 | epoch | "2006-12-31"^^xsd:date</otriple>
+        <otriple>(19255)_1994_VK8 | mass | "5.6"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(19255)_1994_VK8 | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>(19255)_1994_VK8 | mass | "5600.0"^^xsd:double</otriple>
+        <otriple>(19255)_1994_VK8 | orbitalPeriod | 8.78885e+09</otriple>
+        <otriple>(19255)_1994_VK8 | periapsis | 6.15591e+12</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(19255)_1994_VK8 | mass | "5600.0"^^xsd:double</otriple>
+        <otriple>(19255)_1994_VK8 | orbitalPeriod | 8.78885e+09</otriple>
+        <otriple>(19255)_1994_VK8 | periapsis | 6.15591e+12</otriple>
+        <otriple>(19255)_1994_VK8 | epoch | "2006-12-31"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(19255)_1994_VK8 | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>(19255)_1994_VK8 | orbitalPeriod | 8.78885e+09</otriple>
+        <otriple>(19255)_1994_VK8 | periapsis | 6.15591e+12</otriple>
+        <otriple>(19255)_1994_VK8 | mass | "5.6"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>(19255)_1994_VK8 | epoch | 2006-12-31</mtriple>
+        <mtriple>(19255)_1994_VK8 | mass | 5.6 (kilograms)</mtriple>
+        <mtriple>(19255)_1994_VK8 | orbitalPeriod | 8788850000.0</mtriple>
+        <mtriple>(19255)_1994_VK8 | periapsis | 6155910000000.0</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>(19255)_1994_VK8 | Época | 31-12-2006</striple><striple>(19255)_1994_VK8 | Masa | 5,6_(kilogramos)</striple><striple>(19255)_1994_VK8 | PeríodoOrbital | 8788850000.0</striple><striple>(19255)_1994_VK8 | Periapsis | 6155910000000.0</striple></spanishtripleset><lex lang="en" lid="Id1">19255 1994 VK8 has a mass of 5.6 kgs, oribital period of 8788850000, periapsis of 6155910000000, and an epoch of the 31st of December, 2006.</lex>
+      <lex lang="en" lid="Id2">The epoch of (19255) 1994 VK8, which has an orbital period of 8788850000.0, is on 31 December 2006. It weighs 5.6 kilos and has a periapsis of 6155910000000.0.</lex>
+      <lex lang="en" lid="Id3">(19255) 1994 VK8 has an orbital period of 8788850000.0 and a periapsis of 6155910000000.0. The epoch date is on 31 Decemberr 2006 and it has a mass of 5.6 kg.</lex>
+    <lex lang="es" lid="Id1">19255 1994 VK8 tiene una masa de 5,6 kgs, período oribital de 8788850000, periapsis de 6155910000000, y una época del 31-12-2006.</lex><lex lang="es" lid="Id2">La época de (19255) 1994 VK8, que tiene un período orbital de 8788850000,0, es el 31-12-2006. Pesa 5,6 kilos y tiene un periapsis de 6155910000000,0.</lex><lex lang="es" lid="Id3">(19255) 1994 VK8 tiene un período orbital de 8788850000.0 y un periapsis de 6155910000000.0. La fecha de la época es el 31-12-2006 y tiene una masa de 5,6 kg.</lex></entry>
+    <entry category="CelestialBody" eid="Id2" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>(19255)_1994_VK8 | orbitalPeriod | 8.78885e+09</otriple>
+        <otriple>(19255)_1994_VK8 | periapsis | 6.15591e+12</otriple>
+        <otriple>(19255)_1994_VK8 | epoch | "2006-12-31"^^xsd:date</otriple>
+        <otriple>(19255)_1994_VK8 | escapeVelocity | "0.0925"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(19255)_1994_VK8 | escapeVelocity | "333.0"^^xsd:double</otriple>
+        <otriple>(19255)_1994_VK8 | orbitalPeriod | 8.78885e+09</otriple>
+        <otriple>(19255)_1994_VK8 | periapsis | 6.15591e+12</otriple>
+        <otriple>(19255)_1994_VK8 | epoch | "2006-12-31"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(19255)_1994_VK8 | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>(19255)_1994_VK8 | escapeVelocity | "333.0"^^xsd:double</otriple>
+        <otriple>(19255)_1994_VK8 | orbitalPeriod | 8.78885e+09</otriple>
+        <otriple>(19255)_1994_VK8 | periapsis | 6.15591e+12</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(19255)_1994_VK8 | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>(19255)_1994_VK8 | orbitalPeriod | 8.78885e+09</otriple>
+        <otriple>(19255)_1994_VK8 | periapsis | 6.15591e+12</otriple>
+        <otriple>(19255)_1994_VK8 | escapeVelocity | "0.0925"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>(19255)_1994_VK8 | orbitalPeriod | 8788850000.0</mtriple>
+        <mtriple>(19255)_1994_VK8 | periapsis | 6155910000000.0</mtriple>
+        <mtriple>(19255)_1994_VK8 | epoch | 2006-12-31</mtriple>
+        <mtriple>(19255)_1994_VK8 | escapeVelocity | 0.0925 (kilometrePerSeconds)</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>(19255)_1994_VK8 | PeríodoOrbital | 8788850000.0</striple><striple>(19255)_1994_VK8 | Periapsis | 6155910000000.0</striple><striple>(19255)_1994_VK8 | Época | 31-12-2006</striple><striple>(19255)_1994_VK8 | VelocidadDeEscape | 0,0925_(kilómetros_por_segundo)</striple></spanishtripleset><lex lang="en" lid="Id1">(19255) 1994 VK8 has an orbital period of 8788850000.0 and a periapsis of 6155910000000.0. Its epoch is on 31 December 2006 and it has an escape velocity of 0.0925 kilometres per second.</lex>
+      <lex lang="en" lid="Id2">(19255) 1994 VK8 has an escape velocity of 0.0925 km/s, a periapsis of 6155910000000.0, an orbital period of 8788850000.0 and an epoch date of 31 December 2006.</lex>
+      <lex lang="en" lid="Id3">(19255) 1994 VK8 has an escape velocity of 0.0925 kilometres per second and an orbital period of 8788850000.0. The epoch of (19255) 1994 VK8 is on 31 December 2006 and it has a periapsis of 6155910000000.0.</lex>
+    <lex lang="es" lid="Id1">(19255) 1994 VK8 tiene un período orbital de 8788850000,0 y un periapsis de 6155910000000,0. Su época es el 31-12-2006 y tiene una velocidad de escape de 0,0925 kilómetros por segundo.</lex><lex lang="es" lid="Id2">(19255) 1994 VK8 tiene una velocidad de escape de 0,0925 km/s, un periapsis de 6155910000000,0, un período orbital de 8788850000,0 y una fecha de época del 31-12-2006.</lex><lex lang="es" lid="Id3">(19255) 1994 VK8 tiene una velocidad de escape de 0,0925 kilómetros por segundo y un período orbital de 8788850000,0. La época de (19255) 1994 VK8 es el 31-12-2006 y tiene un periapsis de 6155910000000,0.</lex></entry>
+    <entry category="CelestialBody" eid="Id3" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>(66063)_1998_RO1 | epoch | "November 4, 2013"</otriple>
+        <otriple>(66063)_1998_RO1 | escapeVelocity | "359.64"^^xsd:double</otriple>
+        <otriple>(66063)_1998_RO1 | orbitalPeriod | 3.11291e+07</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/apoapsis | "2.5498957060815E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(66063)_1998_RO1 | epoch | "November 4, 2013"</otriple>
+        <otriple>(66063)_1998_RO1 | orbitalPeriod | 3.11291e+07</otriple>
+        <otriple>(66063)_1998_RO1 | escapeVelocity | "0.0999"^^xsd:double</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/apoapsis | "2.5498957060815E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>(66063)_1998_RO1 | epoch | 2013-11-04</mtriple>
+        <mtriple>(66063)_1998_RO1 | orbitalPeriod | 360.29 (days)</mtriple>
+        <mtriple>(66063)_1998_RO1 | escapeVelocity | 0.0999 (kilometrePerSeconds)</mtriple>
+        <mtriple>(66063)_1998_RO1 | apoapsis | 254989570.60815 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>(66063)_1998_RO1 | Época | 04-11-2013</striple><striple>(66063)_1998_RO1 | PeríodoOrbital | 360,29_(días)</striple><striple>(66063)_1998_RO1 | VelocidadDeEscape | 0,0999_(kilómetros_por_segundo)</striple><striple>(66063)_1998_RO1 | Apoapsis | 254989570.60815_(kilómetros)</striple></spanishtripleset><lex lang="en" lid="Id1">(66063) 1998 RO1 has an epoch date of 2013-11-04 and an orbital period of 360.29 days. Its escape velocity is 0.0999 km/sec and it has an apoapsis of 254989570.60815 kilometres.</lex>
+      <lex lang="en" lid="Id2">(66063)1998 RO1 had its epoch date on 2013-11-04 and has an orbital period of 360.29 days. It has an escape velocity of 0.0999 km/s and its apoapsis is 254989570.60815 kilometres.</lex>
+      <lex lang="en" lid="Id3">The epoch date for 66063 1998 RO1 is November 4, 2013. Its orbital period is 360.29 days, has an escape velocity of .0999 km per sec., and its apoapsis is 254989570.60815 km.</lex>
+    <lex lang="es" lid="Id1">(66063) 1998 RO1 tiene una fecha de inicio de 04-11-2013 y un período orbital de 360,29 días. Su velocidad de escape es de 0,0999 km/s y tiene un apoapsis de 254989570,60815 kilómetros.</lex><lex lang="es" lid="Id2">(66063)1998 RO1 tuvo su fecha de epoch en 04-11-2013 y tiene un periodo orbital de 360,29 días. Tiene una velocidad de escape de 0,0999 km/s y su apoapsis es de 254989570,60815 kilómetros.</lex><lex lang="es" lid="Id3">La fecha de la época del 66063 1998 RO1 es el 04-11-2013. Su periodo orbital es de 360,29 días, tiene una velocidad de escape de 0,0999 km por segundo y su apoapsis es de 254989570,60815 km.</lex></entry>
+    <entry category="CelestialBody" eid="Id4" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>(66063)_1998_RO1 | Planet/apoapsis | "2.5498957060815E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | epoch | "November 4, 2013"</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/meanTemperature | "265.15"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | orbitalPeriod | 3.11291e+07</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(66063)_1998_RO1 | Planet/meanTemperature | "265.0"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/apoapsis | "2.5498957060815E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | epoch | "November 4, 2013"</otriple>
+        <otriple>(66063)_1998_RO1 | orbitalPeriod | 3.11291e+07</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>(66063)_1998_RO1 | meanTemperature | 265.0 (kelvins)</mtriple>
+        <mtriple>(66063)_1998_RO1 | apoapsis | 254989570.60815 (kilometres)</mtriple>
+        <mtriple>(66063)_1998_RO1 | epoch | 2013-11-04</mtriple>
+        <mtriple>(66063)_1998_RO1 | orbitalPeriod | 360.29 (days)</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>(66063)_1998_RO1 | TemperaturaMedia | 265,0_(kelvins)</striple><striple>(66063)_1998_RO1 | Apoapsis | 254989570.60815_(kilómetros)</striple><striple>(66063)_1998_RO1 | Época | 04-11-2013</striple><striple>(66063)_1998_RO1 | PeríodoOrbital | 360,29_(días)</striple></spanishtripleset><lex lang="en" lid="Id1">66063 1998 RO1 has an epoch date of 4 November 2013. Its mean temperature is 265.0 kelvins and it has an apoapsis of 254989570.60815 kilometres. 360.29 days is the orbital period of this celestial body.</lex>
+      <lex lang="en" lid="Id2">The mean temperature of (66063) 1998 RO1 is 265.0 kelvins and its apoapsis is 254989570.60815 kilometres. It has an epoch date of 4 November 2013 and an orbital period of 360.29 days.</lex>
+      <lex lang="en" lid="Id3">(66063) 1998 RO1, with an average temperature of 265 kelvins and an epoch date of 4 November 2013, has an orbital period of 360.29 days and an apoapsis of 254989570.60815 kilometres.</lex>
+    <lex lang="es" lid="Id1">66063 1998 RO1 tiene una fecha de época del 04-11-2013. Su temperatura media es de 265,0 kelvins y tiene una apoapsis de 254989570,60815 kilómetros. 360,29 días es el periodo orbital de este cuerpo celeste.</lex><lex lang="es" lid="Id2">La temperatura media de (66063) 1998 RO1 es de 265,0 kelvins y su apoapsis es de 254989570,60815 kilómetros. Tiene una fecha de época del 04-11-2013 y un periodo orbital de 360,29 días.</lex><lex lang="es" lid="Id3">(66063) 1998 RO1, con una temperatura media de 265 kelvins y una fecha de época del 04-11-2013, tiene un período orbital de 360,29 días y un apoapsis de 254989570,60815 kilómetros.</lex></entry>
+    <entry category="CelestialBody" eid="Id5" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>1001_Gaussia | discoverer | Sergey_Belyavsky</otriple>
+        <otriple>1001_Gaussia | epoch | "27 June 2015 (JD2457200.5)"</otriple>
+        <otriple>1001_Gaussia | formerName | "1923 OAA907 XC"@en</otriple>
+        <otriple>1001_Gaussia | periapsis | 4.19113e+11</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1001_Gaussia | discoverer | Sergey_Belyavsky</otriple>
+        <otriple>1001_Gaussia | formerName | "1923 OAA907 XC"@en</otriple>
+        <otriple>1001_Gaussia | periapsis | 4.19113e+11</otriple>
+        <otriple>1001_Gaussia | epoch | "2015-06-27"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1001_Gaussia | discoverer | Sergey_Belyavsky</mtriple>
+        <mtriple>1001_Gaussia | epoch | 2015-06-27</mtriple>
+        <mtriple>1001_Gaussia | formerName | "1923 OAA907 XC"</mtriple>
+        <mtriple>1001_Gaussia | periapsis | 419113394.55312 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>(1001)_Gaussia | Descubridor | Serguéi_Beliavski</striple><striple>(1001)_Gaussia | Época | 27-06-2015</striple><striple>(1001)_Gaussia | NombreAnterior | 1923_OAA907_XC</striple><striple>(1001)_Gaussia | Periapsis | 419113394.55312_(kilómetros)</striple></spanishtripleset><lex lang="en" lid="Id1">The epoch of 1001 Gaussia (formerly known as 1923 OAA907 XC) is 31 July 2016. It was discovered by Sergey Belyavsky and has a periapsis of 419113394.55312 (kilometres).</lex>
+      <lex lang="en" lid="Id2">1923 OAA907 XC is the original name of 1001 Gaussia, which was discovered by Sergey Belyavsky and has an epoch date of June 27th 2015. Its periapsis measures 419113394.55312 kilometres.</lex>
+      <lex lang="en" lid="Id3">1001 Gaussia, discovered by Sergey Belyavsky, was formerly known as 1923 OAA907 XC. This asteroid, has an epoch on 31 July 2016, and a periapsis of, 419113394.55312 kilometres.</lex>
+    <lex lang="es" lid="Id1">La época de 1001 Gaussia (anteriormente conocido como 1923 OAA907 XC) es el 31 de julio de 2016. Fue descubierto por Sergey Belyavsky y tiene un periapsis de 419113394.55312 (kilómetros).</lex><lex lang="es" lid="Id2">1923 OAA907 XC es el nombre original de 1001 Gaussia, que fue descubierto por Sergey Belyavsky y tiene una fecha de época del 27-06-2015. Su periapsis mide 419113394,55312 kilómetros.</lex><lex lang="es" lid="Id3">1001 Gaussia, descubierto por Sergey Belyavsky, era conocido anteriormente como 1923 OAA907 XC. Este asteroide, tiene una época el 31 de julio de 2016, y un periapsis de, 419113394,55312 kilómetros.</lex></entry>
+    <entry category="CelestialBody" eid="Id6" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>101_Helena | discoverer | James_Craig_Watson</otriple>
+        <otriple>James_Craig_Watson | nationality | Canada</otriple>
+        <otriple>101_Helena | epoch | "2006-12-31"^^xsd:date</otriple>
+        <otriple>James_Craig_Watson | deathPlace | Madison,_Wisconsin</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>101_Helena | discoverer | James_Craig_Watson</otriple>
+        <otriple>101_Helena | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>James_Craig_Watson | nationality | Canada</otriple>
+        <otriple>James_Craig_Watson | deathPlace | Madison,_Wisconsin</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>101_Helena | discoverer | James_Craig_Watson</mtriple>
+        <mtriple>101_Helena | epoch | 2006-12-31</mtriple>
+        <mtriple>James_Craig_Watson | nationality | Canada</mtriple>
+        <mtriple>James_Craig_Watson | deathPlace | Madison,_Wisconsin</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>101_Helena | Descubridor | James_Craig_Watson</striple><striple>101_Helena | Época | 31-12-2006</striple><striple>James_Craig_Watson | Nacionalidad | Canadá</striple><striple>James_Craig_Watson | LugarDeLaMuerte | Madison,_Wisconsin</striple></spanishtripleset><lex lang="en" lid="Id1">101 Helena was discovered by James Craig Watson, a Canadian, on December 31, 2006. He died in Madison, Wisconsin.</lex>
+      <lex lang="en" lid="Id2">Canadian national, James Craig Watson (died in Madison, Wisconsin), discovered 101 Helena, which has the epoch on, 2006-12-31.</lex>
+      <lex lang="en" lid="Id3">101 Helena, with the epoch date December 31 2006, was discovered by the Canadian James Craig Watson, who died in Madison, Wisconsin.</lex>
+    <lex lang="es" lid="Id1">101 Helena fue descubierta por el canadiense James Craig Watson el 31-12-2006. Murió en Madison (Wisconsin).</lex><lex lang="es" lid="Id2">El ciudadano canadiense James Craig Watson (fallecido en Madison, Wisconsin) descubrió 101 Helena, que tiene la época el, 31-12-2006.</lex><lex lang="es" lid="Id3">101 Helena, con fecha de inicio el 31-12-2006, fue descubierta por el canadiense James Craig Watson, fallecido en Madison, Wisconsin.</lex></entry>
+    <entry category="CelestialBody" eid="Id7" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>1036_Ganymed | discoverer | Walter_Baade</otriple>
+        <otriple>Walter_Baade | deathPlace | Göttingen</otriple>
+        <otriple>Walter_Baade | birthPlace | German_Empire</otriple>
+        <otriple>Walter_Baade | almaMater | University_of_Göttingen</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1036_Ganymed | discoverer | Walter_Baade</mtriple>
+        <mtriple>Walter_Baade | deathPlace | Göttingen</mtriple>
+        <mtriple>Walter_Baade | birthPlace | German_Empire</mtriple>
+        <mtriple>Walter_Baade | almaMater | University_of_Göttingen</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>(1036)_Ganymed | Descubridor | Walter_Baade</striple><striple>Walter_Baade | LugarDeLaMuerte | Gotinga</striple><striple>Walter_Baade | LugarDeNacimiento | Imperio_alemán</striple><striple>Walter_Baade | AlmaMáter | Universidad_de_Gotinga</striple></spanishtripleset><lex lang="en" lid="Id1">1036 Ganymed was discovered by Walter Baade who graduated from University of Gottingen. He was born in the German Empire and died in Gottingen.</lex>
+      <lex lang="en" lid="Id2">Walter Baade, born in the German empire, discovered 1036 Ganymed. His alma mater was the University of Gottingen. Mr. Baade died in Gottingen.</lex>
+      <lex lang="en" lid="Id3">Walter Baade was born in the German empire and died in Gottingen. He studied at the university of Gottingen and discovered 1036 Ganymed.</lex>
+    <lex lang="es" lid="Id1">1036 Ganímedes fue descubierto por Walter Baade, licenciado por la Universidad de Gotinga. Nació en el Imperio Alemán y murió en Gottingen.</lex><lex lang="es" lid="Id2">Walter Baade, nacido en el imperio alemán, descubrió Ganímedes en 1036. Su alma mater fue la Universidad de Gottingen. El Sr. Baade murió en Gottingen.</lex><lex lang="es" lid="Id3">Walter Baade nació en el imperio alemán y murió en Gottingen. Estudió en la universidad de Gotinga y descubrió Ganímedes en 1036.</lex></entry>
+    <entry category="CelestialBody" eid="Id8" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>1036_Ganymed | discoverer | Walter_Baade</otriple>
+        <otriple>Walter_Baade | doctoralStudent | Halton_Arp</otriple>
+        <otriple>Walter_Baade | birthPlace | Preußisch_Oldendorf</otriple>
+        <otriple>Walter_Baade | almaMater | University_of_Göttingen</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1036_Ganymed | discoverer | Walter_Baade</mtriple>
+        <mtriple>Walter_Baade | doctoralStudent | Halton_Arp</mtriple>
+        <mtriple>Walter_Baade | birthPlace | Preußisch_Oldendorf</mtriple>
+        <mtriple>Walter_Baade | almaMater | University_of_Göttingen</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>(1036)_Ganymed | Descubridor | Walter_Baade</striple><striple>Walter_Baade | EstudianteDeDoctorado | Halton_Arp</striple><striple>Walter_Baade | LugarDeNacimiento | Preußisch_Oldendorf</striple><striple>Walter_Baade | AlmaMáter | Universidad_de_Gotinga</striple></spanishtripleset><lex lang="en" lid="Id1">Walter Baade, who was born in Preussisch Oldendorf, discovered 1036 Ganymed. He studied at The university of Gottingen, and his doctoral student was Halton Arp.</lex>
+      <lex lang="en" lid="Id2">1036 Ganymed was discovered by Walter Baade. Baade was born in Preußisch Oldendorf and attended the University of Gottingen where one of his doctoral students was Halton Arp.</lex>
+      <lex lang="en" lid="Id3">Walter Baade, who was born in Preußisch Oldendorf, discovered 1036 Ganymed. He studied at The university of Gottingen and one of his doctoral students was Halton Arp.</lex>
+    <lex lang="es" lid="Id1">Walter Baade, nacido en Preussisch Oldendorf, descubrió 1036 Ganymed. Estudió en la Universidad de Gotinga y su doctorando fue Halton Arp.</lex><lex lang="es" lid="Id2">1036 Ganymed fue descubierto por Walter Baade. Baade nació en Preußisch Oldendorf y estudió en la Universidad de Gotinga, donde uno de sus doctorandos fue Halton Arp.</lex><lex lang="es" lid="Id3">Walter Baade, nacido en Preußisch Oldendorf, descubrió 1036 Ganymed. Estudió en la Universidad de Gotinga y uno de sus doctorandos fue Halton Arp.</lex></entry>
+    <entry category="CelestialBody" eid="Id9" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>103_Hera | discoverer | James_Craig_Watson</otriple>
+        <otriple>James_Craig_Watson | nationality | Canada</otriple>
+        <otriple>103_Hera | epoch | "2011-08-27"^^xsd:date</otriple>
+        <otriple>James_Craig_Watson | deathPlace | Madison,_Wisconsin</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>103_Hera | discoverer | James_Craig_Watson</otriple>
+        <otriple>103_Hera | epoch | "August 27, 2011 (JD2455800.5)"</otriple>
+        <otriple>James_Craig_Watson | nationality | Canada</otriple>
+        <otriple>James_Craig_Watson | deathPlace | Madison,_Wisconsin</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>103_Hera | discoverer | James_Craig_Watson</mtriple>
+        <mtriple>103_Hera | epoch | 2011-08-27</mtriple>
+        <mtriple>James_Craig_Watson | nationality | Canada</mtriple>
+        <mtriple>James_Craig_Watson | deathPlace | Madison,_Wisconsin</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>(103)_Hera | Descubridor | James_Craig_Watson</striple><striple>(103)_Hera | Época | 27-08-2011</striple><striple>James_Craig_Watson | Nacionalidad | Canadá</striple><striple>James_Craig_Watson | LugarDeLaMuerte | Madison,_Wisconsin</striple></spanishtripleset><lex lang="en" lid="Id1">Canadian, James Craig Watson, who died in Madison, Wisconsin, was the discoverer of 103 Hera, which has an epoch date of, August 27th 2011.</lex>
+      <lex lang="en" lid="Id2">The Canadian James Craig Watson was the discoverer of 103 Hera, whose epoch is on the 31st of July 2016. He died in Madison, Wisconsin.</lex>
+    <lex lang="es" lid="Id1">El canadiense James Craig Watson, fallecido en Madison (Wisconsin), fue el descubridor de 103 Hera, cuya fecha de creación es el 27-08-2011.</lex><lex lang="es" lid="Id2">El canadiense James Craig Watson fue el descubridor de 103 Hera, cuya época es el 31 de julio de 2016. Murió en Madison, Wisconsin.</lex></entry>
+    <entry category="CelestialBody" eid="Id10" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>103_Hera | discoverer | James_Craig_Watson</otriple>
+        <otriple>James_Craig_Watson | nationality | Canada</otriple>
+        <otriple>James_Craig_Watson | deathPlace | Madison,_Wisconsin</otriple>
+        <otriple>James_Craig_Watson | deathCause | Peritonitis</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>103_Hera | discoverer | James_Craig_Watson</mtriple>
+        <mtriple>James_Craig_Watson | nationality | Canada</mtriple>
+        <mtriple>James_Craig_Watson | deathPlace | Madison,_Wisconsin</mtriple>
+        <mtriple>James_Craig_Watson | deathCause | Peritonitis</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>(103)_Hera | Descubridor | James_Craig_Watson</striple><striple>James_Craig_Watson | Nacionalidad | Canadá</striple><striple>James_Craig_Watson | LugarDeLaMuerte | Madison,_Wisconsin</striple><striple>James_Craig_Watson | CausaDeLaMuerte | peritonitis</striple></spanishtripleset><lex lang="en" lid="Id1">103 Hera was discovered by James Craig Watson. He was a Canadian national who died in Madison, Wisconsin of peritonitis.</lex>
+      <lex lang="en" lid="Id2">James Craig Watson of Canada passed in Madison, Wisconsin from peritonitis. He was the discoverer of 103 Hera.</lex>
+    <lex lang="es" lid="Id1">103 Hera fue descubierta por James Craig Watson. Era de nacionalidad canadiense y murió en Madison (Wisconsin) de peritonitis.</lex><lex lang="es" lid="Id2">El canadiense James Craig Watson fallece en Madison (Wisconsin) a causa de una peritonitis. Fue el descubridor de 103 Hera.</lex></entry>
+    <entry category="CelestialBody" eid="Id11" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>107_Camilla | discoverer | E._Wells</otriple>
+        <otriple>107_Camilla | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>107_Camilla | periapsis | 4.79343e+11</otriple>
+        <otriple>107_Camilla | Planet/apoapsis | "5.60937E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>107_Camilla | discoverer | E._Wells</otriple>
+        <otriple>107_Camilla | periapsis | 4.79343e+11</otriple>
+        <otriple>107_Camilla | epoch | "2006-12-31"^^xsd:date</otriple>
+        <otriple>107_Camilla | Planet/apoapsis | "5.60937E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>107_Camilla | discoverer | E._Wells</mtriple>
+        <mtriple>107_Camilla | periapsis | 479343000.0 (kilometres)</mtriple>
+        <mtriple>107_Camilla | epoch | 2006-12-31</mtriple>
+        <mtriple>107_Camilla | apoapsis | 560937000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>(107)_Camilla | Descubridor | E._Wells</striple><striple>(107)_Camilla | Periapsis | 479343000.0_(kilómetros)</striple><striple>(107)_Camilla | Época | 31-12-2006</striple><striple>(107)_Camilla | Apoapsis | 560937000.0_(kilómetros)</striple></spanishtripleset><lex lang="en" lid="Id1">107 Camilla was discovered by E. Wells and has an epoch date of 31 December 2006. It has an apoapsis of 560937000.0 kilometres and a periapsis of 479343000.0 kilometres.</lex>
+      <lex lang="en" lid="Id2">E. Wells discovered 107 Camilla, which has an epoch date of December 31, 2006. Its periapsis is 479343000.0 kilometres and an apoapsis of 560937000.0 km.</lex>
+    <lex lang="es" lid="Id1">107 Camilla fue descubierto por E. Wells y tiene una fecha de época del 31-12-2006. Tiene un apoapsis de 560937000,0 kilómetros y un periapsis de 479343000,0 kilómetros.</lex><lex lang="es" lid="Id2">E. Wells descubrió 107 Camilla, que tiene una fecha de época del 31-12-2006. Su periapsis es de 479343000,0 kilómetros y su apoapsis de 560937000,0 km.</lex></entry>
+    <entry category="CelestialBody" eid="Id12" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>107_Camilla | discoverer | N._R._Pogson</otriple>
+        <otriple>N._R._Pogson | deathPlace | Chennai</otriple>
+        <otriple>N._R._Pogson | birthPlace | Nottingham</otriple>
+        <otriple>107_Camilla | discovered | "2001-03-01"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>107_Camilla | discoverer | N._R._Pogson</mtriple>
+        <mtriple>N._R._Pogson | deathPlace | Chennai</mtriple>
+        <mtriple>N._R._Pogson | birthPlace | Nottingham</mtriple>
+        <mtriple>107_Camilla | discovered | 2001-03-01</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>(107)_Camilla | Descubridor | Norman_Pogson</striple><striple>Norman_Pogson | LugarDeLaMuerte | Chennai</striple><striple>Norman_Pogson | LugarDeNacimiento | Nottingham</striple><striple>(107)_Camilla | Descubierto | 01-03-2001</striple></spanishtripleset><lex lang="en" lid="Id1">N.R. Pogson was born in Nottingham and died in Chennai. He discovered the 107 Camilla asteroid on the 1st March 2001.</lex>
+      <lex lang="en" lid="Id2">107 Camilla was discovered by N.R. Pogson, who was born in Nottingham and died in Chennai. It was discovered on 1 March 2001.</lex>
+      <lex lang="en" lid="Id3">107 Camilla was discovered by N.R. Pogson, who was born in Nottingham and died in Chennai. It was discovered on March 1st 2001.</lex>
+    <lex lang="es" lid="Id1">N.R. Pogson nació en Nottingham y murió en Chennai. Descubrió el asteroide 107 Camilla el 1 de marzo de 2001.</lex><lex lang="es" lid="Id2">107 Camilla fue descubierta por N.R. Pogson, nacido en Nottingham y fallecido en Chennai. Fue descubierta el 1 de marzo de 2001.</lex><lex lang="es" lid="Id3">107 Camilla fue descubierta por N.R. Pogson, nacido en Nottingham y fallecido en Chennai. Fue descubierta el 1 de marzo de 2001.</lex></entry>
+    <entry category="CelestialBody" eid="Id13" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>1097_Vicia | mass | "9800.0"^^xsd:double</otriple>
+        <otriple>1097_Vicia | orbitalPeriod | 1.35589e+08</otriple>
+        <otriple>1097_Vicia | periapsis | 2.79142e+11</otriple>
+        <otriple>1097_Vicia | epoch | "2006-12-31"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1097_Vicia | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>1097_Vicia | mass | "9800.0"^^xsd:double</otriple>
+        <otriple>1097_Vicia | orbitalPeriod | 1.35589e+08</otriple>
+        <otriple>1097_Vicia | periapsis | 2.79142e+11</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1097_Vicia | orbitalPeriod | 1.35589e+08</otriple>
+        <otriple>1097_Vicia | periapsis | 2.79142e+11</otriple>
+        <otriple>1097_Vicia | epoch | "2006-12-31"^^xsd:date</otriple>
+        <otriple>1097_Vicia | mass | "9.8"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1097_Vicia | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>1097_Vicia | orbitalPeriod | 1.35589e+08</otriple>
+        <otriple>1097_Vicia | periapsis | 2.79142e+11</otriple>
+        <otriple>1097_Vicia | mass | "9.8"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1097_Vicia | epoch | 2006-12-31</mtriple>
+        <mtriple>1097_Vicia | mass | 9.8 (kilograms)</mtriple>
+        <mtriple>1097_Vicia | orbitalPeriod | 135589000.0</mtriple>
+        <mtriple>1097_Vicia | periapsis | 279142000000.0</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>(1097)_Vicia | Época | 31-12-2006</striple><striple>(1097)_Vicia | Masa | 9,8_(kilogramos)</striple><striple>(1097)_Vicia | PeríodoOrbital | 135589000.0</striple><striple>(1097)_Vicia | Periapsis | 279142000000.0</striple></spanishtripleset><lex lang="en" lid="Id1">1097 Vicia has a mass of 9.8 kgs and an epoch date of Dec. 31, 2016. It has an orbital period of 135589000. and a periapsis measurement of 279142000000.0.</lex>
+      <lex lang="en" lid="Id2">The epoch date of 1097 Vicia was on 31 December 2016 and its mass is 9.8kg. Its orbital period is 135589000.0 and its periapsis is 279142000000.</lex>
+      <lex lang="en" lid="Id3">The celestial body known as 1097 Vicia has a mass of 9.8kg and its epoch is on 31 December 2016. The orbital period for 1097 Vicia is 135589000.0 and it has a periapsis measurement of 279142000000.0.</lex>
+    <lex lang="es" lid="Id1">1097 Vicia tiene una masa de 9,8 kgs y una fecha de época del 31 de diciembre de 2016. Tiene un periodo orbital de 135589000. y una medida de periapsis de 279142000000.0.</lex><lex lang="es" lid="Id2">La fecha de la época de 1097 Vicia fue el 31 de diciembre de 2016 y su masa es de 9,8 kg. Su periodo orbital es 135589000.0 y su periapsis es 279142000000.</lex><lex lang="es" lid="Id3">El cuerpo celeste conocido como 1097 Vicia tiene una masa de 9,8 kg y su época es el 31 de diciembre de 2016. El periodo orbital de 1097 Vicia es 135589000.0 y tiene una medida de periapsis de 279142000000.0.</lex></entry>
+    <entry category="CelestialBody" eid="Id14" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>1099_Figneria | orbitalPeriod | 1.79942e+08</otriple>
+        <otriple>1099_Figneria | periapsis | 3.49206e+11</otriple>
+        <otriple>1099_Figneria | epoch | "2006-12-31"^^xsd:date</otriple>
+        <otriple>1099_Figneria | mass | "2.7"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1099_Figneria | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>1099_Figneria | orbitalPeriod | 1.79942e+08</otriple>
+        <otriple>1099_Figneria | periapsis | 3.49206e+11</otriple>
+        <otriple>1099_Figneria | mass | "2.7"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1099_Figneria | mass | "2700.0"^^xsd:double</otriple>
+        <otriple>1099_Figneria | orbitalPeriod | 1.79942e+08</otriple>
+        <otriple>1099_Figneria | periapsis | 3.49206e+11</otriple>
+        <otriple>1099_Figneria | epoch | "2006-12-31"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1099_Figneria | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>1099_Figneria | mass | "2700.0"^^xsd:double</otriple>
+        <otriple>1099_Figneria | orbitalPeriod | 1.79942e+08</otriple>
+        <otriple>1099_Figneria | periapsis | 3.49206e+11</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1099_Figneria | epoch | 2006-12-31</mtriple>
+        <mtriple>1099_Figneria | mass | 2.7 (kilograms)</mtriple>
+        <mtriple>1099_Figneria | orbitalPeriod | 179942000.0</mtriple>
+        <mtriple>1099_Figneria | periapsis | 349206000000.0</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>(1099)_Figneria | Época | 31-12-2006</striple><striple>(1099)_Figneria | Masa | 2,7_(kilogramos)</striple><striple>(1099)_Figneria | PeríodoOrbital | 179942000.0</striple><striple>(1099)_Figneria | Periapsis | 349206000000.0</striple></spanishtripleset><lex lang="en" lid="Id1">1099 Figneria has a mass of 2.7 kg and an orbital period of 179942000.0. It has a periapsis of 349206000000.0 and an epoch date of 31st December 2006.</lex>
+      <lex lang="en" lid="Id2">349206000000 is the periapsis of 1099 Figneria, which has a mass of 2.7 kgs, an orbital period of 179942000.0 and an epoch date of December 31st 2006.</lex>
+      <lex lang="en" lid="Id3">Weighing 2.7 kgs, 1099 Figneria, has an orbital period of 179942000.0. This minor planet, has a periapsis of 349206000000 and its epoch date is, 31 December 2006.</lex>
+    <lex lang="es" lid="Id1">1099 Figneria tiene una masa de 2,7 kg y un período orbital de 179942000.0. Tiene un periapsis de 349206000000,0 y una fecha de época del 31-12-2006.</lex><lex lang="es" lid="Id2">349206000000 es el periapsis de 1099 Figneria, que tiene una masa de 2,7 kg, un período orbital de 179942000,0 y una fecha de época del 31-12-2006.</lex><lex lang="es" lid="Id3">Con un peso de 2,7 kg, 1099 Figneria, tiene un período orbital de 179942000,0. Este planeta menor, tiene un periapsis de 349206000000 y su fecha de época es, 31-12-2006.</lex></entry>
+  </entries>
+</benchmark>

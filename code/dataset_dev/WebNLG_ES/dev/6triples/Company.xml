@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Company" eid="Id1" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
+      <originaltripleset>
+        <otriple>Hypermarcas | location | Brazil</otriple>
+        <otriple>Hypermarcas | product | Drugs</otriple>
+        <otriple>Hypermarcas | industry | Pharmaceuticals</otriple>
+        <otriple>Hypermarcas | keyPerson | CEO</otriple>
+        <otriple>Hypermarcas | foundingYear | 2001-01-01</otriple>
+        <otriple>Hypermarcas | type | S.A._(corporation)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Hypermarcas | location | Brazil</mtriple>
+        <mtriple>Hypermarcas | product | Drugs</mtriple>
+        <mtriple>Hypermarcas | industry | Pharmaceuticals</mtriple>
+        <mtriple>Hypermarcas | keyPerson | CEO</mtriple>
+        <mtriple>Hypermarcas | foundingDate | 2001-01-01</mtriple>
+        <mtriple>Hypermarcas | type | S.A._(corporation)</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Hipermarcas | Ubicación | Brasil</striple><striple>Hipermarcas | Producto | Drogas</striple><striple>Hipermarcas | Industria | Productos_farmacéuticos</striple><striple>Hipermarcas | PersonaClave | DIRECTOR_GENERAL</striple><striple>Hipermarcas | FechaDeFundación | 01-01-2001</striple><striple>Hipermarcas | Tipo | sociedad_anónima</striple></spanishtripleset><lex lang="en" lid="Id1">Hypermarcas (whose main product is drugs), an S.A pharmaceutical corporation managed by their CEO and located in Brazil, was founded on January 1, 2001.</lex>
+      <lex lang="en" lid="Id2">Founded on January 1, 2001, Hypermarcas is a pharmaceutical company located in Brazil. Headed by the CEO, Hypermarcas is an S.A. corporation producing pharmaceutical drugs.</lex>
+      <lex lang="en" lid="Id3">Hypermarcas, founded on 2001-01-01, is a pharmaceutical company in Brazil that manufactures drugs. It is an S.A. corporation, and the key person in the company is the CEO.</lex>
+    <lex lang="es" lid="Id1">Hypermarcas (cuyo principal producto son los medicamentos), una empresa farmacéutica S.A. dirigida por su director general y ubicada en Brasil, se fundó el 1 de enero de 2001.</lex><lex lang="es" lid="Id2">Fundada el 1 de enero de 2001, Hypermarcas es una empresa farmacéutica ubicada en Brasil. Dirigida por el CEO, Hypermarcas es una sociedad anónima que produce medicamentos farmacéuticos.</lex><lex lang="es" lid="Id3">Hypermarcas, fundada el 01-01-2001, es una empresa farmacéutica de Brasil que fabrica medicamentos. Es una sociedad anónima y la persona clave de la empresa es el director general.</lex></entry>
+    <entry category="Company" eid="Id2" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
+      <originaltripleset>
+        <otriple>Trane | revenue | 1.0264E10</otriple>
+        <otriple>Trane | operatingIncome | 8.754E8</otriple>
+        <otriple>Trane | foundingYear | 1913-01-01</otriple>
+        <otriple>Trane | foundationPlace | La_Crosse,_Wisconsin</otriple>
+        <otriple>Trane | numberOfEmployees | 29000</otriple>
+        <otriple>Trane | product | HVAC</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Trane | revenue | 10264000000</mtriple>
+        <mtriple>Trane | operatingIncome | 875400000</mtriple>
+        <mtriple>Trane | foundingDate | 1913-01-01</mtriple>
+        <mtriple>Trane | foundationPlace | La_Crosse,_Wisconsin</mtriple>
+        <mtriple>Trane | numberOfEmployees | 29000</mtriple>
+        <mtriple>Trane | product | HVAC</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Trane | Ingresos | 10264000000</striple><striple>Trane | IngresosDeExplotación | 875400000</striple><striple>Trane | FechaDeFundación | 01-01-1913</striple><striple>Trane | LugarDeCimentación | La_Crosse,_Wisconsin</striple><striple>Trane | NúmeroDeEmpleados | 29000</striple><striple>Trane | Producto | HVAC</striple></spanishtripleset><lex lang="en" lid="Id1">HVAC producer Trane, was founded in La Crosse, Wisconsin, on 1913-01-01. Trane employes 29000 people, and has a revenue of $10,264,000,000, and an operating income of 875.4 million USD.</lex>
+      <lex lang="en" lid="Id2">The Trane company (Founded on January 01, 1913 in Lacrosse, Wisconsin) has 29,000 employees and produces HVAC. It has an operating income of $875,400,000 with revenue of $10,264,000,000.</lex>
+      <lex lang="en" lid="Id3">Founded on 01-01-1913 in LaCrosse, Wisconsin, Trane employs 29,000 people manufacturing HVAC. With an operating income of $875,400,000, Trane has a revenue of $10,264,000,000.</lex>
+    <lex lang="es" lid="Id1">El fabricante de HVAC Trane, fue fundado en La Crosse, Wisconsin, el 01-01-1913. Trane emplea a 29.000 personas y tiene unos ingresos de 10.264.000.000 USD y unos ingresos de explotación de 875,4 millones USD.</lex><lex lang="es" lid="Id2">La empresa Trane (fundada el 001-01-1913 en Lacrosse, Wisconsin) cuenta con 29.000 empleados y produce HVAC. Tiene unos ingresos de explotación de 875.400.000 dólares con unos ingresos de 10.264.000.000 dólares.</lex><lex lang="es" lid="Id3">Fundada el 01-01-1913 en LaCrosse, Wisconsin, Trane emplea a 29.000 personas en la fabricación de HVAC. Con unos ingresos de explotación de 875.400.000 dólares, Trane tiene unos ingresos de 10.264.000.000 dólares.</lex></entry>
+  </entries>
+</benchmark>

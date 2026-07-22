@@ -1,0 +1,1155 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Building" eid="Id1" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | location | South_Africa</otriple>
+        <otriple>South_Africa | capital | Cape_Town</otriple>
+        <otriple>South_Africa | leaderName | Cyril_Ramaphosa</otriple>
+        <otriple>South_Africa | ethnicGroup | Asian_South_Africans</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11_Diagonal_Street | location | South_Africa</mtriple>
+        <mtriple>South_Africa | capital | Cape_Town</mtriple>
+        <mtriple>South_Africa | leader | Cyril_Ramaphosa</mtriple>
+        <mtriple>South_Africa | ethnicGroup | Asian_South_Africans</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Calle_Diagonal_11 | Ubicación | Sudáfrica</striple>
+        <striple>Sudáfrica | Capital | Ciudad_del_Cabo</striple>
+        <striple>Sudáfrica | Líder | Cyril_Ramaphosa</striple>
+        <striple>Sudáfrica | GrupoÉtnico | Sudafricanos_asiáticos</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>11_Diagonal_Street | location | South_Africa</bttriple>
+        <bttriple>South_Africa | capital | Cape_Town</bttriple>
+        <bttriple>South_Africa | leader | Cyril_Ramaphosa</bttriple>
+        <bttriple>South_Africa | ethnicGroup | Asian_South_Africans</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Carrer_de_Diagonal,_11 | Ubicació | Sud-àfrica</ctriple>
+        <ctriple>Sud-àfrica | Capital | Ciutat_del_Cap</ctriple>
+        <ctriple>Sud-àfrica | Líder | Cyril_Ramaphosa</ctriple>
+        <ctriple>Sud-àfrica | GrupÈtnic | Sud-africans_asiàtics</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Cyril Ramaphosa is one of the leaders of South Africa, which capital is Cape Town. The address, 11 Diagonal Street is located in that country and one of the ethnic groups is Asian South Africans.</lex>
+      <lex lang="en" lid="Id2">Led by Cyril Ramaphosa, South Africa is location of 11 Diagonal Street, has the capital of Cape Town and has an ethnic group of Asian South Africans.</lex>
+      <lex lang="en" lid="Id3">With the capital of Cape Town, South Africa is the location of 11 Diagonal Street, has the ethnic group of Asian South Africans and one of its leaders is Cyril Ramaphosa.</lex>
+      <lex lang="es" lid="Id1">Cyril Ramaphosa es uno de los líderes de Sudáfrica, cuya capital es Ciudad del Cabo. La dirección, 11 Diagonal Street, se encuentra en ese país y uno de los grupos étnicos es el de los sudafricanos asiáticos.</lex>
+      <lex lang="es" lid="Id2">Liderada por Cyril Ramaphosa, Sudáfrica es la ubicación de la calle Diagonal 11, tiene como capital Ciudad del Cabo y cuenta con una etnia de sudafricanos asiáticos.</lex>
+      <lex lang="es" lid="Id3">Con la capital de Ciudad del Cabo, Sudáfrica es la ubicación de la calle Diagonal 11, tiene el grupo étnico de los sudafricanos asiáticos y uno de sus líderes es Cyril Ramaphosa.</lex>
+      <lex lang="ca" lid="Id1">Cyril Ramaphosa és un dels líders de Sud-àfrica, la capital de la qual és Ciutat del Cap. L'adreça, 11 Diagonal Street, es troba en aquest país i un dels grups ètnics són els sud-africans asiàtics.</lex>
+      <lex lang="ca" lid="Id2">Encapçalada per Cyril Ramaphosa, Sud-àfrica és la ubicació de l'11 Diagonal Street, té la capital de Ciutat del Cap i té un grup ètnic de sud-africans asiàtics.</lex>
+      <lex lang="ca" lid="Id3">Amb la capital de Ciutat del Cap, Sud-àfrica és la ubicació del carrer 11 Diagonal, té el grup ètnic de sud-africans asiàtics i un dels seus líders és Cyril Ramaphosa.</lex>
+      <lex lang="en_bt" lid="Id1">Cyril Ramaphosa is one of the leaders of South Africa, the capital of which is Cape Town. The address, 11 Diagonal Street, is located in this country and one of the ethnic groups are Asian South Africans.</lex>
+      <lex lang="en_bt" lid="Id2">Headed by Cyril Ramaphosa, South Africa is the location of 11 Diagonal Street, has the capital of Cape Town and has an ethnic group of Asian South Africans.</lex>
+      <lex lang="en_bt" lid="Id3">With the capital of Cape Town, South Africa is the location of 11 Diagonal Street, has the ethnic group of Asian South Africans and one of its leaders is Cyril Ramaphosa.</lex>
+      </entry>
+    <entry category="Building" eid="Id2" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | location | South_Africa</otriple>
+        <otriple>South_Africa | ethnicGroups | Asian_South_Africans</otriple>
+        <otriple>South_Africa | capital | Cape_Town</otriple>
+        <otriple>South_Africa | ethnicGroup | White_South_African</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | location | South_Africa</otriple>
+        <otriple>South_Africa | capital | Cape_Town</otriple>
+        <otriple>South_Africa | ethnicGroups | White_South_African</otriple>
+        <otriple>South_Africa | ethnicGroup | Asian_South_Africans</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11_Diagonal_Street | location | South_Africa</mtriple>
+        <mtriple>South_Africa | ethnicGroup | Asian_South_Africans</mtriple>
+        <mtriple>South_Africa | capital | Cape_Town</mtriple>
+        <mtriple>South_Africa | ethnicGroup | White_South_African</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Calle_Diagonal_11 | Ubicación | Sudáfrica</striple>
+        <striple>Sudáfrica | GrupoÉtnico | Sudafricanos_asiáticos</striple>
+        <striple>Sudáfrica | Capital | Ciudad_del_Cabo</striple>
+        <striple>Sudáfrica | GrupoÉtnico | Blanco_sudafricano</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>11_Diagonal_Street | location | South_Africa</bttriple>
+        <bttriple>South_Africa | ethnicGroup | Asian_South_Africans</bttriple>
+        <bttriple>South_Africa | capital | Cape_Town</bttriple>
+        <bttriple>South_Africa | ethnicGroup | White_South_African</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Carrer_de_Diagonal,_11 | Ubicació | Sud-àfrica</ctriple>
+        <ctriple>Sud-àfrica | GrupÈtnic | Sud-africans_asiàtics</ctriple>
+        <ctriple>Sud-àfrica | Capital | Ciutat_del_Cap</ctriple>
+        <ctriple>Sud-àfrica | GrupÈtnic | Blanc_sud-africà</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">With the capital of Cape Town, South Africa is the location of 11 Diagonal Street and has the ethnic groups of Asian South Africans and white South Africans.</lex>
+      <lex lang="en" lid="Id2">11 Diagonal Street is located in South Africa, of which Cape Town is the capital. Two ethnic groups within South Africa are the Asian South Africans, and white South Africans.</lex>
+      <lex lang="en" lid="Id3">11 Diagonal Street is located in South Africa, where the capital is Cape Town. White South Africans and Asian South Africans are ethnic groups in South Africa.</lex>
+      <lex lang="es" lid="Id1">En Ciudad del Cabo, la capital de Sudáfrica, se encuentra el número 11 de la calle Diagonal y cuenta con los grupos étnicos de sudafricanos asiáticos y sudafricanos blancos.</lex>
+      <lex lang="es" lid="Id2">11 Diagonal Street se encuentra en Sudáfrica, cuya capital es Ciudad del Cabo. Hay dos grupos étnicos en Sudáfrica: los sudafricanos asiáticos y los sudafricanos blancos.</lex>
+      <lex lang="es" lid="Id3">11 Diagonal Street se encuentra en Sudáfrica, donde la capital es Ciudad del Cabo. Los sudafricanos blancos y los sudafricanos asiáticos son grupos étnicos de Sudáfrica.</lex>
+      <lex lang="ca" lid="Id1">Amb la capital de Ciutat del Cap, Sud-àfrica és la ubicació de 11 Diagonal Street i té els grups ètnics de sud-africans asiàtics i sud-africans blancs.</lex>
+      <lex lang="ca" lid="Id2">El carrer Diagonal 11 es troba a Sud-àfrica, de la qual Ciutat del Cap és la capital. Dos grups ètnics a Sud-àfrica són els sud-africans asiàtics i els sud-africans blancs.</lex>
+      <lex lang="ca" lid="Id3">El carrer Diagonal 11 es troba a Sud-àfrica, on la capital és Ciutat del Cap. Els sud-africans blancs i els sud-africans asiàtics són grups ètnics a Sud-àfrica.</lex>
+      <lex lang="en_bt" lid="Id1">With the capital of Cape Town, South Africa is the location of 11 Diagonal Street and has the ethnic groups of Asian South Africans and white South Africans.</lex>
+      <lex lang="en_bt" lid="Id2">11 Diagonal Street is located in South Africa, of which Cape Town is the capital. Two ethnic groups in South Africa are Asian South Africans and white South Africans.</lex>
+      <lex lang="en_bt" lid="Id3">11 Diagonal Street is located in South Africa, where the capital is Cape Town. White South Africans and Asian South Africans are ethnic groups in South Africa.</lex>
+      </entry>
+    <entry category="Building" eid="Id3" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>200_Public_Square | location | Cleveland</otriple>
+        <otriple>Cleveland | subdivisionName | Cuyahoga_County,_Ohio</otriple>
+        <otriple>Cleveland | isPartOf | Ohio</otriple>
+        <otriple>Cleveland | governingBody | Cleveland_City_Council</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>200_Public_Square | location | Cleveland</mtriple>
+        <mtriple>Cleveland | isPartOf | Cuyahoga_County,_Ohio</mtriple>
+        <mtriple>Cleveland | isPartOf | Ohio</mtriple>
+        <mtriple>Cleveland | governingBody | Cleveland_City_Council</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>200_Public_Square | Ubicación | Cleveland</striple>
+        <striple>Cleveland | FormaParteDe | Condado_de_Cuyahoga,_Ohio</striple>
+        <striple>Cleveland | FormaParteDe | Ohio</striple>
+        <striple>Cleveland | ÓrganoRector | Ayuntamiento_de_Cleveland</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>200_Public_Square | location | Cleveland</bttriple>
+        <bttriple>Cleveland | isPartOf | Cuyahoga_County,_Ohio</bttriple>
+        <bttriple>Cleveland | isPartOf | Ohio</bttriple>
+        <bttriple>Cleveland | governingBody | Cleveland_City_Council</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>200_Plaça_Pública | Ubicació | Cleveland</ctriple>
+        <ctriple>Cleveland | ÉsPartDe | Comtat_de_Cuyahoga,_Ohio</ctriple>
+        <ctriple>Cleveland | ÉsPartDe | Ohio</ctriple>
+        <ctriple>Cleveland | ÒrganDeGovern | Ajuntament_de_Cleveland</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">200 Public Square is located in Cleveland, Cuyahoga County, Ohio which is governed by Cleveland City Council.</lex>
+      <lex lang="en" lid="Id2">200 Public Square is located in Cleveland, Cuyahoga County, Ohio which is governed by the Cleveland City Council.</lex>
+      <lex lang="en" lid="Id3">200 Public Square is located in Cleveland, Cuyahoga County, Ohio, and is governed by Cleveland City Council.</lex>
+      <lex lang="es" lid="Id1">200 Public Square se encuentra en Cleveland, en el condado de Cuyahoga (Ohio), gobernado por el Ayuntamiento de Cleveland.</lex>
+      <lex lang="es" lid="Id2">200 Public Square se encuentra en Cleveland, en el condado de Cuyahoga (Ohio), gobernado por el Ayuntamiento de Cleveland.</lex>
+      <lex lang="es" lid="Id3">200 Public Square se encuentra en Cleveland, en el condado de Cuyahoga (Ohio), y está gobernada por el Ayuntamiento de Cleveland.</lex>
+      <lex lang="ca" lid="Id1">200 Public Square es troba a Cleveland, Comtat de Cuyahoga, Ohio, que és governat pel Consell de la Ciutat de Cleveland.</lex>
+      <lex lang="ca" lid="Id2">200 Public Square es troba a Cleveland, Comtat de Cuyahoga, Ohio, que és governat pel Consell de la Ciutat de Cleveland.</lex>
+      <lex lang="ca" lid="Id3">200 Public Square es troba a Cleveland, Comtat de Cuyahoga, Ohio, i és governat pel Consell de la Ciutat de Cleveland.</lex>
+      <lex lang="en_bt" lid="Id1">200 Public Square is located in Cleveland, Cuyahoga County, Ohio, which is governed by the Cleveland City Council.</lex>
+      <lex lang="en_bt" lid="Id2">200 Public Square is located in Cleveland, Cuyahoga County, Ohio, which is governed by the Cleveland City Council.</lex>
+      <lex lang="en_bt" lid="Id3">200 Public Square is located in Cleveland, Cuyahoga County, Ohio, and is governed by the Cleveland City Council.</lex>
+      </entry>
+    <entry category="Building" eid="Id4" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>250_Delaware_Avenue | architecturalStyle | Postmodern_architecture</otriple>
+        <otriple>250_Delaware_Avenue | buildingStartDate | "January, 2014"</otriple>
+        <otriple>250_Delaware_Avenue | floorArea | "30843.8"^^xsd:double</otriple>
+        <otriple>250_Delaware_Avenue | floorCount | "12"^^xsd:positiveInteger</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>250_Delaware_Avenue | architecturalStyle | Postmodern_architecture</otriple>
+        <otriple>250_Delaware_Avenue | buildingStartDate | "January, 2014"</otriple>
+        <otriple>250_Delaware_Avenue | floorArea | "30843.8"^^xsd:double</otriple>
+        <otriple>250_Delaware_Avenue | floorCount | 12</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>250_Delaware_Avenue | architecturalStyle | Postmodern_architecture</mtriple>
+        <mtriple>250_Delaware_Avenue | buildingStartDate | "January, 2014"</mtriple>
+        <mtriple>250_Delaware_Avenue | floorArea | 30843.8 (square metres)</mtriple>
+        <mtriple>250_Delaware_Avenue | floorCount | 12</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Avenida_Delaware_250 | EstiloArquitectónico | arquitectura_posmoderna</striple>
+        <striple>Avenida_Delaware_250 | FechaDeInicioDeLaConstrucción | Enero,_2014</striple>
+        <striple>Avenida_Delaware_250 | Superficie | 30843,8_(metros_cuadrados)</striple>
+        <striple>Avenida_Delaware_250 | RecuentoDePisos | 12</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>250_Delaware_Avenue | architecturalStyle | Postmodern_architecture</bttriple>
+        <bttriple>250_Delaware_Avenue | buildingStartDate | "January, 2014"</bttriple>
+        <bttriple>250_Delaware_Avenue | floorArea | 30843.8 (square metres)</bttriple>
+        <bttriple>250_Delaware_Avenue | floorCount | 12</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>250_Delaware_Avenue | EstilArquitectònic | arquitectura_postmoderna</ctriple>
+        <ctriple>250_Delaware_Avenue | DataD'IniciDeLaConstrucció | Janvier,_2014</ctriple>
+        <ctriple>250_Delaware_Avenue | ÀreaDelPis | 30843.8_(metres_quadrats)</ctriple>
+        <ctriple>250_Delaware_Avenue | CompteDePlantes | 12</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Construction beginning in January 2014, Postmodern art 250 Delaware Avenue has 12 floors with a total area of 30843.8 square meters.</lex>
+      <lex lang="en" lid="Id2">Construction of the 12 floor Postmodern style building, 250 Delaware Avenue, which has a floor area of 30843.8 square metres began in January 2014.</lex>
+      <lex lang="en" lid="Id3">First begun to be built in January 2014, the postmodernist art 250 Delaware Avenue has 12 floors and a total floor area of 30843.8 square metres.</lex>
+      <lex lang="es" lid="Id1">La construcción comenzó en enero de 2014, Postmodern art 250 Delaware Avenue tiene 12 plantas con una superficie total de 30843,8 metros cuadrados.</lex>
+      <lex lang="es" lid="Id2">La construcción del edificio de 12 plantas de estilo posmoderno, 250 Delaware Avenue, que tiene una superficie de 30843,8 metros cuadrados, comenzó en enero de 2014.</lex>
+      <lex lang="es" lid="Id3">Comenzado a construir en enero de 2014, el 250 Delaware Avenue de arte posmodernista tiene 12 plantas y una superficie total de 30843,8 metros cuadrados.</lex>
+      <lex lang="ca" lid="Id1">La construcció va començar el gener de 2014, l'Art Postmodern 250 Delaware Avenue té 12 plantes amb una superfície total de 30843,8 metres quadrats.</lex>
+      <lex lang="ca" lid="Id2">La construcció de l'edifici d'estil postmodern de 12 plantes, 250 Delaware Avenue, que té una superfície de 30843,8 metres quadrats, va començar al gener de 2014.</lex>
+      <lex lang="ca" lid="Id3">Va començar a ser construït el gener de 2014, l'art postmodernista 250 Delaware Avenue té 12 plantes i una superfície total de 30843,8 metres quadrats.</lex>
+      <lex lang="en_bt" lid="Id1">Construction began in January 2014, the Art Postmodern 250 Delaware Avenue has 12 floors with a total area of 30843.8 square meters.</lex>
+      <lex lang="en_bt" lid="Id2">Construction of the 12-story postmodern-style building, 250 Delaware Avenue, which has an area of 30,843.8 square meters, began in January 2014.</lex>
+      <lex lang="en_bt" lid="Id3">Begun to be built in January 2014, the postmodernist art 250 Delaware Avenue has 12 floors and a total area of 30,843.8 square meters.</lex>
+      </entry>
+    <entry category="Building" eid="Id5" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>300_North_LaSalle | location | Chicago</otriple>
+        <otriple>Chicago | isPartOf | DuPage_County,_Illinois</otriple>
+        <otriple>Chicago | country | United_States</otriple>
+        <otriple>Chicago | leaderName | Susana_Mendoza</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>300_North_LaSalle | location | Chicago</mtriple>
+        <mtriple>Chicago | isPartOf | DuPage_County,_Illinois</mtriple>
+        <mtriple>Chicago | country | United_States</mtriple>
+        <mtriple>Chicago | leader | Susana_Mendoza</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>300_North_LaSalle | Ubicación | Chicago</striple>
+        <striple>Chicago | FormaParteDe | Condado_de_DuPage,_Illinois</striple>
+        <striple>Chicago | País | Estados_Unidos</striple>
+        <striple>Chicago | Líder | Susana_Mendoza</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>300_North_LaSalle | location | Chicago</bttriple>
+        <bttriple>Chicago | isPartOf | DuPage_County,_Illinois</bttriple>
+        <bttriple>Chicago | country | United_States</bttriple>
+        <bttriple>Chicago | leader | Susana_Mendoza</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>300_North_LaSalle | Ubicació | Chicago</ctriple>
+        <ctriple>Chicago | ÉsPartDe | Comtat_de_DuPage,_Illinois</ctriple>
+        <ctriple>Chicago | País | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Chicago | Líder | Susana_Mendoza</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">300 North LaSalle is located in Chicago, DuPage County, Illinois, United States where the leader is Susana Mendoza.</lex>
+      <lex lang="en" lid="Id2">300 North Lasalle is located in Chicago, DuPage County, Illinois, U.S. The leader or Chicago is Susana Mendoza.</lex>
+      <lex lang="en" lid="Id3">300 North LaSalle is situated in Chicago which is part of the Dupage County in Illinois located in the U.S. Susana Mendoza is currently the leader of Chicago.</lex>
+      <lex lang="es" lid="Id1">300 North LaSalle está situado en Chicago, Condado de DuPage, Illinois, Estados Unidos, donde el líder es Susana Mendoza.</lex>
+      <lex lang="es" lid="Id2">300 North Lasalle se encuentra en Chicago, Condado de DuPage, Illinois, EE.UU. El líder o Chicago es Susana Mendoza.</lex>
+      <lex lang="es" lid="Id3">300 North LaSalle está situado en Chicago que es parte del condado de Dupage en Illinois situado en los EE.UU. Susana Mendoza es actualmente el líder de Chicago.</lex>
+      <lex lang="ca" lid="Id1">300 North LaSalle es troba a Chicago, comtat de DuPage, Illinois, Estats Units on el líder és Susana Mendoza.</lex>
+      <lex lang="ca" lid="Id2">300 North Lasalle es troba a Chicago, al comtat de DuPage, Illinois, EUA. La líder de Chicago és Susana Mendoza.</lex>
+      <lex lang="ca" lid="Id3">El 300 North LaSalle està situat a Chicago, que forma part del comtat de Dupage a Illinois, als Estats Units. Susana Mendoza és actualment la líder de Chicago.</lex>
+      <lex lang="en_bt" lid="Id1">300 North LaSalle is located in Chicago, DuPage County, Illinois, United States where the leader is Susana Mendoza.</lex>
+      <lex lang="en_bt" lid="Id2">300 North Lasalle is located in Chicago, in DuPage County, Illinois, USA. The leader of Chicago is Susana Mendoza.</lex>
+      <lex lang="en_bt" lid="Id3">The 300 North LaSalle is located in Chicago, which is part of Dupage County in Illinois, United States. Susana Mendoza is the current leader of Chicago.</lex>
+      </entry>
+    <entry category="Building" eid="Id6" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>3Arena | owner | Live_Nation_Entertainment</otriple>
+        <otriple>Dublin | leaderName | Críona_Ní_Dhálaigh</otriple>
+        <otriple>Dublin | country | Republic_of_Ireland</otriple>
+        <otriple>3Arena | location | Dublin</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>3Arena | owner | Live_Nation_Entertainment</mtriple>
+        <mtriple>Dublin | leader | Críona_Ní_Dhálaigh</mtriple>
+        <mtriple>Dublin | country | Republic_of_Ireland</mtriple>
+        <mtriple>3Arena | location | Dublin</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>3Arena | Propietario | Live_Nation_Entertainment</striple>
+        <striple>Dublín | Líder | Críona_Ní_Dhálaigh</striple>
+        <striple>Dublín | País | Irlanda</striple>
+        <striple>3Arena | Ubicación | Dublín</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>3Arena | owner | Live_Nation_Entertainment</bttriple>
+        <bttriple>Dublin | leader | Críona_Ní_Dhálaigh</bttriple>
+        <bttriple>Dublin | country | Republic_of_Ireland</bttriple>
+        <bttriple>3Arena | location | Dublin</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Tele2_Arena | Propietari | Live_Nation</ctriple>
+        <ctriple>Dublín | Líder | Críona_Ní_Dhálaigh</ctriple>
+        <ctriple>Dublín | País | República_d'Irlanda</ctriple>
+        <ctriple>Tele2_Arena | Ubicació | Dublín</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">3 Arena is located in Dublin, the Republic of Ireland, where Críona Ní Dhálaigh was Lord Mayor. The owner of 3Arena is Live Nation Entertainment.</lex>
+      <lex lang="en" lid="Id2">The Lord Mayor of Dublin (Republic of Ireland) is Criona Ni Dhalaigh. Based in Dublin is 3Arena which is owned by Live Nation Entertainment.</lex>
+      <lex lang="en" lid="Id3">The 3Arena, Dublin, Republic of Ireland is owned by Live Nation Entertainment. Críona Ní Dhálaigh was Lord Mayor of Dublin.</lex>
+      <lex lang="es" lid="Id1">El 3 Arena está situado en Dublín (República de Irlanda), donde Críona Ní Dhálaigh fue alcaldesa. El propietario del 3 Arena es Live Nation Entertainment.</lex>
+      <lex lang="es" lid="Id2">La alcaldesa de Dublín (República de Irlanda) es Criona Ni Dhalaigh. En Dublín se encuentra el 3Arena, propiedad de Live Nation Entertainment.</lex>
+      <lex lang="es" lid="Id3">El 3Arena de Dublín (República de Irlanda) es propiedad de Live Nation Entertainment. Críona Ní Dhálaigh fue alcaldesa de Dublín.</lex>
+      <lex lang="ca" lid="Id1">El 3 Arena es troba a Dublín, República d'Irlanda, on Críona Ní Dhálaigh va ser Lord Mayor. El propietari de 3Arena és Live Nation Entertainment.</lex>
+      <lex lang="ca" lid="Id2">El Lord Major de Dublín (República d'Irlanda) és Criona Ni Dhalaigh. A Dublín hi ha el 3Arena, que és propietat de Live Nation Entertainment.</lex>
+      <lex lang="ca" lid="Id3">El 3Arena, Dublín, República d'Irlanda és propietat de Live Nation Entertainment. Críona Ní Dhálaigh va ser Lord Mayor de Dublín.</lex>
+      <lex lang="en_bt" lid="Id1">The 3 Arena is located in Dublin, Republic of Ireland, where Críona Ní Dhálaigh was Lord Mayor. 3Arena is owned by Live Nation Entertainment.</lex>
+      <lex lang="en_bt" lid="Id2">The Lord Mayor of Dublin (Republic of Ireland) is Criona Ni Dhalaigh. Dublin is home to the 3Arena, owned by Live Nation Entertainment.</lex>
+      <lex lang="en_bt" lid="Id3">The 3Arena, Dublin, Republic of Ireland is owned by Live Nation Entertainment.Críona Ní Dhálaigh was Lord Mayor of Dublin.</lex>
+      </entry>
+    <entry category="Building" eid="Id7" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>3Arena | owner | Live_Nation_Entertainment</otriple>
+        <otriple>Dublin | leaderName | Críona_Ní_Dhálaigh</otriple>
+        <otriple>Dublin | subdivisionName | Republic_of_Ireland</otriple>
+        <otriple>3Arena | location | Dublin</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>3Arena | owner | Live_Nation_Entertainment</mtriple>
+        <mtriple>Dublin | leader | Críona_Ní_Dhálaigh</mtriple>
+        <mtriple>Dublin | isPartOf | Republic_of_Ireland</mtriple>
+        <mtriple>3Arena | location | Dublin</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>3Arena | Propietario | Live_Nation_Entertainment</striple>
+        <striple>Dublín | Líder | Críona_Ní_Dhálaigh</striple>
+        <striple>Dublín | FormaParteDe | Irlanda</striple>
+        <striple>3Arena | Ubicación | Dublín</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>3Arena | owner | Live_Nation_Entertainment</bttriple>
+        <bttriple>Dublin | leader | Críona_Ní_Dhálaigh</bttriple>
+        <bttriple>Dublin | isPartOf | Republic_of_Ireland</bttriple>
+        <bttriple>3Arena | location | Dublin</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Tele2_Arena | Propietari | Live_Nation</ctriple>
+        <ctriple>Dublín | Líder | Críona_Ní_Dhálaigh</ctriple>
+        <ctriple>Dublín | ÉsPartDe | República_d'Irlanda</ctriple>
+        <ctriple>Tele2_Arena | Ubicació | Dublín</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Live Nation Entertainment owns 3Arena, located in Dublin, Republic of Ireland. The Lord Mayor of Dublin is Críona Ní Dhálaigh.</lex>
+      <lex lang="en" lid="Id2">Owned by Live Nation Entertainment, 3Arena can be found in Dublin in the Republic of Ireland, a Republic run by Lord Mayor Críona Ní Dhálaigh.</lex>
+      <lex lang="es" lid="Id1">Live Nation Entertainment es propietaria del 3Arena, situado en Dublín, República de Irlanda. La alcaldesa de Dublín es Críona Ní Dhálaigh.</lex>
+      <lex lang="es" lid="Id2">Propiedad de Live Nation Entertainment, el 3Arena se encuentra en Dublín, en la República de Irlanda, una República dirigida por la Lord Mayor Críona Ní Dhálaigh.</lex>
+      <lex lang="ca" lid="Id1">Live Nation Entertainment és propietària del 3Arena, situat a Dublín, República d'Irlanda. L'alcalde de Dublín és Críona Ní Dhálaigh.</lex>
+      <lex lang="ca" lid="Id2">Proprietat de Live Nation Entertainment, 3Arena es pot trobar a Dublín a la República d'Irlanda, una república dirigida pel alcalde Críona Ní Dhálaigh.</lex>
+      <lex lang="en_bt" lid="Id1">Live Nation Entertainment is the owner of the 3Arena located in Dublin, Republic of Ireland. The Lord Mayor of Dublin is Críona Ní Dhálaigh.</lex>
+      <lex lang="en_bt" lid="Id2">Owned by Live Nation Entertainment, 3Arena can be found in Dublin in the Republic of Ireland, a republic led by Mayor Críona Ní Dhálaigh.</lex>
+      </entry>
+    <entry category="Building" eid="Id8" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | location | Denmark</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | operator | Marriott_International</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | owner | Bella_Center</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | floorCount | "23"^^xsd:positiveInteger</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | location | Denmark</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | owner | Bella_Center</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | floorCount | "23"^^xsd:positiveInteger</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | location | Denmark</mtriple>
+        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</mtriple>
+        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | owner | Bella_Center</mtriple>
+        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | floorCount | 23</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>AC_Hotel_Bella_Sky_Copenhagen | Ubicación | Dinamarca</striple>
+        <striple>AC_Hotel_Bella_Sky_Copenhagen | Arrendatario | Marriott_International</striple>
+        <striple>AC_Hotel_Bella_Sky_Copenhagen | Propietario | Centro_Bella</striple>
+        <striple>AC_Hotel_Bella_Sky_Copenhagen | RecuentoDePisos | 23</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>AC_Hotel_Bella_Sky_Copenhagen | location | Denmark</bttriple>
+        <bttriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</bttriple>
+        <bttriple>AC_Hotel_Bella_Sky_Copenhagen | owner | Bella_Center</bttriple>
+        <bttriple>AC_Hotel_Bella_Sky_Copenhagen | floorCount | 23</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>AC_Hotel_Bella_Sky_Copenhagen | Ubicació | Dinamarca</ctriple>
+        <ctriple>AC_Hotel_Bella_Sky_Copenhagen | Inquilí | Marriott_International</ctriple>
+        <ctriple>AC_Hotel_Bella_Sky_Copenhagen | Propietari | Bella_Center</ctriple>
+        <ctriple>AC_Hotel_Bella_Sky_Copenhagen | CompteDePlantes | 23</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">AC Hotel Bella Sky is located in Copenhagen, Denmark and the tenant from the hotel is Marriott International. It is own by Bella Center and there is 23 floors in that hotel.</lex>
+      <lex lang="en" lid="Id2">There are 23 floors in the AC Hotel Bella Sky Copenhagen, Denmark. The tenant is the Marriott International Hotel and the owner is Bella Center.</lex>
+      <lex lang="en" lid="Id3">Located in Denmark and with tenant Marriott International, AC Hotel Bella Sky Copenhagen is owned by Bella Center and has 23 floors.</lex>
+      <lex lang="es" lid="Id1">AC Hotel Bella Sky se encuentra en Copenhague, Dinamarca y el inquilino del hotel es Marriott International. Es propiedad de Bella Center y tiene 23 plantas.</lex>
+      <lex lang="es" lid="Id2">El AC Hotel Bella Sky de Copenhague (Dinamarca) tiene 23 plantas. El inquilino es el hotel Marriott International y el propietario es Bella Center.</lex>
+      <lex lang="es" lid="Id3">Situado en Dinamarca y con Marriott International como inquilino, el AC Hotel Bella Sky Copenhague es propiedad de Bella Center y tiene 23 plantas.</lex>
+      <lex lang="ca" lid="Id1">L'AC Hotel Bella Sky es troba a Copenhagen, Dinamarca, i el llogater de l'hotel és Marriott International. És propietat de Bella Center i té 23 plantes.</lex>
+      <lex lang="ca" lid="Id2">Hi ha 23 pisos a l'AC Hotel Bella Sky Copenhaguen, Dinamarca. L'arrendatari és el Marriott International Hotel i el propietari és Bella Center.</lex>
+      <lex lang="ca" lid="Id3">Situat a Dinamarca i amb l'inquilí Marriott International, AC Hotel Bella Sky Copenhaguen és propietat de Bella Center i té 23 plantes.</lex>
+      <lex lang="en_bt" lid="Id1">The AC Hotel Bella Sky is located in Copenhagen, Denmark, and the hotel's tenant is Marriott International. It is owned by Bella Center and has 23 floors.</lex>
+      <lex lang="en_bt" lid="Id2">There are 23 floors at the AC Hotel Bella Sky Copenhagen, Denmark. The tenant is the Marriott International Hotel and the owner is Bella Center.</lex>
+      <lex lang="en_bt" lid="Id3">Located in Denmark and tenanted by Marriott International, the AC Hotel Bella Sky Copenhagen is owned by Bella Center and has 23 floors.</lex>
+      </entry>
+    <entry category="Building" eid="Id9" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | owner | Bella_Center</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | architect | 3XN</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | floorCount | "23"^^xsd:positiveInteger</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | owner | Bella_Center</mtriple>
+        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</mtriple>
+        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | architect | 3XN</mtriple>
+        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | floorCount | 23</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>AC_Hotel_Bella_Sky_Copenhagen | Propietario | Centro_Bella</striple>
+        <striple>AC_Hotel_Bella_Sky_Copenhagen | Arrendatario | Marriott_International</striple>
+        <striple>AC_Hotel_Bella_Sky_Copenhagen | Arquitecto | 3XN</striple>
+        <striple>AC_Hotel_Bella_Sky_Copenhagen | RecuentoDePisos | 23</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>AC_Hotel_Bella_Sky_Copenhagen | owner | Bella_Center</bttriple>
+        <bttriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</bttriple>
+        <bttriple>AC_Hotel_Bella_Sky_Copenhagen | architect | 3XN</bttriple>
+        <bttriple>AC_Hotel_Bella_Sky_Copenhagen | floorCount | 23</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>AC_Hotel_Bella_Sky_Copenhagen | Propietari | Bella_Center</ctriple>
+        <ctriple>AC_Hotel_Bella_Sky_Copenhagen | Inquilí | Marriott_International</ctriple>
+        <ctriple>AC_Hotel_Bella_Sky_Copenhagen | Arquitecte | 3XN</ctriple>
+        <ctriple>AC_Hotel_Bella_Sky_Copenhagen | CompteDePlantes | 23</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The tenant of the AC Hotel Bella Sky Copenhagen is Marriott International. The hotel has 23 floors, was designed by the company 3XN and is owned by the Bella Center.</lex>
+      <lex lang="en" lid="Id2">3XN was the architect of the AC Hotel Bella Sky Copenhagen which has 23 floors and is owned by the Bella Center and currently tenanted by Marriott International.</lex>
+      <lex lang="en" lid="Id3">Bella Center owns AC Hotel Bella Sky Copenhagen and Marriott International is a tenant. The hotel has 23 floors and was designed by 3XN.</lex>
+      <lex lang="es" lid="Id1">El arrendatario del AC Hotel Bella Sky Copenhague es Marriott International. El hotel tiene 23 plantas, fue diseñado por la empresa 3XN y es propiedad del Bella Center.</lex>
+      <lex lang="es" lid="Id2">3XN fue el arquitecto del AC Hotel Bella Sky Copenhague, de 23 plantas, propiedad del Bella Center y actualmente alquilado por Marriott International.</lex>
+      <lex lang="es" lid="Id3">Bella Center es propietario del AC Hotel Bella Sky Copenhague y Marriott International es inquilino. El hotel tiene 23 plantas y fue diseñado por 3XN.</lex>
+      <lex lang="ca" lid="Id1">L'inquilí de l'AC Hotel Bella Sky Copenhaguen és Marriott International. L'hotel té 23 pisos, va ser dissenyat per la companyia 3XN i és propietat del Bella Center.</lex>
+      <lex lang="ca" lid="Id2">3XN va ser l'arquitecte de l'AC Hotel Bella Sky Copenhagen, que té 23 plantes i és propietat del Bella Center i actualment està llogat a Marriott International.</lex>
+      <lex lang="ca" lid="Id3">El Bella Center és propietari de l'AC Hotel Bella Sky Copenhaguen i Marriott International és un inquilí.L'hotel té 23 pisos i va ser dissenyat per 3XN.</lex>
+      <lex lang="en_bt" lid="Id1">The tenant of the AC Hotel Bella Sky Copenhagen is Marriott International. The hotel has 23 floors, was designed by the company 3XN and is owned by the Bella Center.</lex>
+      <lex lang="en_bt" lid="Id2">3XN was the architect of the AC Hotel Bella Sky Copenhagen, which has 23 floors and is owned by Bella Center and currently leased to Marriott International.</lex>
+      <lex lang="en_bt" lid="Id3">The Bella Center owns the AC Hotel Bella Sky Copenhagen and Marriott International is a tenant. The hotel has 23 floors and was designed by 3XN.</lex>
+      </entry>
+    <entry category="Building" eid="Id10" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Adisham_Hall | architecturalStyle | "Tudor and Jacabian"@en</otriple>
+        <otriple>Adisham_Hall | completionDate | 1931</otriple>
+        <otriple>Adisham_Hall | location | Sri_Lanka</otriple>
+        <otriple>Adisham_Hall | buildingStartDate | "1927"</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Adisham_Hall | architecturalStyle | "Tudor and Jacabian"@en</otriple>
+        <otriple>Adisham_Hall | location | Sri_Lanka</otriple>
+        <otriple>Adisham_Hall | buildingEndDate | "1931"</otriple>
+        <otriple>Adisham_Hall | buildingStartDate | "1927"</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adisham_Hall | architecturalStyle | "Tudor and Jacabian"</mtriple>
+        <mtriple>Adisham_Hall | location | Sri_Lanka</mtriple>
+        <mtriple>Adisham_Hall | completionDate | 1931</mtriple>
+        <mtriple>Adisham_Hall | buildingStartDate | "1927"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Sala_Adisham | EstiloArquitectónico | Tudor_y_Jacabian</striple>
+        <striple>Sala_Adisham | Ubicación | Sri_Lanka</striple>
+        <striple>Sala_Adisham | FechaDeFinalización | 1931</striple>
+        <striple>Sala_Adisham | FechaDeInicioDeLaConstrucción | 1927</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Adisham_Hall | architecturalStyle | "Tudor and Jacabian"</bttriple>
+        <bttriple>Adisham_Hall | location | Sri_Lanka</bttriple>
+        <bttriple>Adisham_Hall | completionDate | 1931</bttriple>
+        <bttriple>Adisham_Hall | buildingStartDate | "1927"</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Adisham_Hall | EstilArquitectònic | Tudor_i_Jacabian</ctriple>
+        <ctriple>Adisham_Hall | Ubicació | Sri_Lanka</ctriple>
+        <ctriple>Adisham_Hall | DataDeFinalització | 1931</ctriple>
+        <ctriple>Adisham_Hall | DataD'IniciDeLaConstrucció | 1927</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Construction began in 1927 and finished in 1931 of Adisham Hall in Sri Lanka and was in the Tudor and Jacobean style.</lex>
+      <lex lang="en" lid="Id2">The Tudor and Jacobean styled Adisham Hall was built in Sri Lanka between 1927 and 1931.</lex>
+      <lex lang="en" lid="Id3">Adisham Hall began in 1927 and completed in 1931. It has a Tudor and Jacabian style and is located in Sri Lanka.</lex>
+      <lex lang="es" lid="Id1">La construcción del Adisham Hall de Sri Lanka, de estilo tudor y jacobino, comenzó en 1927 y finalizó en 1931.</lex>
+      <lex lang="es" lid="Id2">El Adisham Hall, de estilo tudor y jacobino, se construyó en Sri Lanka entre 1927 y 1931.</lex>
+      <lex lang="es" lid="Id3">El Adisham Hall comenzó a construirse en 1927 y se terminó en 1931. Es de estilo tudor y jacobino y se encuentra en Sri Lanka.</lex>
+      <lex lang="ca" lid="Id1">La construcció va començar el 1927 i es va acabar el 1931 de Adisham Hall a Sri Lanka i va ser en l'estil Tudor i Jacobean.</lex>
+      <lex lang="ca" lid="Id2">L'Adisham Hall d'estil Tudor i Jacobeà va ser construït a Sri Lanka entre 1927 i 1931.</lex>
+      <lex lang="ca" lid="Id3">L'Adisham Hall va començar el 1927 i es va acabar el 1931. Té un estil Tudor i Jacabian i es troba a Sri Lanka.</lex>
+      <lex lang="en_bt" lid="Id1">Construction began in 1927 and was completed in 1931 of Adisham Hall in Sri Lanka and was in the Tudor and Jacobean style.</lex>
+      <lex lang="en_bt" lid="Id2">The Tudor and Jacobean style Adisham Hall was built in Sri Lanka between 1927 and 1931.</lex>
+      <lex lang="en_bt" lid="Id3">Adisham Hall was started in 1927 and completed in 1931.[1] It has a Tudor and Jacabian style and is located in Sri Lanka.</lex>
+      </entry>
+    <entry category="Building" eid="Id11" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Adisham_Hall | locationCountry | Sri_Lanka</otriple>
+        <otriple>Adisham_Hall | location | "Haputale, Sri Lanka"@en</otriple>
+        <otriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</otriple>
+        <otriple>Sri_Lanka | language | Tamil_language</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adisham_Hall | country | Sri_Lanka</mtriple>
+        <mtriple>Adisham_Hall | location | "Haputale, Sri Lanka"</mtriple>
+        <mtriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</mtriple>
+        <mtriple>Sri_Lanka | language | Tamil_language</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Sala_Adisham | País | Sri_Lanka</striple>
+        <striple>Sala_Adisham | Ubicación | Haputale,_Sri_Lanka</striple>
+        <striple>Sri_Lanka | Capital | Sri_Jayawardenapura_Kotte</striple>
+        <striple>Sri_Lanka | Idioma | tamil</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Adisham_Hall | country | Sri_Lanka</bttriple>
+        <bttriple>Adisham_Hall | location | "Haputale, Sri Lanka"</bttriple>
+        <bttriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</bttriple>
+        <bttriple>Sri_Lanka | language | Tamil_language</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Adisham_Hall | País | Sri_Lanka</ctriple>
+        <ctriple>Adisham_Hall | Ubicació | Haputale,_Sri_Lanka</ctriple>
+        <ctriple>Sri_Lanka | Capital | Sri_Jayawardenapura</ctriple>
+        <ctriple>Sri_Lanka | Llengua | Llengua_tamil</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Adisham Hall is located in Haputale, Sri Lanka which has the capital city of Sri Jayawardenepura Kotte. Tamil is the language of the country.</lex>
+      <lex lang="en" lid="Id2">Adisham Hall can be found in Haputale, Sri Lanka, a country with the capital Sri Jayawardenepura Kotte and language of the Tamil language.</lex>
+      <lex lang="en" lid="Id3">Adisham Hall can be found in Haputale, Sri Lanka, where Sri Lanka's capital is Sri Jayawardenepura Kotte and the language is the Tamil Language.</lex>
+      <lex lang="es" lid="Id1">Adisham Hall se encuentra en Haputale, Sri Lanka, cuya capital es Sri Jayawardenepura Kotte. El idioma del país es el tamil.</lex>
+      <lex lang="es" lid="Id2">Adisham Hall se encuentra en Haputale, Sri Lanka, un país con capital Sri Jayawardenepura Kotte y lengua tamil.</lex>
+      <lex lang="es" lid="Id3">Adisham Hall se encuentra en Haputale (Sri Lanka), cuya capital es Sri Jayawardenepura Kotte y cuyo idioma es el tamil.</lex>
+      <lex lang="ca" lid="Id1">Adisham Hall es troba a Haputale, Sri Lanka, que té la capital de Sri Jayawardenepura Kotte. El tàmil és la llengua del país.</lex>
+      <lex lang="ca" lid="Id2">Adisham Hall es pot trobar a Haputale, Sri Lanka, un país amb la capital Sri Jayawardenepura Kotte i llengua de la llengua tàmil.</lex>
+      <lex lang="ca" lid="Id3">Adisham Hall es pot trobar a Haputale, Sri Lanka, on la capital de Sri Lanka és Sri Jayawardenepura Kotte i la llengua és la llengua tamil.</lex>
+      <lex lang="en_bt" lid="Id1">Adisham Hall is located in Haputale, Sri Lanka, which has the capital of Sri Jayawardenepura Kotte. Tamil is the language of the country.</lex>
+      <lex lang="en_bt" lid="Id2">Adisham Hall can be found in Haputale, Sri Lanka, a country with the capital Sri Jayawardenepura Kotte and the language of the Tamil language.</lex>
+      <lex lang="en_bt" lid="Id3">Adisham Hall can be found in Haputale, Sri Lanka, where the capital of Sri Lanka is Sri Jayawardenepura Kotte and the language is Tamil.</lex>
+      </entry>
+    <entry category="Building" eid="Id12" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Adisham_Hall | location | Sri_Lanka</otriple>
+        <otriple>Adisham_Hall | architecturalStyle | Tudor_Revival_architecture</otriple>
+        <otriple>Adisham_Hall | buildingEndDate | "1931"</otriple>
+        <otriple>Adisham_Hall | buildingStartDate | "1927"</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Adisham_Hall | completionDate | 1931</otriple>
+        <otriple>Adisham_Hall | location | Sri_Lanka</otriple>
+        <otriple>Adisham_Hall | architecturalStyle | Tudor_Revival_architecture</otriple>
+        <otriple>Adisham_Hall | buildingStartDate | "1927"</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adisham_Hall | location | Sri_Lanka</mtriple>
+        <mtriple>Adisham_Hall | architecturalStyle | Tudor_Revival_architecture</mtriple>
+        <mtriple>Adisham_Hall | completionDate | 1931</mtriple>
+        <mtriple>Adisham_Hall | buildingStartDate | "1927"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Sala_Adisham | Ubicación | Sri_Lanka</striple>
+        <striple>Sala_Adisham | EstiloArquitectónico | Arquitectura_Neo-tudor</striple>
+        <striple>Sala_Adisham | FechaDeFinalización | 1931</striple>
+        <striple>Sala_Adisham | FechaDeInicioDeLaConstrucción | 1927</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Adisham_Hall | location | Sri_Lanka</bttriple>
+        <bttriple>Adisham_Hall | architecturalStyle | Tudor_Revival_architecture</bttriple>
+        <bttriple>Adisham_Hall | completionDate | 1931</bttriple>
+        <bttriple>Adisham_Hall | buildingStartDate | "1927"</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Adisham_Hall | Ubicació | Sri_Lanka</ctriple>
+        <ctriple>Adisham_Hall | EstilArquitectònic | Arquitectura_Tudor_Revival</ctriple>
+        <ctriple>Adisham_Hall | DataDeFinalització | 1931</ctriple>
+        <ctriple>Adisham_Hall | DataD'IniciDeLaConstrucció | 1927</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Construction of Adisham Hall in Sri Lanka began in 1927 and ended in 1931. It was built in the Tudor Revival architectural style.</lex>
+      <lex lang="en" lid="Id2">Adisham Hall, Sri Lanka, was started in 1927 and completed in 1931. It has the Tudor Revival style.</lex>
+      <lex lang="en" lid="Id3">Designed in the Tudor Revival architectural style, Adisham Hall is located in Sri Lanka and was built in 1927 and completed in 1931.</lex>
+      <lex lang="es" lid="Id1">La construcción del Adisham Hall de Sri Lanka comenzó en 1927 y finalizó en 1931. Se construyó en estilo arquitectónico Tudor Revival.</lex>
+      <lex lang="es" lid="Id2">El Adisham Hall de Sri Lanka se empezó a construir en 1927 y se terminó en 1931. Es de estilo Tudor Revival.</lex>
+      <lex lang="es" lid="Id3">Diseñado en estilo arquitectónico Tudor Revival, el Adisham Hall se encuentra en Sri Lanka y fue construido en 1927 y terminado en 1931.</lex>
+      <lex lang="ca" lid="Id1">La construcció de l'Adisham Hall a Sri Lanka va començar el 1927 i va acabar el 1931. Va ser construït en l'estil arquitectònic del Renaixement Tudor.</lex>
+      <lex lang="ca" lid="Id2">Adisham Hall, Sri Lanka, es va començar a construir el 1927 i es va acabar el 1931.</lex>
+      <lex lang="ca" lid="Id3">Dissenyat en l'estil arquitectònic del Renaixement Tudor, Adisham Hall es troba a Sri Lanka i va ser construït el 1927 i completat el 1931.</lex>
+      <lex lang="en_bt" lid="Id1">Construction of Adisham Hall in Sri Lanka began in 1927 and was completed in 1931. It was built in the Tudor Revival architectural style.</lex>
+      <lex lang="en_bt" lid="Id2">Adisham Hall, Sri Lanka, began construction in 1927 and was completed in 1931.</lex>
+      <lex lang="en_bt" lid="Id3">Designed in the Tudor Revival architectural style, Adisham Hall is located in Sri Lanka and was built in 1927 and completed in 1931.</lex>
+      </entry>
+    <entry category="Building" eid="Id13" shape="(X (X (X (X (X)))))" shape_type="chain" size="4">
+      <originaltripleset>
+        <otriple>Akita_Museum_of_Art | locationTown | Akita,_Akita</otriple>
+        <otriple>Akita,_Akita | subdivisionName | Akita_Prefecture</otriple>
+        <otriple>Japan | ethnicGroup | Filipinos_in_Japan</otriple>
+        <otriple>Akita_Prefecture | country | Japan</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akita_Museum_of_Art | location | Akita,_Akita</mtriple>
+        <mtriple>Akita,_Akita | isPartOf | Akita_Prefecture</mtriple>
+        <mtriple>Japan | ethnicGroup | Filipinos_in_Japan</mtriple>
+        <mtriple>Akita_Prefecture | country | Japan</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Museo_de_Arte_de_Akita | Ubicación | Akita,_Akita</striple>
+        <striple>Akita,_Akita | FormaParteDe | Prefectura_de_Akita</striple>
+        <striple>Japón | GrupoÉtnico | Filipinos_en_Japón</striple>
+        <striple>Prefectura_de_Akita | País | Japón</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Akita_Museum_of_Art | location | Akita,_Akita</bttriple>
+        <bttriple>Akita,_Akita | isPartOf | Akita_Prefecture</bttriple>
+        <bttriple>Japan | ethnicGroup | Filipinos_in_Japan</bttriple>
+        <bttriple>Akita_Prefecture | country | Japan</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Museu_d'Art_d'Akita | Ubicació | Akita,_Akita</ctriple>
+        <ctriple>Akita,_Akita | ÉsPartDe | prefectura_d'Akita</ctriple>
+        <ctriple>Japó | GrupÈtnic | Filipinos_al_Japó</ctriple>
+        <ctriple>prefectura_d'Akita | País | Japó</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The Akita Museum of Art is located in Akita Prefecture, Akita, Japan. One of the ethnic groups of Japan is the Filipinos.</lex>
+      <lex lang="en" lid="Id2">Akita Museum of Art is located in Akita, Akita, Akita Prefecture, Japan, where one of the ethnic groups is the Filipinos.</lex>
+      <lex lang="en" lid="Id3">The Akita Prefecture, where the Akita Museum of Art is located, is part of the country of Japan a country where one of the ethnic groups is Filipinos.</lex>
+      <lex lang="es" lid="Id1">El Museo de Arte de Akita se encuentra en la prefectura de Akita, Japón. Uno de los grupos étnicos de Japón son los filipinos.</lex>
+      <lex lang="es" lid="Id2">El Museo de Arte de Akita se encuentra en Akita, prefectura de Akita (Japón), donde uno de los grupos étnicos es el filipino.</lex>
+      <lex lang="es" lid="Id3">La prefectura de Akita, donde se encuentra el Museo de Arte de Akita, forma parte de Japón, un país en el que uno de los grupos étnicos es el filipino.</lex>
+      <lex lang="ca" lid="Id1">El Museu d'Art d'Akita es troba a la Prefectura d'Akita, Akita, Japó. Un dels grups ètnics del Japó són els filipins.</lex>
+      <lex lang="ca" lid="Id2">El Museu d'Art d'Akita es troba a Akita, Akita, Prefectura d'Akita, Japó, on un dels grups ètnics són els filipins.</lex>
+      <lex lang="ca" lid="Id3">La prefectura d'Akita, on es troba el Museu d'Art d'Akita, forma part del Japó, un país on un dels grups ètnics són els filipins.</lex>
+      <lex lang="en_bt" lid="Id1">The Akita Art Museum is located in Akita Prefecture, Akita, Japan.One of Japan's ethnic groups are the Filipinos.</lex>
+      <lex lang="en_bt" lid="Id2">The Akita Art Museum is located in Akita, Akita, Akita Prefecture, Japan, where one of the ethnic groups are the Filipinos.</lex>
+      <lex lang="en_bt" lid="Id3">Akita Prefecture, where the Akita Museum of Art is located, is part of Japan, a country where one of the ethnic groups is the Filipinos.</lex>
+      </entry>
+    <entry category="Building" eid="Id14" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Alan_B._Miller_Hall | location | Virginia</otriple>
+        <otriple>Alan_B._Miller_Hall | architect | Robert_A._M._Stern</otriple>
+        <otriple>Mason_School_of_Business | country | United_States</otriple>
+        <otriple>Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_B._Miller_Hall | location | Virginia</mtriple>
+        <mtriple>Alan_B._Miller_Hall | architect | Robert_A._M._Stern</mtriple>
+        <mtriple>Mason_School_of_Business | country | United_States</mtriple>
+        <mtriple>Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Sala_Alan_B._Miller | Ubicación | Virginia</striple>
+        <striple>Sala_Alan_B._Miller | Arquitecto | Robert_A._M._Stern</striple>
+        <striple>Escuela_de_Negocios_Mason | País | Estados_Unidos</striple>
+        <striple>Sala_Alan_B._Miller | InquilinosActuales | Escuela_de_Negocios_Mason</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Alan_B._Miller_Hall | location | Virginia</bttriple>
+        <bttriple>Alan_B._Miller_Hall | architect | Robert_A._M._Stern</bttriple>
+        <bttriple>Mason_School_of_Business | country | United_States</bttriple>
+        <bttriple>Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Alan_B._Miller_Hall | Ubicació | Virgínia</ctriple>
+        <ctriple>Alan_B._Miller_Hall | Arquitecte | Robert_A._M._Stern</ctriple>
+        <ctriple>Escola_Mason_de_Negocis | País | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Alan_B._Miller_Hall | LlogatersActuals | Escola_Mason_de_Negocis</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The Mason School of Business is located in the US and they are the current tenants of Alan B Miller Hall. Robert A.M. Stern is the architect for Alan B. Miller Hall, which is situated in Virginia.</lex>
+      <lex lang="en" lid="Id2">The US based Mason School of Business are the current tenants of Alan B Miller Hall in Virginia which was designed by the architect Robert A M Stern.</lex>
+      <lex lang="en" lid="Id3">The Mason School of Business are the current tenants of Alan B Miller Hall, which is located in Virginia, United States and was designed by the architect Robert A M Stern.</lex>
+      <lex lang="es" lid="Id1">La Mason School of Business se encuentra en Estados Unidos y es la actual inquilina del Alan B Miller Hall. Robert A.M. Stern es el arquitecto del Alan B. Miller Hall, situado en Virginia.</lex>
+      <lex lang="es" lid="Id2">La Mason School of Business estadounidense es la actual inquilina del Alan B Miller Hall de Virginia, diseñado por el arquitecto Robert A M Stern.</lex>
+      <lex lang="es" lid="Id3">La Mason School of Business es la actual inquilina del Alan B Miller Hall, situado en Virginia (Estados Unidos) y diseñado por el arquitecto Robert A M Stern.</lex>
+      <lex lang="ca" lid="Id1">La Mason School of Business es troba als Estats Units i són els actuals llogaters de l'Alan B Miller Hall. Robert A. M. Stern és l'arquitecte de l'Alan B Miller Hall, que es troba a Virgínia.</lex>
+      <lex lang="ca" lid="Id2">La Mason School of Business, amb seu als Estats Units, són els inquilins actuals de l'Alan B Miller Hall a Virgínia, que va ser dissenyat per l'arquitecte Robert A. M. Stern.</lex>
+      <lex lang="ca" lid="Id3">La Mason School of Business són els actuals llogaters d'Alan B Miller Hall, que es troba a Virgínia, Estats Units i va ser dissenyat per l'arquitecte Robert A M Stern.</lex>
+      <lex lang="en_bt" lid="Id1">The Mason School of Business is located in the United States and are the current tenants of the Alan B Miller Hall. Robert A. M. Stern is the architect of the Alan B Miller Hall, which is located in Virginia.</lex>
+      <lex lang="en_bt" lid="Id2">The Mason School of Business, based in the United States, are the current tenants of Alan B Miller Hall in Virginia, which was designed by architect Robert A. M. Stern.</lex>
+      <lex lang="en_bt" lid="Id3">The Mason School of Business are the current tenants of Alan B Miller Hall, which is located in Virginia, United States and was designed by architect Robert A M Stern.</lex>
+      </entry>
+    <entry category="Building" eid="Id15" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Alan_B._Miller_Hall | location | Virginia</otriple>
+        <otriple>Alan_B._Miller_Hall | completionDate | "2009-06-01"^^xsd:date</otriple>
+        <otriple>Mason_School_of_Business | country | United_States</otriple>
+        <otriple>Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Alan_B._Miller_Hall | location | Virginia</otriple>
+        <otriple>Alan_B._Miller_Hall | buildingEndDate | "1 June 2009"</otriple>
+        <otriple>Mason_School_of_Business | country | United_States</otriple>
+        <otriple>Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_B._Miller_Hall | location | Virginia</mtriple>
+        <mtriple>Alan_B._Miller_Hall | completionDate | 2009-06-01</mtriple>
+        <mtriple>Mason_School_of_Business | country | United_States</mtriple>
+        <mtriple>Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Sala_Alan_B._Miller | Ubicación | Virginia</striple>
+        <striple>Sala_Alan_B._Miller | FechaDeFinalización | 01-06-2009</striple>
+        <striple>Escuela_de_Negocios_Mason | País | Estados_Unidos</striple>
+        <striple>Sala_Alan_B._Miller | InquilinosActuales | Escuela_de_Negocios_Mason</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Alan_B._Miller_Hall | location | Virginia</bttriple>
+        <bttriple>Alan_B._Miller_Hall | completionDate | 2009-06-01</bttriple>
+        <bttriple>Mason_School_of_Business | country | United_States</bttriple>
+        <bttriple>Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Alan_B._Miller_Hall | Ubicació | Virgínia</ctriple>
+        <ctriple>Alan_B._Miller_Hall | DataDeFinalització | 2009-06-01</ctriple>
+        <ctriple>Escola_Mason_de_Negocis | País | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Alan_B._Miller_Hall | LlogatersActuals | Escola_Mason_de_Negocis</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Situated in Virginia, United States, Alan B. Miller Hall was completed on 1st June 2009. The current tenants are the Mason School of Business.</lex>
+      <lex lang="en" lid="Id2">Located in Virginia, United States and with the current tenants of the Mason School of Business, the Alan B. Miller Hall was completed in June 1st, 2009.</lex>
+      <lex lang="es" lid="Id1">Situado en Virginia (Estados Unidos), el Alan B. Miller Hall se terminó de construir el 01-06-2009. Los actuales inquilinos son la Mason School of Business.</lex>
+      <lex lang="es" lid="Id2">Situado en Virginia (Estados Unidos) y con los actuales inquilinos de la Mason School of Business, el Alan B. Miller Hall se terminó de construir el 01-06-2009.</lex>
+      <lex lang="ca" lid="Id1">Situat a Virgínia, Estats Units, l'Alan B. Miller Hall es va completar l'1 de juny de 2009. Els actuals llogaters són l'Escola de Negocis Mason.</lex>
+      <lex lang="ca" lid="Id2">Situat a Virgínia, Estats Units i amb els actuals llogaters de la Mason School of Business, l'Alan B. Miller Hall es va completar l'1 de juny de 2009.</lex>
+      <lex lang="en_bt" lid="Id1">Located in Virginia, United States, Alan B. Miller Hall was completed on June 1, 2009.The current tenants are Mason Business School.</lex>
+      <lex lang="en_bt" lid="Id2">Located in Virginia, United States and with the current tenants of the Mason School of Business, Alan B. Miller Hall was completed on June 1, 2009.</lex>
+      </entry>
+    <entry category="Building" eid="Id16" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Amdavad_ni_Gufa | locationTown | Ahmedabad</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+        <otriple>India | leaderName | Narendra_Modi</otriple>
+        <otriple>India | leader | Sumitra_Mahajan</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amdavad_ni_Gufa | location | Ahmedabad</mtriple>
+        <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
+        <mtriple>India | leader | Narendra_Modi</mtriple>
+        <mtriple>India | leader | Sumitra_Mahajan</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Amdavad_ni_Gufa | Ubicación | Ahmedabad</striple>
+        <striple>Amdavad_ni_Gufa | País | India</striple>
+        <striple>India | Líder | Narendra_Modi</striple>
+        <striple>India | Líder | Sumitra_Mahajan</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Amdavad_ni_Gufa | location | Ahmedabad</bttriple>
+        <bttriple>Amdavad_ni_Gufa | country | India</bttriple>
+        <bttriple>India | leader | Narendra_Modi</bttriple>
+        <bttriple>India | leader | Sumitra_Mahajan</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Amdavad_ni_Gufa | Ubicació | Ahmadabad</ctriple>
+        <ctriple>Amdavad_ni_Gufa | País | Índia</ctriple>
+        <ctriple>Índia | Líder | Narendra_Modi</ctriple>
+        <ctriple>Índia | Líder | Sumitra_Mahajan</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Narendra Modi and Sumitra Mahajan are leaders in India where Amdavad ni Gufa is located in Ahmedabad.</lex>
+      <lex lang="en" lid="Id2">Amdavad ni Gufa is located in Ahmedabad, India. Narendra Modi is the Prime Minister of India whilst Sumitra Mahajan is another leader of India.</lex>
+      <lex lang="en" lid="Id3">Amdavad ni Gufa can be found in Ahmedabad, India, a country led by Narendra Modi and Sumitra Mahajan.</lex>
+      <lex lang="es" lid="Id1">Narendra Modi y Sumitra Mahajan son líderes en la India, donde Amdavad ni Gufa se encuentra en Ahmedabad.</lex>
+      <lex lang="es" lid="Id2">Amdavad ni Gufa se encuentra en Ahmedabad (India). Narendra Modi es el Primer Ministro de la India, mientras que Sumitra Mahajan es otra dirigente del país.</lex>
+      <lex lang="es" lid="Id3">Amdavad ni Gufa se encuentra en Ahmedabad (India), país dirigido por Narendra Modi y Sumitra Mahajan.</lex>
+      <lex lang="ca" lid="Id1">Narendra Modi i Sumitra Mahajan són líders a l'Índia, on Amdavad ni Gufa es troba a Ahmedabad.</lex>
+      <lex lang="ca" lid="Id2">Amdavad ni Gufa es troba a Ahmedabad, Índia. Narendra Modi és el primer ministre de l'Índia mentre que Sumitra Mahajan és un altre líder de l'Índia.</lex>
+      <lex lang="ca" lid="Id3">Amdavad ni Gufa es pot trobar a Ahmedabad, Índia, un país liderat per Narendra Modi i Sumitra Mahajan.</lex>
+      <lex lang="en_bt" lid="Id1">Narendra Modi and Sumitra Mahajan are leaders in India, where Amdavad ni Gufa is located in Ahmedabad.</lex>
+      <lex lang="en_bt" lid="Id2">Amdavad ni Gufa is located in Ahmedabad, India. Narendra Modi is the Prime Minister of India while Sumitra Mahajan is another leader of India.</lex>
+      <lex lang="en_bt" lid="Id3">Amdavad ni Gufa can be found in Ahmedabad, India, a country led by Narendra Modi and Sumitra Mahajan.</lex>
+      </entry>
+    <entry category="Building" eid="Id17" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Amdavad_ni_Gufa | location | Gujarat</otriple>
+        <otriple>Amdavad_ni_Gufa | address | "Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road"@en</otriple>
+        <otriple>Amdavad_ni_Gufa | locationTown | Ahmedabad</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Amdavad_ni_Gufa | locationTown | Gujarat</otriple>
+        <otriple>Amdavad_ni_Gufa | address | "Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road"@en</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+        <otriple>Amdavad_ni_Gufa | location | Ahmedabad</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Amdavad_ni_Gufa | location | Gujarat</otriple>
+        <otriple>Amdavad_ni_Gufa | locationTown | Ahmedabad</otriple>
+        <otriple>Amdavad_ni_Gufa | address | "Lalbhai Dalpatbhai Campus, nearCEPT University, opp.Gujarat University, University Road"@en</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Amdavad_ni_Gufa | locationTown | Gujarat</otriple>
+        <otriple>Amdavad_ni_Gufa | address | "Lalbhai Dalpatbhai Campus, nearCEPT University, opp.Gujarat University, University Road"@en</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+        <otriple>Amdavad_ni_Gufa | location | Ahmedabad</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amdavad_ni_Gufa | location | Gujarat</mtriple>
+        <mtriple>Amdavad_ni_Gufa | address | "Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road"</mtriple>
+        <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
+        <mtriple>Amdavad_ni_Gufa | location | Ahmedabad</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Amdavad_ni_Gufa | Ubicación | Guyarat</striple>
+        <striple>Amdavad_ni_Gufa | Dirección | Campus_Lalbhai_Dalpatbhai,_cerca_de_la_Universidad_CEPT,_opp._Universidad_de_Gujarat,_University_Road</striple>
+        <striple>Amdavad_ni_Gufa | País | India</striple>
+        <striple>Amdavad_ni_Gufa | Ubicación | Ahmedabad</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Amdavad_ni_Gufa | location | Gujarat</bttriple>
+        <bttriple>Amdavad_ni_Gufa | address | "Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road"</bttriple>
+        <bttriple>Amdavad_ni_Gufa | country | India</bttriple>
+        <bttriple>Amdavad_ni_Gufa | location | Ahmedabad</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Amdavad_ni_Gufa | Ubicació | Gujarat</ctriple>
+        <ctriple>Amdavad_ni_Gufa | Adreça | Lalbhai_Dalpatbhai_Campus,_prop_de_la_CEPT_University,_op._Gujarat_University,_University_Road</ctriple>
+        <ctriple>Amdavad_ni_Gufa | País | Índia</ctriple>
+        <ctriple>Amdavad_ni_Gufa | Ubicació | Ahmadabad</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The address for Amdavad ni Gufa is Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road, Gujarat, Ahmedabad, India.</lex>
+      <lex lang="en" lid="Id2">The address of Amdavad ni Gufa is Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road, Ahmedabad, Gujarat, India.</lex>
+      <lex lang="es" lid="Id1">La dirección de Amdavad ni Gufa es Lalbhai Dalpatbhai Campus, cerca de la Universidad CEPT, opp. Gujarat University, University Road, Gujarat, Ahmedabad, India.</lex>
+      <lex lang="es" lid="Id2">La dirección de Amdavad ni Gufa es Lalbhai Dalpatbhai Campus, cerca de la Universidad CEPT, opp. Gujarat University, University Road, Ahmedabad, Gujarat, India.</lex>
+      <lex lang="ca" lid="Id1">L'adreça d'Amdavad ni Gufa és Lalbhai Dalpatbhai Campus, prop de la CEPT University, opp. Gujarat University, University Road, Gujarat, Ahmedabad, Índia.</lex>
+      <lex lang="ca" lid="Id2">L'adreça d'Amdavad ni Gufa és Lalbhai Dalpatbhai Campus, prop de la CEPT University, opp. Gujarat University, University Road, Ahmedabad, Gujarat, Índia.</lex>
+      <lex lang="en_bt" lid="Id1">The address of Amdavad ni Gufa is Lalbhai Dalpatbhai Campus, near CEPT University, opposite Gujarat University, University Road, Gujarat, Ahmedabad, India.</lex>
+      <lex lang="en_bt" lid="Id2">The address of Amdavad ni Gufa is Lalbhai Dalpatbhai Campus, near CEPT University, opposite Gujarat University, University Road, Ahmedabad, Gujarat, India.</lex>
+      </entry>
+    <entry category="Building" eid="Id18" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Amdavad_ni_Gufa | location | Gujarat</otriple>
+        <otriple>India | leaderName | T._S._Thakur</otriple>
+        <otriple>Amdavad_ni_Gufa | locationTown | Ahmedabad</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>India | leaderName | T._S._Thakur</otriple>
+        <otriple>Amdavad_ni_Gufa | location | Ahmedabad</otriple>
+        <otriple>Amdavad_ni_Gufa | locationTown | Gujarat</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amdavad_ni_Gufa | location | Gujarat</mtriple>
+        <mtriple>India | leader | T._S._Thakur</mtriple>
+        <mtriple>Amdavad_ni_Gufa | location | Ahmedabad</mtriple>
+        <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Amdavad_ni_Gufa | Ubicación | Guyarat</striple>
+        <striple>India | Líder | T._S._Thakur</striple>
+        <striple>Amdavad_ni_Gufa | Ubicación | Ahmedabad</striple>
+        <striple>Amdavad_ni_Gufa | País | India</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Amdavad_ni_Gufa | location | Gujarat</bttriple>
+        <bttriple>India | leader | T._S._Thakur</bttriple>
+        <bttriple>Amdavad_ni_Gufa | location | Ahmedabad</bttriple>
+        <bttriple>Amdavad_ni_Gufa | country | India</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Amdavad_ni_Gufa | Ubicació | Gujarat</ctriple>
+        <ctriple>Índia | Líder | T._S._Thakur</ctriple>
+        <ctriple>Amdavad_ni_Gufa | Ubicació | Ahmadabad</ctriple>
+        <ctriple>Amdavad_ni_Gufa | País | Índia</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Amdavad ni Gufa is located in Ahmedabad, Gujarat, India. T S Thakur was an Indian leader.</lex>
+      <lex lang="en" lid="Id2">Amdavad ni Gufa is located in Ahmedabad, Gujarat, India. T S Thakur is a leader in India.</lex>
+      <lex lang="en" lid="Id3">Amdavad ni Gufa is located in Gujarat, Ahmedabad, India, where the leader was T. S. Thakur.</lex>
+      <lex lang="es" lid="Id1">Amdavad ni Gufa se encuentra en Ahmedabad, Gujarat, India. T S Thakur fue un dirigente indio.</lex>
+      <lex lang="es" lid="Id2">Amdavad ni Gufa se encuentra en Ahmedabad, Gujarat, India. T S Thakur es un líder en la India.</lex>
+      <lex lang="es" lid="Id3">Amdavad ni Gufa se encuentra en Gujarat, Ahmedabad, India, y su líder era T. S. Thakur.</lex>
+      <lex lang="ca" lid="Id1">Amdavad ni Gufa es troba a Ahmedabad, Gujarat, Índia. T S Thakur va ser un líder indi.</lex>
+      <lex lang="ca" lid="Id2">Amdavad ni Gufa es troba a Ahmedabad, Gujarat, Índia. T S Thakur és un líder a l'Índia.</lex>
+      <lex lang="ca" lid="Id3">Amdavad ni Gufa es troba a Gujarat, Ahmedabad, Índia, on el líder era T. S. Thakur.</lex>
+      <lex lang="en_bt" lid="Id1">Amdavad ni Gufa is located in Ahmedabad, Gujarat, India. T S Thakur was an Indian leader.</lex>
+      <lex lang="en_bt" lid="Id2">Amdavad ni Gufa is located in Ahmedabad, Gujarat, India. T S Thakur is a leader in India.</lex>
+      <lex lang="en_bt" lid="Id3">Amdavad ni Gufa is located in Gujarat, Ahmedabad, India, where the leader was T. S. Thakur.</lex>
+      </entry>
+    <entry category="Building" eid="Id19" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Ampara_Hospital | country | Sri_Lanka</otriple>
+        <otriple>Sri_Lanka | leaderName | Ranil_Wickremesinghe</otriple>
+        <otriple>Sri_Lanka | currency | Sri_Lankan_rupee</otriple>
+        <otriple>Ampara_Hospital | state | Eastern_Province,_Sri_Lanka</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ampara_Hospital | country | Sri_Lanka</mtriple>
+        <mtriple>Sri_Lanka | leader | Ranil_Wickremesinghe</mtriple>
+        <mtriple>Sri_Lanka | currency | Sri_Lankan_rupee</mtriple>
+        <mtriple>Ampara_Hospital | state | Eastern_Province,_Sri_Lanka</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Hospital_de_Ampara | País | Sri_Lanka</striple>
+        <striple>Sri_Lanka | Líder | Ranil_Wickremasinghe</striple>
+        <striple>Sri_Lanka | Divisa | rupia_esrilanquesa</striple>
+        <striple>Hospital_de_Ampara | Estado | Provincia_del_Este,_Sri_Lanka</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Ampara_Hospital | country | Sri_Lanka</bttriple>
+        <bttriple>Sri_Lanka | leader | Ranil_Wickremesinghe</bttriple>
+        <bttriple>Sri_Lanka | currency | Sri_Lankan_rupee</bttriple>
+        <bttriple>Ampara_Hospital | state | Eastern_Province,_Sri_Lanka</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Hospital_d'Ampara | País | Sri_Lanka</ctriple>
+        <ctriple>Sri_Lanka | Líder | Ranil_Wickremesinghe</ctriple>
+        <ctriple>Sri_Lanka | Moneda | rupia_de_Sri_Lanka</ctriple>
+        <ctriple>Hospital_d'Ampara | Estat | Província_oriental,_Sri_Lanka</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Ampara Hospital is located in the Eastern Province of Sri Lanka, where the currency is the Sri Lankan rupee. One of the leaders of Sri Lanka is Ranil Wickremesinghe.</lex>
+      <lex lang="en" lid="Id2">Ampara Hospital is located in Eastern Province, Sri Lanka. The currency of Sri Lanka is the Sri Lankan rupee and the leader of the country is Ranil Wickremesinghe.</lex>
+      <lex lang="en" lid="Id3">Ampara Hospital is in the Eastern Province, Sri Lanka. The leader of Sri Lanka is Ranil Wickremesinghe and its currency is the Sri Lankan rupee.</lex>
+      <lex lang="es" lid="Id1">El hospital de Ampara está situado en la provincia oriental de Sri Lanka, cuya moneda es la rupia esrilanquesa. Uno de los líderes de Sri Lanka es Ranil Wickremesinghe.</lex>
+      <lex lang="es" lid="Id2">El hospital de Ampara está situado en la provincia oriental de Sri Lanka. La moneda de Sri Lanka es la rupia esrilanquesa y el dirigente del país es Ranil Wickremesinghe.</lex>
+      <lex lang="es" lid="Id3">El hospital de Ampara se encuentra en la provincia Oriental de Sri Lanka. El líder de Sri Lanka es Ranil Wickremesinghe y su moneda es la rupia de Sri Lanka.</lex>
+      <lex lang="ca" lid="Id1">L'hospital d'Ampara es troba a la província oriental de Sri Lanka, on la moneda és la rupia de Sri Lanka i on un dels líders és Ranil Wickremesinghe.</lex>
+      <lex lang="ca" lid="Id2">L'hospital d'Ampara es troba a la província oriental de Sri Lanka. La moneda de Sri Lanka és la rupia de Sri Lanka i el líder del país és Ranil Wickremesinghe.</lex>
+      <lex lang="ca" lid="Id3">L'hospital d'Ampara es troba a la província oriental de Sri Lanka. El líder de Sri Lanka és Ranil Wickremesinghe i la seva moneda és la rupia de Sri Lanka.</lex>
+      <lex lang="en_bt" lid="Id1">The Ampara hospital is located in the eastern province of Sri Lanka, where the currency is the Sri Lankan rupee and where one of the leaders is Ranil Wickremesinghe.</lex>
+      <lex lang="en_bt" lid="Id2">The Ampara Hospital is located in the Eastern Province of Sri Lanka.The currency of Sri Lanka is the Sri Lankan rupee and the leader of the country is Ranil Wickremesinghe.</lex>
+      <lex lang="en_bt" lid="Id3">The Ampara Hospital is located in the Eastern Province of Sri Lanka. The leader of Sri Lanka is Ranil Wickremesinghe and its currency is the Sri Lankan rupee.</lex>
+      </entry>
+    <entry category="Building" eid="Id20" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
+        <otriple>Julia_Morgan | birthPlace | San_Francisco</otriple>
+        <otriple>Julia_Morgan | significantBuilding | Los_Angeles_Herald-Examiner</otriple>
+        <otriple>Julia_Morgan | significantBuildings | Asilomar_State_Beach</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</mtriple>
+        <mtriple>Julia_Morgan | birthPlace | San_Francisco</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Los_Angeles_Herald-Examiner</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Asilomar_State_Beach</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Asilomar_Conference_Grounds | Arquitecto | Julia_Morgan</striple>
+        <striple>Julia_Morgan | LugarDeNacimiento | San_Francisco</striple>
+        <striple>Julia_Morgan | EdificioSignificativo | Los_Angeles_Herald-Examiner</striple>
+        <striple>Julia_Morgan | EdificioSignificativo | Asilomar_State_Beach</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</bttriple>
+        <bttriple>Julia_Morgan | birthPlace | San_Francisco</bttriple>
+        <bttriple>Julia_Morgan | significantBuilding | Los_Angeles_Herald-Examiner</bttriple>
+        <bttriple>Julia_Morgan | significantBuilding | Asilomar_State_Beach</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Centre_de_convencions_Asilomar | Arquitecte | Julia_Morgan</ctriple>
+        <ctriple>Julia_Morgan | LlocDeNaixement | San_Francisco</ctriple>
+        <ctriple>Julia_Morgan | EdificiSignificatiu | Los_Angeles_Herald-Examiner</ctriple>
+        <ctriple>Julia_Morgan | EdificiSignificatiu | Asilomar_State_Beach</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">San Francisco born architect Julia Morgan designed many significant buildings including the Asilomar Conference Grounds, the Los Angeles Herald Examiner Building and the Asilomar State Beach.</lex>
+      <lex lang="en" lid="Id2">Julia Morgan, born in San Francisco and designer of many significant buildings, including the Los Angeles Herald Examiner building and the Asilomar State Beach, was also the architect of the grounds of Asilomar Conference.</lex>
+      <lex lang="en" lid="Id3">Julia Morgan was born in San Francisco. She designed the Asilomar Conference Grounds, the Asilomar State Beach and the Los Angeles Herald examiner, a landmark in California.</lex>
+      <lex lang="es" lid="Id1">La arquitecta Julia Morgan, nacida en San Francisco, diseñó muchos edificios importantes, como el Asilomar Conference Grounds, el edificio de Los Angeles Herald Examiner y la playa estatal de Asilomar.</lex>
+      <lex lang="es" lid="Id2">Julia Morgan, nacida en San Francisco y diseñadora de muchos edificios significativos, como el edificio del Herald Examiner de Los Ángeles y la playa estatal de Asilomar, fue también la arquitecta de los terrenos de la Conferencia de Asilomar.</lex>
+      <lex lang="es" lid="Id3">Julia Morgan nació en San Francisco. Diseñó el Asilomar Conference Grounds, la Asilomar State Beach y el Los Angeles Herald examiner, todo un hito en California.</lex>
+      <lex lang="ca" lid="Id1">L'arquitecta nascuda a San Francisco Julia Morgan va dissenyar molts edificis significatius, incloent l'Asilomar Conference Grounds, el Los Angeles Herald Examiner Building i l'Asilomar State Beach.</lex>
+      <lex lang="ca" lid="Id2">Julia Morgan, nascuda a San Francisco i dissenyadora de molts edificis significatius, incloent l'edifici Los Angeles Herald Examiner i l'Asilomar State Beach, també va ser l'arquitecta dels terrenys de la Conferència d'Asilomar.</lex>
+      <lex lang="ca" lid="Id3">Julia Morgan va néixer a San Francisco. Va dissenyar l'Asilomar Conference Grounds, l'Asilomar State Beach i l'examinador del Los Angeles Herald, un monument de Califòrnia.</lex>
+      <lex lang="en_bt" lid="Id1">San Francisco-born architect Julia Morgan designed many significant buildings, including the Asilomar Conference Grounds, the Los Angeles Herald Examiner Building, and the Asilomar State Beach.</lex>
+      <lex lang="en_bt" lid="Id2">Born in San Francisco and the designer of many significant buildings including the Los Angeles Herald Examiner building and Asilomar State Beach, Julia Morgan was also the architect of the Asilomar Conference Grounds.</lex>
+      <lex lang="en_bt" lid="Id3">Julia Morgan was born in San Francisco. She designed the Asilomar Conference Grounds, the Asilomar State Beach and the Los Angeles Herald Examiner, a California landmark.</lex>
+      </entry>
+    <entry category="Building" eid="Id21" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
+        <otriple>Julia_Morgan | significantBuilding | Los_Angeles_Herald-Examiner</otriple>
+        <otriple>Julia_Morgan | significantBuildings | Riverside_Art_Museum</otriple>
+        <otriple>Julia_Morgan | birthPlace | California</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Los_Angeles_Herald-Examiner</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Riverside_Art_Museum</mtriple>
+        <mtriple>Julia_Morgan | birthPlace | California</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Asilomar_Conference_Grounds | Arquitecto | Julia_Morgan</striple>
+        <striple>Julia_Morgan | EdificioSignificativo | Los_Angeles_Herald-Examiner</striple>
+        <striple>Julia_Morgan | EdificioSignificativo | Museo_de_Arte_de_Riverside</striple>
+        <striple>Julia_Morgan | LugarDeNacimiento | California</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</bttriple>
+        <bttriple>Julia_Morgan | significantBuilding | Los_Angeles_Herald-Examiner</bttriple>
+        <bttriple>Julia_Morgan | significantBuilding | Riverside_Art_Museum</bttriple>
+        <bttriple>Julia_Morgan | birthPlace | California</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Centre_de_convencions_Asilomar | Arquitecte | Julia_Morgan</ctriple>
+        <ctriple>Julia_Morgan | EdificiSignificatiu | Los_Angeles_Herald-Examiner</ctriple>
+        <ctriple>Julia_Morgan | EdificiSignificatiu | Museu_d'Art_de_Riverside</ctriple>
+        <ctriple>Julia_Morgan | LlocDeNaixement | Califòrnia</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Born in California, Julia Morgan has designed buildings such as Los Angeles Herald Examiner building and the Riverside Art Museum, and was also the architect of the grounds of Asilomar Conference.</lex>
+      <lex lang="en" lid="Id2">Julia Morgan from California, designed many important buildings including the Los Angeles Herald Examiner building, the Riverside Art Museum and the Asilomar Conference Grounds.</lex>
+      <lex lang="es" lid="Id1">Nacida en California, Julia Morgan ha diseñado edificios como el Herald Examiner de Los Ángeles y el Museo de Arte de Riverside, y también fue la arquitecta de los terrenos de la Conferencia de Asilomar.</lex>
+      <lex lang="es" lid="Id2">La Californiana Julia Morgan diseñó muchos edificios importantes, como el Herald Examiner de Los Ángeles, el Museo de Arte de Riverside y el Asilomar Conference Grounds.</lex>
+      <lex lang="ca" lid="Id1">Nascut a Califòrnia, Julia Morgan ha dissenyat edificis com l'edifici Los Angeles Herald Examiner i el Riverside Art Museum, i també va ser l'arquitecte dels terrenys de la Conferència d'Asilomar.</lex>
+      <lex lang="ca" lid="Id2">Julia Morgan de Califòrnia, va dissenyar molts edificis importants, incloent l'edifici del Los Angeles Herald Examiner, el Riverside Art Museum i l'Asilomar Conference Grounds.</lex>
+      <lex lang="en_bt" lid="Id1">Born in California, Julia Morgan has designed buildings such as the Los Angeles Herald Examiner building and the Riverside Art Museum, and was also the architect of the Asilomar Conference grounds.</lex>
+      <lex lang="en_bt" lid="Id2">Julia Morgan of California designed many important buildings, including the Los Angeles Herald Examiner building, the Riverside Art Museum, and the Asilomar Conference Grounds.</lex>
+      </entry>
+    <entry category="Building" eid="Id22" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | New_York_City</otriple>
+        <otriple>New_York_City | country | United_States</otriple>
+        <otriple>New_York_City | subdivisionName | Manhattan</otriple>
+        <otriple>New_York_City | isPartOf | New_Netherland</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | location | New_York_City</mtriple>
+        <mtriple>New_York_City | country | United_States</mtriple>
+        <mtriple>New_York_City | isPartOf | Manhattan</mtriple>
+        <mtriple>New_York_City | isPartOf | New_Netherland</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Baños_públicos_de_Asser_Levy | Ubicación | Nueva_York</striple>
+        <striple>Nueva_York | País | Estados_Unidos</striple>
+        <striple>Nueva_York | FormaParteDe | Manhattan</striple>
+        <striple>Nueva_York | FormaParteDe | Nuevos_Países_Bajos</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Asser_Levy_Public_Baths | location | New_York_City</bttriple>
+        <bttriple>New_York_City | country | United_States</bttriple>
+        <bttriple>New_York_City | isPartOf | Manhattan</bttriple>
+        <bttriple>New_York_City | isPartOf | New_Netherland</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Banys_públics_Asser_Levy | Ubicació | Nova_York</ctriple>
+        <ctriple>Nova_York | País | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Nova_York | ÉsPartDe | Manhattan</ctriple>
+        <ctriple>Nova_York | ÉsPartDe | Nous_Països_Baixos</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Asser Levy Public Baths are in New York City, U.S. which is part of Manhattan. New York City was part of New Netherland.</lex>
+      <lex lang="en" lid="Id2">Asser Levy Public Baths are located in New York City, Manhattan, New Netherland in the United States.</lex>
+      <lex lang="en" lid="Id3">Asser Levy Public Baths is located in New York City, on Manhattan Island, New York, in the United States. New York City was part of what was New Netherland.</lex>
+      <lex lang="es" lid="Id1">Los baños públicos Asser Levy se encuentran en la ciudad de Nueva York, EE.UU., que forma parte de Manhattan. La ciudad de Nueva York formaba parte de Nueva Holanda.</lex>
+      <lex lang="es" lid="Id2">Los baños públicos Asser Levy están situados en la ciudad de Nueva York, Manhattan, Nueva Holanda en los Estados Unidos.</lex>
+      <lex lang="es" lid="Id3">Los baños públicos Asser Levy se encuentran en la ciudad de Nueva York, en la isla de Manhattan, Nueva York, Estados Unidos. La ciudad de Nueva York formaba parte de lo que fue Nueva Holanda.</lex>
+      <lex lang="ca" lid="Id1">Els banys públics d'Asser Levy es troben a la ciutat de Nova York, EUA, que forma part de Manhattan. La ciutat de Nova York va formar part de New Netherland.</lex>
+      <lex lang="ca" lid="Id2">Els Banys Públics Asser Levy es troben a la ciutat de Nova York, Manhattan, New Netherland, als Estats Units.</lex>
+      <lex lang="ca" lid="Id3">Els banys públics Asser Levy es troben a la ciutat de Nova York, a l' illa de Manhattan, Nova York, als Estats Units. La ciutat de Nova York formava part del que era Nova Holanda.</lex>
+      <lex lang="en_bt" lid="Id1">The Asser Levy Public Baths are located in New York City, USA, which is part of Manhattan. New York City was part of New Netherland.</lex>
+      <lex lang="en_bt" lid="Id2">The Asser Levy Public Baths are located in New York City, Manhattan, New Netherland, United States.</lex>
+      <lex lang="en_bt" lid="Id3">The Asser Levy Public Baths are located in New York City on the island of Manhattan, New York, United States. New York City was part of what was New Netherland.</lex>
+      </entry>
+    <entry category="Building" eid="Id23" shape="(X (X (X (X) (X))))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Birmingham | postalCode | B_postcode_area</otriple>
+        <otriple>103_Colmore_Row | architect | John_Madin</otriple>
+        <otriple>John_Madin | hometown | Birmingham</otriple>
+        <otriple>Birmingham | leaderName | John_Clancy_(Labour_politician)</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Birmingham | postalCode | B_postcode_area</mtriple>
+        <mtriple>103_Colmore_Row | architect | John_Madin</mtriple>
+        <mtriple>John_Madin | origin | Birmingham</mtriple>
+        <mtriple>Birmingham | leader | John_Clancy_(Labour_politician)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Birmingham | CódigoPostal | Código_postal_de_la_zona_B</striple>
+        <striple>103_Colmore_Row | Arquitecto | John_Madin</striple>
+        <striple>John_Madin | Origen | Birmingham</striple>
+        <striple>Birmingham | Líder | John_Clancy_(político_laborista)</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Birmingham | postalCode | B_postcode_area</bttriple>
+        <bttriple>103_Colmore_Row | architect | John_Madin</bttriple>
+        <bttriple>John_Madin | origin | Birmingham</bttriple>
+        <bttriple>Birmingham | leader | John_Clancy_(Labour_politician)</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Birmingham | CòdiPostal | Àrea_de_codi_postal_B</ctriple>
+        <ctriple>103_Colmore_Row | Arquitecte | John_Madin</ctriple>
+        <ctriple>John_Madin | Origen | Birmingham</ctriple>
+        <ctriple>Birmingham | Líder | John_Clancy_(polític_laborista)</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The architect John Madin was the designer of 103 Colmore Row, which is located in his home city of Birmingham. Labour politician, John Clancy is the leader of Birmingham and the city has the postal code 'B'.</lex>
+      <lex lang="en" lid="Id2">103 Colmore Row was designed by the architect, John Madin, Birmingham native. Birmingham has the postcode area 'B' and is led by Labour politician, John Clancy.</lex>
+      <lex lang="en" lid="Id3">Labour politician, John Clancy is the leader of Birmingham which has the postcode area 'B' and is home town of John Madin the architect who designed 103 Colmore Row.</lex>
+      <lex lang="es" lid="Id1">El arquitecto John Madin fue el diseñador del número 103 de Colmore Row, situado en su ciudad natal, Birmingham. El político laborista John Clancy es el líder de Birmingham y la ciudad tiene el código postal "B".</lex>
+      <lex lang="es" lid="Id2">El 103 de Colmore Row fue diseñado por el arquitecto John Madin, natural de Birmingham. Birmingham tiene el código postal "B" y está dirigida por el político laborista John Clancy.</lex>
+      <lex lang="es" lid="Id3">El político laborista John Clancy es el líder de Birmingham, que tiene el código postal "B" y es la ciudad natal de John Madin, el arquitecto que diseñó el número 103 de Colmore Row.</lex>
+      <lex lang="ca" lid="Id1">L'arquitecte John Madin va ser el dissenyador del 103 Colmore Row, que es troba a la seva ciutat natal de Birmingham. El polític laborista John Clancy és el líder de Birmingham i la ciutat té el codi postal 'B'.</lex>
+      <lex lang="ca" lid="Id2">El 103 Colmore Row va ser dissenyat per l'arquitecte, John Madin, nadiu de Birmingham. Birmingham té el codi postal de l'àrea 'B' i està dirigit pel polític laborista, John Clancy.</lex>
+      <lex lang="ca" lid="Id3">El polític laborista John Clancy és el líder de Birmingham, que té l'àrea de codi postal 'B' i és la ciutat natal de John Madin, l'arquitecte que va dissenyar 103 Colmore Row.</lex>
+      <lex lang="en_bt" lid="Id1">Architect John Madin was the designer of 103 Colmore Row, which is located in his hometown of Birmingham. Labour politician John Clancy is the leader of Birmingham and the city has the postal code 'B'.</lex>
+      <lex lang="en_bt" lid="Id2">103 Colmore Row was designed by Birmingham-born architect John Madin. Birmingham has the area code 'B' and is led by Labour politician John Clancy.</lex>
+      <lex lang="en_bt" lid="Id3">Labour politician John Clancy is the leader of Birmingham, which has the 'B' postal code area and is the hometown of John Madin, the architect who designed 103 Colmore Row.</lex>
+      </entry>
+    <entry category="Building" eid="Id24" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Mulatu_Teshome</otriple>
+        <otriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Ethiopia | leaderName | Mulatu_Teshome</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leader | Mulatu_Teshome</mtriple>
+        <mtriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Etiopía | Líder | Mulatu_Teshome</striple>
+        <striple>Adís_Abeba | FormaParteDe | Estadio_de_Adís_Abeba</striple>
+        <striple>Ayuntamiento_de_Addis_Abeba | País | Etiopía</striple>
+        <striple>Ayuntamiento_de_Addis_Abeba | Ubicación | Adís_Abeba</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Ethiopia | leader | Mulatu_Teshome</bttriple>
+        <bttriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</bttriple>
+        <bttriple>Addis_Ababa_City_Hall | country | Ethiopia</bttriple>
+        <bttriple>Addis_Ababa_City_Hall | location | Addis_Ababa</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Etiòpia | Líder | Mulatu_Teschome</ctriple>
+        <ctriple>Addis_Abeba | ÉsPartDe | Estadi_d'Addis_Abeba</ctriple>
+        <ctriple>Ajuntament_d'Addis_Abeba | País | Etiòpia</ctriple>
+        <ctriple>Ajuntament_d'Addis_Abeba | Ubicació | Addis_Abeba</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Addis Ababa, Ethiopia is home to Addis Ababa Stadium and the Addis Ababa City Hall. The name of the leader in Ethiopia is Mulatu Teshome.</lex>
+      <lex lang="en" lid="Id2">Mulatu Teshome is a leader in Ethiopia, a country where Addis Ababa is located and within which is Addis Ababa City Hall and Addis Ababa Stadium.</lex>
+      <lex lang="en" lid="Id3">Mulatu Teshome is an Ethiopian leader. Addis Ababa City Hall is located in Addis Ababa, Ethiopia. Addis Ababa Stadium is part of Addid Ababa.</lex>
+      <lex lang="es" lid="Id1">Addis Abeba (Etiopía) alberga el Estadio de Addis Abeba y el Ayuntamiento de Addis Abeba. El nombre del líder de Etiopía es Mulatu Teshome.</lex>
+      <lex lang="es" lid="Id2">Mulatu Teshome es un dirigente de Etiopía, país en el que se encuentra Addis Abeba y dentro del cual están el Ayuntamiento de Addis Abeba y el Estadio de Addis Abeba.</lex>
+      <lex lang="es" lid="Id3">Mulatu Teshome es un dirigente etíope. El Ayuntamiento de Addis Abeba se encuentra en Addis Abeba, Etiopía. El Estadio de Addis Abeba forma parte de Addid Abeba.</lex>
+      <lex lang="ca" lid="Id1">Addis Ababa, Etiòpia, és la seu de l'Estadi d'Addis Ababa i de l'Ajuntament d'Addis Ababa. El nom del líder d'Etiòpia és Mulatu Teshome.</lex>
+      <lex lang="ca" lid="Id2">Mulatu Teshome és un líder d'Etiòpia, un país on es troba Addis Abeba i dins del qual es troben l'Ajuntament d'Addis Abeba i l'Estadi d'Addis Abeba.</lex>
+      <lex lang="ca" lid="Id3">Mulatu Teshome és un líder etíop. L'Ajuntament d'Addis Abeba es troba a Addis Abeba, Etiòpia. L'Estadi d'Addis Abeba forma part d'Addis Abeba.</lex>
+      <lex lang="en_bt" lid="Id1">Addis Ababa, Ethiopia, is home to the Addis Ababa Stadium and the Addis Ababa City Hall.The name of the leader of Ethiopia is Mulatu Teshome.</lex>
+      <lex lang="en_bt" lid="Id2">Mulatu Teshome is a leader of Ethiopia, a country where Addis Ababa is located and within which the Addis Ababa City Hall and the Addis Ababa Stadium are located.</lex>
+      <lex lang="en_bt" lid="Id3">Mulatu Teshome is an Ethiopian leader. The Addis Ababa City Hall is located in Addis Ababa, Ethiopia. The Addis Ababa Stadium is part of Addis Ababa.</lex>
+      </entry>
+    <entry category="Building" eid="Id25" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leaderName | Paul_Ryan</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | Paul_Ryan</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Estados_Unidos | Capital | Washington_D._C.</striple>
+        <striple>Estados_Unidos | TítuloDeLíder | presidente_de_los_Estados_Unidos</striple>
+        <striple>Estados_Unidos | Líder | Paul_Ryan</striple>
+        <striple>Avenida_Delaware_250 | Ubicación | Estados_Unidos</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>United_States | capital | Washington,_D.C.</bttriple>
+        <bttriple>United_States | leaderTitle | President_of_the_United_States</bttriple>
+        <bttriple>United_States | leader | Paul_Ryan</bttriple>
+        <bttriple>250_Delaware_Avenue | location | United_States</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Estats_Units_d'Amèrica | Capital | Washington_DC</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | LíderTítol | president_dels_Estats_Units</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | Líder | Paul_Ryan</ctriple>
+        <ctriple>250_Delaware_Avenue | Ubicació | Estats_Units_d'Amèrica</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The leader of the US is known as the President and the capital city is Washington DC. One of the country's leaders if Paul Ryan and it is the location of 250 Delaware Avenue.</lex>
+      <lex lang="en" lid="Id2">Paul Ryan is president of the United States and both 250 Delaware Avenue and Washington DC (the capital) are located there.</lex>
+      <lex lang="en" lid="Id3">Paul Ryan is the leader, or President of the United States, of which Washington D.C. is the capital. 250 Delaware Avenue is part of the United States.</lex>
+      <lex lang="es" lid="Id1">El líder de los EE.UU. es conocido como el Presidente y la capital es Washington DC. Uno de los líderes del país si Paul Ryan y es la ubicación de 250 Delaware Avenue.</lex>
+      <lex lang="es" lid="Id2">Paul Ryan es presidente de Estados Unidos y tanto el 250 de Delaware Avenue como Washington DC (la capital) se encuentran allí.</lex>
+      <lex lang="es" lid="Id3">Paul Ryan es el líder o Presidente de los Estados Unidos, de los que Washington D.C. es la capital. El 250 de Delaware Avenue forma parte de los Estados Unidos.</lex>
+      <lex lang="ca" lid="Id1">El líder dels EUA és conegut com el President i la capital és Washington DC. Un dels líders del país si Paul Ryan i és la ubicació de 250 Delaware Avenue.</lex>
+      <lex lang="ca" lid="Id2">Paul Ryan és president dels Estats Units i tant el 250 Delaware Avenue com Washington DC (la capital) es troben allà.</lex>
+      <lex lang="ca" lid="Id3">Paul Ryan és el líder, o president dels Estats Units, dels quals Washington D.C. és la capital. El 250 de l'Avinguda Delaware forma part dels Estats Units.</lex>
+      <lex lang="en_bt" lid="Id1">The leader of the U.S. is known as the President and the capital is Washington DC. One of the leaders of the country is Paul Ryan and it is the location of 250 Delaware Avenue.</lex>
+      <lex lang="en_bt" lid="Id2">Paul Ryan is president of the United States and both 250 Delaware Avenue and Washington DC (the capital) are located there.</lex>
+      <lex lang="en_bt" lid="Id3">Paul Ryan is the leader, or president, of the United States, of which Washington D.C. is the capital. 250 Delaware Avenue is part of the United States.</lex>
+      </entry>
+    </entries>
+  </benchmark>

@@ -1,0 +1,1529 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+	<entries>
+		<entry category="Company" eid="Id1" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+			<originaltripleset>
+				<otriple>AmeriGas | country | United_States</otriple>
+				<otriple>United_States | governmentType | Federalism</otriple>
+				<otriple>AmeriGas | numberOfEmployees | 8500</otriple>
+				<otriple>AmeriGas | netIncome | 2.112E8</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>AmeriGas | country | United_States</mtriple>
+				<mtriple>United_States | governmentType | Federalism</mtriple>
+				<mtriple>AmeriGas | numberOfEmployees | 8500</mtriple>
+				<mtriple>AmeriGas | netIncome | 211200000</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>AmeriGas | País | Estados_Unidos</striple>
+				<striple>Estados_Unidos | TipoDeGobierno | federalismo</striple>
+				<striple>AmeriGas | NúmeroDeEmpleados | 8500</striple>
+				<striple>AmeriGas | IngresosNetos | 211200000</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">AmeriGas is a company that works in the United States, a country which is governed by federalism. AmeriGas has a work force of 8,500 employees, and produces a net income of 211200000.</lex>
+			<lex lang="en" lid="Id2">The American AmeriGas company generates a net income of $211,200,000. It employs 8500 people. The US has a federalism form of government.</lex>
+			<lex lang="en" lid="Id3">AmeriGas is a company that operates in the United States, a Federalism government type of country, that employs 8500 employees with a net income of 211200000.</lex>
+			<lex lang="es" lid="Id1">AmeriGas es una empresa que trabaja en Estados Unidos, país que se rige por el federalismo. AmeriGas tiene una plantilla de 8.500 empleados y produce unos ingresos netos de 211200000.</lex>
+			<lex lang="es" lid="Id2">La empresa americana AmeriGas genera unos ingresos netos de 211.200.000 dólares. Emplea a 8500 personas. EE.UU. tiene una forma de gobierno federalista.</lex>
+			<lex lang="es" lid="Id3">AmeriGas es una empresa que opera en Estados Unidos, un país de tipo de gobierno federalista, que da empleo a 8500 trabajadores con unos ingresos netos de 211200000.</lex>
+		</entry>
+		<entry category="Company" eid="Id2" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+			<originaltripleset>
+				<otriple>AmeriGas | country | United_States</otriple>
+				<otriple>United_States | language | English_language</otriple>
+				<otriple>AmeriGas | industry | Energy_industry</otriple>
+				<otriple>AmeriGas | netIncome | 2.112E8</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>AmeriGas | country | United_States</mtriple>
+				<mtriple>United_States | language | English_language</mtriple>
+				<mtriple>AmeriGas | industry | Energy_industry</mtriple>
+				<mtriple>AmeriGas | netIncome | 211200000</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>AmeriGas | País | Estados_Unidos</striple>
+				<striple>Estados_Unidos | Idioma | inglés</striple>
+				<striple>AmeriGas | Industria | industria_de_la_energía</striple>
+				<striple>AmeriGas | IngresosNetos | 211200000</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">AmeriGas is a company in the energy industry that has a net income of $211,200,000, its home country is the United States where English is spoken.</lex>
+			<lex lang="en" lid="Id2">Amerigas is working in the United States in the industry classified as the energy industry and earns $211,200,000 of net income. English is one of the languages spoken in the United States.</lex>
+			<lex lang="en" lid="Id3">AmeriGas works in the energy industry in the United States where the English language is prevalent. AmeriGas has net income of 211200000.</lex>
+			<lex lang="es" lid="Id1">AmeriGas es una empresa del sector energético que tiene unos ingresos netos de 211.200.000 dólares, su país de origen es Estados Unidos, donde se habla inglés.</lex>
+			<lex lang="es" lid="Id2">Amerigas trabaja en Estados Unidos en el sector clasificado como industria energética y obtiene unos ingresos netos de 211.200.000 dólares. El inglés es una de las lenguas habladas en Estados Unidos.</lex>
+			<lex lang="es" lid="Id3">AmeriGas trabaja en el sector de la energía en Estados Unidos, donde predomina la lengua inglesa. AmeriGas tiene unos ingresos netos de 211200000.</lex>
+		</entry>
+		<entry category="Company" eid="Id3" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+			<originaltripleset>
+				<otriple>AmeriGas | industry | Energy_industry</otriple>
+				<otriple>AmeriGas | foundingYear | 1959-01-01</otriple>
+				<otriple>AmeriGas | locationCountry | United_States</otriple>
+				<otriple>United_States | ethnicGroup | White_American</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>AmeriGas | industry | Energy_industry</mtriple>
+				<mtriple>AmeriGas | foundingDate | 1959-01-01</mtriple>
+				<mtriple>AmeriGas | country | United_States</mtriple>
+				<mtriple>United_States | ethnicGroup | White_American</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>AmeriGas | Industria | industria_de_la_energía</striple>
+				<striple>AmeriGas | FechaDeFundación | 01-01-1959</striple>
+				<striple>AmeriGas | País | Estados_Unidos</striple>
+				<striple>Estados_Unidos | GrupoÉtnico | Blanco_americano</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">AmeriGas is a company in the energy industry which was founded on 01-01-1959. AmeriGas works in the country of the United States, where White-American is an ethnic grouping.</lex>
+			<lex lang="en" lid="Id2">Amerigas, founded on January 1, 1959 in the United States, where White Americans are an ethnic group, is a company in the energy industry.</lex>
+			<lex lang="en" lid="Id3">AmeriGas is an energy industry company founded on 01-01-1959 where it operates in the United States, a country with White Americans as one of its ethnic groups.</lex>
+			<lex lang="es" lid="Id1">AmeriGas es una empresa del sector energético fundada el 1 de enero de 1959. AmeriGas trabaja en el país de los Estados Unidos, donde White-American es un grupo étnico.</lex>
+			<lex lang="es" lid="Id2">Amerigas, fundada el 1 de enero de 1959 en Estados Unidos, donde los estadounidenses blancos constituyen un grupo étnico, es una empresa del sector energético.</lex>
+			<lex lang="es" lid="Id3">AmeriGas es una empresa del sector energético fundada el 1 de enero de 1959 que opera en Estados Unidos, país que cuenta entre sus grupos étnicos con los estadounidenses de raza blanca.</lex>
+		</entry>
+		<entry category="Company" eid="Id4" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+			<originaltripleset>
+				<otriple>AmeriGas | locationCity | King_of_Prussia,_Pennsylvania</otriple>
+				<otriple>AmeriGas | country | United_States</otriple>
+				<otriple>AmeriGas | numberOfEmployees | 8500</otriple>
+				<otriple>AmeriGas | foundingYear | 1959-01-01</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>AmeriGas | locationCity | King_of_Prussia,_Pennsylvania</otriple>
+				<otriple>AmeriGas | locationCountry | United_States</otriple>
+				<otriple>AmeriGas | numberOfEmployees | 8500</otriple>
+				<otriple>AmeriGas | foundingYear | 1959-01-01</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>AmeriGas | city | King_of_Prussia,_Pennsylvania</mtriple>
+				<mtriple>AmeriGas | country | United_States</mtriple>
+				<mtriple>AmeriGas | numberOfEmployees | 8500</mtriple>
+				<mtriple>AmeriGas | foundingDate | 1959-01-01</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>AmeriGas | Ciudad | King_of_Prussia,_Pennsylvania</striple>
+				<striple>AmeriGas | País | Estados_Unidos</striple>
+				<striple>AmeriGas | NúmeroDeEmpleados | 8500</striple>
+				<striple>AmeriGas | FechaDeFundación | 01-01-1959</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">AmeriGas was founded on January 1, 1959 and has 8,500 employees. They are located in King of Prussia, Pennsylvania which is in their home country United States.</lex>
+			<lex lang="en" lid="Id2">AmeriGas has 8500 employees and was founded on 01-01-1959. It is located in King of Prussia, Pennsylvania in the United States,.</lex>
+			<lex lang="en" lid="Id3">AmeriGas was founded on 1 January 1959 and employs 8500 people. It is located and working in King of Prussia, Pennsylvania, U.S.A.</lex>
+			<lex lang="es" lid="Id1">AmeriGas se fundó el 1 de enero de 1959 y cuenta con 8.500 empleados. Su sede se encuentra en King of Prussia (Pensilvania), en Estados Unidos, su país de origen.</lex>
+			<lex lang="es" lid="Id2">AmeriGas tiene 8500 empleados y fue fundada el 1 de enero de 1959. Tiene su sede en King of Prussia, Pensilvania, en Estados Unidos,.</lex>
+			<lex lang="es" lid="Id3">AmeriGas se fundó el 1 de enero de 1959 y emplea a 8500 personas. Está ubicada y trabaja en King of Prussia, Pensilvania, Estados Unidos.</lex>
+		</entry>
+		<entry category="Company" eid="Id5" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+			<originaltripleset>
+				<otriple>AmeriGas | operatingIncome | 3.807E8</otriple>
+				<otriple>AmeriGas | locationCountry | United_States</otriple>
+				<otriple>AmeriGas | numberOfEmployees | 8500</otriple>
+				<otriple>AmeriGas | foundingYear | 1959-01-01</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>AmeriGas | operatingIncome | 3.807E8</otriple>
+				<otriple>AmeriGas | country | United_States</otriple>
+				<otriple>AmeriGas | numberOfEmployees | 8500</otriple>
+				<otriple>AmeriGas | foundingYear | 1959-01-01</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>AmeriGas | operatingIncome | 380700000</mtriple>
+				<mtriple>AmeriGas | country | United_States</mtriple>
+				<mtriple>AmeriGas | numberOfEmployees | 8500</mtriple>
+				<mtriple>AmeriGas | foundingDate | 1959-01-01</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>AmeriGas | IngresosDeExplotación | 380700000</striple>
+				<striple>AmeriGas | País | Estados_Unidos</striple>
+				<striple>AmeriGas | NúmeroDeEmpleados | 8500</striple>
+				<striple>AmeriGas | FechaDeFundación | 01-01-1959</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">The company AmeriGas in the United States has an operating income of 380700000. AmeriGas started on January 1,1959 and now has 8,500 employees.</lex>
+			<lex lang="en" lid="Id2">AmeriGas, was founded in the United States on January 1, 1959. It employs 8,500 people and has an operating income of #380,700,000.</lex>
+			<lex lang="en" lid="Id3">The American Company, AmeriGas was founded on 1959-01-01 and has an operating income of 380700000. It employs 8500 workers.</lex>
+			<lex lang="es" lid="Id1">La empresa AmeriGas de Estados Unidos tiene unos ingresos de explotación de 380700000. AmeriGas comenzó su andadura el 1 de enero de 1959 y actualmente cuenta con 8.500 empleados.</lex>
+			<lex lang="es" lid="Id2">AmeriGas, se fundó en Estados Unidos el 1 de enero de 1959. Emplea a 8.500 personas y tiene unos ingresos de explotación de 380.700.000 #.</lex>
+			<lex lang="es" lid="Id3">La empresa americana AmeriGas se fundó el 1 de enero de 1959 y tiene unos ingresos de explotación de 380700000. Emplea a 8500 trabajadores.</lex>
+		</entry>
+		<entry category="Company" eid="Id6" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+			<originaltripleset>
+				<otriple>AmeriGas | regionServed | United_States</otriple>
+				<otriple>AmeriGas | country | United_States</otriple>
+				<otriple>AmeriGas | numberOfEmployees | 8500</otriple>
+				<otriple>AmeriGas | foundingYear | 1959-01-01</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>AmeriGas | regionServed | United_States</otriple>
+				<otriple>AmeriGas | locationCountry | United_States</otriple>
+				<otriple>AmeriGas | numberOfEmployees | 8500</otriple>
+				<otriple>AmeriGas | foundingYear | 1959-01-01</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>AmeriGas | regionServed | United_States</mtriple>
+				<mtriple>AmeriGas | country | United_States</mtriple>
+				<mtriple>AmeriGas | numberOfEmployees | 8500</mtriple>
+				<mtriple>AmeriGas | foundingDate | 1959-01-01</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>AmeriGas | RegiónAtendida | Estados_Unidos</striple>
+				<striple>AmeriGas | País | Estados_Unidos</striple>
+				<striple>AmeriGas | NúmeroDeEmpleados | 8500</striple>
+				<striple>AmeriGas | FechaDeFundación | 01-01-1959</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">AmeriGas, founded on January 1, 1959, operates throughout the entire United States. The company headquarters are located in the United States where they employ more than 8,500 people.</lex>
+			<lex lang="en" lid="Id2">The American company, AmeriGas has 8500 employees. Founded 01-01-1959, it provides services in the US.</lex>
+			<lex lang="en" lid="Id3">Founded on 1-1-1959, AmeriGas serves customers in the United States with 8500 employees.</lex>
+			<lex lang="es" lid="Id1">AmeriGas, fundada el 1 de enero de 1959, opera en todo el territorio de Estados Unidos. La sede de la empresa se encuentra en Estados Unidos, donde emplea a más de 8.500 personas.</lex>
+			<lex lang="es" lid="Id2">La empresa americana AmeriGas cuenta con 8500 empleados. Fundada el 1 de enero de 1959, presta servicios en Estados Unidos.</lex>
+			<lex lang="es" lid="Id3">Fundada el 1 de enero de 1959, AmeriGas atiende a clientes de Estados Unidos con 8500 empleados.</lex>
+		</entry>
+		<entry category="Company" eid="Id7" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+			<originaltripleset>
+				<otriple>AmeriGas | regionServed | United_States</otriple>
+				<otriple>AmeriGas | locationCity | King_of_Prussia,_Pennsylvania</otriple>
+				<otriple>AmeriGas | operatingIncome | 3.807E8</otriple>
+				<otriple>AmeriGas | locationCountry | United_States</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>AmeriGas | regionServed | United_States</otriple>
+				<otriple>AmeriGas | locationCity | King_of_Prussia,_Pennsylvania</otriple>
+				<otriple>AmeriGas | operatingIncome | 3.807E8</otriple>
+				<otriple>AmeriGas | country | United_States</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>AmeriGas | regionServed | United_States</mtriple>
+				<mtriple>AmeriGas | city | King_of_Prussia,_Pennsylvania</mtriple>
+				<mtriple>AmeriGas | operatingIncome | 380700000</mtriple>
+				<mtriple>AmeriGas | country | United_States</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>AmeriGas | RegiónAtendida | Estados_Unidos</striple>
+				<striple>AmeriGas | Ciudad | King_of_Prussia,_Pennsylvania</striple>
+				<striple>AmeriGas | IngresosDeExplotación | 380700000</striple>
+				<striple>AmeriGas | País | Estados_Unidos</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">The US company, AmeriGas is operating in the States from its location in King of Prussia, Pennsylvania with an income of $380700000.</lex>
+			<lex lang="en" lid="Id2">AmeriGas is located in King of Prussia, Pennsylvania, in its home country of the United States where it serves all regions of the country, earning 380700000 of operating income.</lex>
+			<lex lang="en" lid="Id3">AmeriGas is located in King of Prussia, Pennsylvania, and provides services in the United States and has operating income of $380,700,000.</lex>
+			<lex lang="es" lid="Id1">La empresa estadounidense AmeriGas opera en Estados Unidos desde su sede en King of Prussia, Pensilvania, con unos ingresos de $380700000.</lex>
+			<lex lang="es" lid="Id2">AmeriGas tiene su sede en King of Prussia (Pensilvania), en su país de origen, Estados Unidos, donde presta servicio a todas las regiones del país, y obtiene 380700000 de ingresos de explotación.</lex>
+			<lex lang="es" lid="Id3">AmeriGas tiene su sede en King of Prussia (Pensilvania), presta servicios en Estados Unidos y tiene unos ingresos de explotación de 380.700.000 dólares.</lex>
+		</entry>
+		<entry category="Company" eid="Id8" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+			<originaltripleset>
+				<otriple>AmeriGas | regionServed | United_States</otriple>
+				<otriple>AmeriGas | locationCity | King_of_Prussia,_Pennsylvania</otriple>
+				<otriple>AmeriGas | operatingIncome | 3.807E8</otriple>
+				<otriple>AmeriGas | industry | Energy_industry</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>AmeriGas | regionServed | United_States</mtriple>
+				<mtriple>AmeriGas | city | King_of_Prussia,_Pennsylvania</mtriple>
+				<mtriple>AmeriGas | operatingIncome | 380700000</mtriple>
+				<mtriple>AmeriGas | industry | Energy_industry</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>AmeriGas | RegiónAtendida | Estados_Unidos</striple>
+				<striple>AmeriGas | Ciudad | King_of_Prussia,_Pennsylvania</striple>
+				<striple>AmeriGas | IngresosDeExplotación | 380700000</striple>
+				<striple>AmeriGas | Industria | industria_de_la_energía</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">AmeriGas, located in King of Prussia, Pennsylvania is the energy industry that serves the United States and has an operating income of $380,700,000.</lex>
+			<lex lang="en" lid="Id2">AmeriGas is a company in the energy industry that is located in King of Prussia, Pennsylvania. AmeriGas serves all regions of the United States and has an operating income of 380700000.</lex>
+			<lex lang="en" lid="Id3">AmeriGas, located in King of Prussia, Pennsylvania, operates in the energy industry. With an operating budget of $380,700,000, AmeriGas provides its services in the United States.</lex>
+			<lex lang="es" lid="Id1">AmeriGas, con sede en King of Prussia (Pensilvania), pertenece al sector energético que da servicio a Estados Unidos y tiene unos ingresos de explotación de 380.700.000 dólares.</lex>
+			<lex lang="es" lid="Id2">AmeriGas es una empresa del sector energético con sede en King of Prussia, Pensilvania. AmeriGas presta servicio en todas las regiones de Estados Unidos y tiene unos ingresos de explotación de 380700000.</lex>
+			<lex lang="es" lid="Id3">AmeriGas, con sede en King of Prussia (Pensilvania), opera en el sector de la energía. Con un presupuesto operativo de 380.700.000 dólares, AmeriGas presta sus servicios en Estados Unidos.</lex>
+		</entry>
+		<entry category="Company" eid="Id9" shape="(X (X (X) (X)) (X (X) (X)))" shape_type="mixed" size="4">
+			<originaltripleset>
+				<otriple>AmeriGas | regionServed | United_States</otriple>
+				<otriple>United_States | governmentType | Federalism</otriple>
+				<otriple>AmeriGas | country | United_States</otriple>
+				<otriple>United_States | ethnicGroup | White_American</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>AmeriGas | regionServed | United_States</mtriple>
+				<mtriple>United_States | governmentType | Federalism</mtriple>
+				<mtriple>AmeriGas | country | United_States</mtriple>
+				<mtriple>United_States | ethnicGroup | White_American</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>AmeriGas | RegiónAtendida | Estados_Unidos</striple>
+				<striple>Estados_Unidos | TipoDeGobierno | federalismo</striple>
+				<striple>AmeriGas | País | Estados_Unidos</striple>
+				<striple>Estados_Unidos | GrupoÉtnico | Blanco_americano</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">AmeriGas serves all regions of its home country, the United States, where Federalism is the form of national government. White Americans comprise one of the ethnic groups in the United States.</lex>
+			<lex lang="en" lid="Id2">AmeriGas operates and provides its services in the United States, a country with a federalism form of government where White-American is an ethnic grouping.</lex>
+			<lex lang="en" lid="Id3">AmeriGas is working in and serves the United States which has a Federalism type government and many ethnic groups including White American.</lex>
+			<lex lang="en" lid="Id4">AmeriGas serves and works in the United States. White Americans are one of the ethnic groups that make up the population of the United States, which is ruled by the federal government.</lex>
+			<lex lang="en" lid="Id5">AmeriGas serves all regions of the United States which is also the company's home country. The type of government in the United States is Federalism and White Americans represent one of the ethnic groups of the country.</lex>
+			<lex lang="en" lid="Id6">AmeriGas works in the United States providing services. There are many ethnic groups, such as White-American, under the US federalism from of government.</lex>
+			<lex lang="es" lid="Id1">AmeriGas presta servicio a todas las regiones de su país de origen, Estados Unidos, donde el federalismo es la forma de gobierno nacional. Los estadounidenses blancos constituyen uno de los grupos étnicos de Estados Unidos.</lex>
+			<lex lang="es" lid="Id2">AmeriGas opera y presta sus servicios en Estados Unidos, un país con una forma de gobierno federalista en el que la etnia blanca es la estadounidense.</lex>
+			<lex lang="es" lid="Id3">AmeriGas trabaja y presta servicio en Estados Unidos, que tiene un gobierno de tipo federalista y muchos grupos étnicos, entre ellos los estadounidenses blancos.</lex>
+			<lex lang="es" lid="Id4">AmeriGas presta sus servicios y trabaja en Estados Unidos. Los estadounidenses blancos son uno de los grupos étnicos que componen la población de Estados Unidos, gobernado por el gobierno federal.</lex>
+			<lex lang="es" lid="Id5">AmeriGas da servicio a todas las regiones de Estados Unidos, que es también el país de origen de la empresa. El tipo de gobierno en Estados Unidos es el federalismo y los estadounidenses blancos representan uno de los grupos étnicos del país.</lex>
+			<lex lang="es" lid="Id6">AmeriGas trabaja en Estados Unidos prestando servicios. Hay muchos grupos étnicos, como el blanco-americano, bajo el federalismo estadounidense de gobierno.</lex>
+		</entry>
+		<entry category="Company" eid="Id10" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+			<originaltripleset>
+				<otriple>Brazil | areaTotal | 8514837.141576303</otriple>
+				<otriple>Hypermarcas | location | São_Paulo</otriple>
+				<otriple>Hypermarcas | location | Brazil</otriple>
+				<otriple>Brazil | leader | Michel_Temer</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Brazil | areaTotal | 8514837.14  (square kilometres)</mtriple>
+				<mtriple>Hypermarcas | location | São_Paulo</mtriple>
+				<mtriple>Hypermarcas | location | Brazil</mtriple>
+				<mtriple>Brazil | leader | Michel_Temer</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Brasil | ÁreaTotal | 8514837,14_(kilómetros_cuadrados)</striple>
+				<striple>Hipermarcas | Ubicación | São_Paulo</striple>
+				<striple>Hipermarcas | Ubicación | Brasil</striple>
+				<striple>Brasil | Líder | Michel_Temer</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Hypermarcas is located in São Paulo, Brazil. Led by Michel Temer, the total area of Brazil is 8514837.14 square kilometres.</lex>
+			<lex lang="en" lid="Id2">Hypermarcas is located in São Paulo, Brazil, a country led by Michel Temer with a total area of 8514837.14 square kilometers..</lex>
+			<lex lang="en" lid="Id3">Hypermarcas is located in São Paulo, Brazil. The total area of Brazil is 8,514,837.14 sq. km. Michel Temer was the president of Brazil.</lex>
+			<lex lang="es" lid="Id1">Hypermarcas se encuentra en São Paulo, Brasil. Dirigida por Michel Temer, la superficie total de Brasil es de 8514837,14 kilómetros cuadrados.</lex>
+			<lex lang="es" lid="Id2">Hypermarcas se encuentra en São Paulo, Brasil, un país dirigido por Michel Temer con una superficie total de 8514837,14 kilómetros cuadrados..</lex>
+			<lex lang="es" lid="Id3">Hypermarcas se encuentra en São Paulo, Brasil. La superficie total de Brasil es de 8.514.837,14 km2. Michel Temer fue el presidente de Brasil.</lex>
+		</entry>
+		<entry category="Company" eid="Id11" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+			<originaltripleset>
+				<otriple>Brazil | leaderTitle | "President of the Supreme Federal Court"</otriple>
+				<otriple>Hypermarcas | location | São_Paulo</otriple>
+				<otriple>Hypermarcas | location | Brazil</otriple>
+				<otriple>Hypermarcas | product | Cosmetics</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Brazil | leaderTitle | "President of the Supreme Federal Court"</mtriple>
+				<mtriple>Hypermarcas | location | São_Paulo</mtriple>
+				<mtriple>Hypermarcas | location | Brazil</mtriple>
+				<mtriple>Hypermarcas | product | Cosmetics</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Brasil | TítuloDeLíder | Anexo:Presidentes_del_Supremo_Tribunal_Federal</striple>
+				<striple>Hipermarcas | Ubicación | São_Paulo</striple>
+				<striple>Hipermarcas | Ubicación | Brasil</striple>
+				<striple>Hipermarcas | Producto | cosméticos</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Hypermarcas sells cosmetics and is located in Sao Paulo, Brazil. One of the Brazilian leaders is the President of the Supreme Federal Court.</lex>
+			<lex lang="en" lid="Id2">Hypermarcas makes cosmetic products. It is located in São Paulo, Brazil. President of the Supreme Federal Court is a leader title in Brazil.</lex>
+			<lex lang="en" lid="Id3">Hypermarcas is a cosmetic company located in São Paulo, Brazil. The country’s leader holds the title of President of the Supreme Federal Court.</lex>
+			<lex lang="es" lid="Id1">Hypermarcas vende cosméticos y se encuentra en Sao Paulo, Brasil. Uno de sus dirigentes Brasileños es el Presidente del Supremo Tribunal Federal.</lex>
+			<lex lang="es" lid="Id2">Hypermarcas fabrica cosméticos. Está situada en São Paulo, Brasil. Presidente del Supremo Tribunal Federal es un título de dirigente en Brasil.</lex>
+			<lex lang="es" lid="Id3">Hypermarcas es una empresa de cosméticos situada en São Paulo, Brasil. El líder del país ostenta el título de Presidente del Supremo Tribunal Federal.</lex>
+		</entry>
+		<entry category="Company" eid="Id12" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+			<originaltripleset>
+				<otriple>Chinabank | foundationPlace | Insular_Government_of_the_Philippine_Islands</otriple>
+				<otriple>Philippines | leader | Maria_Lourdes_Sereno</otriple>
+				<otriple>Chinabank | location | Philippines</otriple>
+				<otriple>Philippines | longName | "Republic of the Philippines"</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Chinabank | foundationPlace | Insular_Government_of_the_Philippine_Islands</mtriple>
+				<mtriple>Philippines | leader | Maria_Lourdes_Sereno</mtriple>
+				<mtriple>Chinabank | location | Philippines</mtriple>
+				<mtriple>Philippines | longName | "Republic of the Philippines"</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Chinabank | LugarDeCimentación | Gobierno_Insular_de_las_Islas_Filipinas</striple>
+				<striple>Filipinas | Líder | Maria_Lourdes_Sereno</striple>
+				<striple>Chinabank | Ubicación | Filipinas</striple>
+				<striple>Filipinas | NombreLargo | República_de_Filipinas</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Chinabank was founded in the Insular Government of the Philippine Islands in the Republic of the Philippines, also called The Philippines for short; it still is located there and Maria Lourdes Sereno is a leader of the country.</lex>
+			<lex lang="en" lid="Id2">Chinabank is based in the Philippines and was founded at the time of the Insular Government. Maria Lourdes Sereno is the leader of the Philippines, which is formally known as the Republic of the Philippines.</lex>
+			<lex lang="en" lid="Id3">Insular Government of the Philippine Islands is the founding place and location of Chinabank. Maria Lourdes Sereno is the leader of the Philippines, also know as the Republic of the Philippines.</lex>
+			<lex lang="es" lid="Id1">Chinabank se fundó en el Gobierno Insular de las Islas Filipinas, en la República de Filipinas, también llamada Las Filipinas para abreviar; todavía se encuentra allí y Maria Lourdes Sereno es dirigente del país.</lex>
+			<lex lang="es" lid="Id2">Chinabank tiene su sede en Filipinas y se fundó en la época del Gobierno Insular. Maria Lourdes Sereno es la dirigente de Filipinas, que formalmente se conoce como República de Filipinas.</lex>
+			<lex lang="es" lid="Id3">El Gobierno Insular de las Islas Filipinas es el lugar de fundación y ubicación de Chinabank. Maria Lourdes Sereno es la dirigente de Filipinas, también conocida como República de Filipinas.</lex>
+		</entry>
+		<entry category="Company" eid="Id13" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+			<originaltripleset>
+				<otriple>Chinabank | foundationPlace | Manila</otriple>
+				<otriple>Chinabank | type | Public_company</otriple>
+				<otriple>Chinabank | foundationPlace | Insular_Government_of_the_Philippine_Islands</otriple>
+				<otriple>Chinabank | location | Philippines</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Chinabank | foundationPlace | Manila</mtriple>
+				<mtriple>Chinabank | type | Public_company</mtriple>
+				<mtriple>Chinabank | foundationPlace | Insular_Government_of_the_Philippine_Islands</mtriple>
+				<mtriple>Chinabank | location | Philippines</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Chinabank | LugarDeCimentación | Manila</striple>
+				<striple>Chinabank | Tipo | empresa_de_capital_abierto</striple>
+				<striple>Chinabank | LugarDeCimentación | Gobierno_Insular_de_las_Islas_Filipinas</striple>
+				<striple>Chinabank | Ubicación | Filipinas</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Chinabank, founded by the Insular Government of the Philippine Islands in Manila, is a publicly traded company that is still based where it was founded.</lex>
+			<lex lang="en" lid="Id2">Chinabank is a public company that was founded in the Insular Government of the Philippine Islands in Manila, Philippines.</lex>
+			<lex lang="en" lid="Id3">Chinabank was founded in the Insular Government of the Philippine Islands in Manila. It is located in the Philippines and is a publicly traded company.</lex>
+			<lex lang="es" lid="Id1">Chinabank, fundado por el Gobierno Insular de las Islas Filipinas en Manila, es una empresa que cotiza en bolsa y sigue teniendo su sede en el lugar donde se fundó.</lex>
+			<lex lang="es" lid="Id2">Chinabank es una empresa pública fundada en el Gobierno Insular de las Islas Filipinas en Manila, Filipinas.</lex>
+			<lex lang="es" lid="Id3">Chinabank se fundó en el Gobierno Insular de las Islas Filipinas, en Manila. Tiene su sede en Filipinas y cotiza en bolsa.</lex>
+		</entry>
+		<entry category="Company" eid="Id14" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+			<originaltripleset>
+				<otriple>Chinabank | foundingYear | 1920-01-01</otriple>
+				<otriple>Chinabank | service | Banking</otriple>
+				<otriple>Chinabank | numberOfEmployees | 5594</otriple>
+				<otriple>Chinabank | netIncome | 1.51E10</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Chinabank | foundingDate | 1920-08-16</otriple>
+				<otriple>Chinabank | service | Banking</otriple>
+				<otriple>Chinabank | numberOfEmployees | 5594</otriple>
+				<otriple>Chinabank | netIncome | 1.51E10</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Chinabank | foundingDate | 1920-08-16</mtriple>
+				<mtriple>Chinabank | service | Banking</mtriple>
+				<mtriple>Chinabank | numberOfEmployees | 5594</mtriple>
+				<mtriple>Chinabank | netIncome | 15100000000</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Chinabank | FechaDeFundación | 16-08-1920</striple>
+				<striple>Chinabank | Servicio | Banca</striple>
+				<striple>Chinabank | NúmeroDeEmpleados | 5594</striple>
+				<striple>Chinabank | IngresosNetos | 15100000000</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Chinabank, who offers a banking service and employees 5594 people has a net income of 15,100,000,000. It was founded on 16 August 1920.</lex>
+			<lex lang="en" lid="Id2">Chinabank, who employs 5594 employees, was founded on 1920-08-16. Chinabank is a banking service company and has a net income of 15100000000 currently.</lex>
+			<lex lang="en" lid="Id3">Chinabank, which was founded on August 16, 1920, provides banking services to customers with 5584 workers and has net income of 15,100,000,000.</lex>
+			<lex lang="es" lid="Id1">Chinabank, que ofrece un servicio Bancario y emplea a 5.594 personas, tiene unos ingresos netos de 15.100.000.000. Fue fundado el 16 de agosto de 1920.</lex>
+			<lex lang="es" lid="Id2">Chinabank, que cuenta con 5594 empleados, se fundó el 16 de agosto de 1920. Chinabank es una empresa de servicios Bancarios y tiene unos ingresos netos de 15100000000 en la actualidad.</lex>
+			<lex lang="es" lid="Id3">Chinabank, fundado el 16 de agosto de 1920, presta servicios Bancarios a clientes con 5584 trabajadores y tiene unos ingresos netos de 15.100.000.000.</lex>
+		</entry>
+		<entry category="Company" eid="Id15" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+			<originaltripleset>
+				<otriple>Chinabank | foundingDate | 1920-08-16</otriple>
+				<otriple>Chinabank | service | Banking</otriple>
+				<otriple>Chinabank | numberOfEmployees | 5594</otriple>
+				<otriple>Chinabank | numberOfLocations | 295</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Chinabank | foundingYear | 1920-01-01</otriple>
+				<otriple>Chinabank | service | Banking</otriple>
+				<otriple>Chinabank | numberOfEmployees | 5594</otriple>
+				<otriple>Chinabank | numberOfLocations | 295</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Chinabank | foundingDate | 1920-08-16</mtriple>
+				<mtriple>Chinabank | service | Banking</mtriple>
+				<mtriple>Chinabank | numberOfEmployees | 5594</mtriple>
+				<mtriple>Chinabank | numberOfLocations | 295</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Chinabank | FechaDeFundación | 16-08-1920</striple>
+				<striple>Chinabank | Servicio | Banca</striple>
+				<striple>Chinabank | NúmeroDeEmpleados | 5594</striple>
+				<striple>Chinabank | NúmeroDeUbicaciones | 295</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Chinabank (founded 16-08-1920) has 5594 employees providing banking services to customers at 295 banking centers.</lex>
+			<lex lang="en" lid="Id2">Chinabank was founded 08-16-1920 to provide banking service. It has 5594 employees at its 295 locations.</lex>
+			<lex lang="en" lid="Id3">The banking service Chinabank was founded on August 16th, 1920. Chinabank has 5594 employees working across its 295 branches.</lex>
+			<lex lang="es" lid="Id1">Chinabank (fundado el 16 de agosto de 1920) tiene 5.594 empleados que prestan servicios Bancarios a los clientes en 295 centros Bancarios.</lex>
+			<lex lang="es" lid="Id2">Chinabank se fundó el 16 de agosto de 1920 para prestar servicios Bancarios. Cuenta con 5.594 empleados en sus 295 sedes.</lex>
+			<lex lang="es" lid="Id3">El servicio Bancario Chinabank se fundó el 16 de agosto de 1920. Chinabank tiene 5.594 empleados en sus 295 sucursales.</lex>
+		</entry>
+		<entry category="Company" eid="Id16" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+			<originaltripleset>
+				<otriple>Chinabank | location | Philippines</otriple>
+				<otriple>Philippines | leader | Leni_Robredo</otriple>
+				<otriple>Philippines | leader | Maria_Lourdes_Sereno</otriple>
+				<otriple>Chinabank | foundingYear | 1920-01-01</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Chinabank | location | Philippines</mtriple>
+				<mtriple>Philippines | leader | Leni_Robredo</mtriple>
+				<mtriple>Philippines | leader | Maria_Lourdes_Sereno</mtriple>
+				<mtriple>Chinabank | foundingDate | 1920-08-16</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Chinabank | Ubicación | Filipinas</striple>
+				<striple>Filipinas | Líder | Leni_Robredo</striple>
+				<striple>Filipinas | Líder | Maria_Lourdes_Sereno</striple>
+				<striple>Chinabank | FechaDeFundación | 16-08-1920</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Chinabank is located in the Philippines and was founded on the 16th of August, 1920, the leaders are Leni Robredo and Maria Lourdes Sereno.</lex>
+			<lex lang="en" lid="Id2">Chinabank was founded on 1920-08-16 in the Philippines, where Leni Robredo is a Filipino leader with Filipina leader Maria Lourdes Sereno.</lex>
+			<lex lang="en" lid="Id3">The Philippines' Chinabank was founded 08-16-1920. The leaders of the Philippines are Leni Robredo and Maria Lourdes Sereno.</lex>
+			<lex lang="es" lid="Id1">Chinabank se encuentra en Filipinas y fue fundado el 16 de agosto de 1920. Sus dirigentes son Leni Robredo y Maria Lourdes Sereno.</lex>
+			<lex lang="es" lid="Id2">Chinabank se fundó el 16 de agosto de 1920 en Filipinas, donde Leni Robredo es una dirigente filipina junto con la líder filipina Maria Lourdes Sereno.</lex>
+			<lex lang="es" lid="Id3">El Chinabank de Filipinas se fundó el 16 de agosto de 1920. Las líderes de Filipinas son Leni Robredo y Maria Lourdes Sereno.</lex>
+		</entry>
+		<entry category="Company" eid="Id17" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+			<originaltripleset>
+				<otriple>Chinabank | location | Philippines</otriple>
+				<otriple>Philippines | officialLanguage | Filipino_language</otriple>
+				<otriple>Chinabank | foundationPlace | Manila</otriple>
+				<otriple>Manila | isPartOf | Metro_Manila</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Chinabank | location | Philippines</mtriple>
+				<mtriple>Philippines | officialLanguage | Filipino_language</mtriple>
+				<mtriple>Chinabank | foundationPlace | Manila</mtriple>
+				<mtriple>Manila | isPartOf | Metro_Manila</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Chinabank | Ubicación | Filipinas</striple>
+				<striple>Filipinas | IdiomaOficial | idioma_filipino</striple>
+				<striple>Chinabank | LugarDeCimentación | Manila</striple>
+				<striple>Manila | FormaParteDe | Gran_Manila</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Chinabank is located in the Philippines, where the official language is Filipino. Chinabank was founded in Manila, which is part of Metro Manila.</lex>
+			<lex lang="en" lid="Id2">Chinabank is currently located in the Philippines, and are therefore speaking Filipino, however it was founded in Manila (part of the Metropolitan Manila Area).</lex>
+			<lex lang="en" lid="Id3">Chinabank, located in the Philippines where the official language is Filipino, was founded in Manila, part of Metro Manila.</lex>
+			<lex lang="es" lid="Id1">Chinabank está situado en Filipinas, donde la lengua oficial es el filipino. Chinabank se fundó en Manila, que forma parte de Metro Manila.</lex>
+			<lex lang="es" lid="Id2">Chinabank se encuentra actualmente en Filipinas y, por tanto, habla filipino, aunque se fundó en Manila (parte del área metropolitana de Manila).</lex>
+			<lex lang="es" lid="Id3">Chinabank, situado en Filipinas, donde la lengua oficial es el filipino, fue fundado en Manila, parte de Metro Manila.</lex>
+		</entry>
+		<entry category="Company" eid="Id18" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+			<originaltripleset>
+				<otriple>Chinabank | numberOfEmployees | 5594</otriple>
+				<otriple>Chinabank | foundationPlace | Insular_Government_of_the_Philippine_Islands</otriple>
+				<otriple>Chinabank | foundingYear | 1920-01-01</otriple>
+				<otriple>Chinabank | service | Banking</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Chinabank | numberOfEmployees | 5594</mtriple>
+				<mtriple>Chinabank | foundationPlace | Insular_Government_of_the_Philippine_Islands</mtriple>
+				<mtriple>Chinabank | foundingDate | 1920-08-16</mtriple>
+				<mtriple>Chinabank | service | Banking</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Chinabank | NúmeroDeEmpleados | 5594</striple>
+				<striple>Chinabank | LugarDeCimentación | Gobierno_Insular_de_las_Islas_Filipinas</striple>
+				<striple>Chinabank | FechaDeFundación | 16-08-1920</striple>
+				<striple>Chinabank | Servicio | Banca</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Chinabank, a banking service founded in the Insular Government of the Philippine Islands, was founded on August 16, 1920 and employs 5594 people.</lex>
+			<lex lang="en" lid="Id2">Chinabank was founded on 1920-08-06 during the time of the Philippines Insular Government and operates in banking with 5594 employees.</lex>
+			<lex lang="en" lid="Id3">The Insular Government of the Philippine Islands is the founding place of Chinabank. Chinabank is a bank employing 5594 workers and was founded on 16th of August, 1920.</lex>
+			<lex lang="es" lid="Id1">Chinabank, un servicio Bancario fundado en el Gobierno Insular de las Islas Filipinas, se fundó el 16 de agosto de 1920 y emplea a 5.594 personas.</lex>
+			<lex lang="es" lid="Id2">Chinabank fue fundado en 6 de agosto de 1920 durante la época del Gobierno Insular de Filipinas y opera en el sector Bancario con 5594 empleados.</lex>
+			<lex lang="es" lid="Id3">El Gobierno Insular de las Islas Filipinas es el lugar de fundación de Chinabank. Chinabank es un banco que emplea a 5.594 trabajadores y fue fundado el 16 de agosto de 1920.</lex>
+		</entry>
+		<entry category="Company" eid="Id19" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+			<originaltripleset>
+				<otriple>Chinabank | numberOfLocations | 505</otriple>
+				<otriple>Chinabank | foundationPlace | Manila</otriple>
+				<otriple>Chinabank | type | Public_company</otriple>
+				<otriple>Chinabank | foundationPlace | Insular_Government_of_the_Philippine_Islands</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Chinabank | numberOfLocations | 295</mtriple>
+				<mtriple>Chinabank | foundationPlace | Manila</mtriple>
+				<mtriple>Chinabank | type | Public_company</mtriple>
+				<mtriple>Chinabank | foundationPlace | Insular_Government_of_the_Philippine_Islands</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Chinabank | NúmeroDeUbicaciones | 295</striple>
+				<striple>Chinabank | LugarDeCimentación | Manila</striple>
+				<striple>Chinabank | Tipo | empresa_de_capital_abierto</striple>
+				<striple>Chinabank | LugarDeCimentación | Gobierno_Insular_de_las_Islas_Filipinas</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Chinabank was founded in the Insular Government of the Philippine Islands in Manila. It is a publicly traded company with 295 locations.</lex>
+			<lex lang="en" lid="Id2">Chinabank is a publicly traded company founded in Manila in the Insular Government of the Philippine Islands. It has 295 banking centers.</lex>
+			<lex lang="en" lid="Id3">Chinabank is a public company with 295 branches, founded in the Insular Government of the Philippine Islands in Manila.</lex>
+			<lex lang="es" lid="Id1">Chinabank se fundó en el Gobierno Insular de las Islas Filipinas, en Manila. Es una empresa que cotiza en bolsa y cuenta con 295 sucursales.</lex>
+			<lex lang="es" lid="Id2">Chinabank es una empresa que cotiza en bolsa fundada en Manila en el Gobierno Insular de las Islas Filipinas. Cuenta con 295 centros bancarios.</lex>
+			<lex lang="es" lid="Id3">Chinabank es una empresa pública con 295 sucursales, fundada en el Gobierno Insular de las Islas Filipinas en Manila.</lex>
+		</entry>
+		<entry category="Company" eid="Id20" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+			<originaltripleset>
+				<otriple>Chinabank | numberOfLocations | 505</otriple>
+				<otriple>Chinabank | foundationPlace | Manila</otriple>
+				<otriple>Chinabank | type | Public_company</otriple>
+				<otriple>Chinabank | location | Philippines</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Chinabank | numberOfLocations | 295</mtriple>
+				<mtriple>Chinabank | foundationPlace | Manila</mtriple>
+				<mtriple>Chinabank | type | Public_company</mtriple>
+				<mtriple>Chinabank | location | Philippines</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Chinabank | NúmeroDeUbicaciones | 295</striple>
+				<striple>Chinabank | LugarDeCimentación | Manila</striple>
+				<striple>Chinabank | Tipo | empresa_de_capital_abierto</striple>
+				<striple>Chinabank | Ubicación | Filipinas</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Chinabank, founded in Manila, has 295 banking centers. Chinabank is a publicly traded company located in the Philippines.</lex>
+			<lex lang="en" lid="Id2">Chinabank is a public company with 295 branches founded in Manila, which is located in the Philippines.</lex>
+			<lex lang="en" lid="Id3">Chinabank is a publicly traded company currently operating in the Philippines. It was founded in Manila and currently has 295 locations all over the country.</lex>
+			<lex lang="es" lid="Id1">Chinabank, fundado en Manila, cuenta con 295 centros bancarios. Chinabank es una empresa filipina que cotiza en bolsa.</lex>
+			<lex lang="es" lid="Id2">Chinabank es una empresa pública con 295 sucursales fundada en Manila, que se encuentra en Filipinas.</lex>
+			<lex lang="es" lid="Id3">Chinabank es una empresa que cotiza en bolsa y opera actualmente en Filipinas. Se fundó en Manila y actualmente cuenta con 295 sucursales en todo el país.</lex>
+		</entry>
+		<entry category="Company" eid="Id21" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+			<originaltripleset>
+				<otriple>Chinabank | service | Banking</otriple>
+				<otriple>Chinabank | numberOfEmployees | 5594</otriple>
+				<otriple>Chinabank | netIncome | 1.51E10</otriple>
+				<otriple>Chinabank | numberOfLocations | 295</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Chinabank | service | Banking</mtriple>
+				<mtriple>Chinabank | numberOfEmployees | 5594</mtriple>
+				<mtriple>Chinabank | netIncome | 15100000000</mtriple>
+				<mtriple>Chinabank | numberOfLocations | 295</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Chinabank | Servicio | Banca</striple>
+				<striple>Chinabank | NúmeroDeEmpleados | 5594</striple>
+				<striple>Chinabank | IngresosNetos | 15100000000</striple>
+				<striple>Chinabank | NúmeroDeUbicaciones | 295</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Chinabank, with net income of 15,100,000,000, employs 5594 workers to provide banking services at 295 banking centers.</lex>
+			<lex lang="en" lid="Id2">Chinabank now has 295 banks with 5594 employees earning them a net income of 15100000000.</lex>
+			<lex lang="en" lid="Id3">Chinabank offers banking service at its 295 locations boasting 5594 employees and total net income of 15,100,000,000.</lex>
+			<lex lang="es" lid="Id1">Chinabank, con unos ingresos netos de 15.100.000.000, emplea a 5.594 trabajadores para prestar servicios Bancarios en 295 centros Bancarios.</lex>
+			<lex lang="es" lid="Id2">Chinabank tiene ahora 295 bancos con 5.594 empleados, lo que le reporta unos ingresos netos de 15100000000.</lex>
+			<lex lang="es" lid="Id3">Chinabank ofrece servicios Bancarios en sus 295 sucursales, cuenta con 5.594 empleados y unos ingresos netos totales de 15.100.000.000.</lex>
+		</entry>
+		<entry category="Company" eid="Id22" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+			<originaltripleset>
+				<otriple>GMA_New_Media | foundingYear | 2000-01-01</otriple>
+				<otriple>GMA_New_Media | keyPerson | Felipe_Gozon</otriple>
+				<otriple>GMA_New_Media | location | GMA_Network_Center</otriple>
+				<otriple>GMA_New_Media | location | Philippines</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>GMA_New_Media | foundingDate | 2000-01-01</mtriple>
+				<mtriple>GMA_New_Media | keyPerson | Felipe_Gozon</mtriple>
+				<mtriple>GMA_New_Media | location | GMA_Network_Center</mtriple>
+				<mtriple>GMA_New_Media | location | Philippines</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>GMA_Nuevos_Medios | FechaDeFundación | 01-01-2000</striple>
+				<striple>GMA_Nuevos_Medios | PersonaClave | Felipe_Gozon</striple>
+				<striple>GMA_Nuevos_Medios | Ubicación | Centro_de_la_red_GMA</striple>
+				<striple>GMA_Nuevos_Medios | Ubicación | Filipinas</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Felipe Gozon is the key person of GMA New Media, founded on 01/01/2000. GMA New Media is located in the GMA Network Center in the Philippines.</lex>
+			<lex lang="en" lid="Id2">GMA New Media was founded on 01-01-2020 and is located at the GMA Network Center in the Philippines. Felipe Gozon is a key person at GMA.</lex>
+			<lex lang="en" lid="Id3">The key person at GMA News Media, founded on January 1, 2000, is Felipe Gozon. The company was founded on January 1, 2000 and is located inside GMA Network Center in the Philippines.</lex>
+			<lex lang="es" lid="Id1">Felipe Gozón es la persona clave de GMA New Media, fundada el 1 de enero de 2000. GMA New Media tiene su sede en el GMA Network Center de Filipinas.</lex>
+			<lex lang="es" lid="Id2">GMA New Media se fundó el 1 de enero de 2020 y tiene su sede en el GMA Network Center de Filipinas. Felipe Gozón es una persona clave en GMA.</lex>
+			<lex lang="es" lid="Id3">La persona clave de GMA News Media, fundada el 1 de enero de 2000, es Felipe Gozón. La empresa se fundó el 1 de enero de 2000 y está ubicada en el GMA Network Center de Filipinas.</lex>
+		</entry>
+		<entry category="Company" eid="Id23" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+			<originaltripleset>
+				<otriple>GMA_New_Media | foundingYear | 2000-01-01</otriple>
+				<otriple>GMA_New_Media | product | Mobile_Applications</otriple>
+				<otriple>GMA_New_Media | industry | Mass_Media</otriple>
+				<otriple>GMA_New_Media | keyPerson | Felipe_Gozon</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>GMA_New_Media | foundingDate | 2000-01-01</mtriple>
+				<mtriple>GMA_New_Media | product | Mobile_Applications</mtriple>
+				<mtriple>GMA_New_Media | industry | Mass_Media</mtriple>
+				<mtriple>GMA_New_Media | keyPerson | Felipe_Gozon</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>GMA_Nuevos_Medios | FechaDeFundación | 01-01-2000</striple>
+				<striple>GMA_Nuevos_Medios | Producto | Aplicaciones_móviles</striple>
+				<striple>GMA_Nuevos_Medios | Industria | Medios_de_comunicación</striple>
+				<striple>GMA_Nuevos_Medios | PersonaClave | Felipe_Gozon</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">GMA New Media, a mass media company offering products such as mobile applications, was founded on January 1, 2000. Felipe Gozon is a key person at the company.</lex>
+			<lex lang="en" lid="Id2">Felipe Gozon is a key person at GMA New Media (founded 01-01-2000), a mass media company that makes mobile applications.</lex>
+			<lex lang="en" lid="Id3">GMA New Media is a mass media organization founded on January 1, 2000. Headed by Felipe Gozon, the company develops mobile applications.</lex>
+			<lex lang="es" lid="Id1">GMA New Media, empresa de medios de comunicación que ofrece productos como aplicaciones para móviles, se fundó el 1 de enero de 2000. Felipe Gozón es una persona clave en la empresa.</lex>
+			<lex lang="es" lid="Id2">Felipe Gozón es una persona clave en GMA New Media (fundada el 1 de enero de 2000), una empresa de medios de comunicación que fabrica aplicaciones para móviles.</lex>
+			<lex lang="es" lid="Id3">GMA New Media es una organización de medios de comunicación fundada el 1 de enero de 2000. Dirigida por Felipe Gozón, la empresa desarrolla aplicaciones para móviles.</lex>
+		</entry>
+		<entry category="Company" eid="Id24" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+			<originaltripleset>
+				<otriple>GMA_New_Media | foundingYear | 2000-01-01</otriple>
+				<otriple>GMA_New_Media | product | Mobile_Applications</otriple>
+				<otriple>GMA_New_Media | industry | Mass_Media</otriple>
+				<otriple>GMA_New_Media | location | GMA_Network_Center</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>GMA_New_Media | foundingDate | 2000-01-01</mtriple>
+				<mtriple>GMA_New_Media | product | Mobile_Applications</mtriple>
+				<mtriple>GMA_New_Media | industry | Mass_Media</mtriple>
+				<mtriple>GMA_New_Media | location | GMA_Network_Center</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>GMA_Nuevos_Medios | FechaDeFundación | 01-01-2000</striple>
+				<striple>GMA_Nuevos_Medios | Producto | Aplicaciones_móviles</striple>
+				<striple>GMA_Nuevos_Medios | Industria | Medios_de_comunicación</striple>
+				<striple>GMA_Nuevos_Medios | Ubicación | Centro_de_la_red_GMA</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">GMA New Media is a mass media industry company that offers products like mobile applications that was founded on January 1st, 2000; it is located inside the GMA Network Center.</lex>
+			<lex lang="en" lid="Id2">GMA New Media, located in the GMA Network Center and founded on 01/01/2020, is mobile apps developer in the mass media industry.</lex>
+			<lex lang="en" lid="Id3">GMA New Media was founded on January 01, 2000 and its headquarters are located in the GMA Network Center. The company is a mass media industry and makes mobile applications.</lex>
+			<lex lang="es" lid="Id1">GMA New Media es una empresa del sector de los medios de comunicación de masas que ofrece productos como aplicaciones para móviles y que fue fundada el 1 de enero de 2000; está ubicada dentro del GMA Network Center.</lex>
+			<lex lang="es" lid="Id2">GMA New Media, ubicada en el GMA Network Center y fundada el 1 de enero de 2020, es desarrolladora de aplicaciones móviles en el sector de los medios de comunicación.</lex>
+			<lex lang="es" lid="Id3">GMA New Media se fundó el 1 de enero de 2000 y su sede se encuentra en el GMA Network Center. La empresa es una industria de medios de comunicación de masas y hace aplicaciones móviles.</lex>
+		</entry>
+		<entry category="Company" eid="Id25" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+			<originaltripleset>
+				<otriple>GMA_New_Media | industry | Entertainment</otriple>
+				<otriple>GMA_New_Media | product | World_Wide_Web</otriple>
+				<otriple>GMA_New_Media | product | Online_Game</otriple>
+				<otriple>GMA_New_Media | parentCompany | GMA_Network_(company)</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>GMA_New_Media | industry | Entertainment</mtriple>
+				<mtriple>GMA_New_Media | product | World_Wide_Web</mtriple>
+				<mtriple>GMA_New_Media | product | Online_Game</mtriple>
+				<mtriple>GMA_New_Media | parentCompany | GMA_Network_(company)</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>GMA_Nuevos_Medios | Industria | entretenimiento</striple>
+				<striple>GMA_Nuevos_Medios | Producto | World_Wide_Web</striple>
+				<striple>GMA_Nuevos_Medios | Producto | Juego_en_línea</striple>
+				<striple>GMA_Nuevos_Medios | EmpresaMatriz | GMA_Network_(empresa)</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">GMA New Media, Inc. (a subsidiary of GMA Network) offers applications in the entertainment industry producing web services. Its main product is online games.</lex>
+			<lex lang="en" lid="Id2">GMA Network is the parent company of GMA New Media; which is an entertainment industry. GMA New Media offers services concerning the World Wide Web and also produces online games.</lex>
+			<lex lang="en" lid="Id3">GMA New Media is an entertainment industry company that makes web sites and online games whose parent company is the GMA Network.</lex>
+			<lex lang="es" lid="Id1">GMA New Media, Inc. (filial de GMA Network) ofrece aplicaciones en la industria del entretenimiento produciendo servicios web. Su principal producto son los juegos en línea.</lex>
+			<lex lang="es" lid="Id2">GMA Network es la empresa matriz de GMA New Media, una industria del entretenimiento. GMA New Media ofrece servicios relacionados con la World Wide Web y también produce juegos en línea.</lex>
+			<lex lang="es" lid="Id3">GMA New Media es una empresa del sector del entretenimiento que crea sitios web y juegos en línea cuya empresa matriz es GMA Network.</lex>
+		</entry>
+		<entry category="Company" eid="Id26" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+			<originaltripleset>
+				<otriple>GMA_New_Media | keyPerson | Felipe_Gozon</otriple>
+				<otriple>Felipe_Gozon | alias | "Atty. Felipe L. Gozon, FLG"</otriple>
+				<otriple>GMA_New_Media | location | GMA_Network_Center</otriple>
+				<otriple>GMA_Network_Center | cost | 4.6E7</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>GMA_New_Media | keyPerson | Felipe_Gozon</mtriple>
+				<mtriple>Felipe_Gozon | alternativeName | "Atty. Felipe L. Gozon, FLG"</mtriple>
+				<mtriple>GMA_New_Media | location | GMA_Network_Center</mtriple>
+				<mtriple>GMA_Network_Center | cost | 46000000</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>GMA_Nuevos_Medios | PersonaClave | Felipe_Gozon</striple>
+				<striple>Felipe_Gozon | NombreAlternativo | Abogado_Felipe_L._Gozon,_FLG</striple>
+				<striple>GMA_Nuevos_Medios | Ubicación | Centro_de_la_red_GMA</striple>
+				<striple>Centro_de_la_red_GMA | Coste | 46000000</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Felipe Gozon, also known as Atty. Felipe L. Gozon, FLG, is the key person on GMA New Media. GMA New Media is located inside GMA Network Center, which costs 46,000,000.</lex>
+			<lex lang="en" lid="Id2">Felipe Gozon (also known as Atty. Felipe L. Gozon, FLG), is a key person in GMA New Media, headquartered in the GMA Network Center which costs $46,000,000.</lex>
+			<lex lang="en" lid="Id3">The key person of GMA New Media is Felipe Gozon who is also known by Attorney Felipe L. Gozon, FLG. GMA New Media is located in the GMA Network Center which costs 46,000,000.</lex>
+			<lex lang="es" lid="Id1">Felipe Gozon, también conocido como Atty. Felipe L. Gozon, FLG, es la persona clave en GMA New Media. GMA New Media se encuentra dentro de GMA Network Center, que cuesta 46.000.000.</lex>
+			<lex lang="es" lid="Id2">Felipe Gozon (también conocido como Atty. Felipe L. Gozon, FLG), es una persona clave en GMA New Media, con sede en el GMA Network Center, que cuesta 46.000.000 de dólares.</lex>
+			<lex lang="es" lid="Id3">La persona clave de GMA New Media es Felipe Gozon, también conocido como el abogado Felipe L. Gozon, FLG. GMA New Media se encuentra en el GMA Network Center que cuesta 46.000.000.</lex>
+		</entry>
+		<entry category="Company" eid="Id27" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+			<originaltripleset>
+				<otriple>GMA_New_Media | location | GMA_Network_Center</otriple>
+				<otriple>GMA_New_Media | location | Philippines</otriple>
+				<otriple>GMA_New_Media | industry | Entertainment</otriple>
+				<otriple>GMA_New_Media | type | Media_company</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>GMA_New_Media | location | GMA_Network_Center</mtriple>
+				<mtriple>GMA_New_Media | location | Philippines</mtriple>
+				<mtriple>GMA_New_Media | industry | Entertainment</mtriple>
+				<mtriple>GMA_New_Media | type | Media_company</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>GMA_Nuevos_Medios | Ubicación | Centro_de_la_red_GMA</striple>
+				<striple>GMA_Nuevos_Medios | Ubicación | Filipinas</striple>
+				<striple>GMA_Nuevos_Medios | Industria | entretenimiento</striple>
+				<striple>GMA_Nuevos_Medios | Tipo | Medios_de_comunicación</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">GMA New Media is a media company in the entertainment industry, it is located in the GMA Network Center in the Philippines.</lex>
+			<lex lang="en" lid="Id2">GMA New Media is located in the GMA Network Center in the Philippines. GMA New Media is a media company that offers applications in the entertainment industry.</lex>
+			<lex lang="en" lid="Id3">GMA New Media, Inc. is a media company located in the Philippines. The company is involved in the entertainment industry, and is a part of the GMA Network Center.</lex>
+			<lex lang="es" lid="Id1">GMA New Media es una empresa de medios de comunicación del sector del entretenimiento, con sede en el GMA Network Center de Filipinas.</lex>
+			<lex lang="es" lid="Id2">GMA New Media se encuentra en el GMA Network Center de Filipinas. GMA New Media es una empresa de medios de comunicación que ofrece aplicaciones en la industria del entretenimiento.</lex>
+			<lex lang="es" lid="Id3">GMA New Media, Inc. es una empresa de medios de comunicación de Filipinas. La empresa se dedica a la industria del entretenimiento y forma parte del GMA Network Center.</lex>
+		</entry>
+		<entry category="Company" eid="Id28" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+			<originaltripleset>
+				<otriple>GMA_New_Media | location | GMA_Network_Center</otriple>
+				<otriple>Philippines | leader | Aquilino_Pimentel_III</otriple>
+				<otriple>GMA_New_Media | location | Philippines</otriple>
+				<otriple>Philippines | leader | Rodrigo_Duterte</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>GMA_New_Media | location | GMA_Network_Center</mtriple>
+				<mtriple>Philippines | leader | Aquilino_Pimentel_III</mtriple>
+				<mtriple>GMA_New_Media | location | Philippines</mtriple>
+				<mtriple>Philippines | leader | Rodrigo_Duterte</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>GMA_Nuevos_Medios | Ubicación | Centro_de_la_red_GMA</striple>
+				<striple>Filipinas | Líder | Aquilino_Pimentel_III</striple>
+				<striple>GMA_Nuevos_Medios | Ubicación | Filipinas</striple>
+				<striple>Filipinas | Líder | Rodrigo_Duterte</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">GMA New Media headquarters are located in the GMA Network Center in the Philippines, the country which is led by Aquilino Pimentel III and Rodrigo Duterte.</lex>
+			<lex lang="en" lid="Id2">GMA New Media is located in the GMA Network Center in the Philippines which is led by Aquilino Pimentel III and Rodrigo Duterte.</lex>
+			<lex lang="en" lid="Id3">GMA New Media is in the Philippines located inside the GMA Network Center. Aquilino Pimentel III is a Filipino leader and Rodrigo Duterte is the leader of the Philippines.</lex>
+			<lex lang="es" lid="Id1">La sede de GMA New Media se encuentra en el GMA Network Center de Filipinas, el país que dirigen Aquilino Pimentel III y Rodrigo Duterte.</lex>
+			<lex lang="es" lid="Id2">GMA New Media se encuentra en el GMA Network Center de Filipinas, dirigido por Aquilino Pimentel III y Rodrigo Duterte.</lex>
+			<lex lang="es" lid="Id3">GMA New Media se encuentra en Filipinas, dentro del GMA Network Center. Aquilino Pimentel III es un líder filipino y Rodrigo Duterte es el líder de Filipinas.</lex>
+		</entry>
+		<entry category="Company" eid="Id29" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+			<originaltripleset>
+				<otriple>GMA_New_Media | location | Quezon_City</otriple>
+				<otriple>GMA_New_Media | product | World_Wide_Web</otriple>
+				<otriple>GMA_New_Media | subsidiary | Philippine_Entertainment_Portal</otriple>
+				<otriple>GMA_New_Media | product | Online_Game</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>GMA_New_Media | location | Quezon_City</mtriple>
+				<mtriple>GMA_New_Media | product | World_Wide_Web</mtriple>
+				<mtriple>GMA_New_Media | subsidiary | Philippine_Entertainment_Portal</mtriple>
+				<mtriple>GMA_New_Media | product | Online_Game</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>GMA_Nuevos_Medios | Ubicación | Ciudad_Quezon</striple>
+				<striple>GMA_Nuevos_Medios | Producto | World_Wide_Web</striple>
+				<striple>GMA_Nuevos_Medios | Filial | Portal_filipino_del_entretenimiento</striple>
+				<striple>GMA_Nuevos_Medios | Producto | Juego_en_línea</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">GMA New Media's main product is online games though they also produce web services. Philippine Entertainment Portal, Inc is a subsidiary of GMA New Media which is located in the city of Quezon.</lex>
+			<lex lang="en" lid="Id2">GMA New Media, located in Quezon City, offers services concerning the World Wide Web. GMA New Media produces online games, and their subsidiary is Philippine Entertainment Portal.</lex>
+			<lex lang="en" lid="Id3">Quezon City's GMA New Media makes online games and web sites. Philippine Entertainment Portal is a subsidiary of GMA New Media.</lex>
+			<lex lang="es" lid="Id1">El principal producto de GMA New Media son los juegos en línea, aunque también producen servicios web. Philippine Entertainment Portal, Inc es una filial de GMA New Media con sede en la ciudad de Quezón.</lex>
+			<lex lang="es" lid="Id2">GMA New Media, con sede en Quezon City, ofrece servicios relacionados con la World Wide Web. GMA New Media produce juegos en línea, y su filial es Philippine Entertainment Portal.</lex>
+			<lex lang="es" lid="Id3">GMA New Media, de Quezon City, crea juegos en línea y sitios web. Philippine Entertainment Portal es una filial de GMA New Media.</lex>
+		</entry>
+		<entry category="Company" eid="Id30" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+			<originaltripleset>
+				<otriple>GMA_New_Media | location | Quezon_City</otriple>
+				<otriple>GMA_New_Media | type | Media_company</otriple>
+				<otriple>GMA_New_Media | product | World_Wide_Web</otriple>
+				<otriple>GMA_New_Media | subsidiary | Philippine_Entertainment_Portal</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>GMA_New_Media | location | Quezon_City</mtriple>
+				<mtriple>GMA_New_Media | type | Media_company</mtriple>
+				<mtriple>GMA_New_Media | product | World_Wide_Web</mtriple>
+				<mtriple>GMA_New_Media | subsidiary | Philippine_Entertainment_Portal</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>GMA_Nuevos_Medios | Ubicación | Ciudad_Quezon</striple>
+				<striple>GMA_Nuevos_Medios | Tipo | Medios_de_comunicación</striple>
+				<striple>GMA_Nuevos_Medios | Producto | World_Wide_Web</striple>
+				<striple>GMA_Nuevos_Medios | Filial | Portal_filipino_del_entretenimiento</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">GMA New Media is a media company located in Quezon City which offers services concerning the World Wide Web. Philippine Entertainment Portal is one of its subsidiaries.</lex>
+			<lex lang="en" lid="Id2">Philippine Entertainment Portal, Inc. is a subsidiary of GMA New Media, a Quezon media company producing web services.</lex>
+			<lex lang="en" lid="Id3">Headquartered in Quezon City, new media company GMA New Media, Inc., which includes Philippine Entertainment Portal as a subsidiary, makes web sites.</lex>
+			<lex lang="es" lid="Id1">GMA New Media es una empresa de medios de comunicación situada en Quezon City que ofrece servicios relacionados con la World Wide Web. Philippine Entertainment Portal es una de sus filiales.</lex>
+			<lex lang="es" lid="Id2">Philippine Entertainment Portal, Inc. es una filial de GMA New Media, una empresa de medios de comunicación de Quezón que produce servicios web.</lex>
+			<lex lang="es" lid="Id3">Con sede en Quezon City, la empresa de nuevos medios GMA New Media, Inc. que incluye el Philippine Entertainment Portal como filial, crea sitios web.</lex>
+		</entry>
+		<entry category="Company" eid="Id31" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+			<originaltripleset>
+				<otriple>GMA_New_Media | parentCompany | GMA_Network_(company)</otriple>
+				<otriple>GMA_Network_(company) | locationCity | Diliman</otriple>
+				<otriple>GMA_New_Media | keyPerson | Felipe_Gozon</otriple>
+				<otriple>Felipe_Gozon | birthDate | 1939-12-08</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>GMA_New_Media | parentCompany | GMA_Network_(company)</mtriple>
+				<mtriple>GMA_Network_(company) | city | Diliman</mtriple>
+				<mtriple>GMA_New_Media | keyPerson | Felipe_Gozon</mtriple>
+				<mtriple>Felipe_Gozon | birthDate | 1939-12-08</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>GMA_Nuevos_Medios | EmpresaMatriz | GMA_Network_(empresa)</striple>
+				<striple>GMA_Network_(empresa) | Ciudad | Diliman</striple>
+				<striple>GMA_Nuevos_Medios | PersonaClave | Felipe_Gozon</striple>
+				<striple>Felipe_Gozon | FechaDeNacimiento | 08-12-1939</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">GMA New Media, Inc., a subsidiary of GMA Network, is located in Diliman. Felipe Gozon, leader of the company, was born on August 12, 1939.</lex>
+			<lex lang="en" lid="Id2">Diliman based GMA Network is the parent company of GMA New Media, where Felipe Gozon, born December 8, 1939, is a key person.</lex>
+			<lex lang="en" lid="Id3">The key person on GMA New Media is Felipe Gozon (born December 8,1939). Its parent company is GMA Network located in Diliman.</lex>
+			<lex lang="es" lid="Id1">GMA New Media, Inc, filial de GMA Network, tiene su sede en Diliman. Felipe Gozón, líder de la empresa, nació el 12 de agosto de 1939.</lex>
+			<lex lang="es" lid="Id2">GMA Network, con sede en Diliman, es la empresa matriz de GMA New Media, donde Felipe Gozón, nacido el 8 de diciembre de 1939, es una persona clave.</lex>
+			<lex lang="es" lid="Id3">La persona clave de GMA New Media es Felipe Gozon (nacido el 8 de diciembre de 1939). Su empresa matriz es GMA Network, con sede en Diliman.</lex>
+		</entry>
+		<entry category="Company" eid="Id32" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+			<originaltripleset>
+				<otriple>GMA_New_Media | type | Media_company</otriple>
+				<otriple>GMA_New_Media | subsidiary | Philippine_Entertainment_Portal</otriple>
+				<otriple>GMA_New_Media | product | Online_Game</otriple>
+				<otriple>GMA_New_Media | parentCompany | GMA_Network_(company)</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>GMA_New_Media | type | Media_company</mtriple>
+				<mtriple>GMA_New_Media | subsidiary | Philippine_Entertainment_Portal</mtriple>
+				<mtriple>GMA_New_Media | product | Online_Game</mtriple>
+				<mtriple>GMA_New_Media | parentCompany | GMA_Network_(company)</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>GMA_Nuevos_Medios | Tipo | Medios_de_comunicación</striple>
+				<striple>GMA_Nuevos_Medios | Filial | Portal_filipino_del_entretenimiento</striple>
+				<striple>GMA_Nuevos_Medios | Producto | Juego_en_línea</striple>
+				<striple>GMA_Nuevos_Medios | EmpresaMatriz | GMA_Network_(empresa)</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">GMA New Media is a media company that produces online games. GMA Network is the parent company of GMA New Media, who has Philippine Entertainment Portal as a subsidiary.</lex>
+			<lex lang="en" lid="Id2">GMA New Media, Inc. is a media company and makes online games. Philippine Entertainment Portal is a subsidiary of GMA New Media; whose parent company is the GMA Network.</lex>
+			<lex lang="en" lid="Id3">Philippine Entertainment Portal, Inc is a subsidiary of GMA New Media, a media company whose main product line is online games. The company, in turn, is a subsidiary of GMA Network.</lex>
+			<lex lang="es" lid="Id1">GMA New Media es una empresa de medios de comunicación que produce juegos en línea. GMA Network es la empresa matriz de GMA New Media, que tiene Philippine Entertainment Portal como filial.</lex>
+			<lex lang="es" lid="Id2">GMA New Media, Inc. es una empresa de medios de comunicación y crea juegos en línea. Philippine Entertainment Portal es una filial de GMA New Media, cuya empresa matriz es GMA Network.</lex>
+			<lex lang="es" lid="Id3">Philippine Entertainment Portal, Inc es una filial de GMA New Media, una empresa de medios de comunicación cuya principal línea de productos son los juegos en línea. La empresa, a su vez, es filial de GMA Network.</lex>
+		</entry>
+		<entry category="Company" eid="Id33" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+			<originaltripleset>
+				<otriple>Hypermarcas | keyPerson | CEO</otriple>
+				<otriple>Hypermarcas | product | Healthcare</otriple>
+				<otriple>Hypermarcas | product | Cosmetics</otriple>
+				<otriple>Hypermarcas | location | Brazil</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Hypermarcas | keyPerson | CEO</mtriple>
+				<mtriple>Hypermarcas | product | Healthcare</mtriple>
+				<mtriple>Hypermarcas | product | Cosmetics</mtriple>
+				<mtriple>Hypermarcas | location | Brazil</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Hipermarcas | PersonaClave | DIRECTOR_GENERAL</striple>
+				<striple>Hipermarcas | Producto | Sanidad</striple>
+				<striple>Hipermarcas | Producto | cosméticos</striple>
+				<striple>Hipermarcas | Ubicación | Brasil</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Hypermarcas makes healthcare products and also sells cosmetics. Hypermarcas is located in Brazil, and its key person is the CEO.</lex>
+			<lex lang="en" lid="Id2">Hypermarcas, which is managed by their CEO, sells healthcare products. Hypermarcas produces cosmetics and is located in Brazil.</lex>
+			<lex lang="en" lid="Id3">Hypermarcas is a company based in Brazil, who manufacture healthcare and cosmetics products. The CEO is the key person in the company.</lex>
+			<lex lang="es" lid="Id1">Hypermarcas fabrica productos sanitarios y también vende cosméticos. Hypermarcas está ubicada en Brasil, y su persona clave es el CEO.</lex>
+			<lex lang="es" lid="Id2">Hypermarcas, dirigida por su director general, vende productos sanitarios. Hypermarcas produce cosméticos y está ubicada en Brasil.</lex>
+			<lex lang="es" lid="Id3">Hypermarcas es una empresa con sede en Brasil que fabrica productos sanitarios y cosméticos. El CEO es la persona clave de la empresa.</lex>
+		</entry>
+		<entry category="Company" eid="Id34" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+			<originaltripleset>
+				<otriple>Hypermarcas | keyPerson | CEO</otriple>
+				<otriple>Hypermarcas | subsidiary | Mantecorp</otriple>
+				<otriple>Hypermarcas | type | S.A._(corporation)</otriple>
+				<otriple>Hypermarcas | revenue | 1.8E9</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Hypermarcas | keyPerson | CEO</mtriple>
+				<mtriple>Hypermarcas | subsidiary | Mantecorp</mtriple>
+				<mtriple>Hypermarcas | type | S.A._(corporation)</mtriple>
+				<mtriple>Hypermarcas | revenue | 1800000000</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Hipermarcas | PersonaClave | DIRECTOR_GENERAL</striple>
+				<striple>Hipermarcas | Filial | Mantecorp</striple>
+				<striple>Hipermarcas | Tipo | sociedad_anónima</striple>
+				<striple>Hipermarcas | Ingresos | 1800000000</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Mantecorp is a subsidiary of Hypermarcas, a S.A corporation with a revenue of $1,800,000,000 that has a CEO as a key person.</lex>
+			<lex lang="en" lid="Id2">Hypermarcas is a type of S.A. corportation, whose key person is their CEO. Hypermarcas makes $1,800,000,000 a year and has a subsidiary called Mantecorp.</lex>
+			<lex lang="en" lid="Id3">Hypermarcas is a type of S.A. corporation managed by its CEO with a subsidiary named Mantecorp. Hypermarcas earns 1800000000 yearly.</lex>
+			<lex lang="es" lid="Id1">Mantecorp es una filial de Hypermarcas, una sociedad anónima con unos ingresos de 1.800.000.000 de dólares que tiene un Director General como persona clave.</lex>
+			<lex lang="es" lid="Id2">Hypermarcas es un tipo de sociedad anónima, cuya persona clave es su director general. Hypermarcas gana 1.800.000.000 de dólares al año y tiene una filial llamada Mantecorp.</lex>
+			<lex lang="es" lid="Id3">Hypermarcas es un tipo de sociedad anónima gestionada por su director general con una filial llamada Mantecorp. Hypermarcas gana 1800000000 anualmente.</lex>
+		</entry>
+		<entry category="Company" eid="Id35" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+			<originaltripleset>
+				<otriple>Hypermarcas | location | Brazil</otriple>
+				<otriple>Hypermarcas | product | Drugs</otriple>
+				<otriple>Hypermarcas | industry | Pharmaceuticals</otriple>
+				<otriple>Hypermarcas | foundingYear | 2001-01-01</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Hypermarcas | location | Brazil</mtriple>
+				<mtriple>Hypermarcas | product | Drugs</mtriple>
+				<mtriple>Hypermarcas | industry | Pharmaceuticals</mtriple>
+				<mtriple>Hypermarcas | foundingDate | 2001-01-01</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Hipermarcas | Ubicación | Brasil</striple>
+				<striple>Hipermarcas | Producto | Drogas</striple>
+				<striple>Hipermarcas | Industria | Productos_farmacéuticos</striple>
+				<striple>Hipermarcas | FechaDeFundación | 01-01-2001</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Hypermarcas, located in Brazil, makes drugs. Hypermarcas was founded on 2001-01-01 and is in the pharmaceutical industry.</lex>
+			<lex lang="en" lid="Id2">Hypermarcas is a Brazilian company in the pharmaceuticals industry whose main product is drugs; it was founded on January 1st, 2001.</lex>
+			<lex lang="en" lid="Id3">Located in Brazil and founded on January 1, 2001, Hypermarcas produces pharmaceutical drugs.</lex>
+			<lex lang="es" lid="Id1">Hypermarcas, ubicada en Brasil, fabrica medicamentos. Hypermarcas se fundó el 1 de enero de 2001 y pertenece a la industria farmacéutica.</lex>
+			<lex lang="es" lid="Id2">Hypermarcas es una empresa Brasileña del sector farmacéutico cuyo principal producto son los medicamentos; fue fundada el 1 de enero de 2001.</lex>
+			<lex lang="es" lid="Id3">Situada en Brasil y fundada el 1 de enero de 2001, Hypermarcas produce medicamentos farmacéuticos.</lex>
+		</entry>
+		<entry category="Company" eid="Id36" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+			<originaltripleset>
+				<otriple>Hypermarcas | location | Brazil</otriple>
+				<otriple>Hypermarcas | product | Drugs</otriple>
+				<otriple>Hypermarcas | industry | Pharmaceuticals</otriple>
+				<otriple>Hypermarcas | type | S.A._(corporation)</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Hypermarcas | location | Brazil</mtriple>
+				<mtriple>Hypermarcas | product | Drugs</mtriple>
+				<mtriple>Hypermarcas | industry | Pharmaceuticals</mtriple>
+				<mtriple>Hypermarcas | type | S.A._(corporation)</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Hipermarcas | Ubicación | Brasil</striple>
+				<striple>Hipermarcas | Producto | Drogas</striple>
+				<striple>Hipermarcas | Industria | Productos_farmacéuticos</striple>
+				<striple>Hipermarcas | Tipo | sociedad_anónima</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Hypermarcas is a pharmaceuticals S.A. in Brazil whose main product is drugs.</lex>
+			<lex lang="en" lid="Id2">Hypermarcas (S.A. corporation) is a pharmaceutical company producing pharmaceutical drugs in Brazil.</lex>
+			<lex lang="en" lid="Id3">Hypermarcas, located in Brazil, is an S.A. corporation in the pharmaceutical industry and makes drugs.</lex>
+			<lex lang="es" lid="Id1">Hypermarcas es una S.A. farmacéutica de Brasil cuyo principal producto son los medicamentos.</lex>
+			<lex lang="es" lid="Id2">Hypermarcas (S.A. corporation) es una empresa farmacéutica que produce medicamentos en Brasil.</lex>
+			<lex lang="es" lid="Id3">Hypermarcas, situada en Brasil, es una sociedad anónima de la industria farmacéutica que fabrica medicamentos.</lex>
+		</entry>
+		<entry category="Company" eid="Id37" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+			<originaltripleset>
+				<otriple>Hypermarcas | netIncome | 1.086E8</otriple>
+				<otriple>Hypermarcas | product | Healthcare</otriple>
+				<otriple>Hypermarcas | location | São_Paulo</otriple>
+				<otriple>Hypermarcas | revenue | 1.8E9</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Hypermarcas | netIncome | 108600000</mtriple>
+				<mtriple>Hypermarcas | product | Healthcare</mtriple>
+				<mtriple>Hypermarcas | location | São_Paulo</mtriple>
+				<mtriple>Hypermarcas | revenue | 1800000000</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Hipermarcas | IngresosNetos | 108600000</striple>
+				<striple>Hipermarcas | Producto | Sanidad</striple>
+				<striple>Hipermarcas | Ubicación | São_Paulo</striple>
+				<striple>Hipermarcas | Ingresos | 1800000000</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Hypermarcas is a company based in Sao Paulo. They produce healthcare products, which bring in an impressive income of $1,800, 000,000 per year, which yields an annual net income of $108,600,000.</lex>
+			<lex lang="en" lid="Id2">Hypermarcas is a healthcare product maker in São Paulo, earning net income of $108,600,000 from revenue of $1,800,000,000.</lex>
+			<lex lang="en" lid="Id3">Hypermarcas earns 1800000000 yearly on net income of 108600000 selling healthcare products and is located in São Paulo.</lex>
+			<lex lang="es" lid="Id1">Hypermarcas es una empresa con sede en Sao Paulo. Produce productos sanitarios, que le reportan unos impresionantes ingresos de 1.800 millones de dólares al año, lo que supone un beneficio neto anual de 108.600.000 dólares.</lex>
+			<lex lang="es" lid="Id2">Hypermarcas es un fabricante de productos sanitarios de São Paulo, que obtuvo unos ingresos netos de 108.600.000 dólares a partir de unos ingresos de 1.800.000.000 dólares.</lex>
+			<lex lang="es" lid="Id3">Hypermarcas gana 1800000000 anualmente con unos ingresos netos de 108600000 vendiendo productos sanitarios y está situada en São Paulo.</lex>
+		</entry>
+		<entry category="Company" eid="Id38" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+			<originaltripleset>
+				<otriple>Hypermarcas | numberOfEmployees | 10252</otriple>
+				<otriple>Hypermarcas | location | São_Paulo</otriple>
+				<otriple>Hypermarcas | keyPerson | CEO</otriple>
+				<otriple>Hypermarcas | type | S.A._(corporation)</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Hypermarcas | numberOfEmployees | 10252</mtriple>
+				<mtriple>Hypermarcas | location | São_Paulo</mtriple>
+				<mtriple>Hypermarcas | keyPerson | CEO</mtriple>
+				<mtriple>Hypermarcas | type | S.A._(corporation)</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Hipermarcas | NúmeroDeEmpleados | 10252</striple>
+				<striple>Hipermarcas | Ubicación | São_Paulo</striple>
+				<striple>Hipermarcas | PersonaClave | DIRECTOR_GENERAL</striple>
+				<striple>Hipermarcas | Tipo | sociedad_anónima</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Hypermarcas is an S.A. corporation in Sao Paulo employing 10,252 people with a CEO as the key person.</lex>
+			<lex lang="en" lid="Id2">The São Paulo company, Hypermarcas S. A., has 10252 employees beneath its CEO.</lex>
+			<lex lang="en" lid="Id3">Hypermarcas is a S.A. with 10252 employees. The company is located in Sao Paulo and is managed by a CEO.</lex>
+			<lex lang="es" lid="Id1">Hypermarcas es una sociedad anónima de Sao Paulo que emplea a 10.252 personas y cuyo director general es la persona clave.</lex>
+			<lex lang="es" lid="Id2">La empresa Hypermarcas S. A., con sede en São Paulo, cuenta con 10.252 empleados por debajo de su director general.</lex>
+			<lex lang="es" lid="Id3">Hypermarcas es una S.A. con 10252 empleados. La empresa tiene su sede en Sao Paulo y está dirigida por un director general.</lex>
+		</entry>
+		<entry category="Company" eid="Id39" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+			<originaltripleset>
+				<otriple>Hypermarcas | product | Drugs</otriple>
+				<otriple>Hypermarcas | keyPerson | CEO</otriple>
+				<otriple>Hypermarcas | foundingYear | 2001-01-01</otriple>
+				<otriple>Hypermarcas | type | S.A._(corporation)</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Hypermarcas | product | Drugs</mtriple>
+				<mtriple>Hypermarcas | keyPerson | CEO</mtriple>
+				<mtriple>Hypermarcas | foundingDate | 2001-01-01</mtriple>
+				<mtriple>Hypermarcas | type | S.A._(corporation)</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Hipermarcas | Producto | Drogas</striple>
+				<striple>Hipermarcas | PersonaClave | DIRECTOR_GENERAL</striple>
+				<striple>Hipermarcas | FechaDeFundación | 01-01-2001</striple>
+				<striple>Hipermarcas | Tipo | sociedad_anónima</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Founded on January 1, 2001, Hypermarcas is a type of S.A coporation and managed by its C.E.O. and its main product is drugs.</lex>
+			<lex lang="en" lid="Id2">Hypermarcas, a S.A. corporation founded on 2001-01-01 and led by their CEO, manufactures drugs.</lex>
+			<lex lang="en" lid="Id3">Hypermarcas is an S.A. corporation that produces pharmaceutical drugs. It was founded on January 1, 2001, and is ruled by its CEO.</lex>
+			<lex lang="es" lid="Id1">Fundada el 1 de enero de 2001, Hypermarcas es un tipo de coporación S.A. y gestionada por su C.E.O. y su principal producto son los medicamentos.</lex>
+			<lex lang="es" lid="Id2">Hypermarcas, sociedad anónima fundada el 1 de enero de 2001 y dirigida por su director general, fabrica medicamentos.</lex>
+			<lex lang="es" lid="Id3">Hypermarcas es una sociedad anónima que produce medicamentos farmacéuticos. Se fundó el 1 de enero de 2001 y está dirigida por su director general.</lex>
+		</entry>
+		<entry category="Company" eid="Id40" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+			<originaltripleset>
+				<otriple>Hypermarcas | subsidiary | Mantecorp</otriple>
+				<otriple>Hypermarcas | netIncome | 1.086E8</otriple>
+				<otriple>Hypermarcas | numberOfEmployees | 10252</otriple>
+				<otriple>Hypermarcas | location | São_Paulo</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Hypermarcas | subsidiary | Mantecorp</mtriple>
+				<mtriple>Hypermarcas | netIncome | 108600000</mtriple>
+				<mtriple>Hypermarcas | numberOfEmployees | 10252</mtriple>
+				<mtriple>Hypermarcas | location | São_Paulo</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Hipermarcas | Filial | Mantecorp</striple>
+				<striple>Hipermarcas | IngresosNetos | 108600000</striple>
+				<striple>Hipermarcas | NúmeroDeEmpleados | 10252</striple>
+				<striple>Hipermarcas | Ubicación | São_Paulo</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Hypermarcas is a company in São Paulo with 10,252 employees and a net income of 108,600,000, it also has a subsidiary called Mantecorp.</lex>
+			<lex lang="en" lid="Id2">Hypermarcas, located in São Paulo, has 10252 employees, net income of 108,600,000, and a subsidiary called Mantecorp.</lex>
+			<lex lang="en" lid="Id3">Hypermarcas is a company with 10,252 employees located in Sao Paulo. Mantecorp is a subsidary of Hypermarcas which has a net income of 108,600,000.</lex>
+			<lex lang="es" lid="Id1">Hypermarcas es una empresa de São Paulo con 10.252 empleados y unos ingresos netos de 108.600.000, también tiene una filial llamada Mantecorp.</lex>
+			<lex lang="es" lid="Id2">Hypermarcas, situada en São Paulo, tiene 10.252 empleados, unos ingresos netos de 108.600.000 y una filial llamada Mantecorp.</lex>
+			<lex lang="es" lid="Id3">Hypermarcas es una empresa con 10.252 empleados ubicada en Sao Paulo. Mantecorp es una filial de Hypermarcas que tiene unos ingresos netos de 108.600.000.</lex>
+		</entry>
+		<entry category="Company" eid="Id41" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+			<originaltripleset>
+				<otriple>Hypermarcas | subsidiary | Mantecorp</otriple>
+				<otriple>Hypermarcas | netIncome | 1.086E8</otriple>
+				<otriple>Hypermarcas | numberOfEmployees | 10252</otriple>
+				<otriple>Hypermarcas | product | Healthcare</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Hypermarcas | subsidiary | Mantecorp</mtriple>
+				<mtriple>Hypermarcas | netIncome | 108600000</mtriple>
+				<mtriple>Hypermarcas | numberOfEmployees | 10252</mtriple>
+				<mtriple>Hypermarcas | product | Healthcare</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Hipermarcas | Filial | Mantecorp</striple>
+				<striple>Hipermarcas | IngresosNetos | 108600000</striple>
+				<striple>Hipermarcas | NúmeroDeEmpleados | 10252</striple>
+				<striple>Hipermarcas | Producto | Sanidad</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Hypermarcas, a maker of heal care products, employs 10,252 people and had a net income of $108,600,000; Mantecorp is a subsidiary of Hypermarcas.</lex>
+			<lex lang="en" lid="Id2">Mantecorp's parent company Hypermarcas has a net income of 108,600,000 with 10252 employees producing healthcare products.</lex>
+			<lex lang="en" lid="Id3">Mantecorp is a subsidiary of Hypermarcas, which sells healthcare products. Hypermarcas has 10,252 employees with a net income of 108,600,000.</lex>
+			<lex lang="es" lid="Id1">Hypermarcas, fabricante de productos para el Sanidad, emplea a 10.252 personas y obtuvo unos ingresos netos de 108.600.000 dólares; Mantecorp es una filial de Hypermarcas.</lex>
+			<lex lang="es" lid="Id2">La empresa matriz de Mantecorp, Hypermarcas, tiene unos ingresos netos de 108.600.000 con 10.252 empleados que fabrican productos sanitarios.</lex>
+			<lex lang="es" lid="Id3">Mantecorp es una filial de Hypermarcas, que vende productos sanitarios. Hypermarcas tiene 10.252 empleados y unos ingresos netos de 108.600.000.</lex>
+		</entry>
+		<entry category="Company" eid="Id42" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+			<originaltripleset>
+				<otriple>Trane | foundationPlace | La_Crosse,_Wisconsin</otriple>
+				<otriple>La_Crosse,_Wisconsin | isPartOf | La_Crosse_County,_Wisconsin</otriple>
+				<otriple>La_Crosse,_Wisconsin | isPartOf | Wisconsin</otriple>
+				<otriple>Trane | location | Swords,_Dublin</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Trane | foundationPlace | La_Crosse,_Wisconsin</mtriple>
+				<mtriple>La_Crosse,_Wisconsin | isPartOf | La_Crosse_County,_Wisconsin</mtriple>
+				<mtriple>La_Crosse,_Wisconsin | isPartOf | Wisconsin</mtriple>
+				<mtriple>Trane | location | Swords,_Dublin</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Trane | LugarDeCimentación | La_Crosse,_Wisconsin</striple>
+				<striple>La_Crosse,_Wisconsin | FormaParteDe | Condado_de_La_Crosse,_Wisconsin</striple>
+				<striple>La_Crosse,_Wisconsin | FormaParteDe | Wisconsin</striple>
+				<striple>Trane | Ubicación | Swords,_Dublín</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Trane, which is located in Swords, Dublin, was founded in La Crosse, Wisconsin. La Crosse is a city in La Crosse County, in Wisconsin, which is a state in the US.</lex>
+			<lex lang="en" lid="Id2">Trane was founded in La Cross, Wisconsin, LA Crosse County, Wisconsin. Trane is now located in Swords, Dublin.</lex>
+			<lex lang="en" lid="Id3">Trane (currently in Swords, Dublin) was founded in La Crosse, Wisconsin which is also part of La Crosse County, Wisconsin.</lex>
+			<lex lang="es" lid="Id1">Trane, que se encuentra en Swords, Dublín, fue fundada en La Crosse, Wisconsin. La Crosse es una ciudad en el condado de La Crosse, en Wisconsin, que es un estado en los EE.UU..</lex>
+			<lex lang="es" lid="Id2">Trane fue fundada en La Cross, Wisconsin, Condado de LA Crosse, Wisconsin. Trane se encuentra ahora en Swords, Dublín.</lex>
+			<lex lang="es" lid="Id3">Trane (actualmente en Swords, Dublín) se fundó en La Crosse, Wisconsin, que también forma parte del condado de La Crosse, Wisconsin.</lex>
+		</entry>
+		<entry category="Company" eid="Id43" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+			<originaltripleset>
+				<otriple>Trane | foundingYear | 1913-01-01</otriple>
+				<otriple>Trane | location | Ireland</otriple>
+				<otriple>Trane | foundationPlace | La_Crosse,_Wisconsin</otriple>
+				<otriple>Trane | numberOfEmployees | 29000</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Trane | foundingDate | 1913-01-01</mtriple>
+				<mtriple>Trane | location | Ireland</mtriple>
+				<mtriple>Trane | foundationPlace | La_Crosse,_Wisconsin</mtriple>
+				<mtriple>Trane | numberOfEmployees | 29000</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Trane | FechaDeFundación | 01-01-1913</striple>
+				<striple>Trane | Ubicación | isla_de_Irlanda</striple>
+				<striple>Trane | LugarDeCimentación | La_Crosse,_Wisconsin</striple>
+				<striple>Trane | NúmeroDeEmpleados | 29000</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Founded on January 1, 1913 in La Crosse, Wisconsin, Trane is now located in Ireland with 29,000 employees.</lex>
+			<lex lang="en" lid="Id2">Trane was founded in 01-01-1913 in La Crosse, Wisconsin. Trane is located in Ireland and employs 29,000 people.</lex>
+			<lex lang="en" lid="Id3">Trane, a company based in Ireland, was originally founded on January 1st, 1913 in La Crosse, Wisconsin. It currently has 29,000 employees.</lex>
+			<lex lang="es" lid="Id1">Fundada el 1 de enero de 1913 en La Crosse, Wisconsin, Trane tiene ahora su sede en Irlanda y cuenta con 29.000 empleados.</lex>
+			<lex lang="es" lid="Id2">Trane se fundó el 1 de enero de 1913 en La Crosse, Wisconsin. Trane tiene su sede en Irlanda y emplea a 29.000 personas.</lex>
+			<lex lang="es" lid="Id3">Trane, empresa con sede en Irlanda, fue fundada el 1 de enero de 1913 en La Crosse, Wisconsin. Actualmente cuenta con 29.000 empleados.</lex>
+		</entry>
+		<entry category="Company" eid="Id44" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+			<originaltripleset>
+				<otriple>Trane | foundingYear | 1913-01-01</otriple>
+				<otriple>Trane | location | Ireland</otriple>
+				<otriple>Trane | foundationPlace | La_Crosse,_Wisconsin</otriple>
+				<otriple>Trane | product | HVAC</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Trane | foundingDate | 1913-01-01</mtriple>
+				<mtriple>Trane | location | Ireland</mtriple>
+				<mtriple>Trane | foundationPlace | La_Crosse,_Wisconsin</mtriple>
+				<mtriple>Trane | product | HVAC</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Trane | FechaDeFundación | 01-01-1913</striple>
+				<striple>Trane | Ubicación | isla_de_Irlanda</striple>
+				<striple>Trane | LugarDeCimentación | La_Crosse,_Wisconsin</striple>
+				<striple>Trane | Producto | HVAC</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Trane is a HVAC producing company located in Ireland that was originally founded in La Crosse, Wisconsin on 01-01-1913.</lex>
+			<lex lang="en" lid="Id2">Trane (founded on 01-01-1913 in La Crosse, Wisconsin) is a HVAC manufacturer and located in Ireland.</lex>
+			<lex lang="en" lid="Id3">Trane, a maker of HVAC and other products with an Ireland location, was founded on 1913-01-01 in LaCrosse, Wisconsin.</lex>
+			<lex lang="es" lid="Id1">Trane es una empresa productora de HVAC ubicada en Irlanda que fue fundada originalmente en La Crosse, Wisconsin el 1 de enero de 1913.</lex>
+			<lex lang="es" lid="Id2">Trane (fundada el 1 de enero de 1913 en La Crosse, Wisconsin) es un fabricante de HVAC con sede en Irlanda.</lex>
+			<lex lang="es" lid="Id3">Trane, fabricante de HVAC y otros productos con sede en Irlanda, se fundó el 1 de enero de 1913 en LaCrosse, Wisconsin.</lex>
+		</entry>
+		<entry category="Company" eid="Id45" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+			<originaltripleset>
+				<otriple>Trane | foundingYear | 2007-01-01</otriple>
+				<otriple>Trane | numberOfEmployees | 29000</otriple>
+				<otriple>Trane | product | Building_Management_System</otriple>
+				<otriple>Trane | foundationPlace | La_Crosse,_Wisconsin</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Trane | foundingDate | 1913-01-01</mtriple>
+				<mtriple>Trane | numberOfEmployees | 29000</mtriple>
+				<mtriple>Trane | product | Building_Management_System</mtriple>
+				<mtriple>Trane | foundationPlace | La_Crosse,_Wisconsin</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Trane | FechaDeFundación | 01-01-1913</striple>
+				<striple>Trane | NúmeroDeEmpleados | 29000</striple>
+				<striple>Trane | Producto | Sistema_de_gestión_de_edificios</striple>
+				<striple>Trane | LugarDeCimentación | La_Crosse,_Wisconsin</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Trane was founded on 1913-01-01 in La Crosse, Wisconsin. They currently manufacture building management systems with a workforce of 29000.</lex>
+			<lex lang="en" lid="Id2">Trane, which produces building management systems, having been founded in La Crosse Wisconsin on 1913-01-01, employs 29000 people.</lex>
+			<lex lang="en" lid="Id3">Trane was founded on January 01,1913, in La Crosse, Wisconsin. Trane has 29,000 employees and makes building management systems.</lex>
+			<lex lang="es" lid="Id1">Trane se fundó el 1 de enero de 1913 en La Crosse, Wisconsin. Actualmente fabrican sistemas de gestión de edificios con una plantilla de 29000 empleados.</lex>
+			<lex lang="es" lid="Id2">Trane, que fabrica sistemas de gestión de edificios, fue fundada en La Crosse, Wisconsin, el 1 de enero de 1913 y cuenta con 29.000 empleados.</lex>
+			<lex lang="es" lid="Id3">Trane se fundó el 1 de enero de 1913 en La Crosse, Wisconsin. Trane tiene 29.000 empleados y fabrica sistemas de gestión de edificios.</lex>
+		</entry>
+		<entry category="Company" eid="Id46" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+			<originaltripleset>
+				<otriple>Trane | location | Ireland</otriple>
+				<otriple>Trane | numberOfEmployees | 29000</otriple>
+				<otriple>Ireland | location | Europe</otriple>
+				<otriple>Trane | industry | Building_materials</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Trane | location | Ireland</mtriple>
+				<mtriple>Trane | numberOfEmployees | 29000</mtriple>
+				<mtriple>Ireland | location | Europe</mtriple>
+				<mtriple>Trane | industry | Building_materials</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Trane | Ubicación | isla_de_Irlanda</striple>
+				<striple>Trane | NúmeroDeEmpleados | 29000</striple>
+				<striple>isla_de_Irlanda | Ubicación | Europa</striple>
+				<striple>Trane | Industria | Materiales_de_construcción</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">The company Trane's industry is building materials. It has 29,000 employees. Trane is in Europe in Ireland.</lex>
+			<lex lang="en" lid="Id2">Trane is an industrial building material organization located in the European country of Ireland. The organization currently employs 29,000 individuals.</lex>
+			<lex lang="en" lid="Id3">Trane is located in Ireland, a country in Europe. Trane employs 29000 people and is in the building materials industry.</lex>
+			<lex lang="es" lid="Id1">La empresa Trane se dedica al sector de los materiales de construcción. Tiene 29.000 empleados. Trane se encuentra en Europa en Irlanda.</lex>
+			<lex lang="es" lid="Id2">Trane es una organización industrial de materiales de construcción situada en el país europeo de Irlanda. La organización emplea actualmente a 29.000 personas.</lex>
+			<lex lang="es" lid="Id3">Trane está situada en Irlanda, un país de Europa. Trane emplea a 29 000 personas y se dedica al sector de los materiales de construcción.</lex>
+		</entry>
+		<entry category="Company" eid="Id47" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+			<originaltripleset>
+				<otriple>Trane | location | Ireland</otriple>
+				<otriple>Trane | numberOfEmployees | 29000</otriple>
+				<otriple>Trane | product | HVAC</otriple>
+				<otriple>Trane | industry | Building_materials</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Trane | location | Ireland</mtriple>
+				<mtriple>Trane | numberOfEmployees | 29000</mtriple>
+				<mtriple>Trane | product | HVAC</mtriple>
+				<mtriple>Trane | industry | Building_materials</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Trane | Ubicación | isla_de_Irlanda</striple>
+				<striple>Trane | NúmeroDeEmpleados | 29000</striple>
+				<striple>Trane | Producto | HVAC</striple>
+				<striple>Trane | Industria | Materiales_de_construcción</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Trane, located in Ireland, employs 29000 people. Trane is in the building materials industry and sells products such as HVAC.</lex>
+			<lex lang="en" lid="Id2">Located in Ireland, Trane operates in building materials and manufactures HVAC with 29,000 employees.</lex>
+			<lex lang="en" lid="Id3">Trane - the building material company based in Ireland - has 29,000 employees and produces HVAC.</lex>
+			<lex lang="es" lid="Id1">Trane, con sede en Irlanda, emplea a 29.000 personas. Trane pertenece al sector de los materiales de construcción y vende productos como HVAC.</lex>
+			<lex lang="es" lid="Id2">Situada en Irlanda, Trane opera en el sector de materiales de construcción y fabrica sistemas de HVAC con 29.000 empleados.</lex>
+			<lex lang="es" lid="Id3">Trane, la empresa de material de construcción con sede en Irlanda, tiene 29.000 empleados y fabrica sistemas de HVAC.</lex>
+		</entry>
+		<entry category="Company" eid="Id48" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+			<originaltripleset>
+				<otriple>Trane | location | Swords,_Dublin</otriple>
+				<otriple>Swords,_Dublin | part | Kinsealy</otriple>
+				<otriple>Swords,_Dublin | part | Donabate</otriple>
+				<otriple>Trane | location | Ireland</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Trane | location | Swords,_Dublin</mtriple>
+				<mtriple>Swords,_Dublin | part | Kinsealy</mtriple>
+				<mtriple>Swords,_Dublin | part | Donabate</mtriple>
+				<mtriple>Trane | location | Ireland</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Trane | Ubicación | Swords,_Dublín</striple>
+				<striple>Swords,_Dublín | Pieza | Kinsealy</striple>
+				<striple>Swords,_Dublín | Pieza | Donabate</striple>
+				<striple>Trane | Ubicación | isla_de_Irlanda</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Trane is located in Swords, Dublin in Ireland. Kinsealy and Donabate are parts of Swords, Dublin.</lex>
+			<lex lang="en" lid="Id2">The company Trane is located in Swords, Dublin, in Ireland. Kinsealy and Donabate are part of Swords, Dublin.</lex>
+			<lex lang="en" lid="Id3">Kinsealy and Donabate are parts of Swords, Dublin, Ireland, where Trane is located.</lex>
+			<lex lang="es" lid="Id1">Trane está situada en Swords, Dublín en Irlanda. Kinsealy y Donabate son partes de Swords, Dublín.</lex>
+			<lex lang="es" lid="Id2">La empresa Trane está situada en Swords, Dublín, en Irlanda. Kinsealy y Donabate forman parte de Swords, Dublín.</lex>
+			<lex lang="es" lid="Id3">Kinsealy y Donabate son partes de Swords, Dublín, Irlanda, donde se encuentra Trane.</lex>
+		</entry>
+		<entry category="Company" eid="Id49" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+			<originaltripleset>
+				<otriple>Trane | netIncome | 5.563E8</otriple>
+				<otriple>Trane | location | Swords,_Dublin</otriple>
+				<otriple>Trane | type | Subsidiary</otriple>
+				<otriple>Trane | operatingIncome | 8.754E8</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Trane | netIncome | 556300000</mtriple>
+				<mtriple>Trane | location | Swords,_Dublin</mtriple>
+				<mtriple>Trane | type | Subsidiary</mtriple>
+				<mtriple>Trane | operatingIncome | 875400000</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Trane | IngresosNetos | 556300000</striple>
+				<striple>Trane | Ubicación | Swords,_Dublín</striple>
+				<striple>Trane | Tipo | filial</striple>
+				<striple>Trane | IngresosDeExplotación | 875400000</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">The Trane company, a subsidiary located in Swords, Dublin has a net income of $556,300,000 and an operating income of $875,400,000.</lex>
+			<lex lang="en" lid="Id2">Trane is a subsidiary company located in Swords, Dublin with a net income of $556,300,000 from operating income of $875,400,000.</lex>
+			<lex lang="en" lid="Id3">Trane is a subsidiary in Swords, Dublin, with operating income of $875.4 million USD and net income of $556 million.</lex>
+			<lex lang="es" lid="Id1">La empresa Trane, filial ubicada en Swords, Dublín, tiene unos ingresos netos de 556.300.000 dólares y unos ingresos de explotación de 875.400.000 dólares.</lex>
+			<lex lang="es" lid="Id2">Trane es una filial ubicada en Swords, Dublín, con unos ingresos netos de 556.300.000 dólares procedentes de unos ingresos de explotación de 875.400.000 dólares.</lex>
+			<lex lang="es" lid="Id3">Trane es una filial de Swords, Dublín, con unos ingresos de explotación de 875,4 millones de USD y unos ingresos netos de 556 millones de USD.</lex>
+		</entry>
+		<entry category="Company" eid="Id50" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+			<originaltripleset>
+				<otriple>Trane | product | Building_Management_System</otriple>
+				<otriple>Trane | location | Swords,_Dublin</otriple>
+				<otriple>Trane | type | Subsidiary</otriple>
+				<otriple>Trane | operatingIncome | 8.754E8</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Trane | product | Building_Management_System</mtriple>
+				<mtriple>Trane | location | Swords,_Dublin</mtriple>
+				<mtriple>Trane | type | Subsidiary</mtriple>
+				<mtriple>Trane | operatingIncome | 875400000</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Trane | Producto | Sistema_de_gestión_de_edificios</striple>
+				<striple>Trane | Ubicación | Swords,_Dublín</striple>
+				<striple>Trane | Tipo | filial</striple>
+				<striple>Trane | IngresosDeExplotación | 875400000</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Trane, located in Swords, Dublin, is a creator of building management systems. They are a subsidiary company with an operating income of $875,400,000.</lex>
+			<lex lang="en" lid="Id2">The Trane company (Swords, Dublin) is a subsidiary manufacturing building management systems with operating income $875,400,000.</lex>
+			<lex lang="en" lid="Id3">Trane, a subsidiary that produces building management systems in Swords, Dublin, has an operating income of 875.4 million USD.</lex>
+			<lex lang="es" lid="Id1">Trane, con sede en Swords (Dublín), es un creador de sistemas de gestión de edificios. Es una empresa filial con unos ingresos de explotación de 875.400.000 dólares.</lex>
+			<lex lang="es" lid="Id2">La empresa Trane (Swords, Dublín) es una filial que fabrica sistemas de gestión de edificios con unos ingresos de explotación de 875.400.000 dólares.</lex>
+			<lex lang="es" lid="Id3">Trane, filial que fabrica sistemas de gestión de edificios en Swords (Dublín), tiene unos ingresos de explotación de 875,4 millones de USD.</lex>
+		</entry>
+		<entry category="Company" eid="Id51" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+			<originaltripleset>
+				<otriple>Trane | product | Building_Management_System</otriple>
+				<otriple>Trane | product | HVAC</otriple>
+				<otriple>Trane | location | Swords,_Dublin</otriple>
+				<otriple>Swords,_Dublin | leaderTitle | "County Manager"</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Trane | product | Building_Management_System</mtriple>
+				<mtriple>Trane | product | HVAC</mtriple>
+				<mtriple>Trane | location | Swords,_Dublin</mtriple>
+				<mtriple>Swords,_Dublin | leaderTitle | "County Manager"</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Trane | Producto | Sistema_de_gestión_de_edificios</striple>
+				<striple>Trane | Producto | HVAC</striple>
+				<striple>Trane | Ubicación | Swords,_Dublín</striple>
+				<striple>Swords,_Dublín | TítuloDeLíder | County_Manager</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Trane is a manufacturer of building management systems producing HVAC equipment in Swords, Dublin, where a County Manager serves as leader.</lex>
+			<lex lang="en" lid="Id2">Trane, located in Swords, Dublin, is a producer of building management systems including HVAC products. The leader of Swords, Dublin is the County Manager.</lex>
+			<lex lang="en" lid="Id3">Trane, located in Swords, Dublin, is a company that makes building management systems including HVAC systems; the title of the their leader is County Manager.</lex>
+			<lex lang="es" lid="Id1">Trane es un fabricante de sistemas de gestión de edificios que produce equipos HVAC en Swords, Dublín, donde un gerente del condado actúa como líder.</lex>
+			<lex lang="es" lid="Id2">Trane, con sede en Swords, Dublín, es un fabricante de sistemas de gestión de edificios que incluye productos de HVAC. El líder de Swords, Dublín es el Gerente del Condado.</lex>
+			<lex lang="es" lid="Id3">Trane, ubicada en Swords, Dublín, es una empresa que fabrica sistemas de gestión de edificios, incluidos sistemas HVAC; el título de su líder es County Manager.</lex>
+		</entry>
+		<entry category="Company" eid="Id52" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+			<originaltripleset>
+				<otriple>Trane | product | Building_Management_System</otriple>
+				<otriple>Trane | revenue | 1.0264E10</otriple>
+				<otriple>Trane | netIncome | 5.563E8</otriple>
+				<otriple>Trane | location | Swords,_Dublin</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Trane | product | Building_Management_System</mtriple>
+				<mtriple>Trane | revenue | 10264000000</mtriple>
+				<mtriple>Trane | netIncome | 556300000</mtriple>
+				<mtriple>Trane | location | Swords,_Dublin</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Trane | Producto | Sistema_de_gestión_de_edificios</striple>
+				<striple>Trane | Ingresos | 10264000000</striple>
+				<striple>Trane | IngresosNetos | 556300000</striple>
+				<striple>Trane | Ubicación | Swords,_Dublín</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Trane, a company that produces building management systems is located in Swords, Dublin. It has a revenue of $10,264,000,000 and a net income of about $556 million.</lex>
+			<lex lang="en" lid="Id2">Trane, a manufacturer of building management systems, is located in Swords, Dublin. It has a revenue of $10,264,000,000 and a net income of $556,300,000.</lex>
+			<lex lang="en" lid="Id3">Trane is a company based in Swords, Dublin, and they produce building management systems. Their turnover is 10264000000, which yields a net income of $556,300,000.</lex>
+			<lex lang="es" lid="Id1">Trane, empresa que fabrica sistemas de gestión de edificios, tiene su sede en Swords (Dublín). Tiene unos ingresos de 10.264.000.000 de dólares y unos ingresos netos de unos 556 millones de dólares.</lex>
+			<lex lang="es" lid="Id2">Trane, fabricante de sistemas de gestión de edificios, tiene su sede en Swords (Dublín). Tiene unos ingresos de 10.264.000.000 $ y unos ingresos netos de 556.300.000 $.</lex>
+			<lex lang="es" lid="Id3">Trane es una empresa con sede en Swords (Dublín) que fabrica sistemas de gestión de edificios. Su volumen de negocio es de 10264000000, lo que arroja unos ingresos netos de 556.300.000 dólares.</lex>
+		</entry>
+		<entry category="Company" eid="Id53" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+			<originaltripleset>
+				<otriple>Trane | product | Building_Management_System</otriple>
+				<otriple>Trane | revenue | 1.0264E10</otriple>
+				<otriple>Trane | netIncome | 5.563E8</otriple>
+				<otriple>Trane | operatingIncome | 8.754E8</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Trane | product | Building_Management_System</mtriple>
+				<mtriple>Trane | revenue | 10264000000</mtriple>
+				<mtriple>Trane | netIncome | 556300000</mtriple>
+				<mtriple>Trane | operatingIncome | 875400000</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Trane | Producto | Sistema_de_gestión_de_edificios</striple>
+				<striple>Trane | Ingresos | 10264000000</striple>
+				<striple>Trane | IngresosNetos | 556300000</striple>
+				<striple>Trane | IngresosDeExplotación | 875400000</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Trane, maker of building management systems with revenue of 12,264,000,000, earned $556,300,000 net income from $875,400,000 of operating income.</lex>
+			<lex lang="en" lid="Id2">Trane produces building management systems. This company has a revenue of $10,264,000,000, a net income of about 556 million and an operating income of 875.4 million USD.</lex>
+			<lex lang="en" lid="Id3">Trane manufacture's building management systems, and has a revenue of $10,264,000,000. Their net income is $556,300,000, and their operating income is $875,400,000.</lex>
+			<lex lang="es" lid="Id1">Trane, fabricante de sistemas de gestión de edificios con unos ingresos de 12.264.000.000, obtuvo 556.300.000 dólares de ingresos netos procedentes de 875.400.000 dólares de ingresos de explotación.</lex>
+			<lex lang="es" lid="Id2">Trane fabrica sistemas de gestión de edificios. Esta empresa tiene unos ingresos de 10.264.000.000 USD, unos ingresos netos de unos 556 millones y unos ingresos de explotación de 875,4 millones.</lex>
+			<lex lang="es" lid="Id3">Trane fabrica sistemas de gestión de edificios y tiene unos ingresos de 10.264 millones de dólares. Sus ingresos netos ascienden a 556.300.000 dólares y sus ingresos de explotación a 875.400.000 dólares.</lex>
+		</entry>
+		<entry category="Company" eid="Id54" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+			<originaltripleset>
+				<otriple>Trane | product | Building_Management_System</otriple>
+				<otriple>Trane | revenue | 1.0264E10</otriple>
+				<otriple>Trane | netIncome | 5.563E8</otriple>
+				<otriple>Trane | type | Subsidiary</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Trane | product | Building_Management_System</mtriple>
+				<mtriple>Trane | revenue | 10264000000</mtriple>
+				<mtriple>Trane | netIncome | 556300000</mtriple>
+				<mtriple>Trane | type | Subsidiary</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Trane | Producto | Sistema_de_gestión_de_edificios</striple>
+				<striple>Trane | Ingresos | 10264000000</striple>
+				<striple>Trane | IngresosNetos | 556300000</striple>
+				<striple>Trane | Tipo | filial</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">The Trane company is a subsidiary and it manufactures building management systems. It has a revenue of $10,264,000,000 and a net income of $556,300,000.</lex>
+			<lex lang="en" lid="Id2">Trane is a subsidiary company that makes building management systems. The company has a revenue of $102,640,000,00 and has a net income of $556,300,000.</lex>
+			<lex lang="en" lid="Id3">Trane is a subsidiary that produces building management systems with net income of about $556 million from revenue of $10,264,000,000.</lex>
+			<lex lang="es" lid="Id1">La empresa Trane es una filial y fabrica sistemas de gestión de edificios. Tiene unos ingresos de 10.264.000.000 de dólares y un beneficio neto de 556.300.000 dólares.</lex>
+			<lex lang="es" lid="Id2">Trane es una filial que fabrica sistemas de gestión de edificios. La empresa tiene unos ingresos de 102.640.000,00 dólares y unos ingresos netos de 556.300.000 dólares.</lex>
+			<lex lang="es" lid="Id3">Trane es una filial que produce sistemas de gestión de edificios con unos ingresos netos de unos 556 millones de dólares a partir de unos ingresos de 10.264.000.000 dólares.</lex>
+		</entry>
+		<entry category="Company" eid="Id55" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+			<originaltripleset>
+				<otriple>Trane | revenue | 1.0264E10</otriple>
+				<otriple>Trane | location | Swords,_Dublin</otriple>
+				<otriple>Trane | type | Subsidiary</otriple>
+				<otriple>Trane | operatingIncome | 8.754E8</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Trane | revenue | 10264000000</mtriple>
+				<mtriple>Trane | location | Swords,_Dublin</mtriple>
+				<mtriple>Trane | type | Subsidiary</mtriple>
+				<mtriple>Trane | operatingIncome | 875400000</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Trane | Ingresos | 10264000000</striple>
+				<striple>Trane | Ubicación | Swords,_Dublín</striple>
+				<striple>Trane | Tipo | filial</striple>
+				<striple>Trane | IngresosDeExplotación | 875400000</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">Trane, a subsidiary located in Swords, Dublin, has operating income of 875,400,000 USD from revenue of 10,264,000,000 USD.</lex>
+			<lex lang="en" lid="Id2">Trane is a subsidiary company located in Swords, Dublin. Its revenue is 10264000000, and its operating income is $875,400,000.</lex>
+			<lex lang="en" lid="Id3">The Trane company is a subsidiary and is located in Swords, Dublin. It has a revenue of $10,264,000,000 with an operating income of $875,400,000.</lex>
+			<lex lang="es" lid="Id1">Trane, filial ubicada en Swords (Dublín), obtuvo unos ingresos de explotación de 875.400.000 USD con unos ingresos de 10.264.000.000 USD.</lex>
+			<lex lang="es" lid="Id2">Trane es una filial situada en Swords, Dublín. Sus ingresos ascienden a 10264000000, y sus ingresos de explotación a 875.400.000 dólares.</lex>
+			<lex lang="es" lid="Id3">La empresa Trane es una filial y tiene su sede en Swords, Dublín. Tiene unos ingresos de 10.264.000.000 $, con unos ingresos de explotación de 875.400.000 $.</lex>
+		</entry>
+		<entry category="Company" eid="Id56" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+			<originaltripleset>
+				<otriple>United_States | governmentType | Federalism</otriple>
+				<otriple>AmeriGas | locationCountry | United_States</otriple>
+				<otriple>United_States | populationTotal | 324720797</otriple>
+				<otriple>AmeriGas | locationCity | King_of_Prussia,_Pennsylvania</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>United_States | governmentType | Federalism</mtriple>
+				<mtriple>AmeriGas | country | United_States</mtriple>
+				<mtriple>United_States | populationTotal | 324720797</mtriple>
+				<mtriple>AmeriGas | city | King_of_Prussia,_Pennsylvania</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Estados_Unidos | TipoDeGobierno | federalismo</striple>
+				<striple>AmeriGas | País | Estados_Unidos</striple>
+				<striple>Estados_Unidos | PoblaciónTotal | 324720797</striple>
+				<striple>AmeriGas | Ciudad | King_of_Prussia,_Pennsylvania</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">AmeriGas is located in King of Prussia, Pennsylvania in its home country of the USA, whose total population of 324,720,797 is governed by a Federalist system.</lex>
+			<lex lang="en" lid="Id2">The United States with a total population of 324,720,797 has a Federalism government type. AmeriGas works in the United States from their location in King of Prussia, Pennsylvania.</lex>
+			<lex lang="en" lid="Id3">AmeriGas is located in King of Prussia, Pennsylvania, operating in the United States where the total population is 324,720,797. Federalism is the United State’s type of government.</lex>
+			<lex lang="es" lid="Id1">AmeriGas tiene su sede en King of Prussia, Pensilvania, en su país de origen, Estados Unidos, cuya población total de 324.720.797 habitantes se rige por un sistema federalista.</lex>
+			<lex lang="es" lid="Id2">Estados Unidos, con una población total de 324.720.797 habitantes, tiene un tipo de gobierno federalista. AmeriGas trabaja en Estados Unidos desde su sede en King of Prussia, Pensilvania.</lex>
+			<lex lang="es" lid="Id3">AmeriGas tiene su sede en King of Prussia, Pensilvania, en Estados Unidos, donde la población total es de 324.720.797 habitantes. El federalismo es el tipo de gobierno de los Estados Unidos.</lex>
+		</entry>
+		<entry category="Company" eid="Id57" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+			<originaltripleset>
+				<otriple>United_States | percentageOfAreaWater | 6.97</otriple>
+				<otriple>AmeriGas | country | United_States</otriple>
+				<otriple>United_States | foundingDate | 1776-07-04</otriple>
+				<otriple>AmeriGas | industry | Energy_industry</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>United_States | percentageOfAreaWater | 6.97</mtriple>
+				<mtriple>AmeriGas | country | United_States</mtriple>
+				<mtriple>United_States | foundingDate | 1776-07-04</mtriple>
+				<mtriple>AmeriGas | industry | Energy_industry</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset>
+				<striple>Estados_Unidos | PorcentajeDeSuperficieAgua | 6.97</striple>
+				<striple>AmeriGas | País | Estados_Unidos</striple>
+				<striple>Estados_Unidos | FechaDeFundación | 04-07-1776</striple>
+				<striple>AmeriGas | Industria | industria_de_la_energía</striple>
+			</spanishtripleset>
+			<lex lang="en" lid="Id1">AmeriGas, an energy company, is operational in the US. The US was founded in 1776, on 4th July, and 6.97% of it is covered in water.</lex>
+			<lex lang="en" lid="Id2">The American energy company, AmeriGas was founded July 4, 1776. Water covers 6.97 percent of the US.</lex>
+			<lex lang="en" lid="Id3">The United States was founded on July 4th, 1776, and now occupies an area that is 6.97% water; it is home to AmeriGas, an energy industry company.</lex>
+			<lex lang="es" lid="Id1">AmeriGas, una empresa energética, opera en EE. EE.UU. se fundó en 1776, el 4 de julio, y el 6.97% de su superficie está cubierta de agua.</lex>
+			<lex lang="es" lid="Id2">La empresa energética estadounidense AmeriGas se fundó el 4 de julio de 1776. El agua cubre el 6.97% del territorio estadounidense.</lex>
+			<lex lang="es" lid="Id3">Estados Unidos se fundó el 4 de julio de 1776 y ahora ocupa una superficie que tiene un 6.97% de agua; es la sede de AmeriGas, una empresa del sector energético.</lex>
+		</entry>
+	</entries>
+</benchmark>

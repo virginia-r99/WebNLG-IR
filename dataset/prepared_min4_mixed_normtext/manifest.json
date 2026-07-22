@@ -1,0 +1,77 @@
+{
+  "min_triples_question_filter": 4,
+  "filter_docs_by_min_triples": false,
+  "valid_statuses": [
+    "valid",
+    "validator_fixed"
+  ],
+  "splits": [
+    "ALL"
+  ],
+  "doc_langs": [
+    "en",
+    "es",
+    "mix"
+  ],
+  "query_langs": [
+    "en",
+    "es",
+    "ca"
+  ],
+  "triple_variant": "normalized",
+  "text_variant": "normalized",
+  "n_docs": 16631,
+  "n_queries": 30264,
+  "n_qrels": 487509,
+  "n_qids_with_qrels": 30264,
+  "docs_by_size": {
+    "1": 3967,
+    "2": 3134,
+    "3": 3405,
+    "4": 3174,
+    "5": 2330,
+    "6": 342,
+    "7": 279
+  },
+  "queries_by_lang": {
+    "ca": 10088,
+    "en": 10088,
+    "es": 10088
+  },
+  "queries_by_type": {
+    "extractive": 14814,
+    "no": 7758,
+    "yes": 7692
+  },
+  "qrels_relevance_note": "qrels include all relevant canonical base documents in the retrieval pool for retained queries",
+  "document_columns": [
+    "triples_en",
+    "text_en",
+    "concat_en",
+    "text_en_raw",
+    "text_en_normalized",
+    "triples_es",
+    "text_es",
+    "concat_es",
+    "text_es_raw",
+    "text_es_normalized",
+    "triples_mix",
+    "text_mix",
+    "concat_mix",
+    "text_mix_raw",
+    "text_mix_normalized"
+  ],
+  "n_base_docs_before_parallel_filter": 16631,
+  "n_base_docs_after_parallel_filter": 16631,
+  "n_base_docs_dropped_nonparallel": 0,
+  "require_parallel_docs": true,
+  "n_qa_after_status_split_filters": 12441,
+  "n_qa_items_eligible_after_min_triples_filter": 10088,
+  "n_qa_items_excluded_no_relevant_docs": 0,
+  "n_qa_items_excluded_by_min_triples_filter": 2353,
+  "query_columns": {
+    "en": "question",
+    "es": "question_es",
+    "ca": "question_ca"
+  }
+}

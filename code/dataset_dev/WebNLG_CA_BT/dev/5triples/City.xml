@@ -1,0 +1,1451 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="City" eid="Id1" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Abilene,_Texas | areaWater | 1.42449e+07</otriple>
+        <otriple>Abilene,_Texas | elevation | "523.951"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | areaCode | 325</otriple>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Abilene,_Texas | areaTotal | "286.4526850031616"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Abilene,_Texas | areaWater | 1.42e+07</otriple>
+        <otriple>Abilene,_Texas | elevation | "523.951"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | areaCode | 325</otriple>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Abilene,_Texas | areaTotal | "286.4526850031616"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Abilene,_Texas | areaWater | 1.42449e+07</otriple>
+        <otriple>Abilene,_Texas | elevation | "524.0"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Abilene,_Texas | areaTotal | "286.5"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+        <otriple>Abilene,_Texas | areaCode | "325"</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Abilene,_Texas | areaWater | 1.42449e+07</otriple>
+        <otriple>Abilene,_Texas | elevation | "524.0"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | areaTotal | "286.4526850031616"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+        <otriple>Abilene,_Texas | areaCode | "325"</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Abilene,_Texas | areaWater | 1.42449e+07</otriple>
+        <otriple>Abilene,_Texas | elevation | "524.0"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Abilene,_Texas | areaTotal | "286.4526850031616"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+        <otriple>Abilene,_Texas | areaCode | "325"</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Abilene,_Texas | areaWater | 1.42e+07</otriple>
+        <otriple>Abilene,_Texas | elevation | "524.0"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | areaCode | 325</otriple>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Abilene,_Texas | areaTotal | "286.4526850031616"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Abilene,_Texas | areaWater | 1.42449e+07</otriple>
+        <otriple>Abilene,_Texas | elevation | "523.951"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Abilene,_Texas | areaTotal | "286.4526850031616"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+        <otriple>Abilene,_Texas | areaCode | "325"</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Abilene,_Texas | areaWater | 1.42449e+07</otriple>
+        <otriple>Abilene,_Texas | elevation | "524.0"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | areaCode | 325</otriple>
+        <otriple>Abilene,_Texas | areaTotal | "286.4526850031616"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Abilene,_Texas | areaWater | 1.42e+07</otriple>
+        <otriple>Abilene,_Texas | elevation | "524.0"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | areaCode | 325</otriple>
+        <otriple>Abilene,_Texas | areaTotal | "286.4526850031616"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Abilene,_Texas | areaWater | 1.42449e+07</otriple>
+        <otriple>Abilene,_Texas | elevation | "524.0"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | areaCode | 325</otriple>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Abilene,_Texas | areaTotal | "286.4526850031616"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abilene,_Texas | areaOfWater | 14.2 (square kilometres)</mtriple>
+        <mtriple>Abilene,_Texas | elevationAboveTheSeaLevel | 524.0</mtriple>
+        <mtriple>Abilene,_Texas | areaCode | 325</mtriple>
+        <mtriple>Abilene,_Texas | populationDensity | 429.9 (inhabitants per square kilometre)</mtriple>
+        <mtriple>Abilene,_Texas | areaTotal | 286.5 (square kilometres)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Abilene,_Texas | ZonaDeAgua | 14,2_(kilómetros_cuadrados)</striple>
+        <striple>Abilene,_Texas | ElevaciónSobreElNivelDelMar | 524.0</striple>
+        <striple>Abilene,_Texas | CódigoDeÁrea | 325</striple>
+        <striple>Abilene,_Texas | DensidadDePoblación | 429,9_(habitantes_por_kilómetro_cuadrado)</striple>
+        <striple>Abilene,_Texas | ÁreaTotal | 286,5_(kilómetros_cuadrados)</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Abilene,_Texas | areaOfWater | 14.2 (square kilometres)</bttriple>
+        <bttriple>Abilene,_Texas | elevationAboveTheSeaLevel | 524.0</bttriple>
+        <bttriple>Abilene,_Texas | areaCode | 325</bttriple>
+        <bttriple>Abilene,_Texas | populationDensity | 429.9 (inhabitants per square kilometre)</bttriple>
+        <bttriple>Abilene,_Texas | areaTotal | 286.5 (square kilometres)</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Abilene,_Texas | ÀreaD'aigua | 14,2_(kilòmetres_quadrats)</ctriple>
+        <ctriple>Abilene,_Texas | ElevacióPerSobreDelNivellDelMar | 524.0</ctriple>
+        <ctriple>Abilene,_Texas | CodiD'Àrea | 325</ctriple>
+        <ctriple>Abilene,_Texas | DensitatDePoblació | 429,9_(habitants_per_quilòmetre_quadrat)</ctriple>
+        <ctriple>Abilene,_Texas | TotalDeL'Àrea | 286,5_(kilòmetres_quadrats)</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Abilene, Texas lies 524.0 above sea level and has the area code of 325 and a population density of 429.9 inhabitants per sq km. It has a total area of 286.5 sq km of which 14.2 sq km are water.</lex>
+      <lex lang="en" lid="Id2">Abilene is in Texas and has the area code 325. It is 524.0 above sea level, has a water area of 14.2 sq km, and a total area of 286.5 sq km. Its population density is 429.9 inhabitants per square kilometre.</lex>
+      <lex lang="es" lid="Id1">Abilene, Texas, se encuentra a 524,0 metros sobre el nivel del mar, tiene el código de área 325 y una densidad de población de 429,9 habitantes por kilómetro cuadrado. Tiene una superficie total de 286,5 km2, de los cuales 14,2 km2 son de agua.</lex>
+      <lex lang="es" lid="Id2">Abilene se encuentra en Texas y tiene el código de área 325. Está a 524,0 sobre el nivel del mar, tiene una superficie acuática de 14,2 km2 y una superficie total de 286,5 km2. Su densidad de población es de 429,9 habitantes por kilómetro cuadrado.</lex>
+      <lex lang="ca" lid="Id1">Abilene, Texas, es troba a 524,0 metres sobre el nivell del mar i té el codi d'àrea 325 i una densitat de població de 429,9 habitants per km2. Té una superfície total de 286,5 km2, dels quals 14,2 km2 són aigua.</lex>
+      <lex lang="ca" lid="Id2">Abilene està a Texas i té el codi d'àrea 325. Està a 524.0 m d'altitud, té una superfície d'aigua de 14,2 km2 i una superfície total de 286,5 km2. La seva densitat de població és de 429,9 habitants per quilòmetre quadrat.</lex>
+      <lex lang="en_bt" lid="Id1">Abilene, Texas is located 524.0 meters above sea level with area code 325 and a population density of 429.9 people per km2. It has a total area of 286.5 km2, of which 14.2 km2 is water.</lex>
+      <lex lang="en_bt" lid="Id2">Abilene is in Texas and has the area code 325. It is 524.0 m above sea level, has a water surface of 14.2 km2 and a total area of 286.5 km2. Its population density is 429.9 inhabitants per square kilometer.</lex>
+      </entry>
+    <entry category="City" eid="Id2" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Abilene,_Texas | isPartOf | Texas</otriple>
+        <otriple>Texas | largestCity | Houston</otriple>
+        <otriple>Texas | capital | Austin,_Texas</otriple>
+        <otriple>Abilene,_Texas | country | United_States</otriple>
+        <otriple>Texas | language | Spanish_language</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abilene,_Texas | isPartOf | Texas</mtriple>
+        <mtriple>Texas | largestCity | Houston</mtriple>
+        <mtriple>Texas | capital | Austin,_Texas</mtriple>
+        <mtriple>Abilene,_Texas | country | United_States</mtriple>
+        <mtriple>Texas | language | Spanish_language</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Abilene,_Texas | FormaParteDe | Texas</striple>
+        <striple>Texas | CiudadMásGrande | Houston</striple>
+        <striple>Texas | Capital | Austin,_Texas</striple>
+        <striple>Abilene,_Texas | País | Estados_Unidos</striple>
+        <striple>Texas | Idioma | español</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Abilene,_Texas | isPartOf | Texas</bttriple>
+        <bttriple>Texas | largestCity | Houston</bttriple>
+        <bttriple>Texas | capital | Austin,_Texas</bttriple>
+        <bttriple>Abilene,_Texas | country | United_States</bttriple>
+        <bttriple>Texas | language | Spanish_language</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Abilene,_Texas | ÉsPartDe | Texas</ctriple>
+        <ctriple>Texas | CiutatMésGran | Houston</ctriple>
+        <ctriple>Texas | Capital | Austin,_Texas</ctriple>
+        <ctriple>Abilene,_Texas | País | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Texas | Llengua | Llengua_espanyola</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Abilene is part of Texas, where the capital is Austin and the largest city is Houston. One of the languages spoken in Texas, which is part of the United States, is Spanish.</lex>
+      <lex lang="en" lid="Id2">Abilene is in Texas, United States. Houston is the largest city in Texas, where Spanish is spoken, and its capital is Austin.</lex>
+      <lex lang="es" lid="Id1">Abilene forma parte de Texas, donde la capital es Austin y la ciudad más grande es Houston. Una de las lenguas habladas en Texas, que forma parte de Estados Unidos, es el español.</lex>
+      <lex lang="es" lid="Id2">Abilene está en Texas, Estados Unidos. Houston es la ciudad más grande de Texas, donde se habla español, y su capital es Austin.</lex>
+      <lex lang="ca" lid="Id1">Abilene és part de Texas, on la capital és Austin i la ciutat més gran és Houston. Una de les llengües parlades a Texas, que forma part dels Estats Units, és l'espanyol.</lex>
+      <lex lang="ca" lid="Id2">Abilene és a Texas, Estats Units. Houston és la ciutat més gran de Texas, on es parla espanyol, i la seva capital és Austin.</lex>
+      <lex lang="en_bt" lid="Id1">Abilene is part of Texas, where the capital is Austin and the largest city is Houston. One of the languages spoken in Texas, which is part of the United States, is Spanish.</lex>
+      <lex lang="en_bt" lid="Id2">Abilene is in Texas, United States. Houston is the largest Spanish-speaking city in Texas, and its capital is Austin.</lex>
+      </entry>
+    <entry category="City" eid="Id3" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Albany,_Georgia | subdivisionName | Georgia_(U.S._state)</otriple>
+        <otriple>United_States | demonym | Americans</otriple>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>Albany,_Georgia | country | United_States</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Albany,_Georgia | isPartOf | Georgia_(U.S._state)</mtriple>
+        <mtriple>United_States | demonym | Americans</mtriple>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>Albany,_Georgia | country | United_States</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Albany,_Georgia | FormaParteDe | Georgia_(Estado_de_EE.UU.)</striple>
+        <striple>Estados_Unidos | Gentilicio | Estadounidense</striple>
+        <striple>Estados_Unidos | GrupoÉtnico | estadounidense_asiático</striple>
+        <striple>Estados_Unidos | Idioma | inglés</striple>
+        <striple>Albany,_Georgia | País | Estados_Unidos</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Albany,_Georgia | isPartOf | Georgia_(U.S._state)</bttriple>
+        <bttriple>United_States | demonym | Americans</bttriple>
+        <bttriple>United_States | ethnicGroup | Asian_Americans</bttriple>
+        <bttriple>United_States | language | English_language</bttriple>
+        <bttriple>Albany,_Georgia | country | United_States</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Albany,_Geòrgia | ÉsPartDe | Georgia_(estat_dels_Estats_Units)</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | Demònim | estatunidenc</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | GrupÈtnic | estatunidencs_asiàtics</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | Llengua | Llengua_anglesa</ctriple>
+        <ctriple>Albany,_Geòrgia | País | Estats_Units_d'Amèrica</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">English is the language of the United States, where Asian Americans are an ethnic group and where the inhabitants are referred to as Americans. The US is home to Albany, which is found in the state of Georgia.</lex>
+      <lex lang="en" lid="Id2">In the U.S. there are many different types of Americans, including Asian Americans. The native language in the U.S. is English, which is poke in cities like Albany, Georgia.</lex>
+      <lex lang="en" lid="Id3">Albany is part of Georgia, in the United States. The English speaking country where the inhabitants are known as Americans and where Asian Americans are one of the ethnic groups.</lex>
+      <lex lang="es" lid="Id1">El inglés es la lengua de Estados Unidos, donde los Estadounidenses de origen asiático constituyen un grupo étnico y donde a sus habitantes se les denomina Estadounidenses. En Estados Unidos se encuentra Albany, en el estado de Georgia.</lex>
+      <lex lang="es" lid="Id2">En Estados Unidos hay muchos tipos diferentes de Estadounidenses, incluidos los asiáticos. El idioma nativo en EE.UU. es el inglés, que se poke en ciudades como Albany, Georgia.</lex>
+      <lex lang="es" lid="Id3">Albany forma parte de Georgia, en Estados Unidos. El país de habla inglesa donde los habitantes son conocidos como Estadounidense y donde los asiático-Estadounidense son uno de los grupos étnicos.</lex>
+      <lex lang="ca" lid="Id1">L'anglès és la llengua dels Estats Units, on els americans asiàtics són un grup ètnic i on els habitants s'anomenen americans.</lex>
+      <lex lang="ca" lid="Id2">Als Estats Units hi ha molts tipus diferents d'americans, incloent-hi els asiàtics. La llengua nativa als Estats Units és l'anglès, que es parla a ciutats com Albany, Geòrgia.</lex>
+      <lex lang="ca" lid="Id3">Albany és part de Geòrgia, als Estats Units. El país de parla anglesa on els habitants són coneguts com a americans i on els asiàtics americans són un dels grups ètnics.</lex>
+      <lex lang="en_bt" lid="Id1">English is the language of the United States, where Asian Americans are an ethnic group and where the inhabitants call themselves Americans.</lex>
+      <lex lang="en_bt" lid="Id2">There are many different types of Americans in the United States, including Asians. The native language in the United States is English, which is spoken in cities such as Albany, Georgia.</lex>
+      <lex lang="en_bt" lid="Id3">Albany is part of Georgia, in the United States. The English-speaking country where the inhabitants are known as Americans and where Asian Americans are one of the ethnic groups.</lex>
+      </entry>
+    <entry category="City" eid="Id4" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Albuquerque,_New_Mexico | areaLand | 4.862e+08</otriple>
+        <otriple>Albuquerque,_New_Mexico | populationDensity | "1142.3"^^xsd:double</otriple>
+        <otriple>Albuquerque,_New_Mexico | areaCode | 505575</otriple>
+        <otriple>Albuquerque,_New_Mexico | subdivisionName | "New Mexico"@en</otriple>
+        <otriple>Albuquerque,_New_Mexico | areaTotal | "490.9"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Albuquerque,_New_Mexico | areaLand | 4.862e+08</otriple>
+        <otriple>Albuquerque,_New_Mexico | areaTotal | 4.909e+08</otriple>
+        <otriple>Albuquerque,_New_Mexico | populationDensity | "1142.3"^^xsd:double</otriple>
+        <otriple>Albuquerque,_New_Mexico | areaCode | 505575</otriple>
+        <otriple>Albuquerque,_New_Mexico | subdivisionName | "New Mexico"@en</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Albuquerque,_New_Mexico | areaCode | "505, 575"</otriple>
+        <otriple>Albuquerque,_New_Mexico | areaLand | 4.862e+08</otriple>
+        <otriple>Albuquerque,_New_Mexico | populationDensity | "1142.3"^^xsd:double</otriple>
+        <otriple>Albuquerque,_New_Mexico | subdivisionName | "New Mexico"@en</otriple>
+        <otriple>Albuquerque,_New_Mexico | areaTotal | "490.9"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Albuquerque,_New_Mexico | populationDensity | "1142.3"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Albuquerque,_New_Mexico | areaLand | 4.862e+08</otriple>
+        <otriple>Albuquerque,_New_Mexico | areaCode | 505575</otriple>
+        <otriple>Albuquerque,_New_Mexico | subdivisionName | "New Mexico"@en</otriple>
+        <otriple>Albuquerque,_New_Mexico | areaTotal | "490.9"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Albuquerque,_New_Mexico | areaOfLand | 486.2 (square kilometres)</mtriple>
+        <mtriple>Albuquerque,_New_Mexico | populationDensity | 1142.3 (inhabitants per square kilometre)</mtriple>
+        <mtriple>Albuquerque,_New_Mexico | areaCode | 505, 575</mtriple>
+        <mtriple>Albuquerque,_New_Mexico | isPartOf | New_Mexico</mtriple>
+        <mtriple>Albuquerque,_New_Mexico | areaTotal | 490.9 (square kilometres)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Albuquerque,_Nuevo_México | SuperficieDeTerreno | 486,2_(kilómetros_cuadrados)</striple>
+        <striple>Albuquerque,_Nuevo_México | DensidadDePoblación | 1142,3_(habitantes_por_kilómetro_cuadrado)</striple>
+        <striple>Albuquerque,_Nuevo_México | CódigoDeÁrea | 505,_575</striple>
+        <striple>Albuquerque,_Nuevo_México | FormaParteDe | Nuevo_México</striple>
+        <striple>Albuquerque,_Nuevo_México | ÁreaTotal | 490,9_(kilómetros_cuadrados)</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Albuquerque,_New_Mexico | areaOfLand | 486.2 (square kilometres)</bttriple>
+        <bttriple>Albuquerque,_New_Mexico | populationDensity | 1142.3 (inhabitants per square kilometre)</bttriple>
+        <bttriple>Albuquerque,_New_Mexico | areaCode | 505, 575</bttriple>
+        <bttriple>Albuquerque,_New_Mexico | isPartOf | New_Mexico</bttriple>
+        <bttriple>Albuquerque,_New_Mexico | areaTotal | 490.9 (square kilometres)</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Albuquerque,_New_Mexico | ÀreaDeTerra | 486.2_(quilòmetres_quadrats)</ctriple>
+        <ctriple>Albuquerque,_New_Mexico | DensitatDePoblació | 1142.3_(habitants_per_quilòmetre_quadrat)</ctriple>
+        <ctriple>Albuquerque,_New_Mexico | CodiD'Àrea | 505,_575</ctriple>
+        <ctriple>Albuquerque,_New_Mexico | ÉsPartDe | Nou_Mèxic</ctriple>
+        <ctriple>Albuquerque,_New_Mexico | TotalDeL'Àrea | 490.9_(quilòmetres_quadrats)</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Albuquerque in New Mexico has a total area of 490.9 sq km, of which 486.2 is land. The population density is 1142.3 people per square kilometre. The area codes for Albuquerque are 505 and 575.</lex>
+      <lex lang="en" lid="Id2">The total area of Albuquerque in New Mexico is 490.9 square kilometres of which 486.2 is land. The population density is 1142.3 persons per sq km and the area codes there are 505 and 575.</lex>
+      <lex lang="en" lid="Id3">Albuquerque, N.M. has an area of land of 486.2 and total area of 490.9 square kilometers. The area codes in Albuquerque, New Mexico are 505 and 575 and there are 1142.3 people per square kilometres.</lex>
+      <lex lang="es" lid="Id1">Albuquerque, en Nuevo México, tiene una superficie total de 490,9 km2, de los cuales 486,2 son de tierra. La densidad de población es de 1.142,3 habitantes por kilómetro cuadrado. Los códigos de área de Albuquerque son 505 y 575.</lex>
+      <lex lang="es" lid="Id2">La superficie total de Albuquerque, en Nuevo México, es de 490,9 kilómetros cuadrados, de los cuales 486,2 son de tierra. La densidad de población es de 1.142,3 personas por km2 y los códigos de área son 505 y 575.</lex>
+      <lex lang="es" lid="Id3">Albuquerque, N.M. tiene una superficie terrestre de 486,2 y una superficie total de 490,9 kilómetros cuadrados. Los códigos de área en Albuquerque, Nuevo México son 505 y 575 y hay 1142.3 personas por kilómetro cuadrado.</lex>
+      <lex lang="ca" lid="Id1">Albuquerque a Nou Mèxic té una àrea total de 490,9 km², dels quals 486,2 són terra. La densitat de població és de 1142,3 persones per quilòmetre quadrat. Els codis d' àrea d' Albuquerque són 505 i 575.</lex>
+      <lex lang="ca" lid="Id2">La superfície total d'Albuquerque a Nou Mèxic és de 490,9 quilòmetres quadrats dels quals 486,2 són terra. La densitat de població és de 1142,3 persones per km quadrat i els codis d'àrea són 505 i 575.</lex>
+      <lex lang="ca" lid="Id3">Albuquerque, N.M. té una superfície de terra de 486,2 i una superfície total de 490,9 quilòmetres quadrats. Els codis d'àrea a Albuquerque, New Mexico són 505 i 575 i hi ha 1.142,3 persones per quilòmetre quadrat.</lex>
+      <lex lang="en_bt" lid="Id1">Albuquerque, New Mexico has a total area of 490.9 km2, of which 486.2 km2 is land. The population density is 1,142.3 people per square kilometer. Albuquerque's area codes are 505 and 575.</lex>
+      <lex lang="en_bt" lid="Id2">The total area of Albuquerque in New Mexico is 490.9 square kilometers of which 486.2 are land. The population density is 1,142.3 people per square kilometer and the area codes are 505 and 575.</lex>
+      <lex lang="en_bt" lid="Id3">Albuquerque, N.M. has a land area of 486.2 and a total area of 490.9 square miles. The area codes in Albuquerque, New Mexico are 505 and 575 and there are 1,142.3 people per square mile.</lex>
+      </entry>
+    <entry category="City" eid="Id5" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Anaheim,_California | leaderName | Tom_Tait</otriple>
+        <otriple>Anaheim,_California | isPartOf | California</otriple>
+        <otriple>California | language | Spanish_language</otriple>
+        <otriple>United_States_House_of_Representatives | location | United_States_Capitol</otriple>
+        <otriple>Anaheim,_California | leaderTitle | United_States_House_of_Representatives</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Anaheim,_California | leader | Tom_Tait</mtriple>
+        <mtriple>Anaheim,_California | isPartOf | California</mtriple>
+        <mtriple>California | language | Spanish_language</mtriple>
+        <mtriple>United_States_House_of_Representatives | location | United_States_Capitol</mtriple>
+        <mtriple>Anaheim,_California | leaderTitle | United_States_House_of_Representatives</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Anaheim | Líder | Tom_Tait</striple>
+        <striple>Anaheim | FormaParteDe | California</striple>
+        <striple>California | Idioma | español</striple>
+        <striple>Cámara_de_Representantes_de_los_Estados_Unidos | Ubicación | Capitolio_de_los_Estados_Unidos</striple>
+        <striple>Anaheim | TítuloDeLíder | Cámara_de_Representantes_de_los_Estados_Unidos</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Anaheim,_California | leader | Tom_Tait</bttriple>
+        <bttriple>Anaheim,_California | isPartOf | California</bttriple>
+        <bttriple>California | language | Spanish_language</bttriple>
+        <bttriple>United_States_House_of_Representatives | location | United_States_Capitol</bttriple>
+        <bttriple>Anaheim,_California | leaderTitle | United_States_House_of_Representatives</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Anaheim,_Califòrnia | Líder | Tom_Tait</ctriple>
+        <ctriple>Anaheim,_Califòrnia | ÉsPartDe | Califòrnia</ctriple>
+        <ctriple>Califòrnia | Llengua | Llengua_espanyola</ctriple>
+        <ctriple>Cambra_de_Representants_dels_Estats_Units | Ubicació | Capitoli_dels_Estats_Units</ctriple>
+        <ctriple>Anaheim,_Califòrnia | LíderTítol | Cambra_de_Representants_dels_Estats_Units</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Anaheim is led by Tom Tait along with the United States House of Representatives located in the US Capitol. The city is located in California where the Spanish language is spoken.</lex>
+      <lex lang="en" lid="Id2">Located in the United States Capitol, the United States House of Representatives leads Anaheim, California. Tom Tait is a leader in Anaheim, California, where the Spanish language is spoken.</lex>
+      <lex lang="es" lid="Id1">Anaheim está dirigida por Tom Tait, junto con la Cámara de Representantes de Estados Unidos, situada en el Capitolio. La ciudad está situada en California, donde se habla español.</lex>
+      <lex lang="es" lid="Id2">Situada en el Capitolio de los Estados Unidos, la Cámara de Representantes de los Estados Unidos lidera Anaheim, California. Tom Tait es líder en Anaheim, California, donde se habla español.</lex>
+      <lex lang="ca" lid="Id1">Anaheim està dirigida per Tom Tait juntament amb la Cambra de Representants dels Estats Units situada al Capitoli dels Estats Units. La ciutat està situada a Califòrnia, on es parla l'espanyol.</lex>
+      <lex lang="ca" lid="Id2">Situada al Capitoli dels Estats Units, la Cambra de Representants dels Estats Units dirigeix Anaheim, Califòrnia. Tom Tait és un líder a Anaheim, Califòrnia, on es parla espanyol.</lex>
+      <lex lang="en_bt" lid="Id1">Anaheim is governed by Tom Tait along with the United States House of Representatives located in the United States Capitol. The city is located in Spanish-speaking California.</lex>
+      <lex lang="en_bt" lid="Id2">Located in the United States Capitol, the U.S. House of Representatives governs Anaheim, California. Tom Tait is a leader in Spanish-speaking Anaheim, California.</lex>
+      </entry>
+    <entry category="City" eid="Id6" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Anderson,_Indiana | leaderName | Democratic_Party_(United_States)</otriple>
+        <otriple>Indiana | capital | Indianapolis</otriple>
+        <otriple>Anderson,_Indiana | isPartOf | Indiana</otriple>
+        <otriple>Indiana | country | United_States</otriple>
+        <otriple>Democratic_Party_(United_States) | headquarters | Washington,_D.C.</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Anderson,_Indiana | leaderName | Democratic_Party_(United_States)</otriple>
+        <otriple>Indiana | capital | Indianapolis</otriple>
+        <otriple>Anderson,_Indiana | isPartOf | Indiana</otriple>
+        <otriple>Indiana | country | United_States</otriple>
+        <otriple>Democratic_Party_(United_States) | headquarter | Washington,_D.C.</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Anderson,_Indiana | leader | Democratic_Party_(United_States)</mtriple>
+        <mtriple>Indiana | capital | Indianapolis</mtriple>
+        <mtriple>Anderson,_Indiana | isPartOf | Indiana</mtriple>
+        <mtriple>Indiana | country | United_States</mtriple>
+        <mtriple>Democratic_Party_(United_States) | headquarter | Washington,_D.C.</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Anderson | Líder | Partido_Demócrata_(Estados_Unidos)</striple>
+        <striple>Indiana | Capital | Indianápolis</striple>
+        <striple>Anderson | FormaParteDe | Indiana</striple>
+        <striple>Indiana | País | Estados_Unidos</striple>
+        <striple>Partido_Demócrata_(Estados_Unidos) | SedeCentral | Washington_D._C.</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Anderson,_Indiana | leader | Democratic_Party_(United_States)</bttriple>
+        <bttriple>Indiana | capital | Indianapolis</bttriple>
+        <bttriple>Anderson,_Indiana | isPartOf | Indiana</bttriple>
+        <bttriple>Indiana | country | United_States</bttriple>
+        <bttriple>Democratic_Party_(United_States) | headquarter | Washington,_D.C.</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Anderson,_Indiana | Líder | Partit_Demòcrata_(Estats_Units)</ctriple>
+        <ctriple>Indiana | Capital | Indianàpolis</ctriple>
+        <ctriple>Anderson,_Indiana | ÉsPartDe | Indiana</ctriple>
+        <ctriple>Indiana | País | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Partit_Demòcrata_(Estats_Units) | QuarterGeneral | Washington_DC</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Anderson in the United States is led by the Democratic Party of the US who have their headquarters in Washington DC. Anderson is located in Indiana, where the state capital is Indianapolis.</lex>
+      <lex lang="en" lid="Id2">The Democratic Party leads Anderson, Indiana in the US. The party headquarter is located in Washington D.C. Indianapolis is the capital of Indiana.</lex>
+      <lex lang="en" lid="Id3">Indianapolis is the capital of Indiana, where the city of Anderson is located, in the United States. Anderson, is led by the U.S. Democratic Party, which is headquartered in Washington, D.C.</lex>
+      <lex lang="es" lid="Id1">Anderson, en Estados Unidos, está dirigido por el Partido Demócrata de Estados Unidos, que tiene su sede en Washington DC. Anderson se encuentra en Indiana, donde la capital del estado es Indianápolis.</lex>
+      <lex lang="es" lid="Id2">El Partido Demócrata lidera Anderson, Indiana, en Estados Unidos. La sede del partido se encuentra en Washington D.C. Indianápolis es la capital de Indiana.</lex>
+      <lex lang="es" lid="Id3">Indianápolis es la capital de Indiana, donde se encuentra la ciudad de Anderson, en Estados Unidos. Anderson, está dirigida por el Partido Demócrata de Estados Unidos, que tiene su sede en Washington, D.C.</lex>
+      <lex lang="ca" lid="Id1">Anderson als Estats Units és liderat pel Partit Demòcrata dels EUA que té la seva seu a Washington DC. Anderson es troba a Indiana, on la capital de l' estat és Indianapolis.</lex>
+      <lex lang="ca" lid="Id2">El Partit Demòcrata lidera Anderson, Indiana als EUA. La seu del partit es troba a Washington D. C. Indianapolis és la capital d' Indiana.</lex>
+      <lex lang="ca" lid="Id3">Indianapolis és la capital de l' estat d' Indiana, on es troba la ciutat d' Anderson, als Estats Units. Anderson, és liderada pel Partit Demòcrata dels Estats Units, que té la seu a Washington, D. C.</lex>
+      <lex lang="en_bt" lid="Id1">Anderson in the United States is led by the U.S. Democratic Party which has its headquarters in Washington D.C. Anderson is located in Indiana, where the state capital is Indianapolis.</lex>
+      <lex lang="en_bt" lid="Id2">The Democratic Party leads Anderson, Indiana in the U.S. The party headquarters is in Washington D.C. Indianapolis is the capital of Indiana.</lex>
+      <lex lang="en_bt" lid="Id3">Indianapolis is the capital of the state of Indiana, home to the city of Anderson, in the United States. Anderson is led by the Democratic Party of the United States, headquartered in Washington, D.C.</lex>
+      </entry>
+    <entry category="City" eid="Id7" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Anderson,_Indiana | populationDensity | "523.8634087103906"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Anderson,_Indiana | areaCode | "765"</otriple>
+        <otriple>Anderson,_Indiana | areaTotal | 1.0743e+08</otriple>
+        <otriple>Anderson,_Indiana | elevation | "267.919"^^xsd:double</otriple>
+        <otriple>Anderson,_Indiana | subdivisionName | Indiana</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Anderson,_Indiana | populationDensity | 523.9 (inhabitants per square kilometre)</mtriple>
+        <mtriple>Anderson,_Indiana | areaCode | 765</mtriple>
+        <mtriple>Anderson,_Indiana | areaTotal | 107.43 (square kilometres)</mtriple>
+        <mtriple>Anderson,_Indiana | elevationAboveTheSeaLevel | 268.0</mtriple>
+        <mtriple>Anderson,_Indiana | isPartOf | Indiana</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Anderson | DensidadDePoblación | 523,9_(habitantes_por_kilómetro_cuadrado)</striple>
+        <striple>Anderson | CódigoDeÁrea | 765</striple>
+        <striple>Anderson | ÁreaTotal | 107,43_(kilómetros_cuadrados)</striple>
+        <striple>Anderson | ElevaciónSobreElNivelDelMar | 268.0</striple>
+        <striple>Anderson | FormaParteDe | Indiana</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Anderson,_Indiana | populationDensity | 523.9 (inhabitants per square kilometre)</bttriple>
+        <bttriple>Anderson,_Indiana | areaCode | 765</bttriple>
+        <bttriple>Anderson,_Indiana | areaTotal | 107.43 (square kilometres)</bttriple>
+        <bttriple>Anderson,_Indiana | elevationAboveTheSeaLevel | 268.0</bttriple>
+        <bttriple>Anderson,_Indiana | isPartOf | Indiana</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Anderson,_Indiana | DensitatDePoblació | 523.9_(habitants_per_quilòmetre_quadrat)</ctriple>
+        <ctriple>Anderson,_Indiana | CodiD'Àrea | 765</ctriple>
+        <ctriple>Anderson,_Indiana | TotalDeL'Àrea | 107,43_(kilòmetres_quadrats)</ctriple>
+        <ctriple>Anderson,_Indiana | ElevacióPerSobreDelNivellDelMar | 268.0</ctriple>
+        <ctriple>Anderson,_Indiana | ÉsPartDe | Indiana</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Anderson, Indiana lies 268.0 above sea level, has an area code of 765 and a population density of 523.9 inhabitants for each of its 107.43 square kilometres.</lex>
+      <lex lang="en" lid="Id2">Anderson, Indiana has 523.9 people per square kilometer, an area of 107.43 square kilometres, an elevation of 268.0 above sea level and an area code of 765.</lex>
+      <lex lang="en" lid="Id3">Anderson, Indiana is 268 above sea level and uses the 765 area code. The city is 107.43 square kilometres large and has 523.9 residents per square kilometre.</lex>
+      <lex lang="es" lid="Id1">Anderson, Indiana, se encuentra a 268,0 sobre el nivel del mar, tiene un código de área de 765 y una densidad de población de 523,9 habitantes por cada uno de sus 107,43 kilómetros cuadrados.</lex>
+      <lex lang="es" lid="Id2">Anderson, Indiana tiene 523,9 habitantes por kilómetro cuadrado, una superficie de 107,43 kilómetros cuadrados, una altitud de 268,0 sobre el nivel del mar y un código de área de 765.</lex>
+      <lex lang="es" lid="Id3">Anderson, Indiana está a 268 sobre el nivel del mar y utiliza el código de área 765. La ciudad tiene una superficie de 107,43 kilómetros cuadrados y 523,9 habitantes por kilómetro cuadrado.</lex>
+      <lex lang="ca" lid="Id1">Anderson, Indiana es troba a 268,0 sobre el nivell del mar, té un codi d'àrea de 765 i una densitat de població de 523,9 habitants per cada un dels seus 107,43 quilòmetres quadrats.</lex>
+      <lex lang="ca" lid="Id2">Anderson, Indiana té 523,9 persones per quilòmetre quadrat, una àrea de 107,43 quilòmetres quadrats, una elevació de 268,0 sobre el nivell del mar i un codi d'àrea de 765.</lex>
+      <lex lang="ca" lid="Id3">Anderson, Indiana està a 268 m sobre el nivell del mar i utilitza el codi d'àrea 765. La ciutat té una superfície de 107,43 quilòmetres quadrats i té 523,9 habitants per quilòmetre quadrat.</lex>
+      <lex lang="en_bt" lid="Id1">Anderson, Indiana is located at 268.0 above sea level, has an area code of 765, and a population density of 523.9 people per square mile of its 107.43 square miles.</lex>
+      <lex lang="en_bt" lid="Id2">Anderson, Indiana has 523.9 people per square mile, an area of 107.43 square miles, an elevation of 268.0 above sea level, and an area code of 765.</lex>
+      <lex lang="en_bt" lid="Id3">Anderson, Indiana is 268 m above sea level and uses area code 765. The city has an area of 107.43 square kilometers and has 523.9 inhabitants per square kilometer.</lex>
+      </entry>
+    <entry category="City" eid="Id8" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Antioch,_California | isPartOf | Contra_Costa_County,_California</otriple>
+        <otriple>Antioch,_California | settlementType | California</otriple>
+        <otriple>California | language | Chinese_language</otriple>
+        <otriple>Antioch,_California | areaTotal | 7.5324e+07</otriple>
+        <otriple>Contra_Costa_County,_California | subdivisionName | San_Francisco_Bay_Area</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Contra_Costa_County,_California | isPartOf | San_Francisco_Bay_Area</otriple>
+        <otriple>Antioch,_California | settlementType | California</otriple>
+        <otriple>Antioch,_California | subdivisionName | Contra_Costa_County,_California</otriple>
+        <otriple>California | language | Chinese_language</otriple>
+        <otriple>Antioch,_California | areaTotal | 7.5324e+07</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Antioch,_California | isPartOf | Contra_Costa_County,_California</otriple>
+        <otriple>Antioch,_California | settlementType | California</otriple>
+        <otriple>California | language | Chinese_language</otriple>
+        <otriple>Antioch,_California | areaTotal | 7.53246e+07</otriple>
+        <otriple>Contra_Costa_County,_California | subdivisionName | San_Francisco_Bay_Area</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Antioch,_California | isPartOf | Contra_Costa_County,_California</mtriple>
+        <mtriple>Antioch,_California | isPartOf | California</mtriple>
+        <mtriple>California | language | Chinese_language</mtriple>
+        <mtriple>Antioch,_California | areaTotal | 75.324 (square kilometres)</mtriple>
+        <mtriple>Contra_Costa_County,_California | isPartOf | San_Francisco_Bay_Area</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Antioch,_California | FormaParteDe | Condado_de_Contra_Costa,_California</striple>
+        <striple>Antioch,_California | FormaParteDe | California</striple>
+        <striple>California | Idioma | chino</striple>
+        <striple>Antioch,_California | ÁreaTotal | 75.324_(kilómetros_cuadrados)</striple>
+        <striple>Condado_de_Contra_Costa,_California | FormaParteDe | Área_de_la_Bahía_de_San_Francisco</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Antioch,_California | isPartOf | Contra_Costa_County,_California</bttriple>
+        <bttriple>Antioch,_California | isPartOf | California</bttriple>
+        <bttriple>California | language | Chinese_language</bttriple>
+        <bttriple>Antioch,_California | areaTotal | 75.324 (square kilometres)</bttriple>
+        <bttriple>Contra_Costa_County,_California | isPartOf | San_Francisco_Bay_Area</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Antiòquia,_Califòrnia | ÉsPartDe | Comtat_de_Contra_Costa,_Califòrnia</ctriple>
+        <ctriple>Antiòquia,_Califòrnia | ÉsPartDe | Califòrnia</ctriple>
+        <ctriple>Califòrnia | Llengua | Idioma_xinès</ctriple>
+        <ctriple>Antiòquia,_Califòrnia | TotalDeL'Àrea | 75.324_(kilòmetres_quadrats)</ctriple>
+        <ctriple>Comtat_de_Contra_Costa,_Califòrnia | ÉsPartDe | àrea_de_la_badia_de_San_Francisco</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">California, where some parts speak Chinese, is home to Antioch, which covers 75.324 square kilometres of Contra Costa County in the San Francisco Bay area.</lex>
+      <lex lang="en" lid="Id2">Antioch and the San Francisco bay area are parts of Contra Costa County in California. The total area of Antioch is 75.324 square km and Chinese is one of the spoken languages in California.</lex>
+      <lex lang="en" lid="Id3">With a total area of 75.324 square km, Antioch is part of Contra Costa County. This county is part of the San Francisco Bay area, in California, where, in some parts, Chinese is spoken.</lex>
+      <lex lang="es" lid="Id1">En California, donde en algunas partes se habla chino, se encuentra Antioch, que ocupa 75,324 kilómetros cuadrados del condado de Contra Costa, en la bahía de San Francisco.</lex>
+      <lex lang="es" lid="Id2">Antioch y la zona de la bahía de San Francisco forman parte del condado de Contra Costa, en California. La superficie total de Antioch es de 75,324 km2 y el chino es una de las lenguas habladas en California.</lex>
+      <lex lang="es" lid="Id3">Con una superficie total de 75,324 km2, Antioch forma parte del condado de Contra Costa. Este condado forma parte del área de la bahía de San Francisco, en California, donde, en algunas partes, se habla chino.</lex>
+      <lex lang="ca" lid="Id1">Califòrnia, on algunes parts parlen xinès, és la llar d'Antioquia, que cobreix 75.324 quilòmetres quadrats del Comtat de Contra Costa a l'àrea de la Badia de San Francisco.</lex>
+      <lex lang="ca" lid="Id2">Antioquia i l'àrea de la badia de San Francisco són parts del comtat de Contra Costa a Califòrnia. La superfície total d'Antioquia és de 75.324 km² i el xinès és una de les llengües que es parlen a Califòrnia.</lex>
+      <lex lang="ca" lid="Id3">Amb una superfície total de 75.324 km², Antioch forma part del comtat de Contra Costa. Aquest comtat forma part de l'àrea de la badia de San Francisco, a Califòrnia, on es parla xinès en algunes zones.</lex>
+      <lex lang="en_bt" lid="Id1">California, where some parts speak Chinese, is home to Antioquia, which covers 75,324 square kilometres from Contra Costa County to the San Francisco Bay area.</lex>
+      <lex lang="en_bt" lid="Id2">Antioquia and the San Francisco Bay Area are parts of Contra Costa County in California. The total area of Antioquia is 75,324 km2 and Chinese is one of the languages spoken in California.</lex>
+      <lex lang="en_bt" lid="Id3">With a total area of 75,324 km2, Antioch is part of Contra Costa County, which is part of the San Francisco Bay Area in California, where Chinese is spoken in some areas.</lex>
+      </entry>
+    <entry category="City" eid="Id9" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Attica,_Indiana | subdivisionName | Indiana</otriple>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>Attica,_Indiana | country | United_States</otriple>
+        <otriple>Attica,_Indiana | isPartOf | Fountain_County,_Indiana</otriple>
+        <otriple>Fountain_County,_Indiana | countySeat | Covington,_Indiana</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Attica,_Indiana | isPartOf | Indiana</otriple>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>Attica,_Indiana | country | United_States</otriple>
+        <otriple>Attica,_Indiana | subdivisionName | Fountain_County,_Indiana</otriple>
+        <otriple>Fountain_County,_Indiana | countySeat | Covington,_Indiana</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Attica,_Indiana | isPartOf | Indiana</mtriple>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>Attica,_Indiana | country | United_States</mtriple>
+        <mtriple>Attica,_Indiana | isPartOf | Fountain_County,_Indiana</mtriple>
+        <mtriple>Fountain_County,_Indiana | countySeat | Covington,_Indiana</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Attica | FormaParteDe | Indiana</striple>
+        <striple>Estados_Unidos | Capital | Washington_D._C.</striple>
+        <striple>Attica | País | Estados_Unidos</striple>
+        <striple>Attica | FormaParteDe | Condado_de_Fountain,_Indiana</striple>
+        <striple>Condado_de_Fountain,_Indiana | SedeDelCondado | Covington,_Indiana</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Attica,_Indiana | isPartOf | Indiana</bttriple>
+        <bttriple>United_States | capital | Washington,_D.C.</bttriple>
+        <bttriple>Attica,_Indiana | country | United_States</bttriple>
+        <bttriple>Attica,_Indiana | isPartOf | Fountain_County,_Indiana</bttriple>
+        <bttriple>Fountain_County,_Indiana | countySeat | Covington,_Indiana</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Atticausa._kgm | ÉsPartDe | Indiana</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | Capital | Washington_DC</ctriple>
+        <ctriple>Atticausa._kgm | País | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Atticausa._kgm | ÉsPartDe | Comtat_de_Fountain,_Indiana</ctriple>
+        <ctriple>Comtat_de_Fountain,_Indiana | CapitalDelComtat | Covington,_Indiana</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Attica, Indiana is in Fountain County, Indiana, U.S, where the capital is Washington DC. Covington is the County seat of Fountain County.</lex>
+      <lex lang="en" lid="Id2">Attica is part of Fountain County, Indiana, United States, where the capital is Washington, D.C. Covington is the County seat of Fountain County.</lex>
+      <lex lang="en" lid="Id3">Covington is the County seat of Fountain County, in Indiana, which is where Attica is part of. This is in the United States, where the capital is Washington D.C.</lex>
+      <lex lang="es" lid="Id1">Attica, Indiana se encuentra en el Condado de Fountain, Indiana, EE. Covington es la sede del Condado de Fountain.</lex>
+      <lex lang="es" lid="Id2">Attica es parte del Condado de Fountain, Indiana, Estados Unidos. Covington es la sede del Condado de Fountain.</lex>
+      <lex lang="es" lid="Id3">Covington es la capital del condado de Fountain, en Indiana, del que forma parte Attica. Se encuentra en Estados Unidos, donde la capital es Washington D.C.</lex>
+      <lex lang="ca" lid="Id1">Attica, Indiana es troba al comtat de Fountain, Indiana, EUA, la capital del qual és Washington DC. Covington és la seu del comtat de Fountain.</lex>
+      <lex lang="ca" lid="Id2">Attica és part del comtat de Fountain, Indiana, Estats Units, on la capital és Washington, D.C. Covington és la seu del comtat de Fountain.</lex>
+      <lex lang="ca" lid="Id3">Covington és la seu del comtat de Fountain, a Indiana, del qual forma part Attica. Això és als Estats Units, on la capital és Washington D.C.</lex>
+      <lex lang="en_bt" lid="Id1">Attica, Indiana is located in Fountain County, Indiana, USA, whose capital is Washington DC. Covington is the county seat of Fountain County.</lex>
+      <lex lang="en_bt" lid="Id2">Attica is part of Fountain County, Indiana, United States, where the capital is Washington, D.C. Covington is the county seat of Fountain County.</lex>
+      <lex lang="en_bt" lid="Id3">Covington is the county seat of Fountain County, Indiana, of which Attica is a part. This is in the United States, whose capital is Washington, D.C.</lex>
+      </entry>
+    <entry category="City" eid="Id10" shape="(X (X (X (X (X) (X)))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Auburn,_Alabama | isPartOf | Lee_County,_Alabama</otriple>
+        <otriple>Alabama | country | United_States</otriple>
+        <otriple>Lee_County,_Alabama | state | Alabama</otriple>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Auburn,_Alabama | isPartOf | Lee_County,_Alabama</mtriple>
+        <mtriple>Alabama | country | United_States</mtriple>
+        <mtriple>Lee_County,_Alabama | state | Alabama</mtriple>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Auburn,_Alabama | FormaParteDe | Condado_de_Lee,_Alabama</striple>
+        <striple>Alabama | País | Estados_Unidos</striple>
+        <striple>Condado_de_Lee,_Alabama | Estado | Alabama</striple>
+        <striple>Estados_Unidos | GrupoÉtnico | estadounidense_asiático</striple>
+        <striple>Estados_Unidos | Capital | Washington_D._C.</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Auburn,_Alabama | isPartOf | Lee_County,_Alabama</bttriple>
+        <bttriple>Alabama | country | United_States</bttriple>
+        <bttriple>Lee_County,_Alabama | state | Alabama</bttriple>
+        <bttriple>United_States | ethnicGroup | Asian_Americans</bttriple>
+        <bttriple>United_States | capital | Washington,_D.C.</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Auburn,_Alabama | ÉsPartDe | Comtat_de_Lee,_Alabama</ctriple>
+        <ctriple>Alabama | País | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Comtat_de_Lee,_Alabama | Estat | Alabama</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | GrupÈtnic | estatunidencs_asiàtics</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | Capital | Washington_DC</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Auburn is part of Lee County, Alabama, in the United States, the capital of which is Washington D.C. and where Asian Americans are an ethnic group.</lex>
+      <lex lang="en" lid="Id2">Auburn (part of Lee County, Alabama), is in the United States, the capital of which is Washington D.C. One, of the many ethnic groups, in this country, is Asian Americans.</lex>
+      <lex lang="es" lid="Id1">Auburn forma parte del condado de Lee, Alabama, en Estados Unidos, cuya capital es Washington D.C. y donde los estadounidenses de origen asiático constituyen un grupo étnico.</lex>
+      <lex lang="es" lid="Id2">Auburn (parte del condado de Lee, Alabama), se encuentra en Estados Unidos, cuya capital es Washington D.C. Uno de los muchos grupos étnicos de este país es el de los asiático-americanos.</lex>
+      <lex lang="ca" lid="Id1">Auburn forma part del comtat de Lee, Alabama, als Estats Units, la capital del qual és Washington D.C. i on els asiàtics americans són un grup ètnic.</lex>
+      <lex lang="ca" lid="Id2">Auburn (part del comtat de Lee, Alabama), està als Estats Units, la capital del qual és Washington D.C. Un dels molts grups ètnics, en aquest país, són els americans asiàtics.</lex>
+      <lex lang="en_bt" lid="Id1">Auburn is part of Lee County, Alabama, United States, whose capital is Washington D.C. and where Asian Americans are an ethnic group.</lex>
+      <lex lang="en_bt" lid="Id2">Auburn (part of Lee County, Alabama), is in the United States, the capital of which is Washington D.C. One of the many ethnic groups in this country are Asian Americans.</lex>
+      </entry>
+    <entry category="City" eid="Id11" shape="(X (X) (X (X) (X (X))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Auburn,_Alabama | subdivisionName | Lee_County,_Alabama</otriple>
+        <otriple>Lee_County,_Alabama | countySeat | Opelika,_Alabama</otriple>
+        <otriple>Lee_County,_Alabama | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+        <otriple>Auburn,_Alabama | isPartOf | Alabama</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Auburn,_Alabama | isPartOf | Lee_County,_Alabama</otriple>
+        <otriple>Lee_County,_Alabama | countySeat | Opelika,_Alabama</otriple>
+        <otriple>Lee_County,_Alabama | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+        <otriple>Auburn,_Alabama | subdivisionName | Alabama</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Auburn,_Alabama | isPartOf | Lee_County,_Alabama</mtriple>
+        <mtriple>Lee_County,_Alabama | countySeat | Opelika,_Alabama</mtriple>
+        <mtriple>Lee_County,_Alabama | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+        <mtriple>Auburn,_Alabama | isPartOf | Alabama</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Auburn,_Alabama | FormaParteDe | Condado_de_Lee,_Alabama</striple>
+        <striple>Condado_de_Lee,_Alabama | SedeDelCondado | Opelika,_Alabama</striple>
+        <striple>Condado_de_Lee,_Alabama | País | Estados_Unidos</striple>
+        <striple>Estados_Unidos | GrupoÉtnico | Afroestadounidense</striple>
+        <striple>Auburn,_Alabama | FormaParteDe | Alabama</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Auburn,_Alabama | isPartOf | Lee_County,_Alabama</bttriple>
+        <bttriple>Lee_County,_Alabama | countySeat | Opelika,_Alabama</bttriple>
+        <bttriple>Lee_County,_Alabama | country | United_States</bttriple>
+        <bttriple>United_States | ethnicGroup | African_Americans</bttriple>
+        <bttriple>Auburn,_Alabama | isPartOf | Alabama</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Auburn,_Alabama | ÉsPartDe | Comtat_de_Lee,_Alabama</ctriple>
+        <ctriple>Comtat_de_Lee,_Alabama | CapitalDelComtat | Opelika,_Alabama</ctriple>
+        <ctriple>Comtat_de_Lee,_Alabama | País | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | GrupÈtnic | negres_estatunidencs</ctriple>
+        <ctriple>Auburn,_Alabama | ÉsPartDe | Alabama</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Opelika is the county seat of Lee County, Alabama, The United States. Auburn is part of Lee County. African Americans are an ethnic group within the United States.</lex>
+      <lex lang="en" lid="Id2">Opelika is the county seat of Lee County which is in Auburn, Alabama in the United States where African Americans are.</lex>
+      <lex lang="en" lid="Id3">One of the ethnic groups in the United States are the African Americans and Lee County, Alabama, is within the United States. Auburn is part of Lee County, Alabama but Opelika is the county seat.</lex>
+      <lex lang="es" lid="Id1">Opelika es la capital del condado de Lee, Alabama, Estados Unidos. Auburn forma parte del condado de Lee. Los afroamericanos son un grupo étnico dentro de Estados Unidos.</lex>
+      <lex lang="es" lid="Id2">Opelika es la capital del condado de Lee, en Auburn, Alabama, Estados Unidos, donde viven afroamericanos.</lex>
+      <lex lang="es" lid="Id3">Uno de los grupos étnicos de Estados Unidos son los afroamericanos y el condado de Lee, Alabama, se encuentra dentro de él. Auburn forma parte del condado de Lee, Alabama, pero Opelika es la capital del condado.</lex>
+      <lex lang="ca" lid="Id1">Opelika és la seu del comtat de Lee, Alabama, Estats Units. Auburn forma part del comtat de Lee. Els afroamericans són un grup ètnic dels Estats Units.</lex>
+      <lex lang="ca" lid="Id2">Opelika és la seu del comtat de Lee que es troba a Auburn, Alabama als Estats Units on hi ha afroamericans.</lex>
+      <lex lang="ca" lid="Id3">Un dels grups ètnics dels Estats Units són els afroamericans, i el comtat de Lee, a Alabama, es troba dins dels Estats Units. Auburn és part del comtat de Lee, a Alabama, però Opelika és la capital del comtat.</lex>
+      <lex lang="en_bt" lid="Id1">Opelika is the county seat of Lee County, Alabama, United States. Auburn is part of Lee County. African Americans are an ethnic group in the United States.</lex>
+      <lex lang="en_bt" lid="Id2">Opelika is the county seat of Lee County which is located in Auburn, Alabama in the United States where there are African Americans.</lex>
+      <lex lang="en_bt" lid="Id3">One of the ethnic groups in the United States are African Americans, and Lee County, Alabama, is located within the United States. Auburn is part of Lee County, Alabama, but Opelika is the county seat.</lex>
+      </entry>
+    <entry category="City" eid="Id12" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Austin,_Texas | isPartOf | Texas</otriple>
+        <otriple>Texas | language | Spanish_language</otriple>
+        <otriple>Austin,_Texas | subdivisionName | Williamson_County,_Texas</otriple>
+        <otriple>Williamson_County,_Texas | largestCity | Round_Rock,_Texas</otriple>
+        <otriple>Williamson_County,_Texas | countySeat | Georgetown,_Texas</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Austin,_Texas | isPartOf | Texas</mtriple>
+        <mtriple>Texas | language | Spanish_language</mtriple>
+        <mtriple>Austin,_Texas | isPartOf | Williamson_County,_Texas</mtriple>
+        <mtriple>Williamson_County,_Texas | largestCity | Round_Rock,_Texas</mtriple>
+        <mtriple>Williamson_County,_Texas | countySeat | Georgetown,_Texas</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Austin,_Texas | FormaParteDe | Texas</striple>
+        <striple>Texas | Idioma | español</striple>
+        <striple>Austin,_Texas | FormaParteDe | Condado_de_Williamson,_Texas</striple>
+        <striple>Condado_de_Williamson,_Texas | CiudadMásGrande | Round_Rock,_Texas</striple>
+        <striple>Condado_de_Williamson,_Texas | SedeDelCondado | Georgetown,_Texas</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Austin,_Texas | isPartOf | Texas</bttriple>
+        <bttriple>Texas | language | Spanish_language</bttriple>
+        <bttriple>Austin,_Texas | isPartOf | Williamson_County,_Texas</bttriple>
+        <bttriple>Williamson_County,_Texas | largestCity | Round_Rock,_Texas</bttriple>
+        <bttriple>Williamson_County,_Texas | countySeat | Georgetown,_Texas</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Austin,_Texas | ÉsPartDe | Texas</ctriple>
+        <ctriple>Texas | Llengua | Llengua_espanyola</ctriple>
+        <ctriple>Austin,_Texas | ÉsPartDe | Comtat_de_Williamson,_Texas</ctriple>
+        <ctriple>Comtat_de_Williamson,_Texas | CiutatMésGran | Round_Rock,_Texas</ctriple>
+        <ctriple>Comtat_de_Williamson,_Texas | CapitalDelComtat | Georgetown,_Texas</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Austin is in Williamson County Texas where Georgetown is the county seat and Round Rock is the largest city and spanish is spoken.</lex>
+      <lex lang="en" lid="Id2">Williamson County, Texas contains the towns of Austin, Round Rock, the largest city, and the county seat of Georgetown. Spanish is spoken in Texas.</lex>
+      <lex lang="en" lid="Id3">Austin is part of Williamson County, Texas, where Spanish is spoken. Round Rock is the largest city in Williamson County and Georgetown is the county seat.</lex>
+      <lex lang="es" lid="Id1">Austin está en el condado de Williamson, Texas, donde Georgetown es la capital del condado y Round Rock es la ciudad más grande y se habla español.</lex>
+      <lex lang="es" lid="Id2">En el condado de Williamson, Texas, se encuentran las ciudades de Austin, Round Rock, la ciudad más grande, y Georgetown, la capital del condado. En Texas se habla español.</lex>
+      <lex lang="es" lid="Id3">Austin forma parte del condado de Williamson (Texas), donde se habla español. Round Rock es la ciudad más grande del condado de Williamson y Georgetown es la capital del condado.</lex>
+      <lex lang="ca" lid="Id1">Austin està al comtat de Williamson, Texas, on Georgetown és la seu del comtat i Round Rock és la ciutat més gran i es parla espanyol.</lex>
+      <lex lang="ca" lid="Id2">El comtat de Williamson, Texas, conté les ciutats d'Austin, Round Rock, la ciutat més gran, i la seu del comtat de Georgetown. L'espanyol es parla a Texas.</lex>
+      <lex lang="ca" lid="Id3">Austin forma part del comtat de Williamson, Texas, on es parla espanyol. Round Rock és la ciutat més gran del comtat de Williamson i Georgetown és la capital del comtat.</lex>
+      <lex lang="en_bt" lid="Id1">Austin is in Williamson County, Texas, where Georgetown is the county seat and Round Rock is the largest city and is Spanish-speaking.</lex>
+      <lex lang="en_bt" lid="Id2">Williamson County, Texas, contains the cities of Austin, Round Rock, the largest city, and the county seat of Georgetown. Spanish is spoken in Texas.</lex>
+      <lex lang="en_bt" lid="Id3">Austin is part of the Spanish-speaking Williamson County, Texas. Round Rock is the largest city in Williamson County and Georgetown is the county seat.</lex>
+      </entry>
+    <entry category="City" eid="Id13" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Austin,_Texas | isPartOf | Texas</otriple>
+        <otriple>Texas | largestCity | Houston</otriple>
+        <otriple>Texas | language | Spanish_language</otriple>
+        <otriple>Austin,_Texas | subdivisionName | Williamson_County,_Texas</otriple>
+        <otriple>Williamson_County,_Texas | countySeat | Georgetown,_Texas</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Austin,_Texas | isPartOf | Texas</mtriple>
+        <mtriple>Texas | largestCity | Houston</mtriple>
+        <mtriple>Texas | language | Spanish_language</mtriple>
+        <mtriple>Austin,_Texas | isPartOf | Williamson_County,_Texas</mtriple>
+        <mtriple>Williamson_County,_Texas | countySeat | Georgetown,_Texas</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Austin,_Texas | FormaParteDe | Texas</striple>
+        <striple>Texas | CiudadMásGrande | Houston</striple>
+        <striple>Texas | Idioma | español</striple>
+        <striple>Austin,_Texas | FormaParteDe | Condado_de_Williamson,_Texas</striple>
+        <striple>Condado_de_Williamson,_Texas | SedeDelCondado | Georgetown,_Texas</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Austin,_Texas | isPartOf | Texas</bttriple>
+        <bttriple>Texas | largestCity | Houston</bttriple>
+        <bttriple>Texas | language | Spanish_language</bttriple>
+        <bttriple>Austin,_Texas | isPartOf | Williamson_County,_Texas</bttriple>
+        <bttriple>Williamson_County,_Texas | countySeat | Georgetown,_Texas</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Austin,_Texas | ÉsPartDe | Texas</ctriple>
+        <ctriple>Texas | CiutatMésGran | Houston</ctriple>
+        <ctriple>Texas | Llengua | Llengua_espanyola</ctriple>
+        <ctriple>Austin,_Texas | ÉsPartDe | Comtat_de_Williamson,_Texas</ctriple>
+        <ctriple>Comtat_de_Williamson,_Texas | CapitalDelComtat | Georgetown,_Texas</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Austin is part of Williamson County in Texas which has the county seat of Georgetown. The largest city in Texas, which uses the Spanish language, is Houston.</lex>
+      <lex lang="en" lid="Id2">Williamson County with county seat Georgetown, and Austin are located inTexas, where the largest city is Houston and Spanish is one of the spoken languages.</lex>
+      <lex lang="es" lid="Id1">Austin forma parte del condado de Williamson, en Texas, cuya capital es Georgetown. La ciudad más grande de Texas, que utiliza el idioma español, es Houston.</lex>
+      <lex lang="es" lid="Id2">El condado de Williamson, con sede en Georgetown, y Austin están situados enTexas, donde la ciudad más grande es Houston y el español es una de las lenguas habladas.</lex>
+      <lex lang="ca" lid="Id1">Austin és part del comtat de Williamson a Texas, que té la seu del comtat a Georgetown. La ciutat més gran de Texas, que utilitza la llengua espanyola, és Houston.</lex>
+      <lex lang="ca" lid="Id2">El comtat de Williamson amb la seu del comtat a Georgetown, i Austin es troben a Texas, on la ciutat més gran és Houston i l'espanyol és una de les llengües parlades.</lex>
+      <lex lang="en_bt" lid="Id1">Austin is part of Williamson County in Texas, which has its county seat in Georgetown. The largest Spanish-speaking city in Texas is Houston.</lex>
+      <lex lang="en_bt" lid="Id2">Williamson County with the county seat in Georgetown, and Austin are in Texas, where the largest city is Houston and Spanish is one of the spoken languages.</lex>
+      </entry>
+    <entry category="City" eid="Id14" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Indiana | capital | Indianapolis</otriple>
+        <otriple>Alexandria,_Indiana | subdivisionName | Indiana</otriple>
+        <otriple>Madison_County,_Indiana | country | United_States</otriple>
+        <otriple>Alexandria,_Indiana | isPartOf | Madison_County,_Indiana</otriple>
+        <otriple>Madison_County,_Indiana | largestCity | Anderson,_Indiana</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Alexandria,_Indiana | isPartOf | Indiana</otriple>
+        <otriple>Indiana | capital | Indianapolis</otriple>
+        <otriple>Madison_County,_Indiana | country | United_States</otriple>
+        <otriple>Alexandria,_Indiana | subdivisionName | Madison_County,_Indiana</otriple>
+        <otriple>Madison_County,_Indiana | largestCity | Anderson,_Indiana</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Indiana | capital | Indianapolis</mtriple>
+        <mtriple>Alexandria,_Indiana | isPartOf | Indiana</mtriple>
+        <mtriple>Madison_County,_Indiana | country | United_States</mtriple>
+        <mtriple>Alexandria,_Indiana | isPartOf | Madison_County,_Indiana</mtriple>
+        <mtriple>Madison_County,_Indiana | largestCity | Anderson,_Indiana</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Indiana | Capital | Indianápolis</striple>
+        <striple>Alexandria,_Indiana | FormaParteDe | Indiana</striple>
+        <striple>Condado_de_Madison,_Indiana | País | Estados_Unidos</striple>
+        <striple>Alexandria,_Indiana | FormaParteDe | Condado_de_Madison,_Indiana</striple>
+        <striple>Condado_de_Madison,_Indiana | CiudadMásGrande | Anderson</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Indiana | capital | Indianapolis</bttriple>
+        <bttriple>Alexandria,_Indiana | isPartOf | Indiana</bttriple>
+        <bttriple>Madison_County,_Indiana | country | United_States</bttriple>
+        <bttriple>Alexandria,_Indiana | isPartOf | Madison_County,_Indiana</bttriple>
+        <bttriple>Madison_County,_Indiana | largestCity | Anderson,_Indiana</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Indiana | Capital | Indianàpolis</ctriple>
+        <ctriple>Alexandria,_Indiana | ÉsPartDe | Indiana</ctriple>
+        <ctriple>Comtat_de_Madison,_Indiana | País | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Alexandria,_Indiana | ÉsPartDe | Comtat_de_Madison,_Indiana</ctriple>
+        <ctriple>Comtat_de_Madison,_Indiana | CiutatMésGran | Anderson,_Indiana</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Alexandria is part of Madison County, Indiana, in the U.S. Anderson is the biggest city in that county. The capital of Indiana is Indianapolis.</lex>
+      <lex lang="en" lid="Id2">Alexandria is in Madison County, whose largest city is Anderson and is in Indiana where Indianapolis is the capital. They are all in the United States.</lex>
+      <lex lang="en" lid="Id3">Indianapolis is the capital of Indiana, United States. Also located in this state are Alexandria and Madison County where the largest city is Anderson.</lex>
+      <lex lang="es" lid="Id1">Alexandria es parte del condado de Madison, Indiana, en EE.UU. Anderson es la ciudad más grande de ese condado. La capital de Indiana es Indianápolis.</lex>
+      <lex lang="es" lid="Id2">Alexandria está en el condado de Madison, cuya ciudad más grande es Anderson y está en Indiana, donde Indianápolis es la capital. Todas ellas se encuentran en Estados Unidos.</lex>
+      <lex lang="es" lid="Id3">Indianápolis es la capital de Indiana, Estados Unidos. También se encuentran en este estado Alexandria y el condado de Madison, donde la ciudad más grande es Anderson.</lex>
+      <lex lang="ca" lid="Id1">Alexandria és part del comtat de Madison, Indiana, als Estats Units. Anderson és la ciutat més gran d' aquest comtat. La capital d' Indiana és Indianàpolis.</lex>
+      <lex lang="ca" lid="Id2">Alexandria és al comtat de Madison, la ciutat més gran del qual és Anderson i està a Indiana, on Indianàpolis és la capital. Totes estan als Estats Units.</lex>
+      <lex lang="ca" lid="Id3">Indianapolis és la capital de l'estat d'Indiana, als Estats Units. També es troben a aquest estat Alexandria i el comtat de Madison, on la ciutat més gran és Anderson.</lex>
+      <lex lang="en_bt" lid="Id1">Alexandria is part of Madison County, Indiana, in the United States. Anderson is the largest city in the county. The capital of Indiana is Indianapolis.</lex>
+      <lex lang="en_bt" lid="Id2">Alexandria is in Madison County, the largest city of which is Anderson and is in Indiana, where Indianapolis is the capital. All are in the United States.</lex>
+      <lex lang="en_bt" lid="Id3">Indianapolis is the capital of the U.S. state of Indiana, which also includes Alexandria and Madison County, where Anderson is the largest city.</lex>
+      </entry>
+    <entry category="City" eid="Id15" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Tarrant_County,_Texas | countySeat | Fort_Worth,_Texas</otriple>
+        <otriple>Texas | language | English_language</otriple>
+        <otriple>Arlington,_Texas | subdivisionName | Tarrant_County,_Texas</otriple>
+        <otriple>Arlington,_Texas | isPartOf | Texas</otriple>
+        <otriple>Texas | largestCity | Houston</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tarrant_County,_Texas | countySeat | Fort_Worth,_Texas</mtriple>
+        <mtriple>Texas | language | English_language</mtriple>
+        <mtriple>Arlington,_Texas | isPartOf | Tarrant_County,_Texas</mtriple>
+        <mtriple>Arlington,_Texas | isPartOf | Texas</mtriple>
+        <mtriple>Texas | largestCity | Houston</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Condado_de_Tarrant,_Texas | SedeDelCondado | Fort_Worth,_Texas</striple>
+        <striple>Texas | Idioma | inglés</striple>
+        <striple>Arlington,_Texas | FormaParteDe | Condado_de_Tarrant,_Texas</striple>
+        <striple>Arlington,_Texas | FormaParteDe | Texas</striple>
+        <striple>Texas | CiudadMásGrande | Houston</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Tarrant_County,_Texas | countySeat | Fort_Worth,_Texas</bttriple>
+        <bttriple>Texas | language | English_language</bttriple>
+        <bttriple>Arlington,_Texas | isPartOf | Tarrant_County,_Texas</bttriple>
+        <bttriple>Arlington,_Texas | isPartOf | Texas</bttriple>
+        <bttriple>Texas | largestCity | Houston</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Comtat_de_Tarrant,_Texas | CapitalDelComtat | Fort_Worth,_Texas</ctriple>
+        <ctriple>Texas | Llengua | Llengua_anglesa</ctriple>
+        <ctriple>Arlington,_Texas | ÉsPartDe | Comtat_de_Tarrant,_Texas</ctriple>
+        <ctriple>Arlington,_Texas | ÉsPartDe | Texas</ctriple>
+        <ctriple>Texas | CiutatMésGran | Houston</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The county seat of Tarrant County is Fort Worth, Texas where English is spoken. Arlington is part of Tarrant County and the state's largest city is Houston.</lex>
+      <lex lang="en" lid="Id2">English is a language spoken in Texas and Houston is the largest city there. Arlington is part of Tarrant County in Texas and Fort Worth is the county seat of Tarrant County.</lex>
+      <lex lang="es" lid="Id1">La capital del condado de Tarrant es Fort Worth, Texas, donde se habla inglés. Arlington forma parte del condado de Tarrant y la ciudad más grande del estado es Houston.</lex>
+      <lex lang="es" lid="Id2">En Texas se habla inglés y Houston es la ciudad más grande. Arlington forma parte del condado de Tarrant en Texas y Fort Worth es la capital del condado de Tarrant.</lex>
+      <lex lang="ca" lid="Id1">La seu del comtat de Tarrant és Fort Worth, Texas, on es parla anglès. Arlington és part del comtat de Tarrant i la ciutat més gran de l'estat és Houston.</lex>
+      <lex lang="ca" lid="Id2">L' anglès és una llengua parlada a Texas i Houston és la ciutat més gran. Arlington és part del comtat de Tarrant a Texas i Fort Worth és la seu del comtat de Tarrant.</lex>
+      <lex lang="en_bt" lid="Id1">The county seat of Tarrant is Fort Worth, Texas, where English is spoken. Arlington is part of Tarrant County, and the largest city in the state is Houston.</lex>
+      <lex lang="en_bt" lid="Id2">English is a language spoken in Texas and Houston is the largest city. Arlington is part of Tarrant County in Texas and Fort Worth is the seat of Tarrant County.</lex>
+      </entry>
+    <entry category="City" eid="Id16" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Tarrant_County,_Texas | largestCity | Fort_Worth,_Texas</otriple>
+        <otriple>Texas | capital | Austin,_Texas</otriple>
+        <otriple>Arlington,_Texas | subdivisionName | Tarrant_County,_Texas</otriple>
+        <otriple>Arlington,_Texas | isPartOf | Texas</otriple>
+        <otriple>Texas | largestcity | Houston</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tarrant_County,_Texas | largestCity | Fort_Worth,_Texas</mtriple>
+        <mtriple>Texas | capital | Austin,_Texas</mtriple>
+        <mtriple>Arlington,_Texas | isPartOf | Tarrant_County,_Texas</mtriple>
+        <mtriple>Arlington,_Texas | isPartOf | Texas</mtriple>
+        <mtriple>Texas | largestCity | Houston</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Condado_de_Tarrant,_Texas | CiudadMásGrande | Fort_Worth,_Texas</striple>
+        <striple>Texas | Capital | Austin,_Texas</striple>
+        <striple>Arlington,_Texas | FormaParteDe | Condado_de_Tarrant,_Texas</striple>
+        <striple>Arlington,_Texas | FormaParteDe | Texas</striple>
+        <striple>Texas | CiudadMásGrande | Houston</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Tarrant_County,_Texas | largestCity | Fort_Worth,_Texas</bttriple>
+        <bttriple>Texas | capital | Austin,_Texas</bttriple>
+        <bttriple>Arlington,_Texas | isPartOf | Tarrant_County,_Texas</bttriple>
+        <bttriple>Arlington,_Texas | isPartOf | Texas</bttriple>
+        <bttriple>Texas | largestCity | Houston</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Comtat_de_Tarrant,_Texas | CiutatMésGran | Fort_Worth,_Texas</ctriple>
+        <ctriple>Texas | Capital | Austin,_Texas</ctriple>
+        <ctriple>Arlington,_Texas | ÉsPartDe | Comtat_de_Tarrant,_Texas</ctriple>
+        <ctriple>Arlington,_Texas | ÉsPartDe | Texas</ctriple>
+        <ctriple>Texas | CiutatMésGran | Houston</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Arlington, Tarrant County, is in Texas where the largest city is Fort Worth. Austin is the capital of Texas but Houston is the largest city.</lex>
+      <lex lang="en" lid="Id2">Austin is Texas' capital and Houston is the largest city. Arlington, Texas is in Tarrant County; where the largest city is Fort Worth.</lex>
+      <lex lang="en" lid="Id3">Austin is the capital city of Texas, where Houston is the capital. The state, has the largest city, Fort Worth, and is where Arlington is located (Tarrant County), is located.</lex>
+      <lex lang="es" lid="Id1">Arlington, en el condado de Tarrant, está en Texas, donde la ciudad más grande es Fort Worth. Austin es la capital de Texas, pero Houston es la ciudad más grande.</lex>
+      <lex lang="es" lid="Id2">Austin es la capital de Texas y Houston la ciudad más grande. Arlington, Texas, está en el condado de Tarrant; donde la ciudad más grande es Fort Worth.</lex>
+      <lex lang="es" lid="Id3">Austin es la capital de Texas, donde Houston es la capital. El estado, tiene la ciudad más grande, Fort Worth, y es donde se encuentra Arlington (Condado de Tarrant), se encuentra.</lex>
+      <lex lang="ca" lid="Id1">Arlington, comtat de Tarrant, està a Texas on la ciutat més gran és Fort Worth. Austin és la capital de Texas però Houston és la ciutat més gran.</lex>
+      <lex lang="ca" lid="Id2">Austin és la capital de Texas i Houston és la ciutat més gran. Arlington, Texas és al comtat de Tarrant; on la ciutat més gran és Fort Worth.</lex>
+      <lex lang="ca" lid="Id3">Austin és la ciutat capital de Texas, on Houston és la capital. L'estat té la ciutat més gran, Fort Worth, i és on es troba Arlington (comtat de Tarrant).</lex>
+      <lex lang="en_bt" lid="Id1">Arlington, Tarrant County, is in Texas where the largest city is Fort Worth. Austin is the capital of Texas but Houston is the largest city.</lex>
+      <lex lang="en_bt" lid="Id2">Austin is the capital of Texas and Houston is the largest city. Arlington, Texas is in Tarrant County; where the largest city is Fort Worth.</lex>
+      <lex lang="en_bt" lid="Id3">Austin is the capital city of Texas, where Houston is the capital. The state has the largest city, Fort Worth, and is home to Arlington (Tarrant County).</lex>
+      </entry>
+    <entry category="City" eid="Id17" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Texas | capital | Austin,_Texas</otriple>
+        <otriple>Arlington,_Texas | subdivisionName | Tarrant_County,_Texas</otriple>
+        <otriple>Arlington,_Texas | isPartOf | Texas</otriple>
+        <otriple>Texas | country | United_States</otriple>
+        <otriple>Texas | largestCity | Houston</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Texas | capital | Austin,_Texas</mtriple>
+        <mtriple>Arlington,_Texas | isPartOf | Tarrant_County,_Texas</mtriple>
+        <mtriple>Arlington,_Texas | isPartOf | Texas</mtriple>
+        <mtriple>Texas | country | United_States</mtriple>
+        <mtriple>Texas | largestCity | Houston</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Texas | Capital | Austin,_Texas</striple>
+        <striple>Arlington,_Texas | FormaParteDe | Condado_de_Tarrant,_Texas</striple>
+        <striple>Arlington,_Texas | FormaParteDe | Texas</striple>
+        <striple>Texas | País | Estados_Unidos</striple>
+        <striple>Texas | CiudadMásGrande | Houston</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Texas | capital | Austin,_Texas</bttriple>
+        <bttriple>Arlington,_Texas | isPartOf | Tarrant_County,_Texas</bttriple>
+        <bttriple>Arlington,_Texas | isPartOf | Texas</bttriple>
+        <bttriple>Texas | country | United_States</bttriple>
+        <bttriple>Texas | largestCity | Houston</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Texas | Capital | Austin,_Texas</ctriple>
+        <ctriple>Arlington,_Texas | ÉsPartDe | Comtat_de_Tarrant,_Texas</ctriple>
+        <ctriple>Arlington,_Texas | ÉsPartDe | Texas</ctriple>
+        <ctriple>Texas | País | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Texas | CiutatMésGran | Houston</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Arlington is part of Tarrant County in Texas in the U.S. Austin is the capital in that state and Houston is its biggest city.</lex>
+      <lex lang="en" lid="Id2">Arlington is part of Tarrant County, Texas, the capital city of which, is Austin. Houston is the largest city in Texas, which is in the United States.</lex>
+      <lex lang="es" lid="Id1">Arlington forma parte del condado de Tarrant, en Texas (EE UU). Austin es la capital de ese estado y Houston su ciudad más grande.</lex>
+      <lex lang="es" lid="Id2">Arlington forma parte del condado de Tarrant, Texas, cuya capital es Austin. Houston es la ciudad más grande de Texas, que se encuentra en los Estados Unidos.</lex>
+      <lex lang="ca" lid="Id1">Arlington és part del comtat de Tarrant a Texas als Estats Units. Austin és la capital d'aquest estat i Houston és la seva ciutat més gran.</lex>
+      <lex lang="ca" lid="Id2">Arlington forma part del comtat de Tarrant, Texas, la capital del qual és Austin. Houston és la ciutat més gran de Texas, que es troba als Estats Units.</lex>
+      <lex lang="en_bt" lid="Id1">Arlington is part of Tarrant County in Texas in the United States. Austin is the state's capital and Houston is its largest city.</lex>
+      <lex lang="en_bt" lid="Id2">Arlington is part of Tarrant County, Texas, whose capital is Austin. Houston is the largest city in Texas, which is located in the United States.</lex>
+      </entry>
+    <entry category="City" eid="Id18" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>United_States | demonym | Americans</otriple>
+        <otriple>Albany,_Georgia | subdivisionName | Dougherty_County,_Georgia</otriple>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>Albany,_Georgia | leaderTitle | "Mayor"@en</otriple>
+        <otriple>Albany,_Georgia | country | United_States</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | demonym | Americans</mtriple>
+        <mtriple>Albany,_Georgia | isPartOf | Dougherty_County,_Georgia</mtriple>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>Albany,_Georgia | leaderTitle | Mayor</mtriple>
+        <mtriple>Albany,_Georgia | country | United_States</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Estados_Unidos | Gentilicio | Estadounidense</striple>
+        <striple>Albany,_Georgia | FormaParteDe | Condado_de_Dougherty,_Georgia</striple>
+        <striple>Estados_Unidos | GrupoÉtnico | estadounidense_asiático</striple>
+        <striple>Albany,_Georgia | TítuloDeLíder | alcalde</striple>
+        <striple>Albany,_Georgia | País | Estados_Unidos</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>United_States | demonym | Americans</bttriple>
+        <bttriple>Albany,_Georgia | isPartOf | Dougherty_County,_Georgia</bttriple>
+        <bttriple>United_States | ethnicGroup | Asian_Americans</bttriple>
+        <bttriple>Albany,_Georgia | leaderTitle | Mayor</bttriple>
+        <bttriple>Albany,_Georgia | country | United_States</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Estats_Units_d'Amèrica | Demònim | estatunidenc</ctriple>
+        <ctriple>Albany,_Geòrgia | ÉsPartDe | Comtat_de_Dougherty,_Geòrgia</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | GrupÈtnic | estatunidencs_asiàtics</ctriple>
+        <ctriple>Albany,_Geòrgia | LíderTítol | alcalde</ctriple>
+        <ctriple>Albany,_Geòrgia | País | Estats_Units_d'Amèrica</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The inhabitants of the United States are known as Americans and include the ethnic group of Asian Americans. The country is the location of Albany which is led by a Mayor and located in Dougherty County in Georgia.</lex>
+      <lex lang="en" lid="Id2">Albany is in Dougherty County, Georgia, US where Americans live and Asian Americans are an thnic group. Albany is led by a Mayor.</lex>
+      <lex lang="en" lid="Id3">Americans, are the inhabitants of the United States, where one of the ethnic groups, is Asian Americans. Also in the United States, is Albany (led by the Mayor), a city in Dougherty County, Georgia.</lex>
+      <lex lang="es" lid="Id1">Los habitantes de Estados Unidos son conocidos como Estadounidenses e incluyen el grupo étnico de los asiático-Estadounidense. El país es la ubicación de Albany que está dirigido por un alcalde y situado en el condado de Dougherty en Georgia.</lex>
+      <lex lang="es" lid="Id2">Albany se encuentra en el condado de Dougherty, Georgia, EE.UU., donde viven los Estadounidenses y los Estadounidenses de origen asiático son un grupo étnico. Albany está dirigida por un alcalde.</lex>
+      <lex lang="es" lid="Id3">Americanos, son los habitantes de los Estados Unidos, donde uno de los grupos étnicos, son los asiático-Estadounidense. También en los Estados Unidos, es Albany (dirigido por el alcalde), una ciudad en el condado de Dougherty, Georgia.</lex>
+      <lex lang="ca" lid="Id1">Els habitants dels Estats Units són coneguts com a americans i inclouen el grup ètnic dels americans asiàtics. El país és la seu d'Albany, que està governada per un alcalde i es troba al comtat de Dougherty, a Geòrgia.</lex>
+      <lex lang="ca" lid="Id2">Albany és al comtat de Dougherty, Geòrgia, EUA, on viuen americans i els asiàtics americans són un grup ètnic. Albany està dirigida per un alcalde.</lex>
+      <lex lang="ca" lid="Id3">Els estatunidencs són els habitants dels Estats Units, on un dels grups ètnics són els estatunidencs d'origen asiàtic. Als Estats Units també hi ha Albany (liderat per l'alcalde), una ciutat del comtat de Dougherty, Geòrgia.</lex>
+      <lex lang="en_bt" lid="Id1">The inhabitants of the United States are known as Americans and include the ethnic group of Asian Americans. The country is the seat of Albany, which is governed by a mayor and is located in Dougherty County, Georgia.</lex>
+      <lex lang="en_bt" lid="Id2">Albany is in Dougherty County, Georgia, USA, where Americans and Asian Americans are an ethnic group. Albany is governed by a mayor.</lex>
+      <lex lang="en_bt" lid="Id3">Americans are the inhabitants of the United States, where one of the ethnic groups is Asian Americans. In the United States there is also Albany (led by the mayor), a city in Dougherty County, Georgia.</lex>
+      </entry>
+    <entry category="City" eid="Id19" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>United_States | demonym | Americans</otriple>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>Albany,_Oregon | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+        <otriple>Albany,_Oregon | subdivisionName | Linn_County,_Oregon</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | demonym | Americans</mtriple>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>Albany,_Oregon | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+        <mtriple>Albany,_Oregon | isPartOf | Linn_County,_Oregon</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Estados_Unidos | Gentilicio | Estadounidense</striple>
+        <striple>Estados_Unidos | Capital | Washington_D._C.</striple>
+        <striple>Albany,_Oregon | País | Estados_Unidos</striple>
+        <striple>Estados_Unidos | GrupoÉtnico | Afroestadounidense</striple>
+        <striple>Albany,_Oregon | FormaParteDe | Condado_de_Linn,_Oregón</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>United_States | demonym | Americans</bttriple>
+        <bttriple>United_States | capital | Washington,_D.C.</bttriple>
+        <bttriple>Albany,_Oregon | country | United_States</bttriple>
+        <bttriple>United_States | ethnicGroup | African_Americans</bttriple>
+        <bttriple>Albany,_Oregon | isPartOf | Linn_County,_Oregon</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Estats_Units_d'Amèrica | Demònim | estatunidenc</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | Capital | Washington_DC</ctriple>
+        <ctriple>Albany,_Oregon | País | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | GrupÈtnic | negres_estatunidencs</ctriple>
+        <ctriple>Albany,_Oregon | ÉsPartDe | Comtat_de_Linn,_Oregon</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Albany is a city in Linn County, Oregon in the United States. The capital of the country is Washington, D.C. and its inhabitants are called Americans. African Americans are an ethnic group within the United States.</lex>
+      <lex lang="en" lid="Id2">Albany, Oregon is in Linn County in the United States. Washington, D.C. is the capital of the U.S.; where African Americans and Americans call home.</lex>
+      <lex lang="es" lid="Id1">Albany es una ciudad del condado de Linn, Oregón, en Estados Unidos. La capital del país es Washington D.C. y sus habitantes se denominan Estadounidenses. Los afroEstadounidense son un grupo étnico dentro de Estados Unidos.</lex>
+      <lex lang="es" lid="Id2">Albany, Oregón está en el condado de Linn en los Estados Unidos. Washington, D.C. es la capital de EE.UU.; donde los afroEstadounidense y Estadounidenses llaman hogar.</lex>
+      <lex lang="ca" lid="Id1">Albany és una ciutat del comtat de Linn, Oregon, als Estats Units. La capital del país és Washington, D.C. i els seus habitants s'anomenen americans. Els afroamericans són un grup ètnic dels Estats Units.</lex>
+      <lex lang="ca" lid="Id2">Albany, Oregon està al comtat de Linn als Estats Units. Washington, D.C. és la capital dels Estats Units; on els afroamericans i els nord-americans diuen casa.</lex>
+      <lex lang="en_bt" lid="Id1">Albany is a city in Linn County, Oregon, United States. The capital of the country is Washington, D.C. and its inhabitants are called Americans. African Americans are an ethnic group of the United States.</lex>
+      <lex lang="en_bt" lid="Id2">Albany, Oregon is in Linn County in the United States. Washington, D.C. is the capital of the United States; where African Americans and North Americans call home.</lex>
+      </entry>
+    <entry category="City" eid="Id20" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>United_States | demonym | Americans</otriple>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+        <otriple>Akron,_Ohio | country | United_States</otriple>
+        <otriple>Akron,_Ohio | subdivisionName | Summit_County,_Ohio</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | demonym | Americans</mtriple>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+        <mtriple>Akron,_Ohio | country | United_States</mtriple>
+        <mtriple>Akron,_Ohio | isPartOf | Summit_County,_Ohio</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Estados_Unidos | Gentilicio | Estadounidense</striple>
+        <striple>Estados_Unidos | Capital | Washington_D._C.</striple>
+        <striple>Estados_Unidos | GrupoÉtnico | pueblos_nativos_de_los_Estados_Unidos</striple>
+        <striple>Akron | País | Estados_Unidos</striple>
+        <striple>Akron | FormaParteDe | Condado_de_Summit,_Ohio</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>United_States | demonym | Americans</bttriple>
+        <bttriple>United_States | capital | Washington,_D.C.</bttriple>
+        <bttriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</bttriple>
+        <bttriple>Akron,_Ohio | country | United_States</bttriple>
+        <bttriple>Akron,_Ohio | isPartOf | Summit_County,_Ohio</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Estats_Units_d'Amèrica | Demònim | estatunidenc</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | Capital | Washington_DC</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | GrupÈtnic | amerindis_dels_Estats_Units</ctriple>
+        <ctriple>Akron,_Ohio | País | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Akron,_Ohio | ÉsPartDe | Comtat_de_Summit,_Ohio</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Akron, Summit County, Ohio is located within the United States. The capital of the U.S. is Washington, D.C. and its people are known as Americans. Native Americans are one ethnic group in that country.</lex>
+      <lex lang="en" lid="Id2">The inhabitants of the United States are known as Americans and Native Americans are one of the ethnic groups there. Akron, Ohio which is in Summit County is located within the United States and the capital is Washington DC.</lex>
+      <lex lang="es" lid="Id1">Akron, en el condado de Summit, Ohio, está situada en Estados Unidos. La capital de Estados Unidos es Washington D.C. y sus habitantes se conocen como Estadounidenses. Los nativos Estadounidense son un grupo étnico de ese país.</lex>
+      <lex lang="es" lid="Id2">Los habitantes de Estados Unidos se conocen como Estadounidense y los nativos Estadounidense son uno de sus grupos étnicos. Akron, Ohio, que está en el condado de Summit, se encuentra dentro de los Estados Unidos y la capital es Washington DC.</lex>
+      <lex lang="ca" lid="Id1">Akron, Comtat de Summit, Ohio es troba dins dels Estats Units. La capital dels Estats Units és Washington, D. C. i els seus habitants són coneguts com a americans. Els natius americans són un grup ètnic d' aquest país.</lex>
+      <lex lang="ca" lid="Id2">Els habitants dels Estats Units són coneguts com a americans i els nadius americans són un dels grups ètnics que hi ha. Akron, Ohio, que es troba al comtat de Summit, està situat als Estats Units i la capital és Washington DC.</lex>
+      <lex lang="en_bt" lid="Id1">Akron, Summit County, Ohio is located in the United States. The capital of the United States is Washington, D. C. and its people are known as Americans. Native Americans are an ethnic group in this country.</lex>
+      <lex lang="en_bt" lid="Id2">The inhabitants of the United States are known as Americans and Native Americans are one of the ethnic groups there. Akron, Ohio, which is in Summit County, is located in the United States and the capital is Washington DC.</lex>
+      </entry>
+    <entry category="City" eid="Id21" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>Angola,_Indiana | subdivisionName | Steuben_County,_Indiana</otriple>
+        <otriple>United_States | demonym | Americans</otriple>
+        <otriple>Angola,_Indiana | country | United_States</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>Angola,_Indiana | isPartOf | Steuben_County,_Indiana</mtriple>
+        <mtriple>United_States | demonym | Americans</mtriple>
+        <mtriple>Angola,_Indiana | country | United_States</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Estados_Unidos | GrupoÉtnico | Afroestadounidense</striple>
+        <striple>Estados_Unidos | TítuloDeLíder | presidente_de_los_Estados_Unidos</striple>
+        <striple>Angola | FormaParteDe | Condado_de_Steuben</striple>
+        <striple>Estados_Unidos | Gentilicio | Estadounidense</striple>
+        <striple>Angola | País | Estados_Unidos</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>United_States | ethnicGroup | African_Americans</bttriple>
+        <bttriple>United_States | leaderTitle | President_of_the_United_States</bttriple>
+        <bttriple>Angola,_Indiana | isPartOf | Steuben_County,_Indiana</bttriple>
+        <bttriple>United_States | demonym | Americans</bttriple>
+        <bttriple>Angola,_Indiana | country | United_States</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Estats_Units_d'Amèrica | GrupÈtnic | negres_estatunidencs</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | LíderTítol | president_dels_Estats_Units</ctriple>
+        <ctriple>Angola,_Indiana | ÉsPartDe | Comtat_de_Steuben,_Indiana</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | Demònim | estatunidenc</ctriple>
+        <ctriple>Angola,_Indiana | País | Estats_Units_d'Amèrica</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The inhabitants of the United States are known as Americans and include the ethnic group of African Americans. The country is led by the President and is the location of Angola, part of Steuben County, Indiana.</lex>
+      <lex lang="en" lid="Id2">Angola, Indiana is in Steuben County of the U.S.A. The country is led by a president and among the ethnic groups are African Americans.</lex>
+      <lex lang="es" lid="Id1">Los habitantes de Estados Unidos se conocen como Estadounidenses e incluyen al grupo étnico de los afroEstadounidense. El país está dirigido por el Presidente y es la ubicación de Angola, parte del condado de Steuben, Indiana.</lex>
+      <lex lang="es" lid="Id2">Angola, Indiana, está en el condado de Steuben de EE.UU. El país está dirigido por un presidente y entre los grupos étnicos se encuentran los afroEstadounidense.</lex>
+      <lex lang="ca" lid="Id1">Els habitants dels Estats Units són coneguts com a americans i inclouen el grup ètnic dels afroamericans. El país és dirigit pel president i és la ubicació d' Angola, part del comtat de Steuben, Indiana.</lex>
+      <lex lang="ca" lid="Id2">Angola, Indiana es troba al comtat de Steuben dels Estats Units. El país està dirigit per un president i entre els grups ètnics hi ha afroamericans.</lex>
+      <lex lang="en_bt" lid="Id1">The inhabitants of the United States are known as Americans and include the ethnic group of African Americans. The country is led by the president and is the location of Angola, part of Steuben County, Indiana.</lex>
+      <lex lang="en_bt" lid="Id2">Angola, Indiana is located in Steuben County of the United States. The country is ruled by a president and ethnic groups include African Americans.</lex>
+      </entry>
+    <entry category="City" eid="Id22" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>Albany,_Oregon | subdivisionName | Benton_County,_Oregon</otriple>
+        <otriple>Albany,_Oregon | country | United_States</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>Albany,_Oregon | isPartOf | Benton_County,_Oregon</mtriple>
+        <mtriple>Albany,_Oregon | country | United_States</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Estados_Unidos | GrupoÉtnico | estadounidense_asiático</striple>
+        <striple>Estados_Unidos | Idioma | inglés</striple>
+        <striple>Estados_Unidos | Capital | Washington_D._C.</striple>
+        <striple>Albany,_Oregon | FormaParteDe | Condado_de_Benton,_Oregón</striple>
+        <striple>Albany,_Oregon | País | Estados_Unidos</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>United_States | ethnicGroup | Asian_Americans</bttriple>
+        <bttriple>United_States | language | English_language</bttriple>
+        <bttriple>United_States | capital | Washington,_D.C.</bttriple>
+        <bttriple>Albany,_Oregon | isPartOf | Benton_County,_Oregon</bttriple>
+        <bttriple>Albany,_Oregon | country | United_States</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Estats_Units_d'Amèrica | GrupÈtnic | estatunidencs_asiàtics</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | Llengua | Llengua_anglesa</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | Capital | Washington_DC</ctriple>
+        <ctriple>Albany,_Oregon | ÉsPartDe | Comtat_de_Benton,_Oregon</ctriple>
+        <ctriple>Albany,_Oregon | País | Estats_Units_d'Amèrica</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The United States uses the English language, has the capital of Washington DC, and includes the Asian Americans among its ethnic groups. The city of Albany is located within the country and is part of Benton County in Oregon.</lex>
+      <lex lang="en" lid="Id2">The city of Albany is part of Benton County, Oregon U.S. In the U.S.A. Washington D.C. is the capital, there is an ethnic group of Asian Americans and English is spoken.</lex>
+      <lex lang="es" lid="Id1">Estados Unidos utiliza la lengua inglesa, tiene como capital Washington DC e incluye a los asiático-americanos entre sus grupos étnicos. La ciudad de Albany se encuentra dentro del país y forma parte del condado de Benton, en Oregón.</lex>
+      <lex lang="es" lid="Id2">La ciudad de Albany pertenece al condado de Benton, Oregón EE.UU. En EE.UU. Washington D.C. es la capital, hay un grupo étnico de asiático-americanos y se habla inglés.</lex>
+      <lex lang="ca" lid="Id1">Els Estats Units usen l' anglès, tenen la capital a Washington DC, i inclouen els asiàtics americans entre els seus grups ètnics. La ciutat d' Albany es troba dins del país i forma part del comtat de Benton a Oregon.</lex>
+      <lex lang="ca" lid="Id2">La ciutat d'Albany forma part del comtat de Benton, Oregon EUA. Als EUA Washington D.C. és la capital, hi ha un grup ètnic d'americans asiàtics i es parla anglès.</lex>
+      <lex lang="en_bt" lid="Id1">The United States uses English, has its capital in Washington DC, and includes Asian Americans among its ethnic groups. The city of Albany is located inside the country and is part of Benton County in Oregon.</lex>
+      <lex lang="en_bt" lid="Id2">The city of Albany is part of Benton County, Oregon U.S. In the U.S. Washington D.C. is the capital, there is an ethnic group of Asian Americans and English is spoken.</lex>
+      </entry>
+    <entry category="City" eid="Id23" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>Albany,_Oregon | subdivisionName | Oregon</otriple>
+        <otriple>Albany,_Oregon | country | United_States</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>Albany,_Oregon | isPartOf | Oregon</mtriple>
+        <mtriple>Albany,_Oregon | country | United_States</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Estados_Unidos | GrupoÉtnico | estadounidense_asiático</striple>
+        <striple>Estados_Unidos | Idioma | inglés</striple>
+        <striple>Estados_Unidos | Capital | Washington_D._C.</striple>
+        <striple>Albany,_Oregon | FormaParteDe | Oregón</striple>
+        <striple>Albany,_Oregon | País | Estados_Unidos</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>United_States | ethnicGroup | Asian_Americans</bttriple>
+        <bttriple>United_States | language | English_language</bttriple>
+        <bttriple>United_States | capital | Washington,_D.C.</bttriple>
+        <bttriple>Albany,_Oregon | isPartOf | Oregon</bttriple>
+        <bttriple>Albany,_Oregon | country | United_States</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Estats_Units_d'Amèrica | GrupÈtnic | estatunidencs_asiàtics</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | Llengua | Llengua_anglesa</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | Capital | Washington_DC</ctriple>
+        <ctriple>Albany,_Oregon | ÉsPartDe | Oregon</ctriple>
+        <ctriple>Albany,_Oregon | País | Estats_Units_d'Amèrica</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The Asian Americans are an ethnic group in the US where the capital city is Washington DC and English is the spoken language. The country is the location of Albany in Oregon.</lex>
+      <lex lang="en" lid="Id2">Albany is a city in Oregon, U.S. where English is the language spoken and Asian Americans are an ethnic group and the capital is Washington DC.</lex>
+      <lex lang="es" lid="Id1">Los asiático-americanos son un grupo étnico de Estados Unidos cuya capital es Washington DC y cuya lengua hablada es el inglés. El país es la localidad de Albany, en Oregón.</lex>
+      <lex lang="es" lid="Id2">Albany es una ciudad de Oregón, Estados Unidos, donde el inglés es el idioma hablado y los asiático-americanos son un grupo étnico y la capital es Washington DC.</lex>
+      <lex lang="ca" lid="Id1">Els americans d'origen asiàtic són un grup ètnic dels EUA on la capital és Washington DC i l'anglès és la llengua parlada. El país és la seu d'Albany, Oregon.</lex>
+      <lex lang="ca" lid="Id2">Albany és una ciutat d'Oregon, EUA, on l'anglès és la llengua parlada i els asiàtics americans són un grup ètnic i la capital és Washington DC.</lex>
+      <lex lang="en_bt" lid="Id1">Asian Americans are an ethnic group in the United States whose capital is Washington, D.C. and whose spoken language is English. The country is home to Albany, Oregon.</lex>
+      <lex lang="en_bt" lid="Id2">Albany is a city in Oregon, USA, where English is the spoken language and Asian Americans are an ethnic group and the capital is Washington DC.</lex>
+      </entry>
+    <entry category="City" eid="Id24" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+        <otriple>Auburn,_Alabama | isPartOf | Lee_County,_Alabama</otriple>
+        <otriple>Lee_County,_Alabama | countySeat | Opelika,_Alabama</otriple>
+        <otriple>Auburn,_Alabama | country | United_States</otriple>
+        <otriple>Auburn,_Alabama | subdivisionName | Alabama</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+        <mtriple>Auburn,_Alabama | isPartOf | Lee_County,_Alabama</mtriple>
+        <mtriple>Lee_County,_Alabama | countySeat | Opelika,_Alabama</mtriple>
+        <mtriple>Auburn,_Alabama | country | United_States</mtriple>
+        <mtriple>Auburn,_Alabama | isPartOf | Alabama</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Estados_Unidos | GrupoÉtnico | pueblos_nativos_de_los_Estados_Unidos</striple>
+        <striple>Auburn,_Alabama | FormaParteDe | Condado_de_Lee,_Alabama</striple>
+        <striple>Condado_de_Lee,_Alabama | SedeDelCondado | Opelika,_Alabama</striple>
+        <striple>Auburn,_Alabama | País | Estados_Unidos</striple>
+        <striple>Auburn,_Alabama | FormaParteDe | Alabama</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</bttriple>
+        <bttriple>Auburn,_Alabama | isPartOf | Lee_County,_Alabama</bttriple>
+        <bttriple>Lee_County,_Alabama | countySeat | Opelika,_Alabama</bttriple>
+        <bttriple>Auburn,_Alabama | country | United_States</bttriple>
+        <bttriple>Auburn,_Alabama | isPartOf | Alabama</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Estats_Units_d'Amèrica | GrupÈtnic | amerindis_dels_Estats_Units</ctriple>
+        <ctriple>Auburn,_Alabama | ÉsPartDe | Comtat_de_Lee,_Alabama</ctriple>
+        <ctriple>Comtat_de_Lee,_Alabama | CapitalDelComtat | Opelika,_Alabama</ctriple>
+        <ctriple>Auburn,_Alabama | País | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Auburn,_Alabama | ÉsPartDe | Alabama</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Auburn, Alabama, is part of Lee County, which has Opelika as the county seat. Auburn is located in the US, where Native Americans are an ethnic group.</lex>
+      <lex lang="en" lid="Id2">Native Americans are an ethnic group within the United States. This country is where Auburn is located. Auburn is part of Lee County (Alabama), where the Opelika is the county seat.</lex>
+      <lex lang="en" lid="Id3">Native Americans are one of the ethnic groups in the United States of America which is where Auburn, Alabama is located. Auburn is part of Lee County in Alabama and their county seat is Opelika.</lex>
+      <lex lang="es" lid="Id1">Auburn, Alabama, forma parte del condado de Lee, cuya capital es Opelika. Auburn se encuentra en los EE.UU., donde los nativos americanos son un grupo étnico.</lex>
+      <lex lang="es" lid="Id2">Los nativos americanos son un grupo étnico dentro de Estados Unidos. En este país se encuentra Auburn. Auburn forma parte del condado de Lee (Alabama), cuya capital es Opelika.</lex>
+      <lex lang="es" lid="Id3">Los nativos americanos son uno de los grupos étnicos de los Estados Unidos de América, donde se encuentra Auburn, Alabama. Auburn es parte del condado de Lee en Alabama y su sede del condado es Opelika.</lex>
+      <lex lang="ca" lid="Id1">Auburn, Alabama, forma part del comtat de Lee, que té Opelika com a seu del comtat. Auburn està situada als Estats Units, on els amerindis són un grup ètnic.</lex>
+      <lex lang="ca" lid="Id2">Els amerindis són un grup ètnic dels Estats Units. Aquest país és on es troba Auburn. Auburn és part del Comtat de Lee (Alabama), on l' Opelika és la capital del comtat. Name</lex>
+      <lex lang="ca" lid="Id3">Els nadius americans són un dels grups ètnics dels Estats Units d'Amèrica, on es troba Auburn, Alabama. Auburn forma part del comtat de Lee a Alabama i la seva capital és Opelika.</lex>
+      <lex lang="en_bt" lid="Id1">Auburn, Alabama, is part of Lee County, which has Opelika as its county seat. Auburn is located in the United States, where Native Americans are an ethnic group.</lex>
+      <lex lang="en_bt" lid="Id2">The Amerindians are an ethnic group of the United States. This country is where Auburn is located. Auburn is part of Lee County, Alabama, where Opelika is the county seat.</lex>
+      <lex lang="en_bt" lid="Id3">Native Americans are one of the ethnic groups of the United States of America, where Auburn, Alabama is located. Auburn is part of Lee County in Alabama and its capital is Opelika.</lex>
+      </entry>
+    <entry category="City" eid="Id25" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>United_States | leader | Barack_Obama</otriple>
+        <otriple>Albuquerque,_New_Mexico | leaderTitle | Albuquerque_City_Council</otriple>
+        <otriple>Albuquerque,_New_Mexico | country | United_States</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>United_States | leader | Barack_Obama</mtriple>
+        <mtriple>Albuquerque,_New_Mexico | leaderTitle | Albuquerque_City_Council</mtriple>
+        <mtriple>Albuquerque,_New_Mexico | country | United_States</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Estados_Unidos | GrupoÉtnico | pueblos_nativos_de_los_Estados_Unidos</striple>
+        <striple>Estados_Unidos | Idioma | inglés</striple>
+        <striple>Estados_Unidos | Líder | Barack_Obama</striple>
+        <striple>Albuquerque,_Nuevo_México | TítuloDeLíder | Ayuntamiento_de_Albuquerque</striple>
+        <striple>Albuquerque,_Nuevo_México | País | Estados_Unidos</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</bttriple>
+        <bttriple>United_States | language | English_language</bttriple>
+        <bttriple>United_States | leader | Barack_Obama</bttriple>
+        <bttriple>Albuquerque,_New_Mexico | leaderTitle | Albuquerque_City_Council</bttriple>
+        <bttriple>Albuquerque,_New_Mexico | country | United_States</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Estats_Units_d'Amèrica | GrupÈtnic | amerindis_dels_Estats_Units</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | Llengua | Llengua_anglesa</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | Líder | Barack_Obama</ctriple>
+        <ctriple>Albuquerque,_New_Mexico | LíderTítol | Ajuntament_d'Albuquerque</ctriple>
+        <ctriple>Albuquerque,_New_Mexico | País | Estats_Units_d'Amèrica</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Albuquerque in New Mexico, U.S. is led by the Albuquerque City Council and English is the official language. The leader of the United States is Barack Obama and Native Americans are one of the ethnic groups in the country.</lex>
+      <lex lang="en" lid="Id2">Native Americans are an ethnic group in the United States, where Barack Obama, is the leader. English speaking America, is where Albuquerque, in New Mexico, is located. The Albuquerque City Council has a leadership role in Albuquerque.</lex>
+      <lex lang="en" lid="Id3">The Albuquerque City Council has a leadership role in Albuquerque, New Mexico, in the United States. The leader of this English speaking country, is Barack Obama, and one of the ethnic groups, is Native Americans.</lex>
+      <lex lang="es" lid="Id1">Albuquerque, en Nuevo México (EE UU), está dirigida por el Ayuntamiento de Albuquerque y el inglés es la lengua oficial. El líder de Estados Unidos es Barack Obama y los nativos americanos son uno de los grupos étnicos del país.</lex>
+      <lex lang="es" lid="Id2">Los nativos americanos son un grupo étnico en los Estados Unidos, donde Barack Obama, es el líder. América de habla inglesa, es donde se encuentra Albuquerque, en Nuevo México. El Ayuntamiento de Albuquerque tiene un papel de liderazgo en Albuquerque.</lex>
+      <lex lang="es" lid="Id3">El Ayuntamiento de Albuquerque tiene un papel de liderazgo en Albuquerque, Nuevo México, en Estados Unidos. El líder de este país de habla inglesa, es Barack Obama, y uno de los grupos étnicos, son los nativos americanos.</lex>
+      <lex lang="ca" lid="Id1">Albuquerque a Nova Mèxic, Estats Units està dirigida pel Consell de la ciutat d'Albuquerque i l'anglès és la llengua oficial. El líder dels Estats Units és Barack Obama i els nadius americans són un dels grups ètnics del país.</lex>
+      <lex lang="ca" lid="Id2">Els nadius americans són un grup ètnic als Estats Units, on Barack Obama és el líder.</lex>
+      <lex lang="ca" lid="Id3">El Consell Municipal d'Albuquerque té un paper de lideratge a Albuquerque, Nou Mèxic, als Estats Units.</lex>
+      <lex lang="en_bt" lid="Id1">Albuquerque in New Mexico, United States is governed by the Albuquerque City Council and English is the official language. The leader of the United States is Barack Obama and Native Americans are one of the country's ethnic groups.</lex>
+      <lex lang="en_bt" lid="Id2">Native Americans are an ethnic group in the United States, where Barack Obama is the leader.</lex>
+      <lex lang="en_bt" lid="Id3">The Albuquerque City Council has a leadership role in Albuquerque, New Mexico, United States.</lex>
+      </entry>
+    <entry category="City" eid="Id26" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>Angola,_Indiana | subdivisionName | Indiana</otriple>
+        <otriple>United_States | demonym | Americans</otriple>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+        <otriple>Angola,_Indiana | country | United_States</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>Angola,_Indiana | isPartOf | Indiana</mtriple>
+        <mtriple>United_States | demonym | Americans</mtriple>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+        <mtriple>Angola,_Indiana | country | United_States</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Estados_Unidos | Idioma | inglés</striple>
+        <striple>Angola | FormaParteDe | Indiana</striple>
+        <striple>Estados_Unidos | Gentilicio | Estadounidense</striple>
+        <striple>Estados_Unidos | GrupoÉtnico | pueblos_nativos_de_los_Estados_Unidos</striple>
+        <striple>Angola | País | Estados_Unidos</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>United_States | language | English_language</bttriple>
+        <bttriple>Angola,_Indiana | isPartOf | Indiana</bttriple>
+        <bttriple>United_States | demonym | Americans</bttriple>
+        <bttriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</bttriple>
+        <bttriple>Angola,_Indiana | country | United_States</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Estats_Units_d'Amèrica | Llengua | Llengua_anglesa</ctriple>
+        <ctriple>Angola,_Indiana | ÉsPartDe | Indiana</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | Demònim | estatunidenc</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | GrupÈtnic | amerindis_dels_Estats_Units</ctriple>
+        <ctriple>Angola,_Indiana | País | Estats_Units_d'Amèrica</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">English is the language spoken in the United States where the inhabitants are known as Americans and include the ethnic group of Native Americans. The country is the location of Angola, a city in Indiana.</lex>
+      <lex lang="en" lid="Id2">Angola, Indiana is part of the English speaking, United States. The U.S. is home to Native Americans and Americans.</lex>
+      <lex lang="en" lid="Id3">Angola is in Indiana which is in the US where English is spoken and the inhabitants are Americans and Native Americans are an ethnic group.</lex>
+      <lex lang="es" lid="Id1">El inglés es la lengua hablada en Estados Unidos, donde sus habitantes son conocidos como Estadounidenses e incluyen a la etnia de los nativos Estadounidense. En el país se encuentra Angola, una ciudad de Indiana.</lex>
+      <lex lang="es" lid="Id2">Angola, Indiana es parte de la de habla Inglés, EE. UU, es el hogar de los nativos Estadounidense y Estadounidenses.</lex>
+      <lex lang="es" lid="Id3">Angola está en Indiana, que está en EE.UU., donde se habla inglés y los habitantes son Estadounidenses, y los nativos Estadounidense son un grupo étnico.</lex>
+      <lex lang="ca" lid="Id1">L' anglès és la llengua parlada als Estats Units on els habitants són coneguts com a americans i inclouen el grup ètnic dels nadius americans. El país és la localització d' Angola, una ciutat a Indiana.</lex>
+      <lex lang="ca" lid="Id2">Angola, Indiana és part dels Estats Units de parla anglesa. Els Estats Units són la llar dels nadius americans i dels americans.</lex>
+      <lex lang="ca" lid="Id3">Angola és a Indiana, que és als EUA, on es parla l'anglès i els habitants són americans, i els nadius americans són un grup ètnic.</lex>
+      <lex lang="en_bt" lid="Id1">English is the language spoken in the United States where the inhabitants are known as Americans and include the ethnic group of Native Americans. The country is the location of Angola, a city in Indiana.</lex>
+      <lex lang="en_bt" lid="Id2">Angola, Indiana is part of the English-speaking United States. The United States is home to Native Americans and Americans.</lex>
+      <lex lang="en_bt" lid="Id3">Angola is in Indiana, which is in the United States, where English is spoken and the inhabitants are Americans, and the Native Americans are an ethnic group.</lex>
+      </entry>
+    <entry category="City" eid="Id27" shape="(X (X (X) (X) (X)) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | demonym | Americans</otriple>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>Albany,_Georgia | country | United_States</otriple>
+        <otriple>Albany,_Georgia | subdivisionName | "United States"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | demonym | Americans</mtriple>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>Albany,_Georgia | country | United_States</mtriple>
+        <mtriple>Albany,_Georgia | isPartOf | United_States</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Estados_Unidos | TítuloDeLíder | presidente_de_los_Estados_Unidos</striple>
+        <striple>Estados_Unidos | Gentilicio | Estadounidense</striple>
+        <striple>Estados_Unidos | GrupoÉtnico | estadounidense_asiático</striple>
+        <striple>Albany,_Georgia | País | Estados_Unidos</striple>
+        <striple>Albany,_Georgia | FormaParteDe | Estados_Unidos</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>United_States | leaderTitle | President_of_the_United_States</bttriple>
+        <bttriple>United_States | demonym | Americans</bttriple>
+        <bttriple>United_States | ethnicGroup | Asian_Americans</bttriple>
+        <bttriple>Albany,_Georgia | country | United_States</bttriple>
+        <bttriple>Albany,_Georgia | isPartOf | United_States</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Estats_Units_d'Amèrica | LíderTítol | president_dels_Estats_Units</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | Demònim | estatunidenc</ctriple>
+        <ctriple>Estats_Units_d'Amèrica | GrupÈtnic | estatunidencs_asiàtics</ctriple>
+        <ctriple>Albany,_Geòrgia | País | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Albany,_Geòrgia | ÉsPartDe | Estats_Units_d'Amèrica</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Albany, Georgia is found in the United States, where the leader is the president, Asian Americans are an ethnic group and where the inhabitants are referred to as Americans.</lex>
+      <lex lang="en" lid="Id2">The president is the leader of the United States where Asian Americans are an ethnic group. Albany, Georgia is in the United States, where the inhabitants, are Americans.</lex>
+      <lex lang="es" lid="Id1">Albany, Georgia, se encuentra en Estados Unidos, donde el líder es el presidente, los asiático-Estadounidense son un grupo étnico y donde los habitantes se denominan Estadounidenses.</lex>
+      <lex lang="es" lid="Id2">El presidente es el líder de los Estados Unidos, donde los asiático-Estadounidense son un grupo étnico. Albany, Georgia, está en Estados Unidos, donde los habitantes, son Estadounidenses.</lex>
+      <lex lang="ca" lid="Id1">Albany, Geòrgia es troba als Estats Units, on el líder és el president, els asiàtics americans són un grup ètnic i on els habitants s'anomenen americans.</lex>
+      <lex lang="ca" lid="Id2">El president és el líder dels Estats Units on els asiàtics americans són un grup ètnic. Albany, Geòrgia és als Estats Units, on els habitants són americans.</lex>
+      <lex lang="en_bt" lid="Id1">Albany, Georgia is in the United States, where the leader is the president, Asian Americans are an ethnic group and where the inhabitants call themselves Americans.</lex>
+      <lex lang="en_bt" lid="Id2">The president is the leader of the United States where Asian Americans are an ethnic group. Albany, Georgia is in the United States where the inhabitants are Americans.</lex>
+      </entry>
+    <entry category="City" eid="Id28" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Washington_(state) | largestCity | Seattle</otriple>
+        <otriple>Auburn,_Washington | isPartOf | Washington_(state)</otriple>
+        <otriple>Washington_(state) | capital | Olympia,_Washington</otriple>
+        <otriple>King_County,_Washington | country | United_States</otriple>
+        <otriple>Auburn,_Washington | subdivisionName | King_County,_Washington</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Washington_(state) | largestCity | Seattle</mtriple>
+        <mtriple>Auburn,_Washington | isPartOf | Washington_(state)</mtriple>
+        <mtriple>Washington_(state) | capital | Olympia,_Washington</mtriple>
+        <mtriple>King_County,_Washington | country | United_States</mtriple>
+        <mtriple>Auburn,_Washington | isPartOf | King_County,_Washington</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Washington | CiudadMásGrande | Seattle</striple>
+        <striple>Auburn,_Washington | FormaParteDe | Washington</striple>
+        <striple>Washington | Capital | Olympia,_Washington</striple>
+        <striple>Condado_de_King,_Washington | País | Estados_Unidos</striple>
+        <striple>Auburn,_Washington | FormaParteDe | Condado_de_King,_Washington</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Washington_(state) | largestCity | Seattle</bttriple>
+        <bttriple>Auburn,_Washington | isPartOf | Washington_(state)</bttriple>
+        <bttriple>Washington_(state) | capital | Olympia,_Washington</bttriple>
+        <bttriple>King_County,_Washington | country | United_States</bttriple>
+        <bttriple>Auburn,_Washington | isPartOf | King_County,_Washington</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Washington_(estat) | CiutatMésGran | Seattle</ctriple>
+        <ctriple>Auburn,_Washington | ÉsPartDe | Washington_(estat)</ctriple>
+        <ctriple>Washington_(estat) | Capital | Olympiausa._kgm</ctriple>
+        <ctriple>Comtat_de_King,_Washington | País | Estats_Units_d'Amèrica</ctriple>
+        <ctriple>Auburn,_Washington | ÉsPartDe | Comtat_de_King,_Washington</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Seattle is the largest city of Washington State and Olympia is the capital. Also located in the state is Auburn, part of King County, U.S.</lex>
+      <lex lang="en" lid="Id2">Auburn is part of King County, Washington, United States. Olympia is the capital of Washington and its largest city is Seattle.</lex>
+      <lex lang="en" lid="Id3">Auburn is in King County, Washington State, whose largest city is Seattle and whose capital is Olympia. Washington is in the US.</lex>
+      <lex lang="es" lid="Id1">Seattle es la ciudad más grande del Estado de Washington y Olympia es la capital. También se encuentra en el estado Auburn, parte del condado de King, EE.UU.</lex>
+      <lex lang="es" lid="Id2">Auburn forma parte del condado de King, Washington, Estados Unidos. Olympia es la capital de Washington y su ciudad más grande es Seattle.</lex>
+      <lex lang="es" lid="Id3">Auburn está en el condado de King, estado de Washington, cuya ciudad más grande es Seattle y cuya capital es Olympia. Washington está en Estados Unidos.</lex>
+      <lex lang="ca" lid="Id1">Seattle és la ciutat més gran de l' Estat de Washington i Olympia és la capital. També es troba a l' estat Auburn, part del Comtat de King, EUA.</lex>
+      <lex lang="ca" lid="Id2">Auburn forma part del comtat de King, Washington, Estats Units. Olympia és la capital de Washington i la seva ciutat més gran és Seattle.</lex>
+      <lex lang="ca" lid="Id3">Auburn es troba al comtat de King, a l'estat de Washington, la ciutat més gran del qual és Seattle i la capital és Olympia. Washington es troba als EUA.</lex>
+      <lex lang="en_bt" lid="Id1">Seattle is the largest city in the state of Washington and Olympia is the capital. It is also located in the state of Auburn, part of King County, USA.</lex>
+      <lex lang="en_bt" lid="Id2">Auburn is part of King County, Washington, United States. Olympia is the capital of Washington and its largest city is Seattle.</lex>
+      <lex lang="en_bt" lid="Id3">Auburn is located in King County, in the state of Washington, the largest city of which is Seattle and the capital is Olympia. Washington is located in the United States.</lex>
+      </entry>
+    </entries>
+  </benchmark>

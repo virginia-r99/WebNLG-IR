@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+	<entries>
+		<entry category="Astronaut" eid="Id1" shape="(X (X) (X))" shape_type="sibling" size="2">
+			<originaltripleset>
+				<otriple>Alan_Shepard | mission | Apollo_14</otriple>
+				<otriple>Alan_Shepard | dateOfRet | "1974-08-01"</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Alan_Shepard | mission | Apollo_14</mtriple>
+				<mtriple>Alan_Shepard | dateOfRetirement | "1974-08-01"</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Alan_Bartlett_Shepard | Misión | Apolo_14</striple><striple>Alan_Bartlett_Shepard | FechaDeJubilación | 01-08-1974</striple></spanishtripleset><lex lang="en" lid="Id1">Apollo 14 crew member Alan Shepard retired on the first of August, 1974.</lex>
+			<lex lang="en" lid="Id2">Alan Shepard, who served as a crew member of Apollo 14, retired 1974-08-01.</lex>
+			<lex lang="es" lid="Id1">El miembro de la tripulación del Apolo 14 Alan Shepard se retiró el 1 de agosto de 1974.</lex>
+			<lex lang="es" lid="Id2">Alan Shepard, miembro de la tripulación del Apolo 14, se jubiló el 1 de agosto de 1974.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id2" shape="(X (X) (X))" shape_type="sibling" size="2">
+			<originaltripleset>
+				<otriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</otriple>
+				<otriple>Buzz_Aldrin | nationality | United_States</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</mtriple>
+				<mtriple>Buzz_Aldrin | nationality | United_States</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Buzz_Aldrin | LugarDeNacimiento | Glen_Ridge,_Nueva_Jersey</striple><striple>Buzz_Aldrin | Nacionalidad | Estados_Unidos</striple></spanishtripleset><lex lang="en" lid="Id1">Buzz Aldrin is a US national because he was born in Glen Ridge, New Jersey.</lex>
+			<lex lang="en" lid="Id2">American Buzz Aldrin hails from Glen Ridge, New Jersey.</lex>
+			<lex lang="en" lid="Id3">Buzz Aldrin was born in Glen Ridge, New Jersey in the United States.</lex>
+			<lex lang="en" lid="Id4">Buzz Aldrin was a US citizen born in Glen Ridge, New Jersey.</lex>
+			<lex lang="es" lid="Id1">Buzz Aldrin es ciudadano estadounidense porque nació en Glen Ridge, Nueva Jersey.</lex>
+			<lex lang="es" lid="Id2">El estadounidense Buzz Aldrin es natural de Glen Ridge, Nueva Jersey.</lex>
+			<lex lang="es" lid="Id3">Buzz Aldrin nació en Glen Ridge (Nueva Jersey, Estados Unidos).</lex>
+			<lex lang="es" lid="Id4">Buzz Aldrin era un ciudadano estadounidense nacido en Glen Ridge, Nueva Jersey.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id3" shape="(X (X) (X))" shape_type="sibling" size="2">
+			<originaltripleset>
+				<otriple>Buzz_Aldrin | occupation | Fighter_pilot</otriple>
+				<otriple>Buzz_Aldrin | status | "Retired"</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Buzz_Aldrin | occupation | Fighter_pilot</mtriple>
+				<mtriple>Buzz_Aldrin | status | "Retired"</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Buzz_Aldrin | Ocupación | piloto_de_caza</striple><striple>Buzz_Aldrin | Estado | Retirado</striple></spanishtripleset><lex lang="en" lid="Id1">Retiree Buzz Aldrin is a former fighter pilot.</lex>
+			<lex lang="en" lid="Id2">Buzz Aldrin is now retired but he was once a fighter pilot.</lex>
+			<lex lang="en" lid="Id3">Buzz Aldrin has since retired but he once served as a fighter pilot.</lex>
+			<lex lang="en" lid="Id4">Buzz Aldrin served as a fighter pilot and is now retired.</lex>
+			<lex lang="es" lid="Id1">El jubilado Buzz Aldrin es un antiguo piloto de caza.</lex>
+			<lex lang="es" lid="Id2">Buzz Aldrin está jubilado, pero fue piloto de caza.</lex>
+			<lex lang="es" lid="Id3">Buzz Aldrin está jubilado, pero en su día sirvió como piloto de caza.</lex>
+			<lex lang="es" lid="Id4">Buzz Aldrin fue piloto de caza y ahora está jubilado.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id4" shape="(X (X (X)))" shape_type="chain" size="2">
+			<originaltripleset>
+				<otriple>Buzz_Aldrin | mission | Apollo_11</otriple>
+				<otriple>Apollo_11 | operator | NASA</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Buzz_Aldrin | mission | Apollo_11</mtriple>
+				<mtriple>Apollo_11 | operator | NASA</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Buzz_Aldrin | Misión | Apolo_11</striple><striple>Apolo_11 | Operador | Administración_Nacional_de_Aeronáutica_y_del_Espacio</striple></spanishtripleset><lex lang="en" lid="Id1">The Apollo 11 program was organized by NASA and included Buzz Aldrin as one of its crew members.</lex>
+			<lex lang="en" lid="Id2">NASA operated the Apollo 11 program of which Buzz Aldrin was a member.</lex>
+			<lex lang="en" lid="Id3">Buzz Aldrin was on Apollo 11 which NASA operated.</lex>
+			<lex lang="en" lid="Id4">Buzz Aldrin served as a crew member of Apollo 11 which is operated by NASA.</lex>
+			<lex lang="en" lid="Id5">Buzz Aldrin was a crew member of Apollo 11 - whose operator was NASA.</lex>
+			<lex lang="en" lid="Id6">Buzz aldrin was a crew member of apollo 11, which was operated by NASA.</lex>
+			<lex lang="en" lid="Id7">Buzz Aldrin was a crew member of NASA's Apollo 11.</lex>
+			<lex lang="es" lid="Id1">El programa Apolo 11 fue organizado por la NASA e incluía a Buzz Aldrin como uno de sus tripulantes.</lex>
+			<lex lang="es" lid="Id2">La NASA dirigió el programa Apolo 11, del que formó parte Buzz Aldrin.</lex>
+			<lex lang="es" lid="Id3">Buzz Aldrin estuvo en el Apolo 11 que operó la NASA.</lex>
+			<lex lang="es" lid="Id4">Buzz Aldrin formó parte de la tripulación del Apolo 11, operado por la NASA.</lex>
+			<lex lang="es" lid="Id5">Buzz Aldrin fue miembro de la tripulación del Apolo 11, cuyo operador fue la NASA.</lex>
+			<lex lang="es" lid="Id6">Buzz Aldrin fue miembro de la tripulación del Apolo 11, que fue operado por la NASA.</lex>
+			<lex lang="es" lid="Id7">Buzz Aldrin fue miembro de la tripulación del Apolo 11 de la NASA.</lex>
+		</entry>
+		<entry category="Astronaut" eid="Id5" shape="(X (X) (X))" shape_type="sibling" size="2">
+			<originaltripleset>
+				<otriple>Buzz_Aldrin | mission | Apollo_11</otriple>
+				<otriple>Buzz_Aldrin | occupation | Fighter_pilot</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Buzz_Aldrin | mission | Apollo_11</mtriple>
+				<mtriple>Buzz_Aldrin | occupation | Fighter_pilot</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Buzz_Aldrin | Misión | Apolo_11</striple><striple>Buzz_Aldrin | Ocupación | piloto_de_caza</striple></spanishtripleset><lex lang="en" lid="Id1">Buzz Aldrin performed as a fighter pilot and was a crew member on Apollo 11.</lex>
+			<lex lang="en" lid="Id2">Buzz Aldrin, who was a fighter pilot, was a crew member on Apollo 11.</lex>
+			<lex lang="en" lid="Id3">Buzz Aldrin was a fighter pilot who was also part of the Apollo 11 crew.</lex>
+			<lex lang="en" lid="Id4">Buzz Aldrin was both a fighter pilot and member of the Apollo 11 flight crew.</lex>
+			<lex lang="en" lid="Id5">Buzz Aldrin was a fighter pilot and crew member of Apollo 11.</lex>
+			<lex lang="es" lid="Id1">Buzz Aldrin fue piloto de caza y miembro de la tripulación del Apolo 11.</lex>
+			<lex lang="es" lid="Id2">Buzz Aldrin, que era piloto de caza, formó parte de la tripulación del Apolo 11.</lex>
+			<lex lang="es" lid="Id3">Buzz Aldrin era un piloto de caza que también formó parte de la tripulación del Apolo 11.</lex>
+			<lex lang="es" lid="Id4">Buzz Aldrin fue piloto de caza y miembro de la tripulación del Apolo 11.</lex>
+			<lex lang="es" lid="Id5">Buzz Aldrin fue piloto de caza y tripulación del Apolo 11.</lex>
+		</entry>
+	</entries>
+</benchmark>

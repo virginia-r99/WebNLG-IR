@@ -1,0 +1,962 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Company" eid="Id1" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>AmeriGas | country | United_States</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>AmeriGas | locationCountry | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AmeriGas | country | United_States</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>AmeriGas | País | Estados_Unidos</striple></spanishtripleset><lex lang="en" lid="Id1">AmeriGas works in the country of the United States.</lex>
+      <lex lang="en" lid="Id2">AmeriGas's home country is the United States.</lex>
+      <lex lang="en" lid="Id3">AmeriGas is working in the United States.</lex>
+      <lex lang="en" lid="Id4">AmeriGas is located in the country of the United States.</lex>
+    <lex lang="es" lid="Id1">AmeriGas trabaja en el país de los Estados Unidos.</lex><lex lang="es" lid="Id2">El país de origen de AmeriGas es Estados Unidos.</lex><lex lang="es" lid="Id3">AmeriGas trabaja en Estados Unidos.</lex><lex lang="es" lid="Id4">AmeriGas está situada en el país de Estados Unidos.</lex></entry>
+    <entry category="Company" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>AmeriGas | foundingYear | 1959-01-01</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AmeriGas | foundingDate | 1959-01-01</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>AmeriGas | FechaDeFundación | 01-01-1959</striple></spanishtripleset><lex lang="en" lid="Id1">AmeriGas was founded on 01-01-1959.</lex>
+      <lex lang="en" lid="Id2">AmeriGas was founded on January 1, 1959.</lex>
+      <lex lang="en" lid="Id3">AmeriGas was founded on 1959-01-01.</lex>
+    <lex lang="es" lid="Id1">AmeriGas se fundó el 1 de enero de 1959.</lex><lex lang="es" lid="Id2">AmeriGas se fundó el 1 de enero de 1959.</lex><lex lang="es" lid="Id3">AmeriGas se fundó el 1 de enero de 1959.</lex></entry>
+    <entry category="Company" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>AmeriGas | industry | Energy_industry</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AmeriGas | industry | Energy_industry</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>AmeriGas | Industria | industria_de_la_energía</striple></spanishtripleset><lex lang="en" lid="Id1">AmeriGas is in the energy industry.</lex>
+      <lex lang="en" lid="Id2">AmeriGas is a company in the energy industry.</lex>
+      <lex lang="en" lid="Id3">AmeriGas's industry is classified as the energy industry.</lex>
+    <lex lang="es" lid="Id1">AmeriGas se dedica a la industria energética.</lex><lex lang="es" lid="Id2">AmeriGas es una empresa del sector energético.</lex><lex lang="es" lid="Id3">La industria de AmeriGas está clasificada como industria energética.</lex></entry>
+    <entry category="Company" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>AmeriGas | locationCity | King_of_Prussia,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AmeriGas | city | King_of_Prussia,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>AmeriGas | Ciudad | King_of_Prussia,_Pennsylvania</striple></spanishtripleset><lex lang="en" lid="Id1">AmeriGas is located in King of Prussia, Pennsylvania.</lex>
+      <lex lang="en" lid="Id2">AmeriGas's location is the city of King of Prussia, Pennsylvania.</lex>
+    <lex lang="es" lid="Id1">AmeriGas se encuentra en King of Prussia, Pensilvania.</lex><lex lang="es" lid="Id2">AmeriGas tiene su sede en la ciudad de King of Prussia, Pensilvania.</lex></entry>
+    <entry category="Company" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>AmeriGas | netIncome | 2.112E8</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AmeriGas | netIncome | 211200000</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>AmeriGas | IngresosNetos | 211200000</striple></spanishtripleset><lex lang="en" lid="Id1">The net income of AmeriGas is 211200000.</lex>
+      <lex lang="en" lid="Id2">AmeriGas has a net income of $211,200,000.</lex>
+      <lex lang="en" lid="Id3">AmeriGas earns 211200000 of net income.</lex>
+      <lex lang="en" lid="Id4">AmeriGas has a net income of 211200000.</lex>
+    <lex lang="es" lid="Id1">Los ingresos netos de AmeriGas son 211200000.</lex><lex lang="es" lid="Id2">AmeriGas tiene unos ingresos netos de 211.200.000 dólares.</lex><lex lang="es" lid="Id3">AmeriGas obtiene 211200000 de ingresos netos.</lex><lex lang="es" lid="Id4">AmeriGas tiene unos ingresos netos de 211200000.</lex></entry>
+    <entry category="Company" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>AmeriGas | operatingIncome | 3.807E8</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AmeriGas | operatingIncome | 380700000</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>AmeriGas | IngresosDeExplotación | 380700000</striple></spanishtripleset><lex lang="en" lid="Id1">AmeriGas has an operating income of $380,700,000.</lex>
+      <lex lang="en" lid="Id2">The operating income earned by AmeriGas is 380700000.</lex>
+      <lex lang="en" lid="Id3">The operating income of AmeriGas is 380700000.</lex>
+    <lex lang="es" lid="Id1">AmeriGas tiene unos ingresos de explotación de 380.700.000 dólares.</lex><lex lang="es" lid="Id2">Los ingresos de explotación obtenidos por AmeriGas son 380700000.</lex><lex lang="es" lid="Id3">Los ingresos de explotación de AmeriGas son 380700000.</lex></entry>
+    <entry category="Company" eid="Id7" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>AmeriGas | regionServed | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AmeriGas | regionServed | United_States</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>AmeriGas | RegiónAtendida | Estados_Unidos</striple></spanishtripleset><lex lang="en" lid="Id1">AmeriGas provides its services in the United States.</lex>
+      <lex lang="en" lid="Id2">AmeriGas serves all regions of the United States.</lex>
+      <lex lang="en" lid="Id3">AmeriGas serves the United States.</lex>
+    <lex lang="es" lid="Id1">AmeriGas presta sus servicios en Estados Unidos.</lex><lex lang="es" lid="Id2">AmeriGas presta servicio en todas las regiones de Estados Unidos.</lex><lex lang="es" lid="Id3">AmeriGas presta servicio en Estados Unidos.</lex></entry>
+    <entry category="Company" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Brazil | areaTotal | 8514840000000.0</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Brazil | areaTotal | 8514837.141576303</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Brazil | areaTotal | 8514837.14  (square kilometres)</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Brasil | ÁreaTotal | 8514837,14_(kilómetros_cuadrados)</striple></spanishtripleset><lex lang="en" lid="Id1">The total area of Brazil is 8514837.14 square kilometres.</lex>
+      <lex lang="en" lid="Id2">Brazil has a total area of 8514837.14 square kilometres.</lex>
+      <lex lang="en" lid="Id3">The total area of Brazil is 8514837.14 (square kilometres).</lex>
+      <lex lang="en" lid="Id4">Brazil has a total area of 8514837.14 (square kilometers).</lex>
+    <lex lang="es" lid="Id1">La superficie total de Brasil es de 8514837,14 kilómetros cuadrados.</lex><lex lang="es" lid="Id2">Brasil tiene una superficie total de 8514837,14 kilómetros cuadrados.</lex><lex lang="es" lid="Id3">La superficie total de Brasil es de 8514837,14 (kilómetros cuadrados).</lex><lex lang="es" lid="Id4">Brasil tiene una superficie total de 8514837,14 (kilómetros cuadrados).</lex></entry>
+    <entry category="Company" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Brazil | leader | Michel_Temer</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Brazil | leader | Michel_Temer</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Brasil | Líder | Michel_Temer</striple></spanishtripleset><lex lang="en" lid="Id1">Michel Temer is the leader of Brazil.</lex>
+      <lex lang="en" lid="Id2">The leader of Brazil is named Michel Temer.</lex>
+      <lex lang="en" lid="Id3">Michel Temer was the president of Brazil.</lex>
+      <lex lang="en" lid="Id4">The name of the leader of Brazil is Michel Temer.</lex>
+    <lex lang="es" lid="Id1">Michel Temer es el líder de Brasil.</lex><lex lang="es" lid="Id2">El líder de Brasil se llama Michel Temer.</lex><lex lang="es" lid="Id3">Michel Temer era el presidente de Brasil.</lex><lex lang="es" lid="Id4">El nombre del líder de Brasil es Michel Temer.</lex></entry>
+    <entry category="Company" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Brazil | leaderTitle | "President of the Supreme Federal Court"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Brazil | leaderTitle | "President of the Supreme Federal Court"</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Brasil | TítuloDeLíder | Anexo:Presidentes_del_Supremo_Tribunal_Federal</striple></spanishtripleset><lex lang="en" lid="Id1">Brazil's leader has the title of President of the Supreme Federal Court.</lex>
+      <lex lang="en" lid="Id2">President of the Supreme Federal Court is one of the leaders in Brazil.</lex>
+      <lex lang="en" lid="Id3">President of the Supreme Federal Court is a leader title in Brazil.</lex>
+      <lex lang="en" lid="Id4">One of the leaders in Brazil has the title of President of the Supreme Federal Court.</lex>
+    <lex lang="es" lid="Id1">El líder de Brasil tiene el título de Presidente del Supremo Tribunal Federal.</lex><lex lang="es" lid="Id2">El Presidente del Supremo Tribunal Federal es uno de los líderes de Brasil.</lex><lex lang="es" lid="Id3">Presidente del Supremo Tribunal Federal es un título de dirigente en Brasil.</lex><lex lang="es" lid="Id4">Uno de los líderes de Brasil tiene el título de Presidente del Supremo Tribunal Federal.</lex></entry>
+    <entry category="Company" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Brazil | populationDensity | 23.8</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Brazil | populationDensity | 23.8</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Brasil | DensidadDePoblación | 23.8</striple></spanishtripleset><lex lang="en" lid="Id1">Brazil has a population density of 23.8.</lex>
+      <lex lang="en" lid="Id2">The population density of Brazil is 23.8 per square kilometer.</lex>
+      <lex lang="en" lid="Id3">The population density in Brazil is 23.8.</lex>
+      <lex lang="en" lid="Id4">The population density of Brazil is 23.8.</lex>
+    <lex lang="es" lid="Id1">Brasil tiene una densidad de población de 23,8 habitantes.</lex><lex lang="es" lid="Id2">La densidad de población de Brasil es de 23,8 habitantes por kilómetro cuadrado.</lex><lex lang="es" lid="Id3">La densidad de población en Brasil es de 23,8 habitantes.</lex><lex lang="es" lid="Id4">La densidad de población de Brasil es de 23,8 habitantes.</lex></entry>
+    <entry category="Company" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Chinabank | foundationPlace | Insular_Government_of_the_Philippine_Islands</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Chinabank | foundationPlace | Insular_Government_of_the_Philippine_Islands</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Chinabank | LugarDeCimentación | Gobierno_Insular_de_las_Islas_Filipinas</striple></spanishtripleset><lex lang="en" lid="Id1">Chinabank was founded in the Insular Government of the Philippine Islands.</lex>
+      <lex lang="en" lid="Id2">Chinabank's foundation place is the Insular Government of the Philippine Islands.</lex>
+      <lex lang="en" lid="Id3">Chinabank's founding place was the Insular Government of the Philippine Islands.</lex>
+    <lex lang="es" lid="Id1">Chinabank se fundó en el Gobierno Insular de las Islas Filipinas.</lex><lex lang="es" lid="Id2">El lugar de fundación de Chinabank es el Gobierno Insular de las Islas Filipinas.</lex><lex lang="es" lid="Id3">El lugar de fundación de Chinabank fue el Gobierno Insular de las Islas Filipinas.</lex></entry>
+    <entry category="Company" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Chinabank | foundationPlace | Manila</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Chinabank | foundationPlace | Manila</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Chinabank | LugarDeCimentación | Manila</striple></spanishtripleset><lex lang="en" lid="Id1">Manila is Chinabank’s founding place.</lex>
+      <lex lang="en" lid="Id2">Manila is the founding place of Chinabank.</lex>
+      <lex lang="en" lid="Id3">Chinabank was founded in Manila.</lex>
+    <lex lang="es" lid="Id1">Manila es el lugar de fundación de Chinabank.</lex><lex lang="es" lid="Id2">Manila es el lugar de fundación de Chinabank.</lex><lex lang="es" lid="Id3">Chinabank se fundó en Manila.</lex></entry>
+    <entry category="Company" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Chinabank | foundingYear | 1920-01-01</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Chinabank | foundingDate | 1920-08-16</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Chinabank | foundingDate | 1920-08-16</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Chinabank | FechaDeFundación | 16-08-1920</striple></spanishtripleset><lex lang="en" lid="Id1">Chinabank was founded on 08-16-1920.</lex>
+      <lex lang="en" lid="Id2">Chinabank was founded on 1920-08-16.</lex>
+      <lex lang="en" lid="Id3">Chinabank was founded on the 16th of August, 1920.</lex>
+      <lex lang="en" lid="Id4">Chinabank was founded on 08/16/1920.</lex>
+    <lex lang="es" lid="Id1">Chinabank se fundó el 16 de agosto de 1920.</lex><lex lang="es" lid="Id2">Chinabank se fundó el 16 de agosto de 1920.</lex><lex lang="es" lid="Id3">Chinabank se fundó el 16 de agosto de 1920.</lex><lex lang="es" lid="Id4">Chinabank se fundó el 16 de agosto de 1920.</lex></entry>
+    <entry category="Company" eid="Id15" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Chinabank | numberOfEmployees | 5594</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Chinabank | numberOfEmployees | 5594</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Chinabank | NúmeroDeEmpleados | 5594</striple></spanishtripleset><lex lang="en" lid="Id1">Chinabank has 5594 employees.</lex>
+      <lex lang="en" lid="Id2">The number of employees working at Chinabank is 5594.</lex>
+      <lex lang="en" lid="Id3">Chinabank has 5594 workers.</lex>
+      <lex lang="en" lid="Id4">Chinabank employs 5,594 employees.</lex>
+    <lex lang="es" lid="Id1">Chinabank tiene 5.594 empleados.</lex><lex lang="es" lid="Id2">El número de empleados que trabajan en Chinabank es de 5.594.</lex><lex lang="es" lid="Id3">Chinabank tiene 5.594 trabajadores.</lex><lex lang="es" lid="Id4">Chinabank tiene 5.594 empleados.</lex></entry>
+    <entry category="Company" eid="Id16" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Chinabank | numberOfLocations | 295</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Chinabank | numberOfLocations | 505</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Chinabank | numberOfLocations | 295</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Chinabank | NúmeroDeUbicaciones | 295</striple></spanishtripleset><lex lang="en" lid="Id1">Chinabank has 295 locations.</lex>
+      <lex lang="en" lid="Id2">Chinabank has 295 branches.</lex>
+      <lex lang="en" lid="Id3">Chinabank has 295 banking centers.</lex>
+    <lex lang="es" lid="Id1">Chinabank tiene 295 sucursales.</lex><lex lang="es" lid="Id2">Chinabank tiene 295 sucursales.</lex><lex lang="es" lid="Id3">Chinabank cuenta con 295 centros bancarios.</lex></entry>
+    <entry category="Company" eid="Id17" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Chinabank | service | Banking</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Chinabank | service | Banking</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Chinabank | Servicio | Banca</striple></spanishtripleset><lex lang="en" lid="Id1">Chinabank offers banking service.</lex>
+      <lex lang="en" lid="Id2">Chinabank's service is banking.</lex>
+      <lex lang="en" lid="Id3">Chinabank provides banking services to customers.</lex>
+      <lex lang="en" lid="Id4">Chinabank is a company that offers Banking services.</lex>
+    <lex lang="es" lid="Id1">Chinabank ofrece servicios Bancarios.</lex><lex lang="es" lid="Id2">El servicio de Chinabank es Bancario.</lex><lex lang="es" lid="Id3">Chinabank ofrece servicios Bancarios a sus clientes.</lex><lex lang="es" lid="Id4">Chinabank es una empresa que ofrece servicios Bancarios.</lex></entry>
+    <entry category="Company" eid="Id18" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Chinabank | type | Public_company</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Chinabank | type | Public_company</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Chinabank | Tipo | empresa_de_capital_abierto</striple></spanishtripleset><lex lang="en" lid="Id1">Chinabank is a publicly traded company.</lex>
+      <lex lang="en" lid="Id2">Chinabank is a public company.</lex>
+    <lex lang="es" lid="Id1">Chinabank es una empresa que cotiza en bolsa.</lex><lex lang="es" lid="Id2">Chinabank es una empresa pública.</lex></entry>
+    <entry category="Company" eid="Id19" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Felipe_Gozon | alias | "Atty. Felipe L. Gozon, FLG"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Felipe_Gozon | alternativeName | "Atty. Felipe L. Gozon, FLG"</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Felipe_Gozon | NombreAlternativo | Abogado_Felipe_L._Gozon,_FLG</striple></spanishtripleset><lex lang="en" lid="Id1">Felipe Gozon is also known by Attorney Felipe L. Gozon, FLG.</lex>
+      <lex lang="en" lid="Id2">Felipe Gozon's alternative name is Atty. Felipe L. Gozon, FLG.</lex>
+      <lex lang="en" lid="Id3">Felipe Gozon is also known as Atty. Felipe L. Gozon, FLG.</lex>
+    <lex lang="es" lid="Id1">Felipe Gozón también es conocido por el nombre de Abogado Felipe L. Gozón, FLG.</lex><lex lang="es" lid="Id2">El nombre alternativo de Felipe Gozon es Atty. Felipe L. Gozon, FLG.</lex><lex lang="es" lid="Id3">Felipe Gozon también es conocido como Atty. Felipe L. Gozon, FLG.</lex></entry>
+    <entry category="Company" eid="Id20" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Felipe_Gozon | birthDate | 1939-12-08</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Felipe_Gozon | birthDate | 1939-12-08</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Felipe_Gozon | FechaDeNacimiento | 08-12-1939</striple></spanishtripleset><lex lang="en" lid="Id1">Felipe Gozon's birthdate is 1939-12-08.</lex>
+      <lex lang="en" lid="Id2">Felipe Gozon was born on December 8, 1939.</lex>
+      <lex lang="en" lid="Id3">Felipe Gozon was born December 8, 1939.</lex>
+    <lex lang="es" lid="Id1">La fecha de nacimiento de Felipe Gozón es 8 de diciembre de 1939.</lex><lex lang="es" lid="Id2">Felipe Gozón nació el 8 de diciembre de 1939.</lex><lex lang="es" lid="Id3">Felipe Gozón nació el 8 de diciembre de 1939.</lex></entry>
+    <entry category="Company" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>GMA_Network_(company) | keyPerson | Felipe_Gozon</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>GMA_Network_(company) | keyPerson | Felipe_Gozon</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>GMA_Network_(empresa) | PersonaClave | Felipe_Gozon</striple></spanishtripleset><lex lang="en" lid="Id1">GMA Network is a company and its key person is Felipe Gozon.</lex>
+      <lex lang="en" lid="Id2">Felipe Gozon is a key person in the GMA Network company.</lex>
+      <lex lang="en" lid="Id3">GMA Network’s boss is Felipe Gozon.</lex>
+      <lex lang="en" lid="Id4">Felipe Gozon is the key person of GMA Network.</lex>
+    <lex lang="es" lid="Id1">GMA Network es una empresa y su persona clave es Felipe Gozón.</lex><lex lang="es" lid="Id2">Felipe Gozón es una persona clave en la empresa GMA Network.</lex><lex lang="es" lid="Id3">El jefe de GMA Network es Felipe Gozón.</lex><lex lang="es" lid="Id4">Felipe Gozón es la persona clave de GMA Network.</lex></entry>
+    <entry category="Company" eid="Id22" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>GMA_Network_(company) | locationCity | Diliman</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>GMA_Network_(company) | city | Diliman</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>GMA_Network_(empresa) | Ciudad | Diliman</striple></spanishtripleset><lex lang="en" lid="Id1">GMA Network is a company located in the city of Diliman.</lex>
+      <lex lang="en" lid="Id2">GMA Network is a company based in Diliman.</lex>
+      <lex lang="en" lid="Id3">GMA Network is located in Diliman.</lex>
+    <lex lang="es" lid="Id1">GMA Network es una empresa situada en la ciudad de Diliman.</lex><lex lang="es" lid="Id2">GMA Network es una empresa con sede en Diliman.</lex><lex lang="es" lid="Id3">GMA Network se encuentra en Diliman.</lex></entry>
+    <entry category="Company" eid="Id23" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>GMA_Network_Center | cost | 4.6E7</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>GMA_Network_Center | cost | 46000000</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Centro_de_la_red_GMA | Coste | 46000000</striple></spanishtripleset><lex lang="en" lid="Id1">The GMA Network Center costs 46000000.</lex>
+      <lex lang="en" lid="Id2">GMA Network Center costs $46,000,000.</lex>
+      <lex lang="en" lid="Id3">GMA Network Center costs 46,000,000.</lex>
+      <lex lang="en" lid="Id4">The GMA Network Center is worth $46,000,000.</lex>
+    <lex lang="es" lid="Id1">El GMA Network Center cuesta 46000000.</lex><lex lang="es" lid="Id2">El GMA Network Center cuesta 46.000.000 de dólares.</lex><lex lang="es" lid="Id3">El GMA Network Center cuesta 46.000.000.</lex><lex lang="es" lid="Id4">El GMA Network Center tiene un valor de 46.000.000 de dólares.</lex></entry>
+    <entry category="Company" eid="Id24" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>GMA_New_Media | foundingYear | 2000-01-01</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>GMA_New_Media | foundingDate | 2000-01-01</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>GMA_Nuevos_Medios | FechaDeFundación | 01-01-2000</striple></spanishtripleset><lex lang="en" lid="Id1">GMA New Media was founded on 01/01/2000.</lex>
+      <lex lang="en" lid="Id2">GMA New Media was founded on 01-01-2000.</lex>
+      <lex lang="en" lid="Id3">GMA New Media was founded on January 1, 2000.</lex>
+      <lex lang="en" lid="Id4">The founding date of GMA New Media is 01-01-2000.</lex>
+    <lex lang="es" lid="Id1">GMA New Media se fundó el 1 de enero de 2000.</lex><lex lang="es" lid="Id2">GMA New Media se fundó el 1 de enero de 2000.</lex><lex lang="es" lid="Id3">GMA New Media se fundó el 1 de enero de 2000.</lex><lex lang="es" lid="Id4">La fecha de fundación de GMA New Media es el 1 de enero de 2000.</lex></entry>
+    <entry category="Company" eid="Id25" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>GMA_New_Media | industry | Entertainment</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>GMA_New_Media | industry | Entertainment</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>GMA_Nuevos_Medios | Industria | entretenimiento</striple></spanishtripleset><lex lang="en" lid="Id1">GMA New Media offers applications in the entertainment industry.</lex>
+      <lex lang="en" lid="Id2">GMA New Media is an entertainment industry.</lex>
+      <lex lang="en" lid="Id3">GMA New Media is in the entertainment industry.</lex>
+    <lex lang="es" lid="Id1">GMA New Media ofrece aplicaciones en la industria del entretenimiento.</lex><lex lang="es" lid="Id2">GMA New Media es una industria del entretenimiento.</lex><lex lang="es" lid="Id3">GMA New Media está en la industria del entretenimiento.</lex></entry>
+    <entry category="Company" eid="Id26" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>GMA_New_Media | industry | Mass_Media</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>GMA_New_Media | industry | Mass_Media</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>GMA_Nuevos_Medios | Industria | Medios_de_comunicación</striple></spanishtripleset><lex lang="en" lid="Id1">GMA New Media is in the mass media industry.</lex>
+      <lex lang="en" lid="Id2">GMA New Media is a mass media industry.</lex>
+      <lex lang="en" lid="Id3">GMA New Media's industry is mass media.</lex>
+    <lex lang="es" lid="Id1">GMA New Media pertenece al sector de los medios de comunicación.</lex><lex lang="es" lid="Id2">GMA New Media es una industria de medios de comunicación de masas.</lex><lex lang="es" lid="Id3">La industria de GMA New Media son los medios de comunicación de masas.</lex></entry>
+    <entry category="Company" eid="Id27" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>GMA_New_Media | location | Philippines</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>GMA_New_Media | location | Philippines</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>GMA_Nuevos_Medios | Ubicación | Filipinas</striple></spanishtripleset><lex lang="en" lid="Id1">GMA New Media is located in the Philippines.</lex>
+    <lex lang="es" lid="Id1">GMA New Media se encuentra en Filipinas.</lex></entry>
+    <entry category="Company" eid="Id28" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>GMA_New_Media | location | Quezon_City</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>GMA_New_Media | location | Quezon_City</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>GMA_Nuevos_Medios | Ubicación | Ciudad_Quezon</striple></spanishtripleset><lex lang="en" lid="Id1">GMA New Media is located in the city of Quezon.</lex>
+      <lex lang="en" lid="Id2">GMA New Media is located in Quezon City.</lex>
+      <lex lang="en" lid="Id3">GMA New Media headquarters are located in Quezon City.</lex>
+      <lex lang="en" lid="Id4">The location of GMA New Media is Quezon City.</lex>
+    <lex lang="es" lid="Id1">GMA New Media se encuentra en la ciudad de Quezon.</lex><lex lang="es" lid="Id2">GMA New Media se encuentra en Quezon City.</lex><lex lang="es" lid="Id3">La sede de GMA New Media está en Quezon City.</lex><lex lang="es" lid="Id4">La sede de GMA New Media está en Quezon City.</lex></entry>
+    <entry category="Company" eid="Id29" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>GMA_New_Media | product | Mobile_Applications</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>GMA_New_Media | product | Mobile_Applications</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>GMA_Nuevos_Medios | Producto | Aplicaciones_móviles</striple></spanishtripleset><lex lang="en" lid="Id1">GMA New Media makes mobile apps.</lex>
+      <lex lang="en" lid="Id2">GMA New Media makes mobile applications.</lex>
+      <lex lang="en" lid="Id3">GMA New Media is a company that offers products such as mobile applications.</lex>
+      <lex lang="en" lid="Id4">GMA New Media produces mobile applications.</lex>
+    <lex lang="es" lid="Id1">GMA New Media crea aplicaciones para móviles.</lex><lex lang="es" lid="Id2">GMA New Media crea aplicaciones para móviles.</lex><lex lang="es" lid="Id3">GMA New Media es una empresa que ofrece productos como aplicaciones para móviles.</lex><lex lang="es" lid="Id4">GMA New Media produce aplicaciones para móviles.</lex></entry>
+    <entry category="Company" eid="Id30" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>GMA_New_Media | subsidiary | Digify,_Inc.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>GMA_New_Media | subsidiary | Digify,_Inc.</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>GMA_Nuevos_Medios | Filial | Digify,_Inc.</striple></spanishtripleset><lex lang="en" lid="Id1">Digify Inc. is a subsidiary of GMA New Media.</lex>
+      <lex lang="en" lid="Id2">Digify Inc is a subsidiary of GMA New Media.</lex>
+      <lex lang="en" lid="Id3">GMA New Media’s subsidiary is Digify, Inc.</lex>
+      <lex lang="en" lid="Id4">Digify, Inc. is a subsidiary of GMA New Media.</lex>
+    <lex lang="es" lid="Id1">Digify Inc. es una filial de GMA New Media.</lex><lex lang="es" lid="Id2">Digify Inc es una filial de GMA New Media.</lex><lex lang="es" lid="Id3">La filial de GMA New Media es Digify, Inc.</lex><lex lang="es" lid="Id4">Digify, Inc. es una filial de GMA New Media.</lex></entry>
+    <entry category="Company" eid="Id31" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>GMA_New_Media | subsidiary | Philippine_Entertainment_Portal</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>GMA_New_Media | subsidiary | Philippine_Entertainment_Portal</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>GMA_Nuevos_Medios | Filial | Portal_filipino_del_entretenimiento</striple></spanishtripleset><lex lang="en" lid="Id1">Philippine Entertainment Portal, Inc is a subsidiary of GMA New Media.</lex>
+      <lex lang="en" lid="Id2">GMA New Media's subsidiary is Philippine Entertainment Portal.</lex>
+      <lex lang="en" lid="Id3">Philippine Entertainment Portal is a subsidiary of GMA New Media.</lex>
+    <lex lang="es" lid="Id1">Philippine Entertainment Portal, Inc es una filial de GMA New Media.</lex><lex lang="es" lid="Id2">La filial de GMA New Media es Philippine Entertainment Portal.</lex><lex lang="es" lid="Id3">Philippine Entertainment Portal es una filial de GMA New Media.</lex></entry>
+    <entry category="Company" eid="Id32" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Hypermarcas | foundingYear | 2001-01-01</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Hypermarcas | foundingDate | 2001-01-01</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Hipermarcas | FechaDeFundación | 01-01-2001</striple></spanishtripleset><lex lang="en" lid="Id1">Hypermarcas is the company founded on January 1, 2001.</lex>
+      <lex lang="en" lid="Id2">Hypermarcas was founded on January 1, 2001.</lex>
+      <lex lang="en" lid="Id3">Hypermarcas was founded on 2001-01-01.</lex>
+    <lex lang="es" lid="Id1">Hypermarcas es la empresa fundada el 1 de enero de 2001.</lex><lex lang="es" lid="Id2">Hypermarcas se fundó el 1 de enero de 2001.</lex><lex lang="es" lid="Id3">Hypermarcas se fundó el 1 de enero de 2001.</lex></entry>
+    <entry category="Company" eid="Id33" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Hypermarcas | industry | Pharmaceuticals</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Hypermarcas | industry | Pharmaceuticals</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Hipermarcas | Industria | Productos_farmacéuticos</striple></spanishtripleset><lex lang="en" lid="Id1">Hypermarcas is in the pharmaceuticals industry.</lex>
+      <lex lang="en" lid="Id2">Hypermarcas is a pharmaceutical company.</lex>
+      <lex lang="en" lid="Id3">Hypermarcas is in the pharmaceutical industry.</lex>
+    <lex lang="es" lid="Id1">Hypermarcas se dedica a la industria farmacéutica.</lex><lex lang="es" lid="Id2">Hypermarcas es una empresa farmacéutica.</lex><lex lang="es" lid="Id3">Hypermarcas se dedica a la industria farmacéutica.</lex></entry>
+    <entry category="Company" eid="Id34" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Hypermarcas | location | Brazil</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Hypermarcas | location | Brazil</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Hipermarcas | Ubicación | Brasil</striple></spanishtripleset><lex lang="en" lid="Id1">Hypermarcas is located in Brazil.</lex>
+    <lex lang="es" lid="Id1">Hypermarcas se encuentra en Brasil.</lex></entry>
+    <entry category="Company" eid="Id35" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Hypermarcas | location | São_Paulo</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Hypermarcas | location | São_Paulo</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Hipermarcas | Ubicación | São_Paulo</striple></spanishtripleset><lex lang="en" lid="Id1">Hypermarcas is located in São Paulo.</lex>
+      <lex lang="en" lid="Id2">Hypermarcas is located in Sao Paulo.</lex>
+    <lex lang="es" lid="Id1">Hypermarcas se encuentra en São Paulo.</lex><lex lang="es" lid="Id2">Hypermarcas se encuentra en Sao Paulo.</lex></entry>
+    <entry category="Company" eid="Id36" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Hypermarcas | netIncome | 1.086E8</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Hypermarcas | netIncome | 108600000</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Hipermarcas | IngresosNetos | 108600000</striple></spanishtripleset><lex lang="en" lid="Id1">Hypermarcas has a net income of 108,600,000.</lex>
+      <lex lang="en" lid="Id2">Hypermarcas had a net income of $108,600,000.</lex>
+      <lex lang="en" lid="Id3">The net income of Hypermarcas is 108,600,000.</lex>
+    <lex lang="es" lid="Id1">Hypermarcas tiene unos ingresos netos de 108.600.000.</lex><lex lang="es" lid="Id2">Hypermarcas obtuvo unos ingresos netos de 108.600.000 dólares.</lex><lex lang="es" lid="Id3">Los ingresos netos de Hypermarcas ascienden a 108.600.000.</lex></entry>
+    <entry category="Company" eid="Id37" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Hypermarcas | product | Cosmetics</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Hypermarcas | product | Cosmetics</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Hipermarcas | Producto | cosméticos</striple></spanishtripleset><lex lang="en" lid="Id1">Hypermarcas produces cosmetics.</lex>
+      <lex lang="en" lid="Id2">Hypermarcas also sells cosmetics.</lex>
+      <lex lang="en" lid="Id3">Hypermarcas also makes cosmetics products.</lex>
+      <lex lang="en" lid="Id4">Hypermarcas makes cosmetic products.</lex>
+    <lex lang="es" lid="Id1">Hypermarcas produce cosméticos.</lex><lex lang="es" lid="Id2">Hypermarcas también vende cosméticos.</lex><lex lang="es" lid="Id3">Hypermarcas también fabrica cosméticos.</lex><lex lang="es" lid="Id4">Hypermarcas fabrica cosméticos.</lex></entry>
+    <entry category="Company" eid="Id38" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Hypermarcas | product | Healthcare</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Hypermarcas | product | Healthcare</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Hipermarcas | Producto | Sanidad</striple></spanishtripleset><lex lang="en" lid="Id1">Hypermarcas sells healthcare products.</lex>
+      <lex lang="en" lid="Id2">Hypermarcas makes healthcare products.</lex>
+      <lex lang="en" lid="Id3">Hypermarcas produces healthcare products.</lex>
+    <lex lang="es" lid="Id1">Hypermarcas vende productos sanitarios.</lex><lex lang="es" lid="Id2">Hypermarcas fabrica productos sanitarios.</lex><lex lang="es" lid="Id3">Hypermarcas fabrica productos sanitarios.</lex></entry>
+    <entry category="Company" eid="Id39" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Hypermarcas | subsidiary | Mantecorp</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Hypermarcas | subsidiary | Mantecorp</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Hipermarcas | Filial | Mantecorp</striple></spanishtripleset><lex lang="en" lid="Id1">Hypermarcas has a subsidiary called Mantecorp.</lex>
+      <lex lang="en" lid="Id2">Mantecorp is a subsidiary of Hypermarcas.</lex>
+    <lex lang="es" lid="Id1">Hypermarcas tiene una filial llamada Mantecorp.</lex><lex lang="es" lid="Id2">Mantecorp es una filial de Hypermarcas.</lex></entry>
+    <entry category="Company" eid="Id40" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Hypermarcas | type | S.A._(corporation)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Hypermarcas | type | S.A._(corporation)</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Hipermarcas | Tipo | sociedad_anónima</striple></spanishtripleset><lex lang="en" lid="Id1">Hypermarcas is a type of S.A (corporation).</lex>
+      <lex lang="en" lid="Id2">Hypermarcas is an S.A. corporation.</lex>
+      <lex lang="en" lid="Id3">Hypermarcas is a type of S.A. corporation.</lex>
+      <lex lang="en" lid="Id4">Hypermarcas is an S.A. company.</lex>
+    <lex lang="es" lid="Id1">Hypermarcas es un tipo de S.A (sociedad anónima).</lex><lex lang="es" lid="Id2">Hypermarcas es una sociedad anónima.</lex><lex lang="es" lid="Id3">Hypermarcas es un tipo de sociedad anónima.</lex><lex lang="es" lid="Id4">Hypermarcas es una sociedad anónima.</lex></entry>
+    <entry category="Company" eid="Id41" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Insular_Government_of_the_Philippine_Islands | foundingDate | 1901-07-01</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Insular_Government_of_the_Philippine_Islands | foundingYear | 1901-01-01</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Insular_Government_of_the_Philippine_Islands | foundingDate | 1901-07-01</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Gobierno_Insular_de_las_Islas_Filipinas | FechaDeFundación | 01-07-1901</striple></spanishtripleset><lex lang="en" lid="Id1">The Insular Government of the Philippine Islands was founded on 1901-07-01.</lex>
+      <lex lang="en" lid="Id2">The Insular Government of the Philippine Islands was established on July 1, 1901.</lex>
+      <lex lang="en" lid="Id3">The founding date of the Insular Government of the Philippine Islands was 07-01-1901.</lex>
+      <lex lang="en" lid="Id4">The Insular Government of the Philippine Islands was founded on July 1, 1901.</lex>
+    <lex lang="es" lid="Id1">El Gobierno Insular de las Islas Filipinas se fundó el 1 de julio de 1901.</lex><lex lang="es" lid="Id2">El Gobierno Insular de las Islas Filipinas se estableció el 1 de julio de 1901.</lex><lex lang="es" lid="Id3">La fecha de fundación del Gobierno Insular de las Islas Filipinas fue el 7 de enero de 1901.</lex><lex lang="es" lid="Id4">El Gobierno Insular de las Islas Filipinas se fundó el 1 de julio de 1901.</lex></entry>
+    <entry category="Company" eid="Id42" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ireland | location | Europe</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ireland | location | Europe</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>isla_de_Irlanda | Ubicación | Europa</striple></spanishtripleset><lex lang="en" lid="Id1">Ireland is located in Europe.</lex>
+      <lex lang="en" lid="Id2">Ireland is a country in Europe.</lex>
+    <lex lang="es" lid="Id1">Irlanda está situada en Europa.</lex><lex lang="es" lid="Id2">Irlanda es un país de Europa.</lex></entry>
+    <entry category="Company" eid="Id43" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>King_of_Prussia,_Pennsylvania | timeZone | North_American_Eastern_Time_Zone</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>King_of_Prussia,_Pennsylvania | timeZone | North_American_Eastern_Time_Zone</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>King_of_Prussia,_Pennsylvania | ZonaHoraria | Zona_horaria_del_este_de_Norteamérica</striple></spanishtripleset><lex lang="en" lid="Id1">King of Prussia, Pennsylvania is in the North American Eastern time zone.</lex>
+      <lex lang="en" lid="Id2">The time zone for King of Prussia, Pennsylvania is the North American Eastern Time Zone.</lex>
+      <lex lang="en" lid="Id3">King of Prussia, Pennsylvania is in the North American Eastern Time Zone.</lex>
+    <lex lang="es" lid="Id1">King of Prussia, Pennsylvania está en la zona horaria del este de Norteamérica.</lex><lex lang="es" lid="Id2">La zona horaria de King of Prussia, Pennsylvania es la zona horaria del este de Norteamérica.</lex><lex lang="es" lid="Id3">King of Prussia, Pennsylvania está en la zona horaria del este de Norteamérica.</lex></entry>
+    <entry category="Company" eid="Id44" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>King_of_Prussia,_Pennsylvania | type | Census-designated_place</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>King_of_Prussia,_Pennsylvania | type | Census-designated_place</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>King_of_Prussia,_Pennsylvania | Tipo | lugar_designado_por_el_censo_en_los_Estados_Unidos</striple></spanishtripleset><lex lang="en" lid="Id1">King of Prussia, Pennsylvania is a census-designated place.</lex>
+      <lex lang="en" lid="Id2">King of Prussia in Pennsylvania is a census-designated place.</lex>
+    <lex lang="es" lid="Id1">King of Prussia, Pensilvania, es un lugar designado por el censo.</lex><lex lang="es" lid="Id2">King of Prussia, en Pensilvania, es un lugar designado por el censo.</lex></entry>
+    <entry category="Company" eid="Id45" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>La_Crosse,_Wisconsin | isPartOf | Wisconsin</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>La_Crosse,_Wisconsin | isPartOf | Wisconsin</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>La_Crosse,_Wisconsin | FormaParteDe | Wisconsin</striple></spanishtripleset><lex lang="en" lid="Id1">La Crosse is located in Wisconsin.</lex>
+      <lex lang="en" lid="Id2">La Crosse Wisconsin is part of Wisconsin.</lex>
+      <lex lang="en" lid="Id3">La Crosse is a city in the U.S. state of Wisconsin.</lex>
+      <lex lang="en" lid="Id4">La Crosse is part of Wisconsin.</lex>
+    <lex lang="es" lid="Id1">La Crosse está situada en Wisconsin.</lex><lex lang="es" lid="Id2">La Crosse Wisconsin es parte de Wisconsin.</lex><lex lang="es" lid="Id3">La Crosse es una ciudad del estado estadounidense de Wisconsin.</lex><lex lang="es" lid="Id4">La Crosse forma parte de Wisconsin.</lex></entry>
+    <entry category="Company" eid="Id46" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Manila | leaderTitle | "City Council"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Manila | leaderTitle | "City Council"</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Manila | TítuloDeLíder | Ayuntamiento</striple></spanishtripleset><lex lang="en" lid="Id1">Manila is led by the City Council.</lex>
+      <lex lang="en" lid="Id2">Manila is ruled by the City Council.</lex>
+      <lex lang="en" lid="Id3">Manila is governed by the City Council.</lex>
+    <lex lang="es" lid="Id1">Manila está dirigida por el Ayuntamiento.</lex><lex lang="es" lid="Id2">Manila está gobernada por el Ayuntamiento.</lex><lex lang="es" lid="Id3">Manila está gobernada por el Ayuntamiento.</lex></entry>
+    <entry category="Company" eid="Id47" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Manila | type | Capital_city</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Manila | type | Capital_city</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Manila | Tipo | Ciudad_capital</striple></spanishtripleset><lex lang="en" lid="Id1">Manila is the capital.</lex>
+      <lex lang="en" lid="Id2">Manila is the capital city.</lex>
+      <lex lang="en" lid="Id3">Manila is a capital city.</lex>
+    <lex lang="es" lid="Id1">Manila es la capital.</lex><lex lang="es" lid="Id2">Manila es la capital.</lex><lex lang="es" lid="Id3">Manila es una capital.</lex></entry>
+    <entry category="Company" eid="Id48" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Philippine_Entertainment_Portal | parentCompany | Summit_Media</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippine_Entertainment_Portal | parentCompany | Summit_Media</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Portal_filipino_del_entretenimiento | EmpresaMatriz | Cumbre_de_los_medios_de_comunicación</striple></spanishtripleset><lex lang="en" lid="Id1">Philippine Entertainment Portal's parent company is Summit Media.</lex>
+      <lex lang="en" lid="Id2">Philippine Entertainment Portal is a subsidiary of the Summit Media company.</lex>
+      <lex lang="en" lid="Id3">Summit Media is the parent company of Philippine Entertainment Portal.</lex>
+    <lex lang="es" lid="Id1">La empresa matriz de Philippine Entertainment Portal es Summit Media.</lex><lex lang="es" lid="Id2">Philippine Entertainment Portal es una filial de la empresa Summit Media.</lex><lex lang="es" lid="Id3">Summit Media es la empresa matriz de Philippine Entertainment Portal.</lex></entry>
+    <entry category="Company" eid="Id49" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Philippines | capital | Manila</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | capital | Manila</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Filipinas | Capital | Manila</striple></spanishtripleset><lex lang="en" lid="Id1">Manila is the capital city of the Philippines.</lex>
+      <lex lang="en" lid="Id2">Manila is the capital of the Philippines.</lex>
+      <lex lang="en" lid="Id3">The capital of the Philippines is Manila.</lex>
+    <lex lang="es" lid="Id1">Manila es la capital de Filipinas.</lex><lex lang="es" lid="Id2">Manila es la capital de Filipinas.</lex><lex lang="es" lid="Id3">La capital de Filipinas es Manila.</lex></entry>
+    <entry category="Company" eid="Id50" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Philippines | foundingDate | 1898-06-12</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | foundingDate | 1898-06-12</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Filipinas | FechaDeFundación | 12-06-1898</striple></spanishtripleset><lex lang="en" lid="Id1">The Philippines were founded on 12/06/1898.</lex>
+      <lex lang="en" lid="Id2">The Philippines were founded on 1898-06-12.</lex>
+      <lex lang="en" lid="Id3">The founding date of the Philippines was 6-12-1898.</lex>
+    <lex lang="es" lid="Id1">Filipinas se fundó el 12 de junio de 1898.</lex><lex lang="es" lid="Id2">Filipinas se fundó el 12 de junio de 1898.</lex><lex lang="es" lid="Id3">La fecha de fundación de Filipinas fue el 6 de diciembre de 1898.</lex></entry>
+    <entry category="Company" eid="Id51" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Philippines | leader | Aquilino_Pimentel_III</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | leader | Aquilino_Pimentel_III</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Filipinas | Líder | Aquilino_Pimentel_III</striple></spanishtripleset><lex lang="en" lid="Id1">Aquilino Pimentel III is the leader of Philippines.</lex>
+      <lex lang="en" lid="Id2">The leader of the Philippines is Aquilino Pimentel III.</lex>
+      <lex lang="en" lid="Id3">Aquilino Pimentel III is a Filipino leader.</lex>
+    <lex lang="es" lid="Id1">Aquilino Pimentel III es el líder de Filipinas.</lex><lex lang="es" lid="Id2">El líder de Filipinas es Aquilino Pimentel III.</lex><lex lang="es" lid="Id3">Aquilino Pimentel III es un dirigente filipino.</lex></entry>
+    <entry category="Company" eid="Id52" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Philippines | leader | Maria_Lourdes_Sereno</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | leader | Maria_Lourdes_Sereno</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Filipinas | Líder | Maria_Lourdes_Sereno</striple></spanishtripleset><lex lang="en" lid="Id1">Maria Lourdes Sereno is the leader of the Philippines.</lex>
+      <lex lang="en" lid="Id2">Filipina leader's name: Maria Lourdes Sereno.</lex>
+      <lex lang="en" lid="Id3">The leader of the Philippines is Maria Lourdes Sereno.</lex>
+      <lex lang="en" lid="Id4">Maria Lourdes Sereno is a Filipina leader.</lex>
+    <lex lang="es" lid="Id1">Maria Lourdes Sereno es la líder de Filipinas.</lex><lex lang="es" lid="Id2">Nombre de la dirigente filipina: Maria Lourdes Sereno.</lex><lex lang="es" lid="Id3">La dirigente de Filipinas es Maria Lourdes Sereno.</lex><lex lang="es" lid="Id4">Maria Lourdes Sereno es una dirigente filipina.</lex></entry>
+    <entry category="Company" eid="Id53" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Philippines | leader | Pantaleon_Alvarez</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | leader | Pantaleon_Alvarez</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Filipinas | Líder | Pantaleón_Álvarez</striple></spanishtripleset><lex lang="en" lid="Id1">The name of the leader of the Philippines is Pantaleon Alvarez.</lex>
+      <lex lang="en" lid="Id2">Pantaleon Alvarez is a political leader in the Philippines.</lex>
+      <lex lang="en" lid="Id3">Pantaleon Alvarez is a Filipino leader.</lex>
+      <lex lang="en" lid="Id4">The leader of the Philippines is Pantaleon Alvarez.</lex>
+    <lex lang="es" lid="Id1">El nombre del líder de Filipinas es Pantaleon Alvarez.</lex><lex lang="es" lid="Id2">Pantaleon Alvarez es un dirigente político filipino.</lex><lex lang="es" lid="Id3">Pantaleon Alvarez es un dirigente filipino.</lex><lex lang="es" lid="Id4">El líder de Filipinas es Pantaleon Alvarez.</lex></entry>
+    <entry category="Company" eid="Id54" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Philippines | leaderTitle | President</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | leaderTitle | President</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Filipinas | TítuloDeLíder | Presidente</striple></spanishtripleset><lex lang="en" lid="Id1">The President is the leader title of the Philippines.</lex>
+      <lex lang="en" lid="Id2">The leader of the Philippines has the title of President.</lex>
+      <lex lang="en" lid="Id3">The title of the leader of the Philippines is president.</lex>
+    <lex lang="es" lid="Id1">El Presidente es el título de líder de Filipinas.</lex><lex lang="es" lid="Id2">El líder de Filipinas tiene el título de Presidente.</lex><lex lang="es" lid="Id3">El título del líder de Filipinas es Presidente.</lex></entry>
+    <entry category="Company" eid="Id55" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Philippines | motto | "Maka-Diyos, Maka-Tao, Makakalikasan at Makabansa"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | motto | "Maka-Diyos, Maka-Tao, Makakalikasan at Makabansa"</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Filipinas | Lema | Maka-Diyos,_Maka-Tao,_Makakalikasan_en_Makabansa</striple></spanishtripleset><lex lang="en" lid="Id1">The motto of the Philippines is Maka-Diyos, Maka-Tao, Makakalikasan at Makabansa.</lex>
+      <lex lang="en" lid="Id2">"Maka-Diyos, Maka-Tao, Makakalikasan at Makabansa" is a motto of the Philippines.</lex>
+      <lex lang="en" lid="Id3">The motto of the Philippines is "Maka-Diyos, Maka-Tao, Makakalikasan at Makabansa".</lex>
+    <lex lang="es" lid="Id1">El lema de Filipinas es Maka-Diyos, Maka-Tao, Makakalikasan at Makabansa.</lex><lex lang="es" lid="Id2">"Maka-Diyos, Maka-Tao, Makakalikasan at Makabansa" es el lema de Filipinas.</lex><lex lang="es" lid="Id3">El lema de Filipinas es "Maka-Diyos, Maka-Tao, Makakalikasan at Makabansa".</lex></entry>
+    <entry category="Company" eid="Id56" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Philippines | officialLanguage | Filipino_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | officialLanguage | Filipino_language</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Filipinas | IdiomaOficial | idioma_filipino</striple></spanishtripleset><lex lang="en" lid="Id1">Filipino language is the official language in the Philippines.</lex>
+      <lex lang="en" lid="Id2">The official language of the Philippines is Filipino.</lex>
+      <lex lang="en" lid="Id3">The official language of the Philippines is the Filipino language.</lex>
+      <lex lang="en" lid="Id4">Filipino Language is the official language of the Philippines.</lex>
+      <lex lang="en" lid="Id5">The official language of the Philippines is Filipino language.</lex>
+    <lex lang="es" lid="Id1">El filipino es la lengua oficial de Filipinas.</lex><lex lang="es" lid="Id2">La lengua oficial de Filipinas es el filipino.</lex><lex lang="es" lid="Id3">La lengua oficial de Filipinas es el filipino.</lex><lex lang="es" lid="Id4">El filipino es la lengua oficial de Filipinas.</lex><lex lang="es" lid="Id5">La lengua oficial de Filipinas es el filipino.</lex></entry>
+    <entry category="Company" eid="Id57" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Philippines | officialLanguage | Philippine_English</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | officialLanguage | Philippine_English</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Filipinas | IdiomaOficial | inglés_filipino</striple></spanishtripleset><lex lang="en" lid="Id1">Philippine English is the official language of the Philippines.</lex>
+      <lex lang="en" lid="Id2">The official language of the Philippines is Philippine English.</lex>
+    <lex lang="es" lid="Id1">El inglés filipino es la lengua oficial de Filipinas.</lex><lex lang="es" lid="Id2">La lengua oficial de Filipinas es el inglés filipino.</lex></entry>
+    <entry category="Company" eid="Id58" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Philippines | timeZone | Philippine_Standard_Time</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | timeZone | Philippine_Standard_Time</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Filipinas | ZonaHoraria | Tiempo_Estándar_de_Filipinas</striple></spanishtripleset><lex lang="en" lid="Id1">The time zone used by the Philippines is Philippine Standard time.</lex>
+      <lex lang="en" lid="Id2">The Philippines' time zone is Philippine Standard Time.</lex>
+      <lex lang="en" lid="Id3">The Philippines is in the Philippine Standard Time Zone.</lex>
+      <lex lang="en" lid="Id4">The time zone for the Philippines is Philippine Standard Time.</lex>
+    <lex lang="es" lid="Id1">La zona horaria utilizada en Filipinas es la hora estándar filipina.</lex><lex lang="es" lid="Id2">La zona horaria de Filipinas es la hora estándar filipina.</lex><lex lang="es" lid="Id3">Filipinas pertenece al huso horario estándar filipino.</lex><lex lang="es" lid="Id4">La zona horaria de Filipinas es la hora estándar filipina.</lex></entry>
+    <entry category="Company" eid="Id59" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Quezon_City | areaTotal | 165330000.0</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Quezon_City | areaTotal | 165.33</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Quezon_City | areaTotal | 165.33</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Ciudad_Quezon | ÁreaTotal | 165.33</striple></spanishtripleset><lex lang="en" lid="Id1">Quezon City has a total area of 165.33.</lex>
+      <lex lang="en" lid="Id2">The total area of Quezon City is 165.33.</lex>
+    <lex lang="es" lid="Id1">Ciudad Quezón tiene una superficie total de 165,33.</lex><lex lang="es" lid="Id2">La superficie total de Ciudad Quezón es de 165,33.</lex></entry>
+    <entry category="Company" eid="Id60" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Quezon_City | leaderParty | Liberal_Party_(Philippines)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Quezon_City | leaderParty | Liberal_Party_(Philippines)</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Ciudad_Quezon | PartidoLíder | Partido_Liberal_de_Filipinas</striple></spanishtripleset><lex lang="en" lid="Id1">The leader party of Quezon City is the Liberal Party.</lex>
+      <lex lang="en" lid="Id2">The leader party for Quezon City is the Liberal Party (Philippines).</lex>
+      <lex lang="en" lid="Id3">The leader Party of Quezon City is the Liberal Party of the Philippines.</lex>
+      <lex lang="en" lid="Id4">The leader party of Quezon City in the Philippines is the Liberal Party.</lex>
+    <lex lang="es" lid="Id1">El partido líder de Quezon City es el Partido Liberal.</lex><lex lang="es" lid="Id2">El partido líder de Quezon City es el Partido Liberal (Filipinas).</lex><lex lang="es" lid="Id3">El partido líder de Quezon City es el Partido Liberal de Filipinas.</lex><lex lang="es" lid="Id4">El partido líder de Quezon City en Filipinas es el Partido Liberal.</lex></entry>
+    <entry category="Company" eid="Id61" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Quezon_City | type | Cities_of_the_Philippines</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Quezon_City | type | Cities_of_the_Philippines</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Ciudad_Quezon | Tipo | ciudad_de_Filipinas</striple></spanishtripleset><lex lang="en" lid="Id1">Quezon City is one of the cities in the Philippines.</lex>
+      <lex lang="en" lid="Id2">Quezon City is a city in the Philippines.</lex>
+      <lex lang="en" lid="Id3">Quezon City is one of the cities of the Philippines.</lex>
+    <lex lang="es" lid="Id1">Quezon City es una de las ciudades de Filipinas.</lex><lex lang="es" lid="Id2">Quezon City es una ciudad de Filipinas.</lex><lex lang="es" lid="Id3">Quezon City es una de las ciudades de Filipinas.</lex></entry>
+    <entry category="Company" eid="Id62" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Swords,_Dublin | areaUrban | 11.35</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Swords,_Dublin | areaUrban | 11.35</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Swords,_Dublín | ZonaUrbana | 11.35</striple></spanishtripleset><lex lang="en" lid="Id1">Swords, Dublin has an urban area of 11.35 square kilometres.</lex>
+      <lex lang="en" lid="Id2">The urban area of Swords Dublin is 11.35.</lex>
+      <lex lang="en" lid="Id3">The urban area of Swords, Dublin is 11.35.</lex>
+      <lex lang="en" lid="Id4">The urban area of the city of Swords, Dublin is 11.35.</lex>
+    <lex lang="es" lid="Id1">Swords, Dublín, tiene una superficie urbana de 11,35 kilómetros cuadrados.</lex><lex lang="es" lid="Id2">El área urbana de Swords Dublín es de 11,35.</lex><lex lang="es" lid="Id3">El área urbana de Swords, Dublín, es de 11,35.</lex><lex lang="es" lid="Id4">La superficie urbana de la ciudad de Swords, Dublín, es de 11,35.</lex></entry>
+    <entry category="Company" eid="Id63" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Swords,_Dublin | isPartOf | Leinster</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Swords,_Dublin | isPartOf | Leinster</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Swords,_Dublín | FormaParteDe | Leinster</striple></spanishtripleset><lex lang="en" lid="Id1">Swords, Dublin is part of Leinster.</lex>
+    <lex lang="es" lid="Id1">Swords, Dublín forma parte de Leinster.</lex></entry>
+    <entry category="Company" eid="Id64" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Swords,_Dublin | part | Donabate</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Swords,_Dublin | part | Donabate</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Swords,_Dublín | Pieza | Donabate</striple></spanishtripleset><lex lang="en" lid="Id1">Donabate is part of Swords, Dublin.</lex>
+    <lex lang="es" lid="Id1">Donabate es parte de Swords, Dublín.</lex></entry>
+    <entry category="Company" eid="Id65" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Swords,_Dublin | part | Kinsealy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Swords,_Dublin | part | Kinsealy</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Swords,_Dublín | Pieza | Kinsealy</striple></spanishtripleset><lex lang="en" lid="Id1">Kinsealy is a part of Swords.</lex>
+      <lex lang="en" lid="Id2">Kinsealy is a part of Swords, Dublin.</lex>
+      <lex lang="en" lid="Id3">Kinsealy is part of Swords, Dublin.</lex>
+    <lex lang="es" lid="Id1">Kinsealy forma parte de Swords.</lex><lex lang="es" lid="Id2">Kinsealy es una parte de Swords, Dublín.</lex><lex lang="es" lid="Id3">Kinsealy es parte de Swords, Dublín.</lex></entry>
+    <entry category="Company" eid="Id66" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Trane | foundationPlace | La_Crosse,_Wisconsin</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Trane | foundationPlace | La_Crosse,_Wisconsin</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Trane | LugarDeCimentación | La_Crosse,_Wisconsin</striple></spanishtripleset><lex lang="en" lid="Id1">The foundation place of Trane is La Crosse, Wisconsin.</lex>
+      <lex lang="en" lid="Id2">Trane was founded in La Crosse, Wisconsin.</lex>
+    <lex lang="es" lid="Id1">El lugar de fundación de Trane es La Crosse, Wisconsin.</lex><lex lang="es" lid="Id2">Trane se fundó en La Crosse, Wisconsin.</lex></entry>
+    <entry category="Company" eid="Id67" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Trane | foundingYear | 2007-01-01</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Trane | foundingYear | 1913-01-01</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Trane | foundingDate | 1913-01-01</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Trane | FechaDeFundación | 01-01-1913</striple></spanishtripleset><lex lang="en" lid="Id1">Trane was founded on 01-01-1913.</lex>
+      <lex lang="en" lid="Id2">The founding date of Trane is 1913-01-01.</lex>
+      <lex lang="en" lid="Id3">Trane was founded on 1913-01-01.</lex>
+      <lex lang="en" lid="Id4">Trane was founded on January 1, 1913.</lex>
+      <lex lang="en" lid="Id5">Trane was founded on January 1st 1913.</lex>
+    <lex lang="es" lid="Id1">Trane se fundó el 1 de enero de 1913.</lex><lex lang="es" lid="Id2">La fecha de fundación de Trane es 1 de enero de 1913.</lex><lex lang="es" lid="Id3">Trane se fundó el 1 de enero de 1913.</lex><lex lang="es" lid="Id4">Trane se fundó el 1 de enero de 1913.</lex><lex lang="es" lid="Id5">Trane se fundó el 1 de enero de 1913.</lex></entry>
+    <entry category="Company" eid="Id68" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Trane | industry | Building_materials</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Trane | industry | Building_materials</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Trane | Industria | Materiales_de_construcción</striple></spanishtripleset><lex lang="en" lid="Id1">The Trane industry is building materials.</lex>
+      <lex lang="en" lid="Id2">Trane is in the building materials industry.</lex>
+      <lex lang="en" lid="Id3">Trane's industry is building materials.</lex>
+      <lex lang="en" lid="Id4">Trane produces building materials.</lex>
+    <lex lang="es" lid="Id1">El sector de Trane es el de los materiales de construcción.</lex><lex lang="es" lid="Id2">Trane pertenece al sector de los materiales de construcción.</lex><lex lang="es" lid="Id3">El sector de Trane es el de los materiales de construcción.</lex><lex lang="es" lid="Id4">Trane produce materiales de construcción.</lex></entry>
+    <entry category="Company" eid="Id69" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Trane | netIncome | 5.563E8</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Trane | netIncome | 556300000</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Trane | IngresosNetos | 556300000</striple></spanishtripleset><lex lang="en" lid="Id1">Trane has a net income of $556,300,000.</lex>
+      <lex lang="en" lid="Id2">Trane has a net income of about $556 million.</lex>
+      <lex lang="en" lid="Id3">The net income of Trane is $556,300,000.</lex>
+    <lex lang="es" lid="Id1">Trane tiene unos ingresos netos de 556.300.000 dólares.</lex><lex lang="es" lid="Id2">Los ingresos netos de Trane rondan los 556 millones de dólares.</lex><lex lang="es" lid="Id3">Los ingresos netos de Trane ascienden a 556.300.000 dólares.</lex></entry>
+    <entry category="Company" eid="Id70" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Trane | numberOfEmployees | 29000</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Trane | numberOfEmployees | 29000</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Trane | NúmeroDeEmpleados | 29000</striple></spanishtripleset><lex lang="en" lid="Id1">The number of employees in Trane is 29,000.</lex>
+      <lex lang="en" lid="Id2">There are 29000 people employed by Trane.</lex>
+      <lex lang="en" lid="Id3">The number of employees at Trane is 29,000.</lex>
+      <lex lang="en" lid="Id4">Trane has 29,000 employees.</lex>
+    <lex lang="es" lid="Id1">El número de empleados de Trane es de 29.000.</lex><lex lang="es" lid="Id2">Trane emplea a 29 000 personas.</lex><lex lang="es" lid="Id3">El número de empleados de Trane es de 29.000.</lex><lex lang="es" lid="Id4">Trane tiene 29.000 empleados.</lex></entry>
+    <entry category="Company" eid="Id71" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Trane | product | Building_Management_System</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Trane | product | Building_Management_System</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Trane | Producto | Sistema_de_gestión_de_edificios</striple></spanishtripleset><lex lang="en" lid="Id1">Trane makes building management systems.</lex>
+      <lex lang="en" lid="Id2">Trane produces building management systems.</lex>
+      <lex lang="en" lid="Id3">Trane manufactures building management systems.</lex>
+    <lex lang="es" lid="Id1">Trane fabrica sistemas de gestión de edificios.</lex><lex lang="es" lid="Id2">Trane fabrica sistemas de gestión de edificios.</lex><lex lang="es" lid="Id3">Trane fabrica sistemas de gestión de edificios.</lex></entry>
+    <entry category="Company" eid="Id72" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Trane | product | HVAC</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Trane | product | HVAC</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Trane | Producto | HVAC</striple></spanishtripleset><lex lang="en" lid="Id1">Trane manufactures HVAC.</lex>
+      <lex lang="en" lid="Id2">One of Trane’s products is HVAC.</lex>
+      <lex lang="en" lid="Id3">Trane produces HVAC.</lex>
+      <lex lang="en" lid="Id4">HVAC is one of Trane's products.</lex>
+      <lex lang="en" lid="Id5">Trane produces HVAC products.</lex>
+    <lex lang="es" lid="Id1">Trane fabrica HVAC.</lex><lex lang="es" lid="Id2">Uno de los productos de Trane es HVAC.</lex><lex lang="es" lid="Id3">Trane produce HVAC.</lex><lex lang="es" lid="Id4">HVAC es uno de los productos de Trane.</lex><lex lang="es" lid="Id5">Trane fabrica productos HVAC.</lex></entry>
+    <entry category="Company" eid="Id73" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Trane | revenue | 1.0264E10</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Trane | revenue | 10264000000</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Trane | Ingresos | 10264000000</striple></spanishtripleset><lex lang="en" lid="Id1">The revenue of Trane is 10264000000.</lex>
+      <lex lang="en" lid="Id2">Trane has a revenue of $10,264,000,000.</lex>
+      <lex lang="en" lid="Id3">The revenue of Trane is $10,264,000,000.</lex>
+    <lex lang="es" lid="Id1">Los ingresos de Trane son 10264000000.</lex><lex lang="es" lid="Id2">Trane tiene unos ingresos de 10.264.000.000 $.</lex><lex lang="es" lid="Id3">Los ingresos de Trane ascienden a 10.264.000.000 $.</lex></entry>
+    <entry category="Company" eid="Id74" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Trane | type | Subsidiary</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Trane | type | Subsidiary</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Trane | Tipo | filial</striple></spanishtripleset><lex lang="en" lid="Id1">Trane is a subsidiary company.</lex>
+      <lex lang="en" lid="Id2">Trane is a subsidiary.</lex>
+      <lex lang="en" lid="Id3">The Trane company is a subsidiary.</lex>
+    <lex lang="es" lid="Id1">Trane es una empresa filial.</lex><lex lang="es" lid="Id2">Trane es una filial.</lex><lex lang="es" lid="Id3">La empresa Trane es una filial.</lex></entry>
+    <entry category="Company" eid="Id75" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States | areaTotal | 9833516.638013326</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>United_States | areaTotal | 9833520000000.0</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | areaTotal | 9833516.63  (square kilometres)</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Estados_Unidos | ÁreaTotal | 9833516,63_(kilómetros_cuadrados)</striple></spanishtripleset><lex lang="en" lid="Id1">The United States covers a total area of 9833516.63 (square kilometres).</lex>
+      <lex lang="en" lid="Id2">The total area of the United States is 9833516.63 (square kilometres).</lex>
+      <lex lang="en" lid="Id3">The total area of the United States is 9,833,516.63 square kilometers.</lex>
+      <lex lang="en" lid="Id4">The total area of the United States is 9833516.63 in square kilometres.</lex>
+    <lex lang="es" lid="Id1">Estados Unidos tiene una superficie total de 9833516,63 (kilómetros cuadrados).</lex><lex lang="es" lid="Id2">La superficie total de Estados Unidos es de 9833516,63 (kilómetros cuadrados).</lex><lex lang="es" lid="Id3">La superficie total de Estados Unidos es de 9.833.516,63 kilómetros cuadrados.</lex><lex lang="es" lid="Id4">La superficie total de Estados Unidos es de 9833516,63 kilómetros cuadrados.</lex></entry>
+    <entry category="Company" eid="Id76" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | African-American</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | African-American</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Estados_Unidos | GrupoÉtnico | Afroamericano</striple></spanishtripleset><lex lang="en" lid="Id1">African-American is an ethnic grouping in the United States.</lex>
+      <lex lang="en" lid="Id2">One ethnic group in the United States is African-American.</lex>
+      <lex lang="en" lid="Id3">African-American is an ethnic group in the United States.</lex>
+    <lex lang="es" lid="Id1">El Afroamericano es un grupo étnico de Estados Unidos.</lex><lex lang="es" lid="Id2">Uno de los grupos étnicos de Estados Unidos es el Afroamericano.</lex><lex lang="es" lid="Id3">El Afroamericano es un grupo étnico de Estados Unidos.</lex></entry>
+    <entry category="Company" eid="Id77" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Native_American</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Native_American</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Estados_Unidos | GrupoÉtnico | Nativos_americanos</striple></spanishtripleset><lex lang="en" lid="Id1">Native-American is a United States ethnic grouping.</lex>
+      <lex lang="en" lid="Id2">Native American is one of the ethnic groups in the United States.</lex>
+      <lex lang="en" lid="Id3">One ethnic group in the United States is Native American.</lex>
+      <lex lang="en" lid="Id4">Native Americans are an ethnic group in the United States.</lex>
+      <lex lang="en" lid="Id5">Native American is a United States ethnic group.</lex>
+    <lex lang="es" lid="Id1">Nativo-americano es un grupo étnico de Estados Unidos.</lex><lex lang="es" lid="Id2">El nativo americano es uno de los grupos étnicos de Estados Unidos.</lex><lex lang="es" lid="Id3">Uno de los grupos étnicos de Estados Unidos es el de los nativos americanos.</lex><lex lang="es" lid="Id4">Los nativos americanos son un grupo étnico de Estados Unidos.</lex><lex lang="es" lid="Id5">Los nativos americanos son un grupo étnico de Estados Unidos.</lex></entry>
+    <entry category="Company" eid="Id78" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | White_American</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | White_American</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Estados_Unidos | GrupoÉtnico | Blanco_americano</striple></spanishtripleset><lex lang="en" lid="Id1">White-American is an ethnic grouping in the United States.</lex>
+      <lex lang="en" lid="Id2">One of the ethnic groups of the United States is White Americans.</lex>
+      <lex lang="en" lid="Id3">White American is one of the ethnic groups in the United States.</lex>
+      <lex lang="en" lid="Id4">One ethnic group in the United States is White American.</lex>
+    <lex lang="es" lid="Id1">Blanco-americano es un grupo étnico de Estados Unidos.</lex><lex lang="es" lid="Id2">Uno de los grupos étnicos de Estados Unidos es el de los estadounidenses blancos.</lex><lex lang="es" lid="Id3">El americano blanco es uno de los grupos étnicos de Estados Unidos.</lex><lex lang="es" lid="Id4">Uno de los grupos étnicos de Estados Unidos es el estadounidense blanco.</lex></entry>
+    <entry category="Company" eid="Id79" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States | foundingDate | 1776-07-04</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | foundingDate | 1776-07-04</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Estados_Unidos | FechaDeFundación | 04-07-1776</striple></spanishtripleset><lex lang="en" lid="Id1">The United States was founded on July 4, 1776.</lex>
+      <lex lang="en" lid="Id2">The United States was founded on 07-04-1776.</lex>
+      <lex lang="en" lid="Id3">The founding date of the United States was 1776-07-04.</lex>
+    <lex lang="es" lid="Id1">Estados Unidos se fundó el 4 de julio de 1776.</lex><lex lang="es" lid="Id2">Estados Unidos se fundó el 7 de abril de 1776.</lex><lex lang="es" lid="Id3">La fecha de fundación de Estados Unidos fue 4 de julio de 1776.</lex></entry>
+    <entry category="Company" eid="Id80" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States | governmentType | Federalism</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | governmentType | Federalism</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Estados_Unidos | TipoDeGobierno | federalismo</striple></spanishtripleset><lex lang="en" lid="Id1">The type of government in the United States is federalism.</lex>
+      <lex lang="en" lid="Id2">Federalism is the type of government in the United States.</lex>
+      <lex lang="en" lid="Id3">The United States has a Federalism government type.</lex>
+      <lex lang="en" lid="Id4">The United States operates a federal government system.</lex>
+    <lex lang="es" lid="Id1">El tipo de gobierno en Estados Unidos es el federalismo.</lex><lex lang="es" lid="Id2">El federalismo es el tipo de gobierno de Estados Unidos.</lex><lex lang="es" lid="Id3">Estados Unidos tiene un tipo de gobierno federalista.</lex><lex lang="es" lid="Id4">Estados Unidos tiene un sistema de gobierno federal.</lex></entry>
+    <entry category="Company" eid="Id81" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States | leader | Paul_Ryan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leader | Paul_Ryan</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Estados_Unidos | Líder | Paul_Ryan</striple></spanishtripleset><lex lang="en" lid="Id1">Paul Ryan is the leader of the United States.</lex>
+      <lex lang="en" lid="Id2">One of the leaders of the United States is named Paul Ryan.</lex>
+      <lex lang="en" lid="Id3">Paul Ryan is the name of one of the government leaders in the United States.</lex>
+    <lex lang="es" lid="Id1">Paul Ryan es el líder de los Estados Unidos.</lex><lex lang="es" lid="Id2">Uno de los líderes de Estados Unidos se llama Paul Ryan.</lex><lex lang="es" lid="Id3">Paul Ryan es el nombre de uno de los líderes del Gobierno de Estados Unidos.</lex></entry>
+    <entry category="Company" eid="Id82" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | "Vice President"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | "Vice President"</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Estados_Unidos | TítuloDeLíder | Vicepresidente</striple></spanishtripleset><lex lang="en" lid="Id1">Vice President is a United States leadership title.</lex>
+      <lex lang="en" lid="Id2">One of the leaders of the United States has the title of Vice President.</lex>
+      <lex lang="en" lid="Id3">Vice President is one of the titles of government leaders in the United States.</lex>
+    <lex lang="es" lid="Id1">Vicepresidente es un cargo directivo de Estados Unidos.</lex><lex lang="es" lid="Id2">Uno de los líderes de Estados Unidos tiene el título de Vicepresidente.</lex><lex lang="es" lid="Id3">Vicepresidente es uno de los títulos de los dirigentes del Gobierno de Estados Unidos.</lex></entry>
+    <entry category="Company" eid="Id83" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States | percentageOfAreaWater | 6.97</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | percentageOfAreaWater | 6.97</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Estados_Unidos | PorcentajeDeSuperficieAgua | 6.97</striple></spanishtripleset><lex lang="en" lid="Id1">The total area of the United States covered by water is 6.97 percent.</lex>
+      <lex lang="en" lid="Id2">6.97 percent of the area of the United States is water.</lex>
+      <lex lang="en" lid="Id3">The percentage of the United States covered by water is 6.97%.</lex>
+    <lex lang="es" lid="Id1">La superficie total de Estados Unidos cubierta por agua es del 6.97%.</lex><lex lang="es" lid="Id2">El 6.97% de la superficie de Estados Unidos es agua.</lex><lex lang="es" lid="Id3">El porcentaje de Estados Unidos cubierto por agua es del 6.97%.</lex></entry>
+  </entries>
+</benchmark>

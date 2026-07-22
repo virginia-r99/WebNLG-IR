@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+	<entries>
+		<entry category="Monument" eid="Id1" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Monumento_a_Atatürk_(Esmirna) | Diseñador | Pietro_Canonica</striple></spanishtripleset><lex lang="en" lid="Id1">The Atatürk Monument in Izmir was designed by Pietro Canonica.</lex>
+			<lex lang="en" lid="Id2">Pietro Canonica designed the Atatürk Monument in Izmir.</lex>
+			<lex lang="en" lid="Id3">Pietro Canonica is the designer of the Ataturk Monument (Izmir).</lex>
+			<lex lang="en" lid="Id4">The Ataturk Monument was designed by Pietro Canonica.</lex>
+			<lex lang="en" lid="Id5">Ataturk Monument was designed by Pietro Canonica.</lex>
+			<lex lang="en" lid="Id6">The Atatürk Monument (Esmirna) was designed by Pietro Canonica.</lex>
+			<lex lang="en" lid="Id7">The designer of the Atatürk Monument (Esmirna) is Pietro Canonica.</lex>
+			<lex lang="en" lid="Id8">Pietro Canonica is the designer of the Ataturk Monument in Izmir.</lex>
+			<lex lang="es" lid="Id1">El monumento de Atatürk en Esmirna fue diseñado por Pietro Canonica.</lex>
+			<lex lang="es" lid="Id2">Pietro Canonica diseñó el monumento de Atatürk en Esmirna.</lex>
+			<lex lang="es" lid="Id3">Pietro Canonica es el diseñador del monumento de Ataturk (Esmirna).</lex>
+			<lex lang="es" lid="Id4">El monumento de Ataturk fue diseñado por Pietro Canonica.</lex>
+			<lex lang="es" lid="Id5">El monumento de Ataturk fue diseñado por Pietro Canonica.</lex>
+			<lex lang="es" lid="Id6">El monumento de Atatürk (Esmirna) fue diseñado por Pietro Canonica.</lex>
+			<lex lang="es" lid="Id7">El diseñador del monumento de Atatürk (Esmirna) es Pietro Canonica.</lex>
+			<lex lang="es" lid="Id8">Pietro Canonica es el diseñador del monumento de Ataturk en Esmirna.</lex>
+		</entry>
+		<entry category="Monument" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Atatürk_Monument_(İzmir) | material | "Bronze"@en</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Atatürk_Monument_(İzmir) | material | "Bronze"</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Monumento_a_Atatürk_(Esmirna) | Material | bronce</striple></spanishtripleset><lex lang="en" lid="Id1">The Atatürk Monument in Izmir is made of bronze.</lex>
+			<lex lang="en" lid="Id2">The material of the Ataturk Monument (Izmir) is bronze.</lex>
+			<lex lang="en" lid="Id3">The Ataturk Monument is made from Bronze.</lex>
+			<lex lang="en" lid="Id4">The Atatürk Monument (İzmir) is made of Bronze.</lex>
+			<lex lang="en" lid="Id5">Ataturk Monument is made of Bronze.</lex>
+			<lex lang="es" lid="Id1">El monumento de Atatürk en Esmirna es de bronce.</lex>
+			<lex lang="es" lid="Id2">El material del monumento de Ataturk (Esmirna) es el bronce.</lex>
+			<lex lang="es" lid="Id3">El monumento de Ataturk es de bronce.</lex>
+			<lex lang="es" lid="Id4">El monumento de Atatürk (Esmirna) es de bronce.</lex>
+			<lex lang="es" lid="Id5">El monumento de Ataturk está hecho de bronce.</lex>
+		</entry>
+		<entry category="Monument" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Azerbaijan | leaderName | Artur_Rasizade</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Azerbaijan | leader | Artur_Rasizade</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Azerbaiyán | Líder | Artur_Rasizade</striple></spanishtripleset><lex lang="en" lid="Id1">Azerbaijan leader's name is Artur Rasizade.</lex>
+			<lex lang="en" lid="Id2">The name of the leader of Azerbaijan is Artur Rasizade.</lex>
+			<lex lang="es" lid="Id1">El líder de Azerbaiyán se llama Artur Rasizade.</lex>
+			<lex lang="es" lid="Id2">El nombre del líder de Azerbaiyán es Artur Rasizade.</lex>
+		</entry>
+		<entry category="Monument" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Monumento_a_los_mártires_turcos_de_Bakú | Ubicación | Azerbaiyán</striple></spanishtripleset><lex lang="en" lid="Id1">The Baku Turkish Martyrs' Memorial is located in Azerbaijan.</lex>
+			<lex lang="en" lid="Id2">The Baku Turkish Martyrs' Memorial is in Azerbaijan.</lex>
+			<lex lang="en" lid="Id3">The Turkish Martyrs' memorial is located in Baku, Azerbaijan.</lex>
+			<lex lang="en" lid="Id4">Baku Turkish Martyrs' Memorial is located in Azerbaijan.</lex>
+			<lex lang="en" lid="Id5">The Baku Turkish Martyrs' Memorial can be found in Azerbaijan.</lex>
+			<lex lang="en" lid="Id6">The Baku Turkish Martyrs' Memorial is situated in Azerbaijan.</lex>
+			<lex lang="en" lid="Id7">The Baku Turkish Martyrs' Memorial is found in Azerbaijan.</lex>
+			<lex lang="es" lid="Id1">El Monumento a los Mártires Turcos de Bakú se localiza en Azerbaiyán.</lex>
+			<lex lang="es" lid="Id2">El Monumento a los Mártires Turcos de Bakú está en Azerbaiyán.</lex>
+			<lex lang="es" lid="Id3">El monumento a los mártires turcos se encuentra en Bakú (Azerbaiyán).</lex>
+			<lex lang="es" lid="Id4">El Monumento a los Mártires Turcos de Bakú se localiza en Azerbaiyán.</lex>
+			<lex lang="es" lid="Id5">El monumento a los mártires turcos de Bakú puede ser encontrado en Azerbaiyán.</lex>
+			<lex lang="es" lid="Id6">El Monumento a los Mártires Turcos de Bakú está situado en Azerbaiyán.</lex>
+			<lex lang="es" lid="Id7">El monumento a los mártires turcos de Bakú se encuentra en Azerbaiyán.</lex>
+		</entry>
+		<entry category="Monument" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
+			<originaltripleset>
+				<otriple>Baku_Turkish_Martyrs'_Memorial | material | "Red granite and white marble"@en</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Baku_Turkish_Martyrs'_Memorial | material | "Red granite and white marble"</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Monumento_a_los_mártires_turcos_de_Bakú | Material | Granito_rojo_y_mármol_blanco</striple></spanishtripleset><lex lang="en" lid="Id1">The materials used for the Baku Turkish Martyrs' Memorial is red granite and white marble.</lex>
+			<lex lang="en" lid="Id2">The Baku Turkish Martyrs' Memorial is created in red granite and white marble.</lex>
+			<lex lang="en" lid="Id3">The material of the Baku Turkish Martyrs' Memorial is Red granite and white marble.</lex>
+			<lex lang="en" lid="Id4">The Baku Turkish Martyrs' Memorial is made from red granite and white marble.</lex>
+			<lex lang="en" lid="Id5">Baku Turkish Martyrs' Memorial is made of red granite and white marble.</lex>
+			<lex lang="en" lid="Id6">Baku Turkish Martyrs' Memorial is made from red granite and white marble.</lex>
+			<lex lang="en" lid="Id7">The Baku Turkish Martyrs' Memorial is made with red granite and white marble.</lex>
+			<lex lang="es" lid="Id1">Los materiales utilizados para el Monumento a los Mártires Turcos de Bakú son granito rojo y mármol blanco.</lex>
+			<lex lang="es" lid="Id2">El Monumento a los Mártires Turcos de Bakú está realizado en granito rojo y mármol blanco.</lex>
+			<lex lang="es" lid="Id3">El material del Monumento a los Mártires Turcos de Bakú es granito rojo y mármol blanco.</lex>
+			<lex lang="es" lid="Id4">El Monumento a los Mártires Turcos de Bakú está hecho de granito rojo y mármol blanco.</lex>
+			<lex lang="es" lid="Id5">El Monumento a los Mártires Turcos de Bakú está hecho de granito rojo y mármol blanco.</lex>
+			<lex lang="es" lid="Id6">El Monumento a los Mártires Turcos de Bakú está hecho con granito rojo y mármol blanco.</lex>
+			<lex lang="es" lid="Id7">El Monumento a los Mártires Turcos de Bakú está construido con granito rojo y mármol blanco.</lex>
+		</entry>
+	</entries>
+</benchmark>

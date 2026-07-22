@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Company" eid="Id1" shape="(X (X) (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="7">
+      <originaltripleset>
+        <otriple>Hypermarcas | industry | Pharmaceuticals</otriple>
+        <otriple>Hypermarcas | subsidiary | Mantecorp</otriple>
+        <otriple>Hypermarcas | netIncome | 1.086E8</otriple>
+        <otriple>Hypermarcas | numberOfEmployees | 10252</otriple>
+        <otriple>Hypermarcas | product | Healthcare</otriple>
+        <otriple>Hypermarcas | location | São_Paulo</otriple>
+        <otriple>Hypermarcas | revenue | 1.8E9</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Hypermarcas | industry | Pharmaceuticals</mtriple>
+        <mtriple>Hypermarcas | subsidiary | Mantecorp</mtriple>
+        <mtriple>Hypermarcas | netIncome | 108600000</mtriple>
+        <mtriple>Hypermarcas | numberOfEmployees | 10252</mtriple>
+        <mtriple>Hypermarcas | product | Healthcare</mtriple>
+        <mtriple>Hypermarcas | location | São_Paulo</mtriple>
+        <mtriple>Hypermarcas | revenue | 1800000000</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Hipermarcas | Industria | Productos_farmacéuticos</striple><striple>Hipermarcas | Filial | Mantecorp</striple><striple>Hipermarcas | IngresosNetos | 108600000</striple><striple>Hipermarcas | NúmeroDeEmpleados | 10252</striple><striple>Hipermarcas | Producto | Sanidad</striple><striple>Hipermarcas | Ubicación | São_Paulo</striple><striple>Hipermarcas | Ingresos | 1800000000</striple></spanishtripleset><lex lang="en" lid="Id1">Hypermarcas is a pharmaceutical company which produces healthcare products. Located in Sao Paulo, they employ 10,252 people, and own the subsidiary Mantecorp. They make $1,800,000,000 a year and have a net income of 108,600,000.</lex>
+      <lex lang="en" lid="Id2">Hypermarcas, a seller of healthcare products in the pharmaceutical industry, is based in São Paulo where they employ 10,252 employees. They earn $1800000000 a year, netting $108,600,000. They also have a subsidiary called Mantecorp.</lex>
+      <lex lang="en" lid="Id3">Mantecorp is a subsidiary of Hypermarcas, which is a pharmaceutical company that makes healthcare products. Hypermarcas employs 10,252 in the Sao Paulo area while generating 1,800,000,000 in revenue.</lex>
+    <lex lang="es" lid="Id1">Hypermarcas es una empresa farmacéutica que fabrica productos sanitarios. Situada en Sao Paulo, emplea a 10.252 personas y es propietaria de la filial Mantecorp. Ganan 1.800.000.000 de dólares al año y tienen unos ingresos netos de 108.600.000.</lex><lex lang="es" lid="Id2">Hypermarcas, un vendedor de productos sanitarios en la industria farmacéutica, tiene su sede en São Paulo, donde emplea a 10.252 trabajadores. Ganan $1800000000 al año, lo que supone 108.600.000 dólares netos. También tienen una filial llamada Mantecorp.</lex><lex lang="es" lid="Id3">Mantecorp es una filial de Hypermarcas, que es una empresa farmacéutica que fabrica productos sanitarios. Hypermarcas emplea a 10.252 personas en la zona de Sao Paulo y genera 1.800.000.000 de ingresos.</lex></entry>
+  </entries>
+</benchmark>

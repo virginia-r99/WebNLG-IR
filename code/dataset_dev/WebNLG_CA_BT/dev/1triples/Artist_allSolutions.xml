@@ -1,0 +1,935 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Artist" eid="Id1" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aaron_Bertram | activeYearsStartYear | "1998"^^xsd:gYear</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Bertram | activeYearsStartYear | 1998</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aaron_Bertram | AñosActivosAñoDeInicio | 1998</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Aaron_Bertram | activeYearsStartYear | 1998</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Aaron_Bertram | AnysActiusAnyD'inici | 1998</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Aaron Bertram started performing in 1998.</lex>
+      <lex lang="es" lid="Id1">Aaron Bertram empezó a actuar en 1998.</lex>
+      <lex lang="ca" lid="Id1">Aaron Bertram va començar a actuar el 1998.</lex>
+      <lex lang="en_bt" lid="Id1">Aaron Bertram began acting in 1998.</lex>
+      </entry>
+    <entry category="Artist" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aaron_Deer | associatedBand | The_Horns_of_Happiness</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Deer | associatedBand/associatedMusicalArtist | The_Horns_of_Happiness</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aaron_Deer | BandaAsociada/artistaMusicalAsociado | The_Horns_of_Happiness</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Aaron_Deer | associatedBand/associatedMusicalArtist | The_Horns_of_Happiness</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Aaron_Deer | BandaAssociada/artistaMusicalAssociat | Les_banyes_de_la_felicitat</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Aaron Deer collaborates with The Horns of Happiness.</lex>
+      <lex lang="en" lid="Id2">Aaron Deer plays with The Horns of Happiness.</lex>
+      <lex lang="es" lid="Id1">Aaron Deer colabora con The Horns of Happiness.</lex>
+      <lex lang="es" lid="Id2">Aaron Deer toca con The Horns of Happiness.</lex>
+      <lex lang="ca" lid="Id1">Aaron Deer col·labora amb The Horns of Happiness.</lex>
+      <lex lang="ca" lid="Id2">Aaron Deer toca amb The Horns of Happiness.</lex>
+      <lex lang="en_bt" lid="Id1">Aaron Deer collaborates with The Horns of Happiness.</lex>
+      <lex lang="en_bt" lid="Id2">Aaron Deer plays with The Horns of Happiness.</lex>
+      </entry>
+    <entry category="Artist" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aaron_Turner | genre | Avant-garde_metal</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Turner | genre | Avant-garde_metal</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aaron_Turner | Género | Avant-garde_metal</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Aaron_Turner | genre | Avant-garde_metal</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Aaron_Turner | Gènere | Avant-garde_metal</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Aaron Turner falls in the genre of avant-garde metal music.</lex>
+      <lex lang="en" lid="Id2">Aaron Turner performs avant-garde metal music.</lex>
+      <lex lang="en" lid="Id3">Aaron Turner also uses the musical genre Avant-garde metal.</lex>
+      <lex lang="es" lid="Id1">Aaron Turner pertenece al género de la música metal vanguardista.</lex>
+      <lex lang="es" lid="Id2">Aaron Turner interpreta música metal vanguardista.</lex>
+      <lex lang="es" lid="Id3">Aaron Turner también utiliza el género musical metal vanguardista.</lex>
+      <lex lang="ca" lid="Id1">Aaron Turner cau en el gènere de la música metal avantguardista.</lex>
+      <lex lang="ca" lid="Id2">Aaron Turner interpreta música metal d'avantguarda.</lex>
+      <lex lang="ca" lid="Id3">Aaron Turner també utilitza el gènere musical Avant-garde metal.</lex>
+      <lex lang="en_bt" lid="Id1">Aaron Turner falls into the genre of avant-garde metal music.</lex>
+      <lex lang="en_bt" lid="Id2">Aaron Turner plays avant-garde metal music.</lex>
+      <lex lang="en_bt" lid="Id3">Aaron Turner also uses the musical genre Avant-garde metal.</lex>
+      </entry>
+    <entry category="Artist" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aaron_Turner | genre | Black_metal</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Turner | genre | Black_metal</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aaron_Turner | Género | black_metal</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Aaron_Turner | genre | Black_metal</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Aaron_Turner | Gènere | black_metal</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Aaron Turner performs black metal music.</lex>
+      <lex lang="en" lid="Id2">Aaron Turner is a Black metal musician.</lex>
+      <lex lang="en" lid="Id3">Black Metal is a genre of Aaron Turner's music.</lex>
+      <lex lang="es" lid="Id1">Aaron Turner interpreta música black metal.</lex>
+      <lex lang="es" lid="Id2">Aaron Turner es un músico de Black metal.</lex>
+      <lex lang="es" lid="Id3">El Black Metal es un género musical de Aaron Turner.</lex>
+      <lex lang="ca" lid="Id1">Aaron Turner interpreta música de black metal.</lex>
+      <lex lang="ca" lid="Id2">Aaron Turner és un músic de black metal.</lex>
+      <lex lang="ca" lid="Id3">El Black Metal és un gènere de la música d'Aaron Turner.</lex>
+      <lex lang="en_bt" lid="Id1">Aaron Turner plays black metal music.</lex>
+      <lex lang="en_bt" lid="Id2">Aaron Turner is a black metal musician.</lex>
+      <lex lang="en_bt" lid="Id3">Black Metal is a genre of music by Aaron Turner.</lex>
+      </entry>
+    <entry category="Artist" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aaron_Turner | hometown | Boston</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Turner | origin | Boston</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aaron_Turner | Origen | Boston</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Aaron_Turner | origin | Boston</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Aaron_Turner | Origen | Boston</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Aaron Turner originates from Boston.</lex>
+      <lex lang="en" lid="Id2">Aaron Turner was born in Boston.</lex>
+      <lex lang="en" lid="Id3">Aaron Turner is originally from Boston.</lex>
+      <lex lang="es" lid="Id1">Aaron Turner es originario de Boston.</lex>
+      <lex lang="es" lid="Id2">Aaron Turner nació en Boston.</lex>
+      <lex lang="es" lid="Id3">Aaron Turner es originario de Boston.</lex>
+      <lex lang="ca" lid="Id1">Aaron Turner és originari de Boston.</lex>
+      <lex lang="ca" lid="Id2">Aaron Turner va néixer a Boston.</lex>
+      <lex lang="ca" lid="Id3">Aaron Turner és originari de Boston.</lex>
+      <lex lang="en_bt" lid="Id1">Aaron Turner is originally from Boston.</lex>
+      <lex lang="en_bt" lid="Id2">Aaron Turner was born in Boston.</lex>
+      <lex lang="en_bt" lid="Id3">Aaron Turner is originally from Boston.</lex>
+      </entry>
+    <entry category="Artist" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abradab | associatedMusicalArtist | Magik_(rapper)</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Abradab | associatedBand | Magik_(rapper)</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abradab | associatedBand/associatedMusicalArtist | Magik_(rapper)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Abradab | BandaAsociada/artistaMusicalAsociado | Magik</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Abradab | associatedBand/associatedMusicalArtist | Magik_(rapper)</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Abradab | BandaAssociada/artistaMusicalAssociat | Magik_(raper)</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Abradab is associated with Magik (rapper).</lex>
+      <lex lang="en" lid="Id2">Abradab is musically associated with the rapper Magik.</lex>
+      <lex lang="en" lid="Id3">Abradab is associated with the rapper Magik.</lex>
+      <lex lang="es" lid="Id1">Abradab está asociado con Magik (rapero).</lex>
+      <lex lang="es" lid="Id2">Abradab está asociado musicalmente con el rapero Magik.</lex>
+      <lex lang="es" lid="Id3">Abradab está asociado con el rapero Magik.</lex>
+      <lex lang="ca" lid="Id1">Abradab està associat amb Magik (raper).</lex>
+      <lex lang="ca" lid="Id2">Abradab està associat musicalment amb el raper Magik.</lex>
+      <lex lang="ca" lid="Id3">Abradab està associat amb el raper Magik.</lex>
+      <lex lang="en_bt" lid="Id1">Abradab is associated with Magik (rapper).</lex>
+      <lex lang="en_bt" lid="Id2">Abradab is musically associated with rapper Magik.</lex>
+      <lex lang="en_bt" lid="Id3">Abradab is associated with rapper Magik.</lex>
+      </entry>
+    <entry category="Artist" eid="Id7" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abradab | background | "solo_singer"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abradab | background | "solo_singer"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Abradab | Fondo | cantante_solista</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Abradab | background | "solo_singer"</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Abradab | Antecedents | cantant_en_solitari</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Abradab has a background as a solo singer.</lex>
+      <lex lang="en" lid="Id2">Abradab's background is that of solo singer.</lex>
+      <lex lang="es" lid="Id1">Abradab tiene experiencia como cantante solista.</lex>
+      <lex lang="es" lid="Id2">Abradab es cantante solista.</lex>
+      <lex lang="ca" lid="Id1">Abradab té experiència com a cantant en solitari.</lex>
+      <lex lang="ca" lid="Id2">El fons d'Abradab és el de cantant en solitari.</lex>
+      <lex lang="en_bt" lid="Id1">Abradab has experience as a solo singer.</lex>
+      <lex lang="en_bt" lid="Id2">Abradab's background is as a solo singer.</lex>
+      </entry>
+    <entry category="Artist" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ace_Wilder | birthDate | "1982-07-23"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ace_Wilder | birthDate | 1982-07-23</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Ace_Wilder | FechaDeNacimiento | 23-07-1982</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Ace_Wilder | birthDate | 1982-07-23</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Ace_Wilder | DataDeNaixement | 1982-07-23</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Ace Wilder was born on July 23, 1982.</lex>
+      <lex lang="en" lid="Id2">Ace Wilder was born July 23, 1982.</lex>
+      <lex lang="en" lid="Id3">Ace Wilder's date of birth is 1982-07-23.</lex>
+      <lex lang="es" lid="Id1">Ace Wilder nació el 23-07-1982.</lex>
+      <lex lang="es" lid="Id2">Ace Wilder nació el 23-07-1982.</lex>
+      <lex lang="es" lid="Id3">La fecha de nacimiento de Ace Wilder es 23-07-1982.</lex>
+      <lex lang="ca" lid="Id1">Ace Wilder va néixer el 23 de juliol de 1982.</lex>
+      <lex lang="ca" lid="Id2">Ace Wilder va néixer el 23 de juliol de 1982.</lex>
+      <lex lang="ca" lid="Id3">La data de naixement d'Ace Wilder és 1982-07-23.</lex>
+      <lex lang="en_bt" lid="Id1">Ace Wilder was born on July 23, 1982.</lex>
+      <lex lang="en_bt" lid="Id2">Ace Wilder was born on July 23, 1982.</lex>
+      <lex lang="en_bt" lid="Id3">Ace Wilder's birthday is 1982-07-23.</lex>
+      </entry>
+    <entry category="Artist" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ace_Wilder | recordLabel | EMI_Records</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ace_Wilder | recordLabel | EMI_Records</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Ace_Wilder | SelloDiscográfico | EMI_Records</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Ace_Wilder | recordLabel | EMI_records</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Ace_Wilder | EtiquetaDelRegistre | EMI_Records</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Ace Wilder is signed to the record label EMI Records.</lex>
+      <lex lang="en" lid="Id2">Ace Wilder' recording label is EMI records.</lex>
+      <lex lang="en" lid="Id3">Ace Wilder was signed to EMI Records.</lex>
+      <lex lang="es" lid="Id1">Ace Wilder ha firmado un contrato con el sello discográfico EMI Records.</lex>
+      <lex lang="es" lid="Id2">El sello discográfico de Ace Wilder es EMI records.</lex>
+      <lex lang="es" lid="Id3">Ace Wilder fichó por EMI Records.</lex>
+      <lex lang="ca" lid="Id1">Ace Wilder va signar amb el segell discogràfic EMI Records.</lex>
+      <lex lang="ca" lid="Id2">El segell discogràfic d'Ace Wilder és EMI Records.</lex>
+      <lex lang="ca" lid="Id3">Ace Wilder va signar amb EMI Records.</lex>
+      <lex lang="en_bt" lid="Id1">Ace Wilder signed with the record label EMI Records.</lex>
+      <lex lang="en_bt" lid="Id2">Ace Wilder's record label is EMI Records.</lex>
+      <lex lang="en_bt" lid="Id3">Ace Wilder signed with EMI Records.</lex>
+      </entry>
+    <entry category="Artist" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Agustín_Barboza | label | Philips_Records</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Agustín_Barboza | recordLabel | Philips_Records</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Agustín_Barboza | recordLabel | Philips_Records</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Agustín_Barboza | SelloDiscográfico | Philips_Records</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Agustín_Barboza | recordLabel | Philips_records</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Agustín_Barboza | EtiquetaDelRegistre | Philips_Records</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Agustin Barboza is signed to Philips Records.</lex>
+      <lex lang="en" lid="Id2">Agustin Barboza is signed to the record label of Philips Records.</lex>
+      <lex lang="en" lid="Id3">Agustín Barboza is signed to Philips Records.</lex>
+      <lex lang="es" lid="Id1">Agustín Barboza tiene contrato con Philips Records.</lex>
+      <lex lang="es" lid="Id2">Agustín Barboza tiene contrato con la discográfica Philips Records.</lex>
+      <lex lang="es" lid="Id3">Agustín Barboza tiene contrato con Philips Records.</lex>
+      <lex lang="ca" lid="Id1">Agustín Barboza és signat per Philips Records.</lex>
+      <lex lang="ca" lid="Id2">Agustín Barboza és signat pel segell discogràfic de Philips Records.</lex>
+      <lex lang="ca" lid="Id3">Agustín Barboza és signat per Philips Records.</lex>
+      <lex lang="en_bt" lid="Id1">Agustín Barboza is signed to Philips Records.</lex>
+      <lex lang="en_bt" lid="Id2">Agustín Barboza is signed to Philips Records.</lex>
+      <lex lang="en_bt" lid="Id3">Agustín Barboza is signed to Philips Records.</lex>
+      </entry>
+    <entry category="Artist" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alan_Frew | associatedMusicalArtist | Glass_Tiger</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Alan_Frew | associatedBand | Glass_Tiger</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Frew | associatedBand/associatedMusicalArtist | Glass_Tiger</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alan_Frew | BandaAsociada/artistaMusicalAsociado | Glass_Tiger</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Alan_Frew | associatedBand/associatedMusicalArtist | Glass_Tiger</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Alan_Frew | BandaAssociada/artistaMusicalAssociat | Glass_Tiger</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Alan Frew plays with Glass Tiger.</lex>
+      <lex lang="en" lid="Id2">Alan Frew is a musician with the Glass Tiger band.</lex>
+      <lex lang="es" lid="Id1">Alan Frew toca con Glass Tiger.</lex>
+      <lex lang="es" lid="Id2">Alan Frew es músico del grupo Glass Tiger.</lex>
+      <lex lang="ca" lid="Id1">Alan Frew toca amb Glass Tiger.</lex>
+      <lex lang="ca" lid="Id2">Alan Frew és un músic de la banda Glass Tiger.</lex>
+      <lex lang="en_bt" lid="Id1">Alan Frew plays with Glass Tiger.</lex>
+      <lex lang="en_bt" lid="Id2">Alan Frew is a musician in the band Glass Tiger.</lex>
+      </entry>
+    <entry category="Artist" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Albennie_Jones | placeOfBirth | Errata,_Mississippi</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Albennie_Jones | birthPlace | Errata,_Mississippi</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Albennie_Jones | birthPlace | Errata,_Mississippi</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Albennie_Jones | LugarDeNacimiento | Erratas,_Mississippi</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Albennie_Jones | birthPlace | Errata,_Mississippi</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Albennie_Jones | LlocDeNaixement | Errata,_Mississipí</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Albennie Jones was born in Errata Mississippi.</lex>
+      <lex lang="en" lid="Id2">Albennie Jones was born in Errata, Mississippi.</lex>
+      <lex lang="es" lid="Id1">Albennie Jones nació en Errata Mississippi.</lex>
+      <lex lang="es" lid="Id2">Albennie Jones nació en Errata, Mississippi.</lex>
+      <lex lang="ca" lid="Id1">Albennie Jones va néixer a Errata, Mississipí.</lex>
+      <lex lang="ca" lid="Id2">Albennie Jones va néixer a Errata, Mississipí.</lex>
+      <lex lang="en_bt" lid="Id1">Albennie Jones was born in Errata, Mississippi.</lex>
+      <lex lang="en_bt" lid="Id2">Albennie Jones was born in Errata, Mississippi.</lex>
+      </entry>
+    <entry category="Artist" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aleksandra_Kovač | associatedBand | Kornelije_Kovač</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Aleksandra_Kovač | associatedMusicalArtist | Kornelije_Kovač</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandra_Kovač | associatedBand/associatedMusicalArtist | Kornelije_Kovač</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aleksandra_Kovač | BandaAsociada/artistaMusicalAsociado | Kornelije_Kovač</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Aleksandra_Kovač | associatedBand/associatedMusicalArtist | Kornelije_Kovač</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Aleksandra_Kovač | BandaAssociada/artistaMusicalAssociat | Kornelije_Kovač</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Aleksandra Kovac is associated with Kornelije Kovac.</lex>
+      <lex lang="en" lid="Id2">Aleksandra Kovač is in same band with Kornelije Kovač.</lex>
+      <lex lang="en" lid="Id3">Aleksandra Kovač is associated with the musical artist Kornelije Kovač.</lex>
+      <lex lang="es" lid="Id1">Aleksandra Kovac está asociada con Kornelije Kovac.</lex>
+      <lex lang="es" lid="Id2">Aleksandra Kovač está en la misma banda que Kornelije Kovač.</lex>
+      <lex lang="es" lid="Id3">Aleksandra Kovač está asociada con el artista musical Kornelije Kovač.</lex>
+      <lex lang="ca" lid="Id1">Aleksandra Kovac està associada amb Kornelije Kovac.</lex>
+      <lex lang="ca" lid="Id2">Aleksandra Kovač és de la mateixa banda que Kornelije Kovač.</lex>
+      <lex lang="ca" lid="Id3">Aleksandra Kovač està associada amb l'artista musical Kornelije Kovač.</lex>
+      <lex lang="en_bt" lid="Id1">Aleksandra Kovac is associated with Kornelije Kovac.</lex>
+      <lex lang="en_bt" lid="Id2">Aleksandra Kovač is on the same side as Kornelije Kovač.</lex>
+      <lex lang="en_bt" lid="Id3">Aleksandra Kovač is associated with the musical artist Kornelije Kovač.</lex>
+      </entry>
+    <entry category="Artist" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aleksandra_Kovač | background | "solo_singer"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandra_Kovač | background | "solo_singer"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aleksandra_Kovač | Fondo | cantante_solista</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Aleksandra_Kovač | background | "solo_singer"</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Aleksandra_Kovač | Antecedents | cantant_en_solitari</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Aleksandra Kovac is a solo singer.</lex>
+      <lex lang="en" lid="Id2">A solo singer is part of Aleksandra Kovač's background.</lex>
+      <lex lang="es" lid="Id1">Aleksandra Kovac es cantante solista.</lex>
+      <lex lang="es" lid="Id2">Una cantante solista forma parte de la trayectoria de Aleksandra Kovač.</lex>
+      <lex lang="ca" lid="Id1">Aleksandra Kovac és una cantant en solitari.</lex>
+      <lex lang="ca" lid="Id2">Un cantant en solitari és part del passat d'Aleksandra Kovač.</lex>
+      <lex lang="en_bt" lid="Id1">Aleksandra Kovac is a solo singer.</lex>
+      <lex lang="en_bt" lid="Id2">A solo singer is part of Aleksandra Kovač's past.</lex>
+      </entry>
+    <entry category="Artist" eid="Id15" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aleksandra_Kovač | genre | Soul_music</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandra_Kovač | genre | Soul_music</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Aleksandra_Kovač | Género | soul</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Aleksandra_Kovač | genre | Soul_music</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Aleksandra_Kovač | Gènere | Música_soul</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Aleksandra Kovač's genre is soul music.</lex>
+      <lex lang="en" lid="Id2">Aleksandra Kovač performs soul music.</lex>
+      <lex lang="es" lid="Id1">El género musical de Aleksandra Kovač es la música soul.</lex>
+      <lex lang="es" lid="Id2">Aleksandra Kovač interpreta música soul.</lex>
+      <lex lang="ca" lid="Id1">El gènere d'Aleksandra Kovač és la música soul.</lex>
+      <lex lang="ca" lid="Id2">Aleksandra Kovač interpreta música soul.</lex>
+      <lex lang="en_bt" lid="Id1">Aleksandra Kovač's genre is soul music.</lex>
+      <lex lang="en_bt" lid="Id2">Aleksandra Kovač plays soul music.</lex>
+      </entry>
+    <entry category="Artist" eid="Id16" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alfred_Garth_Jones | placeOfDeath | London</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Alfred_Garth_Jones | deathPlace | London</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_Garth_Jones | deathPlace | London</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alfred_Garth_Jones | LugarDeLaMuerte | Londres</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Alfred_Garth_Jones | deathPlace | London</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Alfred_Garth_Jones | LlocDeLaMort | Londres</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Alfred Garth Jones died in London.</lex>
+      <lex lang="es" lid="Id1">Alfred Garth Jones murió en Londres.</lex>
+      <lex lang="ca" lid="Id1">Alfred Garth Jones va morir a Londres.</lex>
+      <lex lang="en_bt" lid="Id1">Alfred Garth Jones died in London.</lex>
+      </entry>
+    <entry category="Artist" eid="Id17" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alfredo_Zitarrosa | associatedBand | Hilario_Pérez</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Alfredo_Zitarrosa | associatedMusicalArtist | Hilario_Pérez</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfredo_Zitarrosa | associatedBand/associatedMusicalArtist | Hilario_Pérez</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alfredo_Zitarrosa | BandaAsociada/artistaMusicalAsociado | Hilario_Pérez</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Alfredo_Zitarrosa | associatedBand/associatedMusicalArtist | Hilario_Pérez</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Alfredo_Zitarrosa | BandaAssociada/artistaMusicalAssociat | Hilario_Pérez</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Alfredo Zitarrosa is musically associated with Hilario Perez.</lex>
+      <lex lang="en" lid="Id2">Alfredo Zitarrosa is a musician associated with Hilario Perez.</lex>
+      <lex lang="es" lid="Id1">Alfredo Zitarrosa está asociado musicalmente con Hilario Pérez.</lex>
+      <lex lang="es" lid="Id2">Alfredo Zitarrosa es un músico asociado a Hilario Pérez.</lex>
+      <lex lang="ca" lid="Id1">Alfredo Zitarrosa està associat musicalment amb Hilario Perez.</lex>
+      <lex lang="ca" lid="Id2">Alfredo Zitarrosa és un músic associat amb Hilario Pérez.</lex>
+      <lex lang="en_bt" lid="Id1">Alfredo Zitarrosa is musically associated with Hilario Perez.</lex>
+      <lex lang="en_bt" lid="Id2">Alfredo Zitarrosa is a musician associated with Hilario Pérez.</lex>
+      </entry>
+    <entry category="Artist" eid="Id18" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alfredo_Zitarrosa | genre | Milonga_(music)</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfredo_Zitarrosa | genre | Milonga_(music)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alfredo_Zitarrosa | Género | milonga_(música)</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Alfredo_Zitarrosa | genre | Milonga_(music)</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Alfredo_Zitarrosa | Gènere | Milonga_(música)</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The musical genre of Alfredo Zitarrosa is Milonga.</lex>
+      <lex lang="en" lid="Id2">Alfredo Zitarrosa is an exponent of Milonga.</lex>
+      <lex lang="en" lid="Id3">Alfredo Zitarrosa music genre is Milonga.</lex>
+      <lex lang="es" lid="Id1">El género musical de Alfredo Zitarrosa es la Milonga.</lex>
+      <lex lang="es" lid="Id2">Alfredo Zitarrosa es un exponente de la Milonga.</lex>
+      <lex lang="es" lid="Id3">El género musical de Alfredo Zitarrosa es Milonga.</lex>
+      <lex lang="ca" lid="Id1">El gènere musical d'Alfredo Zitarrosa és la Milonga.</lex>
+      <lex lang="ca" lid="Id2">Alfredo Zitarrosa és un exponent de la milonga.</lex>
+      <lex lang="ca" lid="Id3">El gènere musical d'Alfredo Zitarrosa és la Milonga.</lex>
+      <lex lang="en_bt" lid="Id1">The musical genre of Alfredo Zitarrosa is the Milonga.</lex>
+      <lex lang="en_bt" lid="Id2">Alfredo Zitarrosa is an exponent of the milonga.</lex>
+      <lex lang="en_bt" lid="Id3">The musical genre of Alfredo Zitarrosa is the Milonga.</lex>
+      </entry>
+    <entry category="Artist" eid="Id19" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alfredo_Zitarrosa | recordLabel | Movieplay</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfredo_Zitarrosa | recordLabel | Movieplay</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alfredo_Zitarrosa | SelloDiscográfico | Movieplay</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Alfredo_Zitarrosa | recordLabel | Movieplay</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Alfredo_Zitarrosa | EtiquetaDelRegistre | Pel·lícula</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Movieplay is the record label of Alfredo Zitarrosa.</lex>
+      <lex lang="en" lid="Id2">The record label of Alfredo Zitarrosa is Movieplay.</lex>
+      <lex lang="es" lid="Id1">Movieplay es el sello discográfico de Alfredo Zitarrosa.</lex>
+      <lex lang="es" lid="Id2">El sello discográfico de Alfredo Zitarrosa es Movieplay.</lex>
+      <lex lang="ca" lid="Id1">Movieplay és el segell discogràfic d'Alfredo Zitarrosa.</lex>
+      <lex lang="ca" lid="Id2">El segell discogràfic d'Alfredo Zitarrosa és Movieplay.</lex>
+      <lex lang="en_bt" lid="Id1">Movieplay is the record label of Alfredo Zitarrosa.</lex>
+      <lex lang="en_bt" lid="Id2">Alfredo Zitarrosa's record label is Movieplay.</lex>
+      </entry>
+    <entry category="Artist" eid="Id20" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alison_O'Donnell | activeYearsStartYear | "1963"^^xsd:gYear</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alison_O'Donnell | activeYearsStartYear | 1963</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Alison_O'Donnell | AñosActivosAñoDeInicio | 1963</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Alison_O'Donnell | activeYearsStartYear | 1963</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Alison_O'Donnell | AnysActiusAnyD'inici | 1963</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Alison O'Donnell started performing in 1963.</lex>
+      <lex lang="en" lid="Id2">1963 was the beginning of Alison O'Donnell's active years.</lex>
+      <lex lang="es" lid="Id1">Alison O'Donnell empezó a actuar en 1963.</lex>
+      <lex lang="es" lid="Id2">1963 fue el comienzo de los años activos de Alison O'Donnell.</lex>
+      <lex lang="ca" lid="Id1">Alison O'Donnell va començar a actuar el 1963.</lex>
+      <lex lang="ca" lid="Id2">El 1963 va ser el començament dels anys actius d'Alison O'Donnell.</lex>
+      <lex lang="en_bt" lid="Id1">Alison O'Donnell began acting in 1963.</lex>
+      <lex lang="en_bt" lid="Id2">1963 was the beginning of Alison O'Donnell's active years.</lex>
+      </entry>
+    <entry category="Artist" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Allen_Forrest | genre | Pop_music</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Allen_Forrest | genre | Pop_music</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Allen_Forrest | Género | pop</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Allen_Forrest | genre | Pop_music</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Allen_Forrest | Gènere | pop</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Allen Forrest plays pop music.</lex>
+      <lex lang="en" lid="Id2">Allen Forrest was a pop artist.</lex>
+      <lex lang="en" lid="Id3">Allen Forrest is an exponent of Pop music.</lex>
+      <lex lang="es" lid="Id1">Allen Forrest toca música pop.</lex>
+      <lex lang="es" lid="Id2">Allen Forrest era un artista pop.</lex>
+      <lex lang="es" lid="Id3">Allen Forrest es un exponente de la música pop.</lex>
+      <lex lang="ca" lid="Id1">Allen Forrest toca música pop.</lex>
+      <lex lang="ca" lid="Id2">Allen Forrest era un artista pop.</lex>
+      <lex lang="ca" lid="Id3">Allen Forrest és un exponent de la música pop.</lex>
+      <lex lang="en_bt" lid="Id1">Allen Forrest plays pop music.</lex>
+      <lex lang="en_bt" lid="Id2">Allen Forrest was a pop artist.</lex>
+      <lex lang="en_bt" lid="Id3">Allen Forrest is an exponent of pop music.</lex>
+      </entry>
+    <entry category="Artist" eid="Id22" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Anders_Osborne | label | Alligator_Records</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Anders_Osborne | recordLabel | Alligator_Records</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Anders_Osborne | recordLabel | Alligator_Records</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Anders_Osborne | SelloDiscográfico | Alligator_Records</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Anders_Osborne | recordLabel | Alligator_Records</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Anders_Osborne | EtiquetaDelRegistre | Alligator_Records</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Anders Osborne was signed to the record label 'Alligator Records'.</lex>
+      <lex lang="en" lid="Id2">Anders Osborne is signed to the record label Alligator Records.</lex>
+      <lex lang="en" lid="Id3">Anders Osborne's record label is Alligator Records.</lex>
+      <lex lang="es" lid="Id1">Anders Osborne tenía contrato con el sello discográfico "Alligator Records".</lex>
+      <lex lang="es" lid="Id2">Anders Osborne tiene contrato con el sello discográfico Alligator Records.</lex>
+      <lex lang="es" lid="Id3">El sello discográfico de Anders Osborne es Alligator Records.</lex>
+      <lex lang="ca" lid="Id1">Anders Osborne va signar amb el segell discogràfic 'Alligator Records'.</lex>
+      <lex lang="ca" lid="Id2">Anders Osborne ha signat amb el segell discogràfic Alligator Records.</lex>
+      <lex lang="ca" lid="Id3">El segell discogràfic d'Anders Osborne és Alligator Records.</lex>
+      <lex lang="en_bt" lid="Id1">Anders Osborne signed with the record label Alligator Records.</lex>
+      <lex lang="en_bt" lid="Id2">Anders Osborne has signed with the Alligator Records label.</lex>
+      <lex lang="en_bt" lid="Id3">Anders Osborne's record label is Alligator Records.</lex>
+      </entry>
+    <entry category="Artist" eid="Id23" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Anders_Osborne | recordLabel | Shanachie_Records</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Anders_Osborne | label | Shanachie_Records</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Anders_Osborne | recordLabel | Shanachie_Records</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Anders_Osborne | SelloDiscográfico | Shanachie_Records</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Anders_Osborne | recordLabel | Shanachie_Records</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Anders_Osborne | EtiquetaDelRegistre | Shanachie_Records</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Anders Osborne is signed to Shanachie Records.</lex>
+      <lex lang="en" lid="Id2">The record label of Anders Osborne is Shanachie Records.</lex>
+      <lex lang="en" lid="Id3">Anders Osborne was signed to the Shanachie Records label.</lex>
+      <lex lang="es" lid="Id1">Anders Osborne tiene contrato con Shanachie Records.</lex>
+      <lex lang="es" lid="Id2">El sello discográfico de Anders Osborne es Shanachie Records.</lex>
+      <lex lang="es" lid="Id3">Anders Osborne tenía contrato con la discográfica Shanachie Records.</lex>
+      <lex lang="ca" lid="Id1">Anders Osborne ha signat amb Shanachie Records.</lex>
+      <lex lang="ca" lid="Id2">El segell discogràfic d'Anders Osborne és Shanachie Records.</lex>
+      <lex lang="ca" lid="Id3">Anders Osborne va signar amb el segell Shanachie Records.</lex>
+      <lex lang="en_bt" lid="Id1">Anders Osborne has signed with Shanachie Records.</lex>
+      <lex lang="en_bt" lid="Id2">Anders Osborne's record label is Shanachie Records.</lex>
+      <lex lang="en_bt" lid="Id3">Anders Osborne was signed to the Shanachie Records label.</lex>
+      </entry>
+    <entry category="Artist" eid="Id24" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Andrew_Rayel | associatedMusicalArtist | Jwaydan_Moyine</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Andrew_Rayel | associatedBand | Jwaydan_Moyine</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Jwaydan_Moyine</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Andrew_Rayel | BandaAsociada/artistaMusicalAsociado | Jwaydan_Moyine</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Jwaydan_Moyine</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Andrew_Rayel | BandaAssociada/artistaMusicalAssociat | Jwaydan_Moyine</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Andrew Rayel is associated with the musician Jwaydan Moyine.</lex>
+      <lex lang="es" lid="Id1">Andrew Rayel está asociado con el músico Jwaydan Moyine.</lex>
+      <lex lang="ca" lid="Id1">Andrew Rayel està associat amb el músic Jwaydan Moyine.</lex>
+      <lex lang="en_bt" lid="Id1">Andrew Rayel is associated with musician Jwaydan Moyine.</lex>
+      </entry>
+    <entry category="Artist" eid="Id25" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Andrew_Rayel | placeOfBirth | "Chișinău, Moldova"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Andrew_Rayel | birthPlace | "Chișinău, Moldova"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Andrew_Rayel | LugarDeNacimiento | Chișinău,_Moldavia</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Andrew_Rayel | birthPlace | "Chișinău, Moldova"</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Andrew_Rayel | LlocDeNaixement | Chișinău,_Moldàvia</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The birth place of Andrew Rayel is Chisinau, Moldova.</lex>
+      <lex lang="en" lid="Id2">Andrew Rayel was born in Chisinau, Moldova.</lex>
+      <lex lang="es" lid="Id1">El lugar de nacimiento de Andrew Rayel es Chisinau, Moldavia.</lex>
+      <lex lang="es" lid="Id2">Andrew Rayel nació en Chisinau, Moldavia.</lex>
+      <lex lang="ca" lid="Id1">El lloc de naixement d'Andrew Rayel és Chisinau, Moldàvia.</lex>
+      <lex lang="ca" lid="Id2">Andrew Rayel va néixer a Chisinau, Moldàvia.</lex>
+      <lex lang="en_bt" lid="Id1">Andrew Rayel's birthplace is Chisinau, Moldova.</lex>
+      <lex lang="en_bt" lid="Id2">Andrew Rayel was born in Chisinau, Moldova.</lex>
+      </entry>
+    <entry category="Artist" eid="Id26" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Andrew_White_(musician) | genre | Alternative_rock</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Andrew_White_(musician) | genre | Alternative_rock</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Andrew_'Whitey'_White_(músico) | Género | rock_alternativo</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Andrew_White_(musician) | genre | Alternative_rock</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Andrew_White_(músic) | Gènere | rock_alternatiu</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The musician Andrew White's genre is alternative rock.</lex>
+      <lex lang="es" lid="Id1">El género musical del músico Andrew White es el rock alternativo.</lex>
+      <lex lang="ca" lid="Id1">El gènere del músic Andrew White és el rock alternatiu.</lex>
+      <lex lang="en_bt" lid="Id1">Musician Andrew White's genre is alternative rock.</lex>
+      </entry>
+    <entry category="Artist" eid="Id27" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Asunción | isPartOf | Gran_Asunción</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Asunción | subdivisionName | Gran_Asunción</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asunción | isPartOf | Gran_Asunción</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Asunción | FormaParteDe | Gran_Asunción</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Asunción | isPartOf | Gran_Asunción</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Asunción | ÉsPartDe | Gran_Asunción</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Asunción is a part of Gran Asunción.</lex>
+      <lex lang="en" lid="Id2">Asunción is part of Gran Asunción.</lex>
+      <lex lang="es" lid="Id1">Asunción forma parte de la Gran Asunción.</lex>
+      <lex lang="es" lid="Id2">Asunción forma parte de la Gran Asunción.</lex>
+      <lex lang="ca" lid="Id1">Asunción és una part de Gran Asunción.</lex>
+      <lex lang="ca" lid="Id2">Asunción forma part del Gran Asunción.</lex>
+      <lex lang="en_bt" lid="Id1">Asunción is a part of Greater Asunción.</lex>
+      <lex lang="en_bt" lid="Id2">Asunción is part of the Greater Asunción.</lex>
+      </entry>
+    <entry category="Artist" eid="Id28" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Deram_Records | location | London</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Deram_Records | location | London</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Deram_Records | Ubicación | Londres</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Deram_Records | location | London</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Deram_Records | Ubicació | Londres</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Deram Records is based in London.</lex>
+      <lex lang="en" lid="Id2">Deram Records can be found in London.</lex>
+      <lex lang="en" lid="Id3">Deram Records are located in London.</lex>
+      <lex lang="es" lid="Id1">Deram Records tiene su sede en Londres.</lex>
+      <lex lang="es" lid="Id2">Deram Records se encuentra en Londres.</lex>
+      <lex lang="es" lid="Id3">Deram Records está situado en Londres.</lex>
+      <lex lang="ca" lid="Id1">Deram Records té la seva seu a Londres.</lex>
+      <lex lang="ca" lid="Id2">Deram Records es pot trobar a Londres.</lex>
+      <lex lang="ca" lid="Id3">Deram Records es troba a Londres.</lex>
+      <lex lang="en_bt" lid="Id1">Deram Records is based in London.</lex>
+      <lex lang="en_bt" lid="Id2">Deram Records can be found in London.</lex>
+      <lex lang="en_bt" lid="Id3">Deram Records is based in London.</lex>
+      </entry>
+    <entry category="Artist" eid="Id29" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Funk | fusiongenres | Afrobeat</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Funk | musicFusionGenre | Afrobeat</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>funk | GéneroMusicalFusión | afrobeat</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Funk | musicFusionGenre | Afrobeat</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Funk | MúsicaGenreFusion | afrobeat</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Afrobeat is a fusion of funk music.</lex>
+      <lex lang="es" lid="Id1">El afrobeat es una fusión de música funk.</lex>
+      <lex lang="ca" lid="Id1">L'afrobeat és una fusió de la música funk.</lex>
+      <lex lang="en_bt" lid="Id1">Afrobeat is a fusion of funk music.</lex>
+      </entry>
+    <entry category="Artist" eid="Id30" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Hip_hop_music | musicSubgenre | Gangsta_rap</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Hip_hop_music | musicSubgenre | Gangsta_rap</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>hip_hop | SubgéneroMusical | gangsta_rap</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Hip_hop_music | musicSubgenre | Gangsta_rap</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Música_hip_hop | SubgènereDeMúsica | Gangsta_rap</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Hip hop music has the sub genre Gangsta rap.</lex>
+      <lex lang="en" lid="Id2">Gangsta rap is a sub genre of Hip Hop music.</lex>
+      <lex lang="en" lid="Id3">Hip hop music has a sub genre called Gangsta rap.</lex>
+      <lex lang="es" lid="Id1">La música hip hop tiene el subgénero Gangsta rap.</lex>
+      <lex lang="es" lid="Id2">El gangsta rap es un subgénero de la música Hip Hop.</lex>
+      <lex lang="es" lid="Id3">La música hip hop tiene un subgénero llamado Gangsta rap.</lex>
+      <lex lang="ca" lid="Id1">La música hip hop té el subgènere de gangsta rap.</lex>
+      <lex lang="ca" lid="Id2">El gangsta rap és un subgènere de la música hip hop.</lex>
+      <lex lang="ca" lid="Id3">La música hip hop té un subgènere anomenat gangsta rap.</lex>
+      <lex lang="en_bt" lid="Id1">Hip hop music has the subgenre of gangsta rap.</lex>
+      <lex lang="en_bt" lid="Id2">Gangsta rap is a subgenre of hip hop music.</lex>
+      <lex lang="en_bt" lid="Id3">Hip hop music has a subgenre called gangsta rap.</lex>
+      </entry>
+    <entry category="Artist" eid="Id31" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Jazz | stylisticOrigin | Blues</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Jazz | stylisticOrigins | Blues</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Jazz | stylisticOrigin | Blues</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>jazz | OrigenEstilístico | Blues</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Jazz | stylisticOrigin | Blues</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>jazz | OrigenEstilístic | blues</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Jazz originated its style from Blues music.</lex>
+      <lex lang="en" lid="Id2">The stylistic origins of Jazz come from Blues.</lex>
+      <lex lang="en" lid="Id3">Jazz style originates from the Blues.</lex>
+      <lex lang="es" lid="Id1">El jazz originó su estilo a partir de la música Blues.</lex>
+      <lex lang="es" lid="Id2">Los orígenes estilísticos del Jazz proceden del Blues.</lex>
+      <lex lang="es" lid="Id3">El estilo Jazz tiene su origen en el Blues.</lex>
+      <lex lang="ca" lid="Id1">El jazz va originar el seu estil de la música blues.</lex>
+      <lex lang="ca" lid="Id2">Els orígens estilístics del jazz provenen del blues.</lex>
+      <lex lang="ca" lid="Id3">L'estil jazz té el seu origen en el blues.</lex>
+      <lex lang="en_bt" lid="Id1">Jazz originated his style of blues music.</lex>
+      <lex lang="en_bt" lid="Id2">The stylistic origins of jazz come from blues.</lex>
+      <lex lang="en_bt" lid="Id3">The jazz style has its origins in blues.</lex>
+      </entry>
+    <entry category="Artist" eid="Id32" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>RCA_Records | distributingCompany | Legacy_Recordings</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>RCA_Records | distributingCompany | Legacy_Recordings</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>RCA_Records | EmpresaDistribuidora | Legacy_Recordings</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>RCA_Records | distributingCompany | Legacy_Recordings</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>RCA_Records | CompanyiaDistribuïdora | Legacy</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Legacy Recordings is the distributing company for RCA Records.</lex>
+      <lex lang="es" lid="Id1">Legacy Recordings es la empresa distribuidora de RCA Records.</lex>
+      <lex lang="ca" lid="Id1">Legacy Recordings és la companyia distribuïdora de RCA Records.</lex>
+      <lex lang="en_bt" lid="Id1">Legacy Recordings is the distribution company of RCA Records.</lex>
+      </entry>
+    <entry category="Artist" eid="Id33" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Twilight_(band) | genre | Black_metal</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Twilight_(band) | genre | Black_metal</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Twilight_(banda) | Género | black_metal</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Twilight_(band) | genre | Black_metal</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Twilight_(grup) | Gènere | black_metal</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The musical genre of the band Twilight is black metal.</lex>
+      <lex lang="en" lid="Id2">Twilight performs black metal music.</lex>
+      <lex lang="en" lid="Id3">The genre for the band Twilight, can be described as Black metal.</lex>
+      <lex lang="es" lid="Id1">El género musical de la banda Twilight es el black metal.</lex>
+      <lex lang="es" lid="Id2">Twilight interpreta música black metal.</lex>
+      <lex lang="es" lid="Id3">El género musical de la banda Twilight puede describirse como Black metal.</lex>
+      <lex lang="ca" lid="Id1">El gènere musical de la banda Twilight és el black metal.</lex>
+      <lex lang="ca" lid="Id2">Twilight interpreta música de black metal.</lex>
+      <lex lang="ca" lid="Id3">El gènere de la banda Twilight, es pot descriure com a black metal.</lex>
+      <lex lang="en_bt" lid="Id1">The musical genre of the band Twilight is black metal.</lex>
+      <lex lang="en_bt" lid="Id2">Twilight plays black metal music.</lex>
+      <lex lang="en_bt" lid="Id3">The genre of the band Twilight, can be described as black metal.</lex>
+      </entry>
+    <entry category="Artist" eid="Id34" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_Kingdom | demonym | British_people</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_Kingdom | demonym | British_people</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Reino_Unido | Gentilicio | británicos</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>United_Kingdom | demonym | British_people</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Regne_Unit | Demònim | Persones_britàniques</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">People from the United Kingdom are called British people.</lex>
+      <lex lang="en" lid="Id2">The native people of the United Kingdom are known as the British people.</lex>
+      <lex lang="en" lid="Id3">British people is a demonym for people in the United Kingdom.</lex>
+      <lex lang="es" lid="Id1">A los habitantes del Reino Unido se les llama británicos.</lex>
+      <lex lang="es" lid="Id2">Los nativos del Reino Unido son conocidos como el pueblo británico.</lex>
+      <lex lang="es" lid="Id3">Británicos es un gentilicio para referirse a la gente del Reino Unido.</lex>
+      <lex lang="ca" lid="Id1">La gent del Regne Unit s'anomena gent britànica.</lex>
+      <lex lang="ca" lid="Id2">Els nadius del Regne Unit són coneguts com el poble britànic.</lex>
+      <lex lang="ca" lid="Id3">El poble britànic és un demònim per a la gent del Regne Unit.</lex>
+      <lex lang="en_bt" lid="Id1">The people of the United Kingdom are called British people.</lex>
+      <lex lang="en_bt" lid="Id2">The natives of the United Kingdom are known as the British people.</lex>
+      <lex lang="en_bt" lid="Id3">The British people is a demon for the people of the United Kingdom.</lex>
+      </entry>
+    </entries>
+  </benchmark>

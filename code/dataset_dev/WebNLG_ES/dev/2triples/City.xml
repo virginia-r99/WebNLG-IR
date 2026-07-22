@@ -1,0 +1,469 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+	<entries>
+		<entry category="City" eid="Id1" shape="(X (X (X)))" shape_type="chain" size="2">
+			<originaltripleset>
+				<otriple>Albany,_Georgia | subdivisionName | United_States</otriple>
+				<otriple>United_States | ethnicGroup | African_Americans</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Albany,_Georgia | isPartOf | United_States</mtriple>
+				<mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Albany,_Georgia | FormaParteDe | Estados_Unidos</striple><striple>Estados_Unidos | GrupoÉtnico | Afroestadounidense</striple></spanishtripleset><lex lang="en" lid="Id1">Albany, Georgia is in the United States, home to a number of ethnic groups including, African Americans.</lex>
+			<lex lang="en" lid="Id2">Albany, Georgia is part of the United States of America where one of the ethnic groups are the African Americans.</lex>
+			<lex lang="en" lid="Id3">Albany, Georgia, is in the United States where African Americans are one of the ethnic groups.</lex>
+			<lex lang="es" lid="Id1">Albany, Georgia, se encuentra en Estados Unidos, hogar de varios grupos étnicos, entre ellos, los afroamericanos.</lex>
+			<lex lang="es" lid="Id2">Albany, Georgia, forma parte de los Estados Unidos de América, donde uno de los grupos étnicos son los afroamericanos.</lex>
+			<lex lang="es" lid="Id3">Albany, Georgia, se encuentra en Estados Unidos, donde los afroamericanos son uno de los grupos étnicos.</lex>
+		</entry>
+		<entry category="City" eid="Id2" shape="(X (X (X)))" shape_type="chain" size="2">
+			<originaltripleset>
+				<otriple>Albany,_Oregon | isPartOf | Oregon</otriple>
+				<otriple>Oregon | largestCity | Portland,_Oregon</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Albany,_Oregon | isPartOf | Oregon</mtriple>
+				<mtriple>Oregon | largestCity | Portland,_Oregon</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Albany,_Oregon | FormaParteDe | Oregón</striple><striple>Oregón | CiudadMásGrande | Portland,_Oregón</striple></spanishtripleset><lex lang="en" lid="Id1">Portland is the largest city in Oregon which also includes Albany.</lex>
+			<lex lang="en" lid="Id2">Portland is the largest city in Oregon, the state which is home to Albany.</lex>
+			<lex lang="en" lid="Id3">Albany is a city in Oregon along with Portland which is the largest.</lex>
+			<lex lang="es" lid="Id1">Portland es la mayor ciudad de Oregón, a la que también pertenece Albany.</lex>
+			<lex lang="es" lid="Id2">Portland es la ciudad más grande de Oregón, el estado que alberga Albany.</lex>
+			<lex lang="es" lid="Id3">Albany es una ciudad de Oregón junto con Portland, que es la más grande.</lex>
+		</entry>
+		<entry category="City" eid="Id3" shape="(X (X) (X))" shape_type="sibling" size="2">
+			<originaltripleset>
+				<otriple>Alexandria,_Indiana | areaTotal | 6.81167e+06</otriple>
+				<otriple>Alexandria,_Indiana | populationDensity | "755.3"^^xsd:double</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Alexandria,_Indiana | areaTotal | 6.81167e+06</otriple>
+				<otriple>Alexandria,_Indiana | populationDensity | "755.332"^^xsd:double</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Alexandria,_Indiana | populationDensity | "755.332"^^xsd:double</otriple>
+				<otriple>Alexandria,_Indiana | areaTotal | "6.81"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Alexandria,_Indiana | areaTotal | 6.81e+06</otriple>
+				<otriple>Alexandria,_Indiana | populationDensity | "755.3"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Alexandria,_Indiana | populationDensity | "755.332"^^xsd:double</otriple>
+				<otriple>Alexandria,_Indiana | areaTotal | "6.81166873018368"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Alexandria,_Indiana | populationDensity | "755.3"^^xsd:double</otriple>
+				<otriple>Alexandria,_Indiana | areaTotal | "6.81"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Alexandria,_Indiana | areaTotal | 6.81e+06</otriple>
+				<otriple>Alexandria,_Indiana | populationDensity | "755.3"^^xsd:double</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Alexandria,_Indiana | areaTotal | 6.81167e+06</otriple>
+				<otriple>Alexandria,_Indiana | populationDensity | "755.3"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Alexandria,_Indiana | areaTotal | 6.81e+06</otriple>
+				<otriple>Alexandria,_Indiana | populationDensity | "755.332"^^xsd:double</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Alexandria,_Indiana | areaTotal | 6.81e+06</otriple>
+				<otriple>Alexandria,_Indiana | populationDensity | "755.3316527565869"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Alexandria,_Indiana | areaTotal | 6.81 (square kilometres)</mtriple>
+				<mtriple>Alexandria,_Indiana | populationDensity | 755.3 (inhabitants per square kilometre)</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Alexandria,_Indiana | ÁreaTotal | 6,81_(kilómetros_cuadrados)</striple><striple>Alexandria,_Indiana | DensidadDePoblación | 755,3_(habitantes_por_kilómetro_cuadrado)</striple></spanishtripleset><lex lang="en" lid="Id1">Alexandria, Indiana (total area 6.81 sq km), has a population density of 755.3 inhabitants per square kilometre.</lex>
+			<lex lang="en" lid="Id2">Alexandria, Indiana, covers an area of 6.81 sq kilometres and has a population density of 755.3 inhabitants per sq km.</lex>
+			<lex lang="en" lid="Id3">The population density of Alexandria, Indiana, is 755.3 (inhabitants per square kilometer) and it occupies 6.81 square kilometers.</lex>
+			<lex lang="es" lid="Id1">Alexandria, Indiana (superficie total: 6,81 km2), tiene una densidad de población de 755,3 habitantes por kilómetro cuadrado.</lex>
+			<lex lang="es" lid="Id2">Alexandria, Indiana, tiene una superficie de 6,81 kilómetros cuadrados y una densidad de población de 755,3 habitantes por kilómetro cuadrado.</lex>
+			<lex lang="es" lid="Id3">La densidad de población de Alexandria, Indiana, es de 755,3 (habitantes por kilómetro cuadrado) y ocupa 6,81 kilómetros cuadrados.</lex>
+		</entry>
+		<entry category="City" eid="Id4" shape="(X (X (X)))" shape_type="chain" size="2">
+			<originaltripleset>
+				<otriple>Amarillo,_Texas | isPartOf | Potter_County,_Texas</otriple>
+				<otriple>Potter_County,_Texas | country | United_States</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Amarillo,_Texas | isPartOf | Potter_County,_Texas</mtriple>
+				<mtriple>Potter_County,_Texas | country | United_States</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Amarillo,_Texas | FormaParteDe | Condado_de_Potter,_Texas</striple><striple>Condado_de_Potter,_Texas | País | Estados_Unidos</striple></spanishtripleset><lex lang="en" lid="Id1">Amarillo can be located in Potter County, Texas which is in the United States of America.</lex>
+			<lex lang="en" lid="Id2">Amarillo is part of Potter County, Texas, U.S.</lex>
+			<lex lang="en" lid="Id3">Amarillo is located in Potter County, Texas in the United States of America.</lex>
+			<lex lang="es" lid="Id1">Amarillo se encuentra en el condado de Potter, Texas, en los Estados Unidos de América.</lex>
+			<lex lang="es" lid="Id2">Amarillo es parte del condado de Potter, Texas, EE.UU.</lex>
+			<lex lang="es" lid="Id3">Amarillo está situada en el condado de Potter, Texas en los Estados Unidos de América.</lex>
+		</entry>
+		<entry category="City" eid="Id5" shape="(X (X) (X))" shape_type="sibling" size="2">
+			<originaltripleset>
+				<otriple>Anaheim,_California | elevation | "48.0"^^xsd:double</otriple>
+				<otriple>Anaheim,_California | areaTotal | 1.316e+08</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Anaheim,_California | elevation | "47.8536"^^xsd:double</otriple>
+				<otriple>Anaheim,_California | areaTotal | 1.316e+08</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Anaheim,_California | elevation | "48.0"^^xsd:double</otriple>
+				<otriple>Anaheim,_California | areaTotal | "131.6"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Anaheim,_California | elevation | "47.8536"^^xsd:double</otriple>
+				<otriple>Anaheim,_California | areaTotal | "131.6"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Anaheim,_California | elevation | "48.0"^^xsd:double</otriple>
+				<otriple>Anaheim,_California | areaTotal | "131.5998858742825"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Anaheim,_California | elevation | "47.8536"^^xsd:double</otriple>
+				<otriple>Anaheim,_California | areaTotal | "131.5998858742825"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Anaheim,_California | elevationAboveTheSeaLevel | 48.0</mtriple>
+				<mtriple>Anaheim,_California | areaTotal | 131.6 (square kilometres)</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Anaheim | ElevaciónSobreElNivelDelMar | 48.0</striple><striple>Anaheim | ÁreaTotal | 131,6_(kilómetros_cuadrados)</striple></spanishtripleset><lex lang="en" lid="Id1">Anaheim, California is situated at 48.0 above sea level and has a total area of 131.6 square kilometres.</lex>
+			<lex lang="en" lid="Id2">Anaheim, California is situated at 48.0 above sea level and has a total area of 131.6 sq km.</lex>
+			<lex lang="es" lid="Id1">Anaheim, California, está situada a 48,0 sobre el nivel del mar y tiene una superficie total de 131,6 kilómetros cuadrados.</lex>
+			<lex lang="es" lid="Id2">Anaheim, California, está situada a 48,0 sobre el nivel del mar y tiene una superficie total de 131,6 km2.</lex>
+		</entry>
+		<entry category="City" eid="Id6" shape="(X (X (X)))" shape_type="chain" size="2">
+			<originaltripleset>
+				<otriple>Anderson,_Indiana | isPartOf | Anderson_Township,_Madison_County,_Indiana</otriple>
+				<otriple>Anderson_Township,_Madison_County,_Indiana | country | United_States</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Anderson_Township,_Madison_County,_Indiana | country | United_States</otriple>
+				<otriple>Anderson,_Indiana | subdivisionName | Anderson_Township,_Madison_County,_Indiana</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Anderson,_Indiana | isPartOf | Anderson_Township,_Madison_County,_Indiana</mtriple>
+				<mtriple>Anderson_Township,_Madison_County,_Indiana | country | United_States</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Anderson | FormaParteDe | Municipio_de_Anderson_(condado_de_Madison,_Indiana)</striple><striple>Municipio_de_Anderson_(condado_de_Madison,_Indiana) | País | Estados_Unidos</striple></spanishtripleset><lex lang="en" lid="Id1">Anderson is part of Anderson Township, Madison County, Indiana in the United States.</lex>
+			<lex lang="en" lid="Id2">Anderson, Indiana is part of Anderson Township, Madison County, Indiana, in the United States.</lex>
+			<lex lang="en" lid="Id3">Anderson is part of the Anderson Township, Madison County in Indiana United States.</lex>
+			<lex lang="es" lid="Id1">Anderson es parte de Anderson Township, Madison County, Indiana en los Estados Unidos.</lex>
+			<lex lang="es" lid="Id2">Anderson, Indiana es parte de Anderson Township, Madison County, Indiana, en los Estados Unidos.</lex>
+			<lex lang="es" lid="Id3">Anderson es parte de la Anderson Township, Madison County en Indiana Estados Unidos.</lex>
+		</entry>
+		<entry category="City" eid="Id7" shape="(X (X (X)))" shape_type="chain" size="2">
+			<originaltripleset>
+				<otriple>Anderson,_Indiana | isPartOf | Fall_Creek_Township,_Madison_County,_Indiana</otriple>
+				<otriple>Fall_Creek_Township,_Madison_County,_Indiana | country | United_States</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Anderson,_Indiana | isPartOf | Fall_Creek_Township,_Madison_County,_Indiana</mtriple>
+				<mtriple>Fall_Creek_Township,_Madison_County,_Indiana | country | United_States</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Anderson | FormaParteDe | Municipio_de_Fall_Creek_(condado_de_Madison,_Indiana)</striple><striple>Municipio_de_Fall_Creek_(condado_de_Madison,_Indiana) | País | Estados_Unidos</striple></spanishtripleset><lex lang="en" lid="Id1">Anderson, Indiana, is part of Fall Creek Township, Madison County Indiana, United States.</lex>
+			<lex lang="en" lid="Id2">Anderson is part of Fall Creek Township, Madison County, Indiana in the U.S.</lex>
+			<lex lang="en" lid="Id3">Anderson, is part of Fall Creek Township, Madison County, Indiana, in the U.S.</lex>
+			<lex lang="es" lid="Id1">Anderson, Indiana, es parte de Fall Creek Township, Condado de Madison Indiana, Estados Unidos.</lex>
+			<lex lang="es" lid="Id2">Anderson es parte de Fall Creek Township, Madison County, Indiana en los EE.UU..</lex>
+			<lex lang="es" lid="Id3">Anderson, es parte de Fall Creek Township, Condado de Madison, Indiana, en los EE.UU..</lex>
+		</entry>
+		<entry category="City" eid="Id8" shape="(X (X (X)))" shape_type="chain" size="2">
+			<originaltripleset>
+				<otriple>Anderson,_Indiana | isPartOf | Union_Township,_Madison_County,_Indiana</otriple>
+				<otriple>Union_Township,_Madison_County,_Indiana | country | United_States</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Anderson,_Indiana | isPartOf | Union_Township,_Madison_County,_Indiana</mtriple>
+				<mtriple>Union_Township,_Madison_County,_Indiana | country | United_States</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Anderson | FormaParteDe | Municipio_de_Union,_Condado_de_Madison,_Indiana</striple><striple>Municipio_de_Union,_Condado_de_Madison,_Indiana | País | Estados_Unidos</striple></spanishtripleset><lex lang="en" lid="Id1">Anderson is part of Union Township, Madison County, Indiana, United States.</lex>
+			<lex lang="en" lid="Id2">Anderson is part of Union Township, Madison County, Indiana in the United States.</lex>
+			<lex lang="es" lid="Id1">Anderson es parte de Union Township, Madison County, Indiana, Estados Unidos.</lex>
+			<lex lang="es" lid="Id2">Anderson es parte de Union Township, Madison County, Indiana en los Estados Unidos.</lex>
+		</entry>
+		<entry category="City" eid="Id9" shape="(X (X) (X))" shape_type="sibling" size="2">
+			<originaltripleset>
+				<otriple>Ann_Arbor,_Michigan | populationDensity | "1580.66"^^xsd:double</otriple>
+				<otriple>Ann_Arbor,_Michigan | areaTotal | "74.33"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Ann_Arbor,_Michigan | populationDensity | "1580.6636268569193"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+				<otriple>Ann_Arbor,_Michigan | areaTotal | "74.3326587666432"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Ann_Arbor,_Michigan | populationDensity | "1580.7"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+				<otriple>Ann_Arbor,_Michigan | areaTotal | 7.43327e+07</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Ann_Arbor,_Michigan | populationDensity | "1580.7"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+				<otriple>Ann_Arbor,_Michigan | areaTotal | "74.3326587666432"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Ann_Arbor,_Michigan | populationDensity | "1580.7"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+				<otriple>Ann_Arbor,_Michigan | areaTotal | 7.433e+07</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Ann_Arbor,_Michigan | populationDensity | "1580.7"^^xsd:double</otriple>
+				<otriple>Ann_Arbor,_Michigan | areaTotal | "74.33"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Ann_Arbor,_Michigan | populationDensity | "1580.7"^^xsd:double</otriple>
+				<otriple>Ann_Arbor,_Michigan | areaTotal | "74.3326587666432"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Ann_Arbor,_Michigan | populationDensity | "1580.6636268569193"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+				<otriple>Ann_Arbor,_Michigan | areaTotal | 7.433e+07</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Ann_Arbor,_Michigan | populationDensity | "1580.7"^^xsd:double</otriple>
+				<otriple>Ann_Arbor,_Michigan | areaTotal | 7.433e+07</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Ann_Arbor,_Michigan | populationDensity | "1580.66"^^xsd:double</otriple>
+				<otriple>Ann_Arbor,_Michigan | areaTotal | "74.3326587666432"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Ann_Arbor,_Michigan | populationDensity | 1580.7 (inhabitants per square kilometre)</mtriple>
+				<mtriple>Ann_Arbor,_Michigan | areaTotal | 74.33 (square kilometres)</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Ann_Arbor,_Michigan | DensidadDePoblación | 1580,7_(habitantes_por_kilómetro_cuadrado)</striple><striple>Ann_Arbor,_Michigan | ÁreaTotal | 74,33_(kilómetros_cuadrados)</striple></spanishtripleset><lex lang="en" lid="Id1">Ann Arbor, Michigan has a population of 1580.7 per square kilometre and a total area of 74.33 square kilometres.</lex>
+			<lex lang="es" lid="Id1">Ann Arbor, Michigan, tiene una población de 1.580,7 habitantes por kilómetro cuadrado y una superficie total de 74,33 kilómetros cuadrados.</lex>
+		</entry>
+		<entry category="City" eid="Id10" shape="(X (X (X)))" shape_type="chain" size="2">
+			<originaltripleset>
+				<otriple>Atlanta | country | United_States</otriple>
+				<otriple>United_States | ethnicGroup | African_Americans</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Atlanta | country | United_States</mtriple>
+				<mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Atlanta | País | Estados_Unidos</striple><striple>Estados_Unidos | GrupoÉtnico | Afroestadounidense</striple></spanishtripleset><lex lang="en" lid="Id1">The United States is the location of Atlanta and includes the African Americans among its ethnic groups.</lex>
+			<lex lang="en" lid="Id2">The United States has the ethnic group of African Americans and is the location of Atlanta.</lex>
+			<lex lang="en" lid="Id3">Atlanta is located in the United States where African Americans are an ethnic group.</lex>
+			<lex lang="es" lid="Id1">Estados Unidos es la localidad de Atlanta e incluye a los afroamericanos entre sus grupos étnicos.</lex>
+			<lex lang="es" lid="Id2">Estados Unidos cuenta con el grupo étnico de los afroamericanos y es la localidad de Atlanta.</lex>
+			<lex lang="es" lid="Id3">Atlanta está situada en Estados Unidos, donde los afroamericanos constituyen un grupo étnico.</lex>
+		</entry>
+		<entry category="City" eid="Id11" shape="(X (X) (X))" shape_type="sibling" size="2">
+			<originaltripleset>
+				<otriple>Atlanta | isPartOf | Georgia_(U.S._state)</otriple>
+				<otriple>Atlanta | subdivisionName | Fulton_County,_Georgia</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Atlanta | isPartOf | Georgia_(U.S._state)</mtriple>
+				<mtriple>Atlanta | isPartOf | Fulton_County,_Georgia</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Atlanta | FormaParteDe | Georgia_(Estado_de_EE.UU.)</striple><striple>Atlanta | FormaParteDe | Condado_de_Fulton,_Georgia</striple></spanishtripleset><lex lang="en" lid="Id1">Atlanta is part of Fulton County, Georgia, United States.</lex>
+			<lex lang="en" lid="Id2">Atlanta is part of Fulton County, Georgia, US.</lex>
+			<lex lang="en" lid="Id3">Atlanta is part of Fulton County, Georgia U.S.</lex>
+			<lex lang="es" lid="Id1">Atlanta es parte del condado de Fulton, Georgia, Estados Unidos.</lex>
+			<lex lang="es" lid="Id2">Atlanta es parte del condado de Fulton, Georgia, EE UU.</lex>
+			<lex lang="es" lid="Id3">Atlanta es parte del condado de Fulton, Georgia EE.UU.</lex>
+		</entry>
+		<entry category="City" eid="Id12" shape="(X (X) (X))" shape_type="sibling" size="2">
+			<originaltripleset>
+				<otriple>Attica,_Indiana | subdivisionName | Indiana</otriple>
+				<otriple>Attica,_Indiana | country | United_States</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Attica,_Indiana | isPartOf | Indiana</otriple>
+				<otriple>Attica,_Indiana | country | United_States</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Attica,_Indiana | isPartOf | Indiana</mtriple>
+				<mtriple>Attica,_Indiana | country | United_States</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Attica | FormaParteDe | Indiana</striple><striple>Attica | País | Estados_Unidos</striple></spanishtripleset><lex lang="en" lid="Id1">Attica is located in the state of Indiana in the U.S.</lex>
+			<lex lang="en" lid="Id2">Attica is part of Indiana in the US.</lex>
+			<lex lang="en" lid="Id3">Attica is part of Indiana in the United States.</lex>
+			<lex lang="es" lid="Id1">Attica está situada en el estado de Indiana en EE UU.</lex>
+			<lex lang="es" lid="Id2">Attica es una región de Indiana en Estados Unidos.</lex>
+			<lex lang="es" lid="Id3">Attica es parte de Indiana en EE UU.</lex>
+		</entry>
+		<entry category="City" eid="Id13" shape="(X (X (X)))" shape_type="chain" size="2">
+			<originaltripleset>
+				<otriple>Auburn,_Alabama | country | United_States</otriple>
+				<otriple>United_States | capital | Washington,_D.C.</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Auburn,_Alabama | country | United_States</mtriple>
+				<mtriple>United_States | capital | Washington,_D.C.</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Auburn,_Alabama | País | Estados_Unidos</striple><striple>Estados_Unidos | Capital | Washington_D._C.</striple></spanishtripleset><lex lang="en" lid="Id1">Washington DC is the capital of the United States, where Auburn, Alabama is located.</lex>
+			<lex lang="en" lid="Id2">Auburn Alabama is in the United States with Washington, D.C. as the capital of the U.S.</lex>
+			<lex lang="es" lid="Id1">Washington DC es la capital de Estados Unidos, donde se encuentra Auburn, Alabama.</lex>
+			<lex lang="es" lid="Id2">Auburn Alabama se encuentra en Estados Unidos, con Washington D.C. como capital.</lex>
+		</entry>
+		<entry category="City" eid="Id14" shape="(X (X (X)))" shape_type="chain" size="2">
+			<originaltripleset>
+				<otriple>Auburn,_Alabama | country | United_States</otriple>
+				<otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Auburn,_Alabama | country | United_States</mtriple>
+				<mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Auburn,_Alabama | País | Estados_Unidos</striple><striple>Estados_Unidos | GrupoÉtnico | estadounidense_asiático</striple></spanishtripleset><lex lang="en" lid="Id1">Auburn, Alabama is located in the United States, where one of the ethnic groups is Asian Americans.</lex>
+			<lex lang="en" lid="Id2">Auburn, Alabama is located in the United States, a country where one of the ethnic groups is Asian Americans.</lex>
+			<lex lang="en" lid="Id3">Auburn Alabama is in the United States, where one of the ethnic groups are Asian Americans.</lex>
+			<lex lang="es" lid="Id1">Auburn, Alabama, se encuentra en Estados Unidos, donde uno de los grupos étnicos es el de los asiático-americanos.</lex>
+			<lex lang="es" lid="Id2">Auburn, Alabama, se encuentra en Estados Unidos, un país en el que uno de los grupos étnicos es son los asiático-americanos.</lex>
+			<lex lang="es" lid="Id3">Auburn Alabama está en Estados Unidos, donde uno de los grupos étnicos son los asiático-americanos.</lex>
+		</entry>
+		<entry category="City" eid="Id15" shape="(X (X) (X))" shape_type="sibling" size="2">
+			<originaltripleset>
+				<otriple>Austin,_Texas | areaLand | 6.86088e+08</otriple>
+				<otriple>Austin,_Texas | areaTotal | 7.03959e+08</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Austin,_Texas | areaTotal | "703.9587683893247"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+				<otriple>Austin,_Texas | areaLand | 6.86088e+08</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Austin,_Texas | areaOfLand | 686.0 (square kilometres)</mtriple>
+				<mtriple>Austin,_Texas | areaTotal | 703.95 (square kilometres)</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Austin,_Texas | SuperficieDeTerreno | 686,0_(kilómetros_cuadrados)</striple><striple>Austin,_Texas | ÁreaTotal | 703,95_(kilómetros_cuadrados)</striple></spanishtripleset><lex lang="en" lid="Id1">The area of Austin, Texas is 703.95km2 and the land area is 686km2.</lex>
+			<lex lang="en" lid="Id2">Austin, Texas has a total area of 703.95 sq km including a land area of 686 sq km.</lex>
+			<lex lang="es" lid="Id1">La superficie de Austin, Texas, es de 703,95 km2 y la superficie terrestre es de 686 km2.</lex>
+			<lex lang="es" lid="Id2">Austin (Texas) tiene una superficie total de 703,95 km2, de los cuales 686 km2 son de tierra.</lex>
+		</entry>
+		<entry category="City" eid="Id16" shape="(X (X) (X))" shape_type="sibling" size="2">
+			<originaltripleset>
+				<otriple>Austin,_Texas | country | United_States</otriple>
+				<otriple>Austin,_Texas | isPartOf | Travis_County,_Texas</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Austin,_Texas | country | United_States</mtriple>
+				<mtriple>Austin,_Texas | isPartOf | Travis_County,_Texas</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Austin,_Texas | País | Estados_Unidos</striple><striple>Austin,_Texas | FormaParteDe | Condado_de_Travis,_Texas</striple></spanishtripleset><lex lang="en" lid="Id1">Austin is part of Travis County, Texas, is United States.</lex>
+			<lex lang="en" lid="Id2">Austin is part of Travis County, which is in Texas, United States.</lex>
+			<lex lang="en" lid="Id3">Austin is part of Travis County, in Texas, located within the country of the United States.</lex>
+			<lex lang="es" lid="Id1">Austin es parte del Condado de Travis, Texas, es Estados Unidos.</lex>
+			<lex lang="es" lid="Id2">Austin forma parte del condado de Travis, en Texas, Estados Unidos.</lex>
+			<lex lang="es" lid="Id3">Austin forma parte del condado de Travis, en Texas, situado dentro del país de Estados Unidos.</lex>
+		</entry>
+		<entry category="City" eid="Id17" shape="(X (X) (X))" shape_type="sibling" size="2">
+			<originaltripleset>
+				<otriple>Austin,_Texas | country | United_States</otriple>
+				<otriple>Austin,_Texas | leaderTitle | "City Manager"@en</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Austin,_Texas | country | United_States</otriple>
+				<otriple>Austin,_Texas | leaderTitle | City_manager</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Austin,_Texas | country | United_States</mtriple>
+				<mtriple>Austin,_Texas | leaderTitle | City_Manager</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Austin,_Texas | País | Estados_Unidos</striple><striple>Austin,_Texas | TítuloDeLíder | Administrador_municipal</striple></spanishtripleset><lex lang="en" lid="Id1">Austin, Texas is located within the country of the United States and is led by the City Manager.</lex>
+			<lex lang="en" lid="Id2">The leader of Austin, Texas, United States is the City Manager.</lex>
+			<lex lang="en" lid="Id3">Austin, Texas is in the United States and is led by the City manager.</lex>
+			<lex lang="es" lid="Id1">Austin, Texas, está situada en el país de los Estados Unidos y está dirigida por el City Manager.</lex>
+			<lex lang="es" lid="Id2">El líder de Austin, Texas, Estados Unidos, es el City Manager.</lex>
+			<lex lang="es" lid="Id3">Austin (Texas) se encuentra en Estados Unidos y está dirigida por el City manager.</lex>
+		</entry>
+		<entry category="City" eid="Id18" shape="(X (X) (X))" shape_type="sibling" size="2">
+			<originaltripleset>
+				<otriple>Austin,_Texas | isPartOf | Texas</otriple>
+				<otriple>Austin,_Texas | country | United_States</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Austin,_Texas | isPartOf | Texas</mtriple>
+				<mtriple>Austin,_Texas | country | United_States</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Austin,_Texas | FormaParteDe | Texas</striple><striple>Austin,_Texas | País | Estados_Unidos</striple></spanishtripleset><lex lang="en" lid="Id1">Austin is located in Texas, in the country of the United States.</lex>
+			<lex lang="en" lid="Id2">Austin is part of the state of Texas in the United States.</lex>
+			<lex lang="en" lid="Id3">Austin is part of the state of Texas, in the United States.</lex>
+			<lex lang="es" lid="Id1">Austin está situada en Texas, en el país de Estados Unidos.</lex>
+			<lex lang="es" lid="Id2">Austin forma parte del estado de Texas, en Estados Unidos.</lex>
+			<lex lang="es" lid="Id3">Austin forma parte del estado de Texas, en EE.UU.</lex>
+		</entry>
+		<entry category="City" eid="Id19" shape="(X (X (X)))" shape_type="chain" size="2">
+			<originaltripleset>
+				<otriple>Indiana | capital | Indianapolis</otriple>
+				<otriple>Attica,_Indiana | subdivisionName | Indiana</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Indiana | capital | Indianapolis</mtriple>
+				<mtriple>Attica,_Indiana | isPartOf | Indiana</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Indiana | Capital | Indianápolis</striple><striple>Attica | FormaParteDe | Indiana</striple></spanishtripleset><lex lang="en" lid="Id1">Attica is part of Indiana, where Indianapolis is the capital.</lex>
+			<lex lang="en" lid="Id2">Attica is part of the state of Indiana where the capital is Indianapolis.</lex>
+			<lex lang="es" lid="Id1">Attica forma parte de Indiana, donde capital es Indianápolis.</lex>
+			<lex lang="es" lid="Id2">Attica forma parte del estado de Indiana, cuya capital es Indianápolis.</lex>
+		</entry>
+		<entry category="City" eid="Id20" shape="(X (X (X)))" shape_type="chain" size="2">
+			<originaltripleset>
+				<otriple>Michigan | country | United_States</otriple>
+				<otriple>Ann_Arbor,_Michigan | subdivisionName | Michigan</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Michigan | country | United_States</otriple>
+				<otriple>Ann_Arbor,_Michigan | isPartOf | Michigan</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Michigan | country | United_States</mtriple>
+				<mtriple>Ann_Arbor,_Michigan | isPartOf | Michigan</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Míchigan | País | Estados_Unidos</striple><striple>Ann_Arbor,_Michigan | FormaParteDe | Míchigan</striple></spanishtripleset><lex lang="en" lid="Id1">Ann Arbor is part of Michigan in the United States.</lex>
+			<lex lang="en" lid="Id2">Ann Arbor is part of Michigan, United States.</lex>
+			<lex lang="es" lid="Id1">Ann Arbor es una ciudad de Michigan (Estados Unidos).</lex>
+			<lex lang="es" lid="Id2">Ann Arbor es parte de Michigan, en Estados Unidos.</lex>
+		</entry>
+		<entry category="City" eid="Id21" shape="(X (X (X)))" shape_type="chain" size="2">
+			<originaltripleset>
+				<otriple>Texas | language | English_language</otriple>
+				<otriple>Arlington,_Texas | isPartOf | Texas</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Texas | language | English_language</mtriple>
+				<mtriple>Arlington,_Texas | isPartOf | Texas</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Texas | Idioma | inglés</striple><striple>Arlington,_Texas | FormaParteDe | Texas</striple></spanishtripleset><lex lang="en" lid="Id1">Arlington is part of Texas where English is spoken.</lex>
+			<lex lang="en" lid="Id2">Arlington is part of the state of Texas, where English is used.</lex>
+			<lex lang="en" lid="Id3">Arlington is part of the state of Texas where the English language is spoken.</lex>
+			<lex lang="es" lid="Id1">Arlington forma parte de Texas, donde se habla inglés.</lex>
+			<lex lang="es" lid="Id2">Arlington forma parte del estado de Texas, donde se utiliza el inglés.</lex>
+			<lex lang="es" lid="Id3">Arlington forma parte del estado de Texas, donde se habla inglés.</lex>
+		</entry>
+		<entry category="City" eid="Id22" shape="(X (X (X)))" shape_type="chain" size="2">
+			<originaltripleset>
+				<otriple>United_States | demonym | Americans</otriple>
+				<otriple>Albuquerque,_New_Mexico | country | United_States</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>United_States | demonym | Americans</mtriple>
+				<mtriple>Albuquerque,_New_Mexico | country | United_States</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Estados_Unidos | Gentilicio | Estadounidense</striple><striple>Albuquerque,_Nuevo_México | País | Estados_Unidos</striple></spanishtripleset><lex lang="en" lid="Id1">Albuquerque is in New Mexico, in the United States, of which the occupants are Americans.</lex>
+			<lex lang="en" lid="Id2">Albuquerque, New Mexico is located in the United States where the Americans are living.</lex>
+			<lex lang="en" lid="Id3">The United States is the location of Albuquerque, New Mexico and the inhabitants of the country are known as Americans.</lex>
+			<lex lang="es" lid="Id1">Albuquerque está en Nuevo México, en Estados Unidos, cuyos ocupantes son Estadounidenses.</lex>
+			<lex lang="es" lid="Id2">Albuquerque, Nuevo México, se encuentra en Estados Unidos, donde viven los Estadounidenses.</lex>
+			<lex lang="es" lid="Id3">En Estados Unidos se encuentra Albuquerque, Nuevo México, y a sus habitantes se les conoce como Estadounidenses.</lex>
+		</entry>
+		<entry category="City" eid="Id23" shape="(X (X (X)))" shape_type="chain" size="2">
+			<originaltripleset>
+				<otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+				<otriple>Akron,_Ohio | subdivisionName | United_States</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+				<mtriple>Akron,_Ohio | isPartOf | United_States</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Estados_Unidos | GrupoÉtnico | estadounidense_asiático</striple><striple>Akron | FormaParteDe | Estados_Unidos</striple></spanishtripleset><lex lang="en" lid="Id1">Akron, Ohio is part of the United States, where Asian Americans are an ethnic group.</lex>
+			<lex lang="en" lid="Id2">Akron Ohio is part of the United States where one of the ethnic groups are Asian Americans.</lex>
+			<lex lang="en" lid="Id3">The United States include the ethnic group of Asian Americans and is the location of Akron, Ohio.</lex>
+			<lex lang="es" lid="Id1">Akron (Ohio) forma parte de Estados Unidos, donde los estadounidenses de origen asiático constituyen un grupo étnico.</lex>
+			<lex lang="es" lid="Id2">Akron Ohio forma parte de Estados Unidos, donde uno de los grupos étnicos son los asiático-americanos.</lex>
+			<lex lang="es" lid="Id3">Estados Unidos incluye el grupo étnico de los asiático-americanos y es la localidad de Akron, Ohio.</lex>
+		</entry>
+	</entries>
+</benchmark>

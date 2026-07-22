@@ -1,0 +1,728 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="CelestialBody" eid="Id1" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>(410777)_2009_FD | orbitalPeriod | 3.9447e+07</otriple>
+        <otriple>(410777)_2009_FD | periapsis | 8.82343e+10</otriple>
+        <otriple>(410777)_2009_FD | discoverer | "Spacewatch"@en</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>(410777)_2009_FD | discoverer | Spacewatch</otriple>
+        <otriple>(410777)_2009_FD | orbitalPeriod | 3.9447e+07</otriple>
+        <otriple>(410777)_2009_FD | periapsis | 8.82343e+10</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>(410777)_2009_FD | orbitalPeriod | 39447000.0</mtriple>
+        <mtriple>(410777)_2009_FD | periapsis | 88234300000.0</mtriple>
+        <mtriple>(410777)_2009_FD | discoverer | Spacewatch</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>(410777)_2009_FD | PeríodoOrbital | 39447000.0</striple>
+        <striple>(410777)_2009_FD | Periapsis | 88234300000.0</striple>
+        <striple>(410777)_2009_FD | Descubridor | Spacewatch</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>(410777)_2009_FD | orbitalPeriod | 39447000.0</bttriple>
+        <bttriple>(410777)_2009_FD | periapsis | 88234300000.0</bttriple>
+        <bttriple>(410777)_2009_FD | discoverer | Spacewatch</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>(410777)_2009_FD | PeríodeOrbital | 39447000.0</ctriple>
+        <ctriple>(410777)_2009_FD | Periàpside | 88234300000.0</ctriple>
+        <ctriple>(410777)_2009_FD | Descobridor | Spacewatch</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The celestial body known as (410777) 2009 FD has an orbital period of 39447000, has a periapsis of 88234300000.0 and it was discovered by Spacewatch.</lex>
+      <lex lang="en" lid="Id2">(410777) 2009 FD, which was discovered by Spacewatch, has an orbital period of 39447000.0 and a periapsis of 88234300000.0.</lex>
+      <lex lang="en" lid="Id3">Discovered by Spacewatch, (410777) 2009 FD has a periapsis of 88234300000.0, and an orbital period of 39447000.0.</lex>
+      <lex lang="es" lid="Id1">El cuerpo celeste conocido como (410777) 2009 FD tiene un periodo orbital de 39447000, tiene un periapsis de 88234300000.0 y fue descubierto por Spacewatch.</lex>
+      <lex lang="es" lid="Id2">(410777) 2009 FD, descubierto por Spacewatch, tiene un período orbital de 39447000,0 y un periapsis de 88234300000,0.</lex>
+      <lex lang="es" lid="Id3">Descubierto por Spacewatch, (410777) 2009 FD tiene una periapsis de 88234300000,0, y un período orbital de 39447000,0.</lex>
+      <lex lang="ca" lid="Id1">El cos celeste conegut com (410777) 2009 FD té un període orbital de 39447000, té un periàpside de 88234300000.0 i va ser descobert per Spacewatch.</lex>
+      <lex lang="ca" lid="Id2">(410777) 2009 FD, que va ser descobert per Spacewatch, té un període orbital de 39447000.0 i un periàpside de 88234300000.0.</lex>
+      <lex lang="ca" lid="Id3">Descobert per Spacewatch, (410777) 2009 FD té un periapside de 88234300000.0, i un període orbital de 39447000.0.</lex>
+      <lex lang="en_bt" lid="Id1">The celestial body known as (410777) 2009 FD has an orbital period of 39447000, has a periapsis of 88234300000.0 and was discovered by Spacewatch.</lex>
+      <lex lang="en_bt" lid="Id2">(410777) 2009 FD, which was discovered by Spacewatch, has an orbital period of 39447000.0 and a periapsis of 88234300000.0.</lex>
+      <lex lang="en_bt" lid="Id3">Discovered by Spacewatch, (410777) 2009 FD has a periapside of 88234300000.0, and an orbital period of 39447000.0.</lex>
+      </entry>
+    <entry category="CelestialBody" eid="Id2" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>(66063)_1998_RO1 | minimumTemperature | "202.0"^^xsd:double</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/maximumTemperature | "500.0"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/apoapsis | "2.5498957060815E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>(66063)_1998_RO1 | minTemp | "-71.0"^^&lt;http://dbpedia.org/datatype/degreeCelsius&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/maximumTemperature | "500.15"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/apoapsis | "2.5498957060815E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>(66063)_1998_RO1 | minTemp | "202.0"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/maximumTemperature | "500.15"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/apoapsis | "2.5498957060815E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>(66063)_1998_RO1 | Planet/minimumTemperature | "202.15"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/maximumTemperature | "500.0"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/apoapsis | "2.5498957060815E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>(66063)_1998_RO1 | minTemp | "202.0"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/maximumTemperature | "500.0"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/apoapsis | "2.5498957060815E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>(66063)_1998_RO1 | Planet/minimumTemperature | "202.0"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/maximumTemperature | "500.0"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/apoapsis | "2.5498957060815E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>(66063)_1998_RO1 | Planet/minimumTemperature | "202.0"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/maximumTemperature | "500.15"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/apoapsis | "2.5498957060815E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>(66063)_1998_RO1 | minimumTemperature | "202.0"^^xsd:double</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/maximumTemperature | "500.15"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/apoapsis | "2.5498957060815E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>(66063)_1998_RO1 | Planet/minimumTemperature | "202.15"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/maximumTemperature | "500.15"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/apoapsis | "2.5498957060815E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>(66063)_1998_RO1 | minTemp | "-71.0"^^&lt;http://dbpedia.org/datatype/degreeCelsius&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/maximumTemperature | "500.0"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/apoapsis | "2.5498957060815E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>(66063)_1998_RO1 | minimumTemperature | -71.0 (degreeCelsius)</mtriple>
+        <mtriple>(66063)_1998_RO1 | maximumTemperature | 500.0 (kelvins)</mtriple>
+        <mtriple>(66063)_1998_RO1 | apoapsis | 254989570.60815 (kilometres)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>(66063)_1998_RO1 | TemperaturaMínima | -71,0_(grados_Celsius)</striple>
+        <striple>(66063)_1998_RO1 | TemperaturaMáxima | 500,0_(kelvins)</striple>
+        <striple>(66063)_1998_RO1 | Apoapsis | 254989570.60815_(kilómetros)</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>(66063)_1998_RO1 | minimumTemperature | -71.0 (degreeCelsius)</bttriple>
+        <bttriple>(66063)_1998_RO1 | maximumTemperature | 500.0 (kelvins)</bttriple>
+        <bttriple>(66063)_1998_RO1 | apoapsis | 254989570.60815 (kilometres)</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>(66063)_1998_RO1 | TemperaturaMínima | -71.0_(graus_Celsius)</ctriple>
+        <ctriple>(66063)_1998_RO1 | TemperaturaMàxima | 500.0_(kelvins)</ctriple>
+        <ctriple>(66063)_1998_RO1 | Apoapsis | 254989570.60815_(kilòmetres)</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">(66063) 1998 RO1 has an apoapsis of 254989570.60815 km, a maximum temperature of 500 kelvins and a minimum temperature of -71 degrees celsius.</lex>
+      <lex lang="en" lid="Id2">With an apoapsis of 254989570.60815 kilometres, (66063) 1998 RO1, has a minimum temperature of -71.0 degrees Celsius and a maximum temperature of 500.0 kelvins.</lex>
+      <lex lang="en" lid="Id3">The minimum temperature of (66063) 1998 RO1 is -71.0 deg celsius and its max temperature is 500.0 (kelvins). It has an apoapsis of 254989570.60815 kilometres.</lex>
+      <lex lang="es" lid="Id1">(66063) 1998 RO1 tiene una apoapsis de 254989570,60815 km, una temperatura máxima de 500 kelvins y una temperatura mínima de -71 grados centígrados.</lex>
+      <lex lang="es" lid="Id2">Con una apoapsis de 254989570,60815 kilómetros, (66063) 1998 RO1, tiene una temperatura mínima de -71,0 grados Celsius y una temperatura máxima de 500,0 kelvins.</lex>
+      <lex lang="es" lid="Id3">La temperatura mínima de (66063) 1998 RO1 es de -71,0 grados centígrados y su temperatura máxima es de 500,0 (kelvins). Tiene una apoapsis de 254989570,60815 kilómetros.</lex>
+      <lex lang="ca" lid="Id1">(66063) 1998 RO1 té una apoapsis de 254989570.60815 km, una temperatura màxima de 500 kelvins i una temperatura mínima de -71 graus Celsius.</lex>
+      <lex lang="ca" lid="Id2">Amb una apoapsis de 254989570.60815 quilòmetres, (66063) 1998 RO1, té una temperatura mínima de -71.0 graus Celsius i una temperatura màxima de 500.0 kelvins.</lex>
+      <lex lang="ca" lid="Id3">La temperatura mínima de (66063) 1998 RO1 és de - 71, 0 graus celsius i la seva temperatura màxima és de 500, 0 (kelvins). Té una apoapsis de 254989570, 60815 quilòmetres.</lex>
+      <lex lang="en_bt" lid="Id1">(66063) 1998 RO1 has an apoapsis of 254989570.60815 km, a maximum temperature of 500 kelvins and a minimum temperature of -71 degrees Celsius.</lex>
+      <lex lang="en_bt" lid="Id2">With an apoapsis of 254989570.60815 kilometers, (66063) 1998 RO1, has a minimum temperature of -71.0 degrees Celsius and a maximum temperature of 500.0 kelvin.</lex>
+      <lex lang="en_bt" lid="Id3">The minimum temperature of (66063) 1998 RO1 is -71.0 degrees Celsius and its maximum temperature is 500.0 (kelvin). It has an apoapsis of 254989570.60815 kilometers.</lex>
+      </entry>
+    <entry category="CelestialBody" eid="Id3" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>(66391)_1999_KW4 | Planet/averageSpeed | "37.16"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>(66391)_1999_KW4 | Planet/density | "2000.0"^^&lt;http://dbpedia.org/datatype/kilogramPerCubicMetre&gt;</otriple>
+        <otriple>(66391)_1999_KW4 | Planet/apoapsis | "1.621640918388E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>(66391)_1999_KW4 | averageSpeed | 37.16 (kilometrePerSeconds)</mtriple>
+        <mtriple>(66391)_1999_KW4 | density | 2.0 (gramPerCubicCentimetres)</mtriple>
+        <mtriple>(66391)_1999_KW4 | apoapsis | 162164091.8388 (kilometres)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>(66391)_1999_KW4 | VelocidadMedia | 37,16_(kilómetros_por_segundo)</striple>
+        <striple>(66391)_1999_KW4 | Densidad | 2,0_(gramos_por_centímetros_cúbicos)</striple>
+        <striple>(66391)_1999_KW4 | Apoapsis | 162164091.8388_(kilómetros)</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>(66391)_1999_KW4 | averageSpeed | 37.16 (kilometrePerSeconds)</bttriple>
+        <bttriple>(66391)_1999_KW4 | density | 2.0 (gramPerCubicCentimetres)</bttriple>
+        <bttriple>(66391)_1999_KW4 | apoapsis | 162164091.8388 (kilometres)</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>(66391)_1999_KW4 | VelocitatMitjana | 37.16_(quilòmetrePerSegons)</ctriple>
+        <ctriple>(66391)_1999_KW4 | Densitat | 2.0_(grams_per_centímetre_cúbic)</ctriple>
+        <ctriple>(66391)_1999_KW4 | Apoapsis | 162164091.8388_(kilòmetres)</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The celestial body known as (66391) 1999 KW4 has an apoapsis of 162164091.8388 km, an average speed of 37.16 kilometres per second, and a density of 2.0 grams per cubic centimetre.</lex>
+      <lex lang="en" lid="Id2">Having a density of 2.0 gm per cu cm, (66391) 1999 KW4, has an apoapsis of 162164091.8388 kilometres, an the average speed of 37.16 km per sec.</lex>
+      <lex lang="en" lid="Id3">The celestial body known as (66391) 1999 KW4 has an apoapsis of 162164091.8388 km and an average speed of 37.16 kilometres per second. Its density is 2.0 gm per cu cm.</lex>
+      <lex lang="es" lid="Id1">El cuerpo celeste conocido como (66391) 1999 KW4 tiene una apoapsis de 162164091,8388 km, una velocidad media de 37,16 kilómetros por segundo y una densidad de 2,0 gramos por centímetro cúbico.</lex>
+      <lex lang="es" lid="Id2">Con una densidad de 2,0 gm por cm3, (66391) 1999 KW4, tiene una apoapsis de 162164091,8388 kilómetros, y una velocidad media de 37,16 km por segundo.</lex>
+      <lex lang="es" lid="Id3">El cuerpo celeste conocido como (66391) 1999 KW4 tiene una apoapsis de 162164091,8388 km y una velocidad media de 37,16 kilómetros por segundo. Su densidad es de 2,0 gm por cm3.</lex>
+      <lex lang="ca" lid="Id1">El cos celeste conegut com (66391) 1999 KW4 té una apoapsis de 162164091,8388 km, una velocitat mitjana de 37,16 quilòmetres per segon, i una densitat de 2,0 grams per centímetre cúbic.</lex>
+      <lex lang="ca" lid="Id2">Amb una densitat de 2,0 gm per cm³, (66391) 1999 KW4, té una apoapsis de 162164091,8388 quilòmetres, una velocitat mitjana de 37,16 km/s.</lex>
+      <lex lang="ca" lid="Id3">El cos celeste conegut com (66391) 1999 KW4 té una apoapsis de 16.216.4091,8388 km i una velocitat mitjana de 37,16 quilòmetres per segon. La seva densitat és de 2,0 g/cm³.</lex>
+      <lex lang="en_bt" lid="Id1">The celestial body known as (66391) 1999 KW4 has an apoapsis of 162164091.8388 km, an average velocity of 37.16 km per second, and a density of 2.0 grams per cubic centimeter.</lex>
+      <lex lang="en_bt" lid="Id2">With a density of 2.0 gm per cm³, (66391) 1999 KW4 has an apoapsis of 162164091.8388 kilometers, an average velocity of 37.16 km/s.</lex>
+      <lex lang="en_bt" lid="Id3">The celestial body known as (66391) 1999 KW4 has an apoapsis of 16,216,4091.8388 km and an average velocity of 37.16 km/s. Its density is 2.0 g/cm³.</lex>
+      </entry>
+    <entry category="CelestialBody" eid="Id4" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1001_Gaussia | epoch | "27 June 2015 (JD2457200.5)"</otriple>
+        <otriple>1001_Gaussia | formerName | "1923 OAA907 XC"@en</otriple>
+        <otriple>1001_Gaussia | periapsis | 4.19113e+11</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>1001_Gaussia | formerName | "1923 OAA907 XC"@en</otriple>
+        <otriple>1001_Gaussia | periapsis | 4.19113e+11</otriple>
+        <otriple>1001_Gaussia | epoch | "2015-06-27"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1001_Gaussia | epoch | 2015-06-27</mtriple>
+        <mtriple>1001_Gaussia | formerName | "1923 OAA907 XC"</mtriple>
+        <mtriple>1001_Gaussia | periapsis | 419113394.55312 (kilometres)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>(1001)_Gaussia | Época | 27-06-2015</striple>
+        <striple>(1001)_Gaussia | NombreAnterior | 1923_OAA907_XC</striple>
+        <striple>(1001)_Gaussia | Periapsis | 419113394.55312_(kilómetros)</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>1001_Gaussia | epoch | 2015-06-27</bttriple>
+        <bttriple>1001_Gaussia | formerName | "1923 OAA907 XC"</bttriple>
+        <bttriple>1001_Gaussia | periapsis | 419113394.55312 (kilometres)</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>(1001)_Gaussia | Època | 2015-06-27</ctriple>
+        <ctriple>(1001)_Gaussia | AnteriorNom | 1923_OAA907_XC</ctriple>
+        <ctriple>(1001)_Gaussia | Periàpside | 419113394.55312_(kilòmetres)</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The periapsis of the 1001 Gaussia (formally known as 1923 OAA907 XC) is 419113394.55312 km and it has an epoch date of the 31st July 2016.</lex>
+      <lex lang="en" lid="Id2">1001 Gaussia, which was formerly called "1923 OAA907 XC", has an epoch date of 31 July 2016 and a periapsis of 419113394.55312 kilometres.</lex>
+      <lex lang="es" lid="Id1">El periapsis del 1001 Gaussia (formalmente conocido como 1923 OAA907 XC) es 419113394,55312 km y tiene una fecha de época del 31 de julio de 2016.</lex>
+      <lex lang="es" lid="Id2">1001 Gaussia, que antes se llamaba "1923 OAA907 XC", tiene una fecha de época del 31 de julio de 2016 y un periapsis de 419113394,55312 kilómetros.</lex>
+      <lex lang="ca" lid="Id1">El periapside del 1001 Gaussia (formalment conegut com 1923 OAA907 XC) és de 419113394.55312 km i té una data d'època del 31 de juliol de 2016.</lex>
+      <lex lang="ca" lid="Id2">1001 Gaussia, que anteriorment s'anomenava "1923 OAA907 XC", té una època del 31 de juliol de 2016 i un periàpside de 419113394,55312 quilòmetres.</lex>
+      <lex lang="en_bt" lid="Id1">The periapsid of 1001 Gaussia (formally known as 1923 OAA907 XC) is 419113394.55312 km and has an epoch date of 31 July 2016.</lex>
+      <lex lang="en_bt" lid="Id2">1001 Gaussia, which was previously named "1923 OAA907 XC", has an epoch of 31 July 2016 and a periapsis of 419113394.55312 kilometers.</lex>
+      </entry>
+    <entry category="CelestialBody" eid="Id5" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>101_Helena | discoverer | James_Craig_Watson</otriple>
+        <otriple>James_Craig_Watson | stateOfOrigin | Canada</otriple>
+        <otriple>James_Craig_Watson | deathPlace | Madison,_Wisconsin</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>101_Helena | discoverer | James_Craig_Watson</mtriple>
+        <mtriple>James_Craig_Watson | stateOfOrigin | Canada</mtriple>
+        <mtriple>James_Craig_Watson | deathPlace | Madison,_Wisconsin</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>101_Helena | Descubridor | James_Craig_Watson</striple>
+        <striple>James_Craig_Watson | EstadoDeOrigen | Canadá</striple>
+        <striple>James_Craig_Watson | LugarDeLaMuerte | Madison,_Wisconsin</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>101_Helena | discoverer | James_Craig_Watson</bttriple>
+        <bttriple>James_Craig_Watson | stateOfOrigin | Canada</bttriple>
+        <bttriple>James_Craig_Watson | deathPlace | Madison,_Wisconsin</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>(101)_Hèlena | Descobridor | James_Craig_Watson</ctriple>
+        <ctriple>James_Craig_Watson | EstatD'Origen | Canadà</ctriple>
+        <ctriple>James_Craig_Watson | LlocDeLaMort | Madison,_Wisconsin</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The discoverer of 101 Helena is James Craig Watson who came from Canada. He died in Madison, Wisconsin.</lex>
+      <lex lang="en" lid="Id2">101 Helena was discovered by Canadian, James Craig Watson, who died in Madison, Wisconsin.</lex>
+      <lex lang="en" lid="Id3">James Craig Watson, who discovered 101 Helena, originated from Canada and died in Madison, Wisconsin.</lex>
+      <lex lang="es" lid="Id1">El descubridor de 101 Helena es James Craig Watson, natural de Canadá. Murió en Madison, Wisconsin.</lex>
+      <lex lang="es" lid="Id2">101 Helena fue descubierta por el canadiense James Craig Watson, fallecido en Madison (Wisconsin).</lex>
+      <lex lang="es" lid="Id3">James Craig Watson, descubridor de 101 Helena, es originario de Canadá y falleció en Madison (Wisconsin).</lex>
+      <lex lang="ca" lid="Id1">El descobridor de 101 Helena és James Craig Watson, que va venir del Canadà i va morir a Madison, Wisconsin.</lex>
+      <lex lang="ca" lid="Id2">101 Helena va ser descoberta pel canadenc James Craig Watson, que va morir a Madison, Wisconsin.</lex>
+      <lex lang="ca" lid="Id3">James Craig Watson, que va descobrir 101 Helena, era originari del Canadà i va morir a Madison, Wisconsin.</lex>
+      <lex lang="en_bt" lid="Id1">The discoverer of 101 Helena is James Craig Watson, who came from Canada and died in Madison, Wisconsin.</lex>
+      <lex lang="en_bt" lid="Id2">101 Helena was discovered by Canadian James Craig Watson, who died in Madison, Wisconsin.</lex>
+      <lex lang="en_bt" lid="Id3">James Craig Watson, who discovered 101 Helena, was originally from Canada and died in Madison, Wisconsin.</lex>
+      </entry>
+    <entry category="CelestialBody" eid="Id6" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>1036_Ganymed | discoverer | Walter_Baade</otriple>
+        <otriple>Walter_Baade | nationality | Germany</otriple>
+        <otriple>Walter_Baade | almaMater | University_of_Göttingen</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1036_Ganymed | discoverer | Walter_Baade</mtriple>
+        <mtriple>Walter_Baade | nationality | Germany</mtriple>
+        <mtriple>Walter_Baade | almaMater | University_of_Göttingen</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>(1036)_Ganymed | Descubridor | Walter_Baade</striple>
+        <striple>Walter_Baade | Nacionalidad | Alemania</striple>
+        <striple>Walter_Baade | AlmaMáter | Universidad_de_Gotinga</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>1036_Ganymed | discoverer | Walter_Baade</bttriple>
+        <bttriple>Walter_Baade | nationality | Germany</bttriple>
+        <bttriple>Walter_Baade | almaMater | University_of_Göttingen</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>(1036)_Ganymed | Descobridor | Walter_Baade</ctriple>
+        <ctriple>Walter_Baade | Nacionalitat | Alemanya</ctriple>
+        <ctriple>Walter_Baade | AlmaMater | Universitat_de_Göttingen</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">1036 Ganymed was discovered by Walter Baade, a German National who studied at the University of Gottingen.</lex>
+      <lex lang="en" lid="Id2">Walter Baade, a German national who graduated from the University of Gottingen, discovered 1036 Ganymed.</lex>
+      <lex lang="en" lid="Id3">Walter Baade, a German National, discovered 1036 Ganymed. His alma mater was the University of Gottingen.</lex>
+      <lex lang="es" lid="Id1">1036 Ganímedes fue descubierto por Walter Baade, alemán que estudió en la Universidad de Gotinga.</lex>
+      <lex lang="es" lid="Id2">Walter Baade, de nacionalidad alemana y licenciado por la Universidad de Gotinga, descubrió 1036 Ganymed.</lex>
+      <lex lang="es" lid="Id3">Walter Baade, de nacionalidad alemana, descubrió Ganímedes en 1036. Su alma mater fue la Universidad de Gotinga.</lex>
+      <lex lang="ca" lid="Id1">1036 Ganimedes va ser descobert per Walter Baade, un alemany que va estudiar a la Universitat de Göttingen.</lex>
+      <lex lang="ca" lid="Id2">Walter Baade, un alemany que es va graduar a la Universitat de Göttingen, va descobrir el 1036 Ganimedes.</lex>
+      <lex lang="ca" lid="Id3">Walter Baade, un alemany, va descobrir (1036) Ganimedes. La seva alma mater va ser la Universitat de Göttingen.</lex>
+      <lex lang="en_bt" lid="Id1">1036 Ganymede was discovered by Walter Baade, a German who studied at the University of Göttingen.</lex>
+      <lex lang="en_bt" lid="Id2">Walter Baade, a German who graduated from the University of Göttingen, discovered Ganymede in 1036.</lex>
+      <lex lang="en_bt" lid="Id3">Walter Baade, a German, discovered (1036) Ganymede. His alma mater was the University of Göttingen.</lex>
+      </entry>
+    <entry category="CelestialBody" eid="Id7" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>103_Hera | temperature | "170.0"^^xsd:double</otriple>
+        <otriple>103_Hera | escapeVelocity | "0.0482"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>103_Hera | Planet/apoapsis | "4.3717E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>103_Hera | escapeVelocity | "173.52"^^xsd:double</otriple>
+        <otriple>103_Hera | temperature | "170.0"^^xsd:double</otriple>
+        <otriple>103_Hera | Planet/apoapsis | "4.3717E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>103_Hera | escapeVelocity | 0.0482 (kilometrePerSeconds)</mtriple>
+        <mtriple>103_Hera | temperature | 170.0 (kelvins)</mtriple>
+        <mtriple>103_Hera | apoapsis | 437170000.0 (kilometres)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>(103)_Hera | VelocidadDeEscape | 0,0482_(kilómetros_por_segundo)</striple>
+        <striple>(103)_Hera | Temperatura | 170,0_(kelvins)</striple>
+        <striple>(103)_Hera | Apoapsis | 437170000.0_(kilómetros)</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>103_Hera | escapeVelocity | 0.0482 (kilometrePerSeconds)</bttriple>
+        <bttriple>103_Hera | temperature | 170.0 (kelvins)</bttriple>
+        <bttriple>103_Hera | apoapsis | 437170000.0 (kilometres)</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>(103)_Hera | VelocitatD'escapament | 0.0482_(kilòmetrePerSegons)</ctriple>
+        <ctriple>(103)_Hera | Temperatura | 170.0_(kelvins)</ctriple>
+        <ctriple>(103)_Hera | Apoapsis | 437170000.0_(kilòmetres)</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The celestial body known as 103 Hera has an escape velocity of 0.0482 k.p.s., temperature of 170.0 kelvins and an apoapsis of 437170000.0 kilometres.</lex>
+      <lex lang="en" lid="Id2">The celestial body known as 103 Hera has a temperature of 170 kelvins. It has has an escape velocity of 0.0482 kilometres per second and an apoapsis of 437170000.0 kilometres.</lex>
+      <lex lang="en" lid="Id3">103 Hera; has an escape velocity of 0.0482 kilometres per second, a temperature of 170.0 kelvins and an apoapsis of 437170000.0 kilometres.</lex>
+      <lex lang="es" lid="Id1">El cuerpo celeste conocido como 103 Hera tiene una velocidad de escape de 0,0482 k.p.s., una temperatura de 170,0 kelvins y una apoapsis de 437170000,0 kilómetros.</lex>
+      <lex lang="es" lid="Id2">El cuerpo celeste conocido como 103 Hera tiene una temperatura de 170 kelvins. Tiene una velocidad de escape de 0,0482 kilómetros por segundo y una apoapsis de 437170000,0 kilómetros.</lex>
+      <lex lang="es" lid="Id3">103 Hera; tiene una velocidad de escape de 0,0482 kilómetros por segundo, una temperatura de 170,0 kelvins y una apoapsis de 437170000,0 kilómetros.</lex>
+      <lex lang="ca" lid="Id1">El cos celeste conegut com a 103 Hera té una velocitat d'escapament de 0,0482 k.p.s., una temperatura de 170,0 kelvins i una apoapsis de 437170000,0 quilòmetres.</lex>
+      <lex lang="ca" lid="Id2">El cos celeste conegut com 103 Hera té una temperatura de 170 kelvins. Té una velocitat d'escapament de 0,0482 quilòmetres per segon i una apoapsis de 437170000.0 quilòmetres.</lex>
+      <lex lang="ca" lid="Id3">103 Hera; té una velocitat d'escapament de 0,0482 quilòmetres per segon, una temperatura de 170,0 kelvins i una apoapsis de 437170000,0 quilòmetres.</lex>
+      <lex lang="en_bt" lid="Id1">The celestial body known as 103 Hera has an escape velocity of 0.0482 k.p.s., a temperature of 170.0 kelvins, and an apoapsis of 437170000.0 kilometers.</lex>
+      <lex lang="en_bt" lid="Id2">The celestial body known as 103 Hera has a temperature of 170 kelvins. It has an escape velocity of 0.0482 kilometers per second and an apoapsis of 437170000.0 kilometers.</lex>
+      <lex lang="en_bt" lid="Id3">103 Hera; has an escape velocity of 0.0482 kilometres per second, a temperature of 170.0 kelvins and an apoapsis of 437170000.0 kilometres.</lex>
+      </entry>
+    <entry category="CelestialBody" eid="Id8" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>103_Hera | mass | "7900.0"^^xsd:double</otriple>
+        <otriple>103_Hera | escapeVelocity | "0.0482"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>103_Hera | Planet/apoapsis | "4.3717E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>103_Hera | escapeVelocity | "0.0482"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>103_Hera | mass | "7.9"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+        <otriple>103_Hera | Planet/apoapsis | "4.3717E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>103_Hera | escapeVelocity | "173.52"^^xsd:double</otriple>
+        <otriple>103_Hera | mass | "7.9"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+        <otriple>103_Hera | Planet/apoapsis | "4.3717E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>103_Hera | escapeVelocity | "173.52"^^xsd:double</otriple>
+        <otriple>103_Hera | mass | "7900.0"^^xsd:double</otriple>
+        <otriple>103_Hera | Planet/apoapsis | "4.3717E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>103_Hera | mass | 7.9 (kilograms)</mtriple>
+        <mtriple>103_Hera | escapeVelocity | 0.0482 (kilometrePerSeconds)</mtriple>
+        <mtriple>103_Hera | apoapsis | 437170000.0 (kilometres)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>(103)_Hera | Masa | 7,9_(kilogramos)</striple>
+        <striple>(103)_Hera | VelocidadDeEscape | 0,0482_(kilómetros_por_segundo)</striple>
+        <striple>(103)_Hera | Apoapsis | 437170000.0_(kilómetros)</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>103_Hera | mass | 7.9 (kilograms)</bttriple>
+        <bttriple>103_Hera | escapeVelocity | 0.0482 (kilometrePerSeconds)</bttriple>
+        <bttriple>103_Hera | apoapsis | 437170000.0 (kilometres)</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>(103)_Hera | Massa | 7.9_(quilograms)</ctriple>
+        <ctriple>(103)_Hera | VelocitatD'escapament | 0.0482_(kilòmetrePerSegons)</ctriple>
+        <ctriple>(103)_Hera | Apoapsis | 437170000.0_(kilòmetres)</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">103 Hera has a mass of 7.9kg and an escape velocity of 0.0482 km per sec. It has an apoapsis of 437170000.0 (kilometres).</lex>
+      <lex lang="en" lid="Id2">The celestial body known as 103 Hera has an escape velocity of 0.0482 k.p.s. and a mass of 7.9 kg. The apoapsis is 437170000.0 kilometres.</lex>
+      <lex lang="en" lid="Id3">103 Hera has an escape velocity of 0.0482 km per sec, an apoapsis of 437170000.0 kms and a mass of 7.9 kgs.</lex>
+      <lex lang="es" lid="Id1">103 Hera tiene una masa de 7,9 kg y una velocidad de escape de 0,0482 km por segundo. Su apoapsis es de 437170000,0 (kilómetros).</lex>
+      <lex lang="es" lid="Id2">El cuerpo celeste conocido como 103 Hera tiene una velocidad de escape de 0,0482 k.p.s. y una masa de 7,9 kg. La apoapsis es 437170000,0 kilómetros.</lex>
+      <lex lang="es" lid="Id3">103 Hera tiene una velocidad de escape de 0,0482 km por segundo, una apoapsis de 437170000,0 kms y una masa de 7,9 kgs.</lex>
+      <lex lang="ca" lid="Id1">103 Hera té una massa de 7,9 kg i una velocitat d'escapament de 0,0482 km per segon. Té una apoapsis de 437170000.0 (kilòmetres).</lex>
+      <lex lang="ca" lid="Id2">El cos celestial conegut com a 103 Hera té una velocitat d'escapament de 0,0482 k.p.s. i una massa de 7,9 kg. L'apoapsis és de 437170000,0 quilòmetres.</lex>
+      <lex lang="ca" lid="Id3">103 Hera té una velocitat d'escapament de 0,0482 km per segon, una apoapsis de 437170000.0 km i una massa de 7,9 kg.</lex>
+      <lex lang="en_bt" lid="Id1">103 Hera has a mass of 7.9 kg and an escape velocity of 0.0482 km per second. It has an apoapsis of 437170000.0 (kilometers).</lex>
+      <lex lang="en_bt" lid="Id2">The celestial body known as 103 Hera has an escape velocity of 0.0482 k.p.s. and a mass of 7.9 kg. The apoapsis is 437170000.0 km.</lex>
+      <lex lang="en_bt" lid="Id3">103 Hera has an escape velocity of 0.0482 km per second, an apoapsis of 437170000.0 km and a mass of 7.9 kg.</lex>
+      </entry>
+    <entry category="CelestialBody" eid="Id9" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>107_Camilla | discoverer | E._Wells</otriple>
+        <otriple>107_Camilla | periapsis | 4.79343e+11</otriple>
+        <otriple>107_Camilla | epoch | "2006-12-31"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>107_Camilla | discoverer | E._Wells</mtriple>
+        <mtriple>107_Camilla | periapsis | 479343000.0 (kilometres)</mtriple>
+        <mtriple>107_Camilla | epoch | 2006-12-31</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>(107)_Camilla | Descubridor | E._Wells</striple>
+        <striple>(107)_Camilla | Periapsis | 479343000.0_(kilómetros)</striple>
+        <striple>(107)_Camilla | Época | 31-12-2006</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>107_Camilla | discoverer | E._Wells</bttriple>
+        <bttriple>107_Camilla | periapsis | 479343000.0 (kilometres)</bttriple>
+        <bttriple>107_Camilla | epoch | 2006-12-31</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>(107)_Camil·la | Descobridor | E._Wells</ctriple>
+        <ctriple>(107)_Camil·la | Periàpside | 479343000.0_(kilòmetres)</ctriple>
+        <ctriple>(107)_Camil·la | Època | 2006-12-31</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">107 Camilla which has a periapsis of 479343000.0 kilometres was discovered by E Wells and has an epoch date of 31st December 2006.</lex>
+      <lex lang="en" lid="Id2">107 Camilla has a periapsis of 479343000.0 kilometres and an epoch of 31st December 2006. It was discovered by E Wells.</lex>
+      <lex lang="es" lid="Id1">107 Camilla que tiene un periapsis de 479343000,0 kilómetros fue descubierto por E Wells y tiene una fecha de época del 31-12-2006.</lex>
+      <lex lang="es" lid="Id2">107 Camilla tiene un periapsis de 479343000,0 kilómetros y una época del 31-12-2006. Fue descubierto por E Wells.</lex>
+      <lex lang="ca" lid="Id1">107 Camilla que té un periàpside de 479343000.0 quilòmetres va ser descobert per E Wells i té una data d'època del 31 de desembre de 2006.</lex>
+      <lex lang="ca" lid="Id2">107 Camilla té un periapside de 479343000.0 quilòmetres i una època del 31 de desembre de 2006. Fou descoberta per E. Wells.</lex>
+      <lex lang="en_bt" lid="Id1">107 Camilla which has a periapsis of 479343000.0 kilometers was discovered by E Wells and has an epoch date of 31 December 2006.</lex>
+      <lex lang="en_bt" lid="Id2">107 Camilla has a periapse of 479343000.0 kilometers and an epoch of 31 December 2006. It was discovered by E. Wells.</lex>
+      </entry>
+    <entry category="CelestialBody" eid="Id10" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>107_Camilla | discoverer | N._R._Pogson</otriple>
+        <otriple>N._R._Pogson | birthPlace | Nottingham</otriple>
+        <otriple>107_Camilla | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>107_Camilla | discoverer | N._R._Pogson</otriple>
+        <otriple>N._R._Pogson | birthPlace | Nottingham</otriple>
+        <otriple>107_Camilla | epoch | "2006-12-31"^^xsd:date</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>107_Camilla | discoverer | N._R._Pogson</mtriple>
+        <mtriple>N._R._Pogson | birthPlace | Nottingham</mtriple>
+        <mtriple>107_Camilla | epoch | 2006-12-31</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>(107)_Camilla | Descubridor | Norman_Pogson</striple>
+        <striple>Norman_Pogson | LugarDeNacimiento | Nottingham</striple>
+        <striple>(107)_Camilla | Época | 31-12-2006</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>107_Camilla | discoverer | N._R._Pogson</bttriple>
+        <bttriple>N._R._Pogson | birthPlace | Nottingham</bttriple>
+        <bttriple>107_Camilla | epoch | 2006-12-31</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>(107)_Camil·la | Descobridor | Norman_Pogson</ctriple>
+        <ctriple>Norman_Pogson | LlocDeNaixement | Nottingham</ctriple>
+        <ctriple>(107)_Camil·la | Època | 2006-12-31</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">N.R Pogson was born in Nottingham and discovered the 107 Camilla which has an epoch date of 31 December 2006.</lex>
+      <lex lang="en" lid="Id2">107 Camilla, with the epoch date December 31st 2006, was discovered by Nottingham born N.R. Pogson.</lex>
+      <lex lang="en" lid="Id3">107 Camilla has the epoch 31 December 2006 and was discovered by N.R. Pogson, who was born in Nottingham.</lex>
+      <lex lang="es" lid="Id1">N.R Pogson nació en Nottingham y descubrió la 107 Camilla, cuya fecha de antigüedad es el 31-12-2006.</lex>
+      <lex lang="es" lid="Id2">107 Camilla, con fecha de época del 31-12-2006, fue descubierta por N.R. Pogson, nacido en Nottingham.</lex>
+      <lex lang="es" lid="Id3">107 Camilla tiene la época del 31-12-2006 y fue descubierta por N.R. Pogson, nacido en Nottingham.</lex>
+      <lex lang="ca" lid="Id1">N.R. Pogson va néixer a Nottingham i va descobrir el 107 Camilla que té una data d'època del 31 de desembre de 2006.</lex>
+      <lex lang="ca" lid="Id2">107 Camilla, amb la data de l'època del 31 de desembre de 2006, va ser descoberta per N. R. Pogson, nascut a Nottingham.</lex>
+      <lex lang="ca" lid="Id3">107 Camilla té l'època del 31 de desembre de 2006 i va ser descoberta per N.R. Pogson, que va néixer a Nottingham.</lex>
+      <lex lang="en_bt" lid="Id1">N.R. Pogson was born in Nottingham and discovered 107 Camilla which has an epoch date of 31 December 2006.</lex>
+      <lex lang="en_bt" lid="Id2">107 Camilla, dated 31 December 2006, was discovered by N. R. Pogson, born in Nottingham.</lex>
+      <lex lang="en_bt" lid="Id3">107 Camilla is dated 31 December 2006 and was discovered by N.R. Pogson, who was born in Nottingham.</lex>
+      </entry>
+    <entry category="CelestialBody" eid="Id11" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1097_Vicia | periapsis | 2.79142e+11</otriple>
+        <otriple>1097_Vicia | epoch | "2006-12-31"^^xsd:date</otriple>
+        <otriple>1097_Vicia | Planet/apoapsis | "5.11592E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>1097_Vicia | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>1097_Vicia | periapsis | 2.79142e+11</otriple>
+        <otriple>1097_Vicia | Planet/apoapsis | "5.11592E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1097_Vicia | epoch | 2006-12-31</mtriple>
+        <mtriple>1097_Vicia | periapsis | 279142000000.0</mtriple>
+        <mtriple>1097_Vicia | apoapsis | 511592000.0 (kilometres)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>(1097)_Vicia | Época | 31-12-2006</striple>
+        <striple>(1097)_Vicia | Periapsis | 279142000000.0</striple>
+        <striple>(1097)_Vicia | Apoapsis | 511592000.0_(kilómetros)</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>1097_Vicia | epoch | 2006-12-31</bttriple>
+        <bttriple>1097_Vicia | periapsis | 279142000000.0</bttriple>
+        <bttriple>1097_Vicia | apoapsis | 511592000.0 (kilometres)</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>(1097)_Vicia | Època | 2006-12-31</ctriple>
+        <ctriple>(1097)_Vicia | Periàpside | 279142000000.0</ctriple>
+        <ctriple>(1097)_Vicia | Apoapsis | 511592000.0_(kilòmetres)</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The epoch date of 1097 Vicia is 2006.12.31. It has a periapsis of 279142000000.0 and an apoapsis of 511592000.0 kilometres.</lex>
+      <lex lang="en" lid="Id2">The epoch date of 1097 Vicia is 2006.12.31. The periapsis measurement of this celestial body is 279142000000.0. It has an apoapsis of 511592000.0 km.</lex>
+      <lex lang="es" lid="Id1">La fecha de época de 1097 Vicia es 2006.12.31. Tiene una periapsis de 279142000000,0 y una apoapsis de 511592000,0 kilómetros.</lex>
+      <lex lang="es" lid="Id2">La fecha de la época de 1097 Vicia es 2006.12.31. La medida del periapsis de este cuerpo celeste es 279142000000.0. Su apoapsis es 511592000.0 km.</lex>
+      <lex lang="ca" lid="Id1">La data d'època de 1097 Vicia és el 2006.12.31. Té una periapsis de 279142000000.0 i una apoapsis de 511592000.0 quilòmetres.</lex>
+      <lex lang="ca" lid="Id2">La data de l'època de 1097 Vicia és 2006.12.31. La mesura del periapside d'aquest cos celeste és 279142000000.0. Té un apoapsis de 511592000.0 km.</lex>
+      <lex lang="en_bt" lid="Id1">The epoch date of 1097 Vicia is 2006.12.31. It has a periapsis of 279142000000.0 and an apoapsis of 511592000.0 kilometers.</lex>
+      <lex lang="en_bt" lid="Id2">The date of the 1097 Vicia epoch is 2006.12.31. The periapsis measurement of this celestial body is 279142000000.0. It has an apoapsis of 511592000.0 km.</lex>
+      </entry>
+    <entry category="CelestialBody" eid="Id12" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1097_Vicia | escapeVelocity | "40.32"^^xsd:double</otriple>
+        <otriple>1097_Vicia | temperature | "171.0"^^xsd:double</otriple>
+        <otriple>1097_Vicia | Planet/apoapsis | "5.11592E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>1097_Vicia | temperature | "171.0"^^xsd:double</otriple>
+        <otriple>1097_Vicia | escapeVelocity | "0.0112"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>1097_Vicia | Planet/apoapsis | "5.11592E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1097_Vicia | escapeVelocity | 0.0112 (kilometrePerSeconds)</mtriple>
+        <mtriple>1097_Vicia | temperature | 171.0 (kelvins)</mtriple>
+        <mtriple>1097_Vicia | apoapsis | 511592000.0 (kilometres)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>(1097)_Vicia | VelocidadDeEscape | 0,0112_(kilómetros_por_segundo)</striple>
+        <striple>(1097)_Vicia | Temperatura | 171,0_(kelvins)</striple>
+        <striple>(1097)_Vicia | Apoapsis | 511592000.0_(kilómetros)</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>1097_Vicia | escapeVelocity | 0.0112 (kilometrePerSeconds)</bttriple>
+        <bttriple>1097_Vicia | temperature | 171.0 (kelvins)</bttriple>
+        <bttriple>1097_Vicia | apoapsis | 511592000.0 (kilometres)</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>(1097)_Vicia | VelocitatD'escapament | 0.0112_(quilòmetrePerSegons)</ctriple>
+        <ctriple>(1097)_Vicia | Temperatura | 171.0_(kelvins)</ctriple>
+        <ctriple>(1097)_Vicia | Apoapsis | 511592000.0_(kilòmetres)</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The celestial body known as 1097 Vicia has a temperature of 171 kelvins, an escape velocity of 0.0112 kilometres per second and an apoapsis of 511592000.0 km.</lex>
+      <lex lang="en" lid="Id2">The celestial body known as 1097 Vicia has an apoapsis of 511592000.0 km, a temperature of 171 kelvins and the escape velocity of 0.0112km per sec.</lex>
+      <lex lang="en" lid="Id3">The temperature of 1097 Vicia is 171.0 (kelvins),has an escape velocity of 0.0112 kilometres per second and its apoapsis is 511592000.0 km.</lex>
+      <lex lang="es" lid="Id1">El cuerpo celeste conocido como 1097 Vicia tiene una temperatura de 171 kelvins, una velocidad de escape de 0,0112 kilómetros por segundo y una apoapsis de 511592000,0 km.</lex>
+      <lex lang="es" lid="Id2">El cuerpo celeste conocido como 1097 Vicia tiene una apoapsis de 511592000,0 km, una temperatura de 171 kelvins y una velocidad de escape de 0,0112 km por segundo.</lex>
+      <lex lang="es" lid="Id3">La temperatura de 1097 Vicia es de 171,0 (kelvins),tiene una velocidad de escape de 0,0112 kilómetros por segundo y su apoapsis es de 511592000,0 km.</lex>
+      <lex lang="ca" lid="Id1">El cos celestial conegut com a 1097 Vicia té una temperatura de 171 kelvins, una velocitat d'escapament de 0.0112 quilòmetres per segon i una apoapsis de 511592000.0 km.</lex>
+      <lex lang="ca" lid="Id2">El cos celeste conegut com 1097 Vicia té una apoapsis de 511592000.0 km, una temperatura de 171 kelvins i una velocitat d'escapament de 0.0112 km per segon.</lex>
+      <lex lang="ca" lid="Id3">La temperatura de 1097 Vicia és de 171.0 (kelvins), té una velocitat d'escapament de 0.0112 quilòmetres per segon i la seva apoapsis és de 511592000.0 km.</lex>
+      <lex lang="en_bt" lid="Id1">The celestial body known as 1097 Vicia has a temperature of 171 kelvins, an escape velocity of 0.0112 kilometers per second and an apoapsis of 511592000.0 km.</lex>
+      <lex lang="en_bt" lid="Id2">The celestial body known as 1097 Vicia has an apoapsis of 511592000.0 km, a temperature of 171 kelvins and an escape velocity of 0.0112 km per second.</lex>
+      <lex lang="en_bt" lid="Id3">The temperature of 1097 Vicia is 171.0 (kelvin), it has an escape velocity of 0.0112 kilometres per second and its apoapsis is 511592000.0 km.</lex>
+      </entry>
+    <entry category="CelestialBody" eid="Id13" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1099_Figneria | temperature | "156.0"^^xsd:double</otriple>
+        <otriple>1099_Figneria | escapeVelocity | "0.0155"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>1099_Figneria | Planet/apoapsis | "6.05718E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>1099_Figneria | escapeVelocity | "55.8"^^xsd:double</otriple>
+        <otriple>1099_Figneria | temperature | "156.0"^^xsd:double</otriple>
+        <otriple>1099_Figneria | Planet/apoapsis | "6.05718E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1099_Figneria | escapeVelocity | 0.0155 (kilometrePerSeconds)</mtriple>
+        <mtriple>1099_Figneria | temperature | 156.0 (kelvins)</mtriple>
+        <mtriple>1099_Figneria | apoapsis | 605718000.0 (kilometres)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>(1099)_Figneria | VelocidadDeEscape | 0,0155_(kilómetros_por_segundo)</striple>
+        <striple>(1099)_Figneria | Temperatura | 156,0_(kelvins)</striple>
+        <striple>(1099)_Figneria | Apoapsis | 605718000.0_(kilómetros)</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>1099_Figneria | escapeVelocity | 0.0155 (kilometrePerSeconds)</bttriple>
+        <bttriple>1099_Figneria | temperature | 156.0 (kelvins)</bttriple>
+        <bttriple>1099_Figneria | apoapsis | 605718000.0 (kilometres)</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>(1099)_Figneria | VelocitatD'escapament | 0.0155_(quilòmetrePerSegons)</ctriple>
+        <ctriple>(1099)_Figneria | Temperatura | 156.0_(kelvins)</ctriple>
+        <ctriple>(1099)_Figneria | Apoapsis | 605718000.0_(kilòmetres)</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The celestial body known as 1099 Figneria has a temperature of 156 kelvins, an apoapsis of 605718000.0 km and an escape velocity of 0.0155 km per sec.</lex>
+      <lex lang="en" lid="Id2">The celestial body known as 1099 Figneria has a temperature of 156 kelvins, escape velocity of 0.0155 k.p.s. and an apoapsis of 605718000.0 kms.</lex>
+      <lex lang="es" lid="Id1">El cuerpo celeste conocido como 1099 Figneria tiene una temperatura de 156 kelvins, una apoapsis de 605718000,0 km y una velocidad de escape de 0,0155 km por seg.</lex>
+      <lex lang="es" lid="Id2">El cuerpo celeste conocido como 1099 Figneria tiene una temperatura de 156 kelvins, una velocidad de escape de 0,0155 k.p.s. y una apoapsis de 605718000,0 kms.</lex>
+      <lex lang="ca" lid="Id1">El cos celeste conegut com 1099 Figneria té una temperatura de 156 kelvins, una apoapsis de 605718000.0 km i una velocitat d'escapament de 0.0155 km per segon.</lex>
+      <lex lang="ca" lid="Id2">El cos celeste conegut com a 1099 Figneria té una temperatura de 156 kelvins, velocitat d'escapament de 0.0155 k.p.s. i una apoapsis de 605718000.0 kms.</lex>
+      <lex lang="en_bt" lid="Id1">The celestial body known as 1099 Figneria has a temperature of 156 kelvins, an apoapsis of 605718000.0 km and an escape velocity of 0.0155 km per second.</lex>
+      <lex lang="en_bt" lid="Id2">The celestial body known as 1099 Figneria has a temperature of 156 kelvins, escape velocity of 0.0155 k.p.s. and an apoapsis of 605718000.0 kms.</lex>
+      </entry>
+    <entry category="CelestialBody" eid="Id14" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>10_Hygiea | surfaceArea | 8.37081e+11</otriple>
+        <otriple>10_Hygiea | temperature | "164.0"^^xsd:double</otriple>
+        <otriple>10_Hygiea | Planet/apoapsis | "5.2395158233968E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>10_Hygiea | Planet/surfaceArea | "837080.744"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+        <otriple>10_Hygiea | Planet/apoapsis | "5.2395158233968E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        <otriple>10_Hygiea | Planet/temperature | "247.0"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>10_Hygiea | Planet/surfaceArea | "837080.744"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+        <otriple>10_Hygiea | Planet/apoapsis | "5.2395158233968E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        <otriple>10_Hygiea | Planet/temperature | "164.0"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>10_Hygiea | surfaceArea | 837080.744 (squareKilometres)</mtriple>
+        <mtriple>10_Hygiea | apoapsis | 523951582.33968 (kilometres)</mtriple>
+        <mtriple>10_Hygiea | temperature | 164.0 (kelvins)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>(10)_Hygiea | Superficie | 837080.744_(kilómetros_cuadrados)</striple>
+        <striple>(10)_Hygiea | Apoapsis | 523951582.33968_(kilómetros)</striple>
+        <striple>(10)_Hygiea | Temperatura | 164,0_(kelvins)</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>10_Hygiea | surfaceArea | 837080.744 (squareKilometres)</bttriple>
+        <bttriple>10_Hygiea | apoapsis | 523951582.33968 (kilometres)</bttriple>
+        <bttriple>10_Hygiea | temperature | 164.0 (kelvins)</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>(10)_Higiea | ÀreaDeSuperfície | 837080.744_(quilòmetres_quadrats)</ctriple>
+        <ctriple>(10)_Higiea | Apoapsis | 523951582.33968_(kilòmetres)</ctriple>
+        <ctriple>(10)_Higiea | Temperatura | 164.0_(kelvins)</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">10 Hygiea; has a surface area of 837080.744 square kilometres, an apoapsis of 523951582.33968 kilometres, and a temperature of 164.0 kelvins.</lex>
+      <lex lang="en" lid="Id2">The celestial body known as 10 Hygiea has a surface area of 837080.744 square km. It has an apoapsis of 523951582.33968 kilometres and a temperature of 164 Kelvins.</lex>
+      <lex lang="en" lid="Id3">The asteroid called 10 Hygiea, has an apoapsis of 523951582.33968 kilometres, a surface area of 837080.744 square km and a temperature of 164 Kelvins.</lex>
+      <lex lang="es" lid="Id1">10 Hygiea; tiene una superficie de 837080,744 kilómetros cuadrados, una apoapsis de 523951582,33968 kilómetros y una temperatura de 164,0 kelvins.</lex>
+      <lex lang="es" lid="Id2">El cuerpo celeste conocido como 10 Hygiea tiene una superficie de 837080,744 kilómetros cuadrados. Tiene una apoapsis de 523951582,33968 kilómetros y una temperatura de 164 Kelvins.</lex>
+      <lex lang="es" lid="Id3">El asteroide, llamado 10 Hygiea, tiene una apoapsis de 523951582,33968 kilómetros, una superficie de 837080,744 kilómetros cuadrados y una temperatura de 164 Kelvins.</lex>
+      <lex lang="ca" lid="Id1">10 Hygiea; té una superfície de 837080.744 quilòmetres quadrats, una apoapsis de 523951582.33968 quilòmetres, i una temperatura de 164.0 kelvins.</lex>
+      <lex lang="ca" lid="Id2">El cos celeste conegut com a 10 Hygiea té una superfície de 837080, 744 quilòmetres quadrats. Té una apoapsis de 523951582, 33968 quilòmetres i una temperatura de 164 Kelvin.</lex>
+      <lex lang="ca" lid="Id3">L'asteroide anomenat 10 Hygiea, té una apoapsis de 523951582.33968 quilòmetres, una superfície de 837080.744 quilòmetres quadrats i una temperatura de 164 Kelvins.</lex>
+      <lex lang="en_bt" lid="Id1">10 Hygiea; has an area of 837080.744 square kilometres, an apoapsis of 523951582.33968 kilometres, and a temperature of 164.0 kelvins.</lex>
+      <lex lang="en_bt" lid="Id2">The celestial body known as 10 Hygiea has a surface of 837080, 744 square kilometers. It has an apoapsis of 523951582, 33968 kilometers and a temperature of 164 Kelvin.</lex>
+      <lex lang="en_bt" lid="Id3">The asteroid, named 10 Hygiea, has an apoapsis of 523951582.33968 kilometers, a surface of 837080.744 square kilometers and a temperature of 164 Kelvins.</lex>
+      </entry>
+    <entry category="CelestialBody" eid="Id15" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1101_Clematis | orbitalPeriod | 1.83309e+08</otriple>
+        <otriple>1101_Clematis | epoch | "2006-12-31"^^xsd:date</otriple>
+        <otriple>1101_Clematis | Planet/apoapsis | "5.20906E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>1101_Clematis | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>1101_Clematis | orbitalPeriod | 1.83309e+08</otriple>
+        <otriple>1101_Clematis | Planet/apoapsis | "5.20906E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1101_Clematis | epoch | 2006-12-31</mtriple>
+        <mtriple>1101_Clematis | orbitalPeriod | 183309000.0</mtriple>
+        <mtriple>1101_Clematis | apoapsis | 520906000.0 (kilometres)</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>1101_Clematis | Época | 31-12-2006</striple>
+        <striple>1101_Clematis | PeríodoOrbital | 183309000.0</striple>
+        <striple>1101_Clematis | Apoapsis | 520906000.0_(kilómetros)</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>1101_Clematis | epoch | 2006-12-31</bttriple>
+        <bttriple>1101_Clematis | orbitalPeriod | 183309000.0</bttriple>
+        <bttriple>1101_Clematis | apoapsis | 520906000.0 (kilometres)</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>(1101)_Clematis | Època | 2006-12-31</ctriple>
+        <ctriple>(1101)_Clematis | PeríodeOrbital | 183309000.0</ctriple>
+        <ctriple>(1101)_Clematis | Apoapsis | 520906000.0_(kilòmetres)</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The epoch of 1101 Clematis is on the 31st of July 2016. The orbital period for 1101 Clematis is 183309000.0 and it has an apoapsis of 520906000.0 Kilometers.</lex>
+      <lex lang="en" lid="Id2">1101 Clematis' epoch date is December 31, 2006. Its orbital period is 183309000.0 and its apoapsis is 520906000.0 (kilometres).</lex>
+      <lex lang="en" lid="Id3">The epoch of 1101 Clematis is 31 December 2006. 1101 Clematis has an orbital period of 183309000.0 and an apoapsis of 520906000.0 kilometres.</lex>
+      <lex lang="es" lid="Id1">La época de 1101 Clematis es el 31 de julio de 2016. El periodo orbital de 1101 Clematis es 183309000.0 y tiene una apoapsis de 520906000.0 Kilómetros.</lex>
+      <lex lang="es" lid="Id2">La fecha de epoch del 1101 Clematis es el 31-12-2006. Su periodo orbital es 183309000.0 y su apoapsis es 520906000.0 (kilómetros).</lex>
+      <lex lang="es" lid="Id3">La época de 1101 Clematis es el 31-12-2006. 1101 Clematis tiene un período orbital de 183309000,0 y un apoapsis de 520906000,0 kilómetros.</lex>
+      <lex lang="ca" lid="Id1">L'època de 1101 Clematis és el 31 de juliol de 2016. El període orbital de 1101 Clematis és 183309000.0 i té una apoapsis de 520906000.0 quilòmetres.</lex>
+      <lex lang="ca" lid="Id2">La data d'època de 1101 Clematis és el 31 de desembre de 2006. El seu període orbital és de 183309000.0 i la seva apoapsis és de 520906000.0 (kilòmetres).</lex>
+      <lex lang="ca" lid="Id3">L'època de 1101 Clematis és el 31 de desembre de 2006. 1101 Clematis té un període orbital de 183309000.0 i una apoapsis de 520906000.0 quilòmetres.</lex>
+      <lex lang="en_bt" lid="Id1">The epoch of 1101 Clematis is 31 July 2016. The orbital period of 1101 Clematis is 183309000.0 and has an apoapsis of 520906000.0 kilometers.</lex>
+      <lex lang="en_bt" lid="Id2">The epoch date of 1101 Clematis is December 31, 2006. Its orbital period is 183309000.0 and its apoapsis is 520906000.0 (kilometers).</lex>
+      <lex lang="en_bt" lid="Id3">The epoch of 1101 Clematis is 31 December 2006. 1101 Clematis has an orbital period of 183309000.0 and an apoapsis of 520906000.0 kilometers.</lex>
+      </entry>
+    <entry category="CelestialBody" eid="Id16" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>110_Lydia | orbitalPeriod | 1.42603e+08</otriple>
+        <otriple>110_Lydia | periapsis | 3.77016e+11</otriple>
+        <otriple>110_Lydia | epoch | "2006-12-31"^^xsd:date</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>110_Lydia | orbitalPeriod | 1.42603e+08</otriple>
+        <otriple>110_Lydia | periapsis | 3.77016e+11</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>110_Lydia | orbitalPeriod | 142603000.0</mtriple>
+        <mtriple>110_Lydia | periapsis | 377016000000.0</mtriple>
+        <mtriple>110_Lydia | epoch | 2006-12-31</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>(110)_Lydia | PeríodoOrbital | 142603000.0</striple>
+        <striple>(110)_Lydia | Periapsis | 377016000000.0</striple>
+        <striple>(110)_Lydia | Época | 31-12-2006</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>110_Lydia | orbitalPeriod | 142603000.0</bttriple>
+        <bttriple>110_Lydia | periapsis | 377016000000.0</bttriple>
+        <bttriple>110_Lydia | epoch | 2006-12-31</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>(110)_Lídia | PeríodeOrbital | 142603000.0</ctriple>
+        <ctriple>(110)_Lídia | Periàpside | 377016000000.0</ctriple>
+        <ctriple>(110)_Lídia | Època | 2006-12-31</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">110 Lydia has a periapsis measurement of 377016000000.0, an orbital period of 142603000.0 and its epoch is 31st December 2006.</lex>
+      <lex lang="en" lid="Id2">110 Lydia has an epoch date of December 31st 2006 and an orbital period of 142603000. Its periapsis is 377016000000.0.</lex>
+      <lex lang="en" lid="Id3">The celestial body 110 Lydia, with the epoch date December 31st 2006, has a periapsis of 377016000000.0 and an orbital period of 142603000.</lex>
+      <lex lang="es" lid="Id1">110 Lydia tiene una medida de periapsis de 377016000000,0, un período orbital de 142603000,0 y su época es el 31-12-2006.</lex>
+      <lex lang="es" lid="Id2">110 Lydia tiene una fecha de inicio del 31-12-2006 y un período orbital de 142603000. Su periapsis es 377016000000.0.</lex>
+      <lex lang="es" lid="Id3">El cuerpo celeste 110 Lydia, con fecha de época 31-12-2006, tiene una periapsis de 377016000000,0 y un período orbital de 142603000.</lex>
+      <lex lang="ca" lid="Id1">110 Lydia té una mesura de periapsis de 377016000000.0, un període orbital de 142603000.0 i la seva època és el 31 de desembre de 2006.</lex>
+      <lex lang="ca" lid="Id2">110 Lydia té una data d'època del 31 de desembre de 2006 i un període orbital de 142603000. El seu periheli és 377016000000.0.</lex>
+      <lex lang="ca" lid="Id3">El cos celeste 110 Lydia, amb la data d'època del 31 de desembre de 2006, té un periapside de 377016000000.0 i un període orbital de 142603000.</lex>
+      <lex lang="en_bt" lid="Id1">110 Lydia has a periapsis measure of 377016000000.0, an orbital period of 142603000.0 and its epoch is 31 December 2006.</lex>
+      <lex lang="en_bt" lid="Id2">110 Lydia has an epoch date of 31 December 2006 and an orbital period of 142603000. Its perihelion is 377016000000.0.</lex>
+      <lex lang="en_bt" lid="Id3">The celestial body 110 Lydia, with the epoch date of 31 December 2006, has a periapse of 377016000000.0 and an orbital period of 142603000.</lex>
+      </entry>
+    </entries>
+  </benchmark>

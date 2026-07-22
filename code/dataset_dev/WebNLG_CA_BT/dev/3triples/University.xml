@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="University" eid="Id1" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | "600"^^xsd:nonNegativeInteger</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Academia_de_Arquitectura_de_Mendrisio | País | Suiza</striple>
+        <striple>Academia_de_Arquitectura_de_Mendrisio | Decano | Mario_Botta</striple>
+        <striple>Academia_de_Arquitectura_de_Mendrisio | NúmeroDeEstudiantes | 600</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</bttriple>
+        <bttriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</bttriple>
+        <bttriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Accademia_di_Architettura_di_Mendrisio | País | Suïssa</ctriple>
+        <ctriple>Accademia_di_Architettura_di_Mendrisio | Dean | Mario_Botta</ctriple>
+        <ctriple>Accademia_di_Architettura_di_Mendrisio | NombreD'estudiants | 600</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The Accademia di Architettura di Mendrisio is in Switzerland. Its dean is Mario Botta and it has 600 students.</lex>
+      <lex lang="en" lid="Id2">The Accademia di Architettura di Mendrisio of Switzerland has 600 students and the dean is called Mario Botta.</lex>
+      <lex lang="es" lid="Id1">La Accademia di Architettura di Mendrisio se encuentra en Suiza. Su decano es Mario Botta y cuenta con 600 estudiantes.</lex>
+      <lex lang="es" lid="Id2">La Accademia di Architettura di Mendrisio de Suiza tiene 600 estudiantes y el decano se llama Mario Botta.</lex>
+      <lex lang="ca" lid="Id1">L'Accademia di Architettura di Mendrisio és a Suïssa. El seu degà és Mario Botta i té 600 estudiants.</lex>
+      <lex lang="ca" lid="Id2">L'Accademia di Architettura di Mendrisio de Suïssa té 600 estudiants i el degà es diu Mario Botta.</lex>
+      <lex lang="en_bt" lid="Id1">The Accademia di Architettura di Mendrisio is in Switzerland. Its dean is Mario Botta and it has 600 students.</lex>
+      <lex lang="en_bt" lid="Id2">The Accademia di Architettura di Mendrisio in Switzerland has 600 students and the dean is Mario Botta.</lex>
+      </entry>
+    <entry category="University" eid="Id2" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | city | Bangalore</otriple>
+        <otriple>Acharya_Institute_of_Technology | motto | "Nurturing Excellence"@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | country | "India"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | city | Bangalore</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | motto | "Nurturing Excellence"</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | country | "India"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Instituto_Tecnológico_Acharya | Ciudad | Bengaluru</striple>
+        <striple>Instituto_Tecnológico_Acharya | Lema | Fomentar_la_excelencia</striple>
+        <striple>Instituto_Tecnológico_Acharya | País | India</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Acharya_Institute_of_Technology | city | Bangalore</bttriple>
+        <bttriple>Acharya_Institute_of_Technology | motto | "Nurturing Excellence"</bttriple>
+        <bttriple>Acharya_Institute_of_Technology | country | "India"</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Institut_de_Tecnologia_Acharya | Ciutat | Bangalore</ctriple>
+        <ctriple>Institut_de_Tecnologia_Acharya | Lema | Cultivar_l'_excel·_lència</ctriple>
+        <ctriple>Institut_de_Tecnologia_Acharya | País | Índia</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The Acharya Institute of Technology is located in Bangalore, India and its motto is: "Nurturing Excellence".</lex>
+      <lex lang="en" lid="Id2">The Acharya Institute of Technology in Bangalore, India has the motto "Nurturing Excellence".</lex>
+      <lex lang="en" lid="Id3">Acharya Institute of Technology is in Bangalore, India and its motto is"Nurturing Excellence".</lex>
+      <lex lang="es" lid="Id1">El Acharya Institute of Technology está situado en Bangalore, India, y su lema es: "Cultivar la excelencia".</lex>
+      <lex lang="es" lid="Id2">El Instituto Tecnológico Acharya de Bangalore (India) tiene como lema "Cultivar la excelencia".</lex>
+      <lex lang="es" lid="Id3">Acharya Institute of Technology se encuentra en Bangalore, India, y su lema es "Nurturing Excellence".</lex>
+      <lex lang="ca" lid="Id1">L'Institut Acharya de Tecnologia està situat a Bangalore, Índia i el seu lema és: "Nurturing Excellence".</lex>
+      <lex lang="ca" lid="Id2">L'Institut Acharya de Tecnologia a Bangalore, Índia, té el lema "Cultivar l'Excel·lència".</lex>
+      <lex lang="ca" lid="Id3">L'Institut de Tecnologia Acharya es troba a Bangalore, Índia i el seu lema és "Nutrir l'excel·lència".</lex>
+      <lex lang="en_bt" lid="Id1">The Acharya Institute of Technology is located in Bangalore, India and its motto is: "Nurturing Excellence".</lex>
+      <lex lang="en_bt" lid="Id2">The Acharya Institute of Technology in Bangalore, India, has the motto "Cultivate Excellence".</lex>
+      <lex lang="en_bt" lid="Id3">The Acharya Institute of Technology is located in Bangalore, India and its motto is "Nurturing Excellence".</lex>
+      </entry>
+    <entry category="University" eid="Id3" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | president | "B.M. Reddy"@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | city | Bangalore</otriple>
+        <otriple>Acharya_Institute_of_Technology | country | "India"@en</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | president | "B.M. Reddy"</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | city | Bangalore</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | country | "India"</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Instituto_Tecnológico_Acharya | Presidente | B.M._Reddy</striple>
+        <striple>Instituto_Tecnológico_Acharya | Ciudad | Bengaluru</striple>
+        <striple>Instituto_Tecnológico_Acharya | País | India</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Acharya_Institute_of_Technology | president | "B.M. Reddy"</bttriple>
+        <bttriple>Acharya_Institute_of_Technology | city | Bangalore</bttriple>
+        <bttriple>Acharya_Institute_of_Technology | country | "India"</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Institut_de_Tecnologia_Acharya | President | B.M._Reddy</ctriple>
+        <ctriple>Institut_de_Tecnologia_Acharya | Ciutat | Bangalore</ctriple>
+        <ctriple>Institut_de_Tecnologia_Acharya | País | Índia</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">B.M. Reddy is the president of the Acharya Institute of Technology, which is located in Bangalore, India.</lex>
+      <lex lang="en" lid="Id2">The Acharya Institute of Technology is in Bangalore, India. Its president is B.M. Reddy.</lex>
+      <lex lang="en" lid="Id3">The Acharya Institute of Technology (Bangalore, India) has B. M. Reddy as its president.</lex>
+      <lex lang="es" lid="Id1">B.M. Reddy es el presidente del Instituto Tecnológico Acharya, situado en Bangalore (India).</lex>
+      <lex lang="es" lid="Id2">El Instituto Tecnológico Acharya está en Bangalore (India). Su presidente es B.M. Reddy.</lex>
+      <lex lang="es" lid="Id3">El Instituto Tecnológico Acharya (Bangalore, India) tiene como presidente a B. M. Reddy.</lex>
+      <lex lang="ca" lid="Id1">B.M. Reddy és el president de l'Institut Acharya de Tecnologia, situat a Bangalore, Índia.</lex>
+      <lex lang="ca" lid="Id2">L'Institut de Tecnologia Acharya es troba a Bangalore, Índia. El seu president és B.M. Reddy.</lex>
+      <lex lang="ca" lid="Id3">L'Institut Tecnològic d'Acharya (Bangalore, Índia) té B. M. Reddy com a president.</lex>
+      <lex lang="en_bt" lid="Id1">B.M. Reddy is the president of the Acharya Institute of Technology, located in Bangalore, India.</lex>
+      <lex lang="en_bt" lid="Id2">The Acharya Institute of Technology is located in Bangalore, India. Its president is B.M. Reddy.</lex>
+      <lex lang="en_bt" lid="Id3">The Acharya Institute of Technology (Bangalore, India) has B. M. Reddy as its president.</lex>
+      </entry>
+    <entry category="University" eid="Id4" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | sport | Tennis</otriple>
+        <otriple>Acharya_Institute_of_Technology | established | 2000</otriple>
+        <otriple>Tennis | union | International_Tennis_Federation</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | sportsOffered | Tennis</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | established | 2000</mtriple>
+        <mtriple>Tennis | sportGoverningBody | International_Tennis_Federation</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Instituto_Tecnológico_Acharya | DeportesOfertados | tenis</striple>
+        <striple>Instituto_Tecnológico_Acharya | Establecido | 2000</striple>
+        <striple>tenis | OrganismoRectorDelDeporte | Federación_Internacional_de_Tenis</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Acharya_Institute_of_Technology | sportsOffered | Tennis</bttriple>
+        <bttriple>Acharya_Institute_of_Technology | established | 2000</bttriple>
+        <bttriple>Tennis | sportGoverningBody | International_Tennis_Federation</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Institut_de_Tecnologia_Acharya | EsportsOferts | tennis</ctriple>
+        <ctriple>Institut_de_Tecnologia_Acharya | Establert | 2000</ctriple>
+        <ctriple>tennis | OrganismeDeGovernDeL'Esport | Federació_Internacional_de_Tennis</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The Acharya Institute of Technology offers tennis and it was established in 2000. The tennis governing body is the International Tennis Federation.</lex>
+      <lex lang="en" lid="Id2">The International Tennis Federation is the governing body for the sport which is offered at the Acharya Institute of Technology which was established in 2000.</lex>
+      <lex lang="es" lid="Id1">El Instituto Tecnológico Acharya ofrece tenis y se fundó en 2000. El organismo rector del tenis es la Federación Internacional de Tenis.</lex>
+      <lex lang="es" lid="Id2">La Federación Internacional de Tenis es el organismo rector de este deporte, que se imparte en el Instituto Tecnológico Acharya, fundado en 2000.</lex>
+      <lex lang="ca" lid="Id1">L'Institut Tecnològic Acharya ofereix classes de tennis i es va fundar l'any 2000. L'organisme regulador del tennis és la Federació Internacional de Tennis.</lex>
+      <lex lang="ca" lid="Id2">La Federació Internacional de Tenis és l'òrgan rector de l'esport que s'ofereix a l'Institut de Tecnologia Acharya que va ser establert el 2000.</lex>
+      <lex lang="en_bt" lid="Id1">The Acharya Institute of Technology offers tennis classes and was founded in 2000.The tennis regulatory body is the International Tennis Federation.</lex>
+      <lex lang="en_bt" lid="Id2">The International Tennis Federation is the governing body of the sport which is offered at the Acharya Institute of Technology which was established in 2000.</lex>
+      </entry>
+    <entry category="University" eid="Id5" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>India | largestCity | Mumbai</otriple>
+        <otriple>AWH_Engineering_College | country | India</otriple>
+        <otriple>India | river | Ganges</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>India | largestCity | Mumbai</mtriple>
+        <mtriple>AWH_Engineering_College | country | India</mtriple>
+        <mtriple>India | river | Ganges</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>India | CiudadMásGrande | Bombay</striple>
+        <striple>Escuela_Superior_de_Ingeniería_AWH | País | India</striple>
+        <striple>India | Río | río_Ganges</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>India | largestCity | Mumbai</bttriple>
+        <bttriple>AWH_Engineering_College | country | India</bttriple>
+        <bttriple>India | river | Ganges</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Índia | CiutatMésGran | Bombai</ctriple>
+        <ctriple>Col·legi_d'Enginyeria_AWH | País | Índia</ctriple>
+        <ctriple>Índia | Riuwaters_World-Class.Kgm | Gange</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">AWH Engineering College is in India. Mumbai is the largest city in India. The river Ganges runs through India.</lex>
+      <lex lang="en" lid="Id2">AWH Engineering College is located in the country of India, whose capital city is Mumbai. One of the rivers in India is called the Ganges.</lex>
+      <lex lang="es" lid="Id1">AWH Engineering College se encuentra en la India. Bombay es la ciudad más grande de la India. El río Ganges atraviesa la India.</lex>
+      <lex lang="es" lid="Id2">La Escuela Superior de Ingeniería AWH está situada en el país de la India, cuya capital es Mumbai. Uno de los ríos de la India se llama Ganges.</lex>
+      <lex lang="ca" lid="Id1">L'AWH Engineering College és a l'Índia. Mumbai és la ciutat més gran de l'Índia. El riu Ganges travessa l'Índia.</lex>
+      <lex lang="ca" lid="Id2">El Col·legi d'Enginyeria AWH es troba al país de l'Índia, la capital del qual és Mumbai. Un dels rius de l'Índia es diu Ganges.</lex>
+      <lex lang="en_bt" lid="Id1">AWH Engineering College is in India. Mumbai is the largest city in India. The Ganges River runs through India.</lex>
+      <lex lang="en_bt" lid="Id2">The AWH College of Engineering is located in the country of India, whose capital is Mumbai. One of the rivers of India is called Ganges.</lex>
+      </entry>
+    <entry category="University" eid="Id6" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Romania | leaderTitle | Prime_Minister_of_Romania</otriple>
+        <otriple>Romania | leaderName | Klaus_Iohannis</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Romania | leader | Klaus_Iohannis</otriple>
+        <otriple>Romania | leaderTitle | Prime_Minister_of_Romania</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Romania | leaderTitle | Prime_Minister_of_Romania</mtriple>
+        <mtriple>Romania | leader | Klaus_Iohannis</mtriple>
+        <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Rumania | TítuloDeLíder | Primer_ministro_de_Rumania</striple>
+        <striple>Rumania | Líder | Klaus_Iohannis</striple>
+        <striple>1_de_diciembre_de_1918_Universidad | País | Rumania</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Romania | leaderTitle | Prime_Minister_of_Romania</bttriple>
+        <bttriple>Romania | leader | Klaus_Iohannis</bttriple>
+        <bttriple>1_Decembrie_1918_University | country | Romania</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Romania | LíderTítol | primer_ministre_de_Romania</ctriple>
+        <ctriple>Romania | Líder | Klaus_Iohannis</ctriple>
+        <ctriple>1_de_desembre_de_1918_Universitat | País | Romania</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The leader of Romania is Prime Minister Klaus Iohannis. The 1 Decembrie 1918 University is in Romania.</lex>
+      <lex lang="en" lid="Id2">The Prime Minister of Romania is Klaus Iohannis. The 1 Decembrie 1918 University is situated in Romania.</lex>
+      <lex lang="en" lid="Id3">1 Decembrie 1918 University is located in Romania. The country's Prime Minister is Klaus Iohannis.</lex>
+      <lex lang="es" lid="Id1">El líder de Rumanía es el Primer Ministro Klaus Iohannis. La Universidad 1 de diciembre de 1918 se encuentra en Rumanía.</lex>
+      <lex lang="es" lid="Id2">El Primer Ministro de Rumanía es Klaus Iohannis. La Universidad 1 de diciembre de 1918 está situada en Rumanía.</lex>
+      <lex lang="es" lid="Id3">La Universidad 1 de diciembre de 1918 se encuentra en Rumanía. El Primer Ministro del país es Klaus Iohannis.</lex>
+      <lex lang="ca" lid="Id1">El líder de Romania és el primer ministre Klaus Iohannis. La Universitat 1 Decembrie 1918 es troba a Romania.</lex>
+      <lex lang="ca" lid="Id2">El primer ministre de Romania és Klaus Iohannis. La Universitat 1 de desembre de 1918 es troba a Romania.</lex>
+      <lex lang="ca" lid="Id3">La Universitat 1 Decembrie 1918 es troba a Romania. El primer ministre del país és Klaus Iohannis.</lex>
+      <lex lang="en_bt" lid="Id1">The leader of Romania is Prime Minister Klaus Iohannis. The University 1 Decembrie 1918 is located in Romania.</lex>
+      <lex lang="en_bt" lid="Id2">The Prime Minister of Romania is Klaus Iohannis. The December 1, 1918 University is located in Romania.</lex>
+      <lex lang="en_bt" lid="Id3">The University 1 Decembrie 1918 is located in Romania. The country's prime minister is Klaus Iohannis.</lex>
+      </entry>
+    <entry category="University" eid="Id7" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Romania | patronSaint | Andrew_the_Apostle</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | latinName | "Universitas Apulensis"@en</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Romania | patronSaint | Andrew_the_Apostle</mtriple>
+        <mtriple>1_Decembrie_1918_University | latinName | "Universitas Apulensis"</mtriple>
+        <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Rumania | Patrón | Andrés_el_Apóstol</striple>
+        <striple>1_de_diciembre_de_1918_Universidad | NombreLatino | Universitas_Apulensis</striple>
+        <striple>1_de_diciembre_de_1918_Universidad | País | Rumania</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Romania | patronSaint | Andrew_the_Apostle</bttriple>
+        <bttriple>1_Decembrie_1918_University | latinName | "Universitas Apulensis"</bttriple>
+        <bttriple>1_Decembrie_1918_University | country | Romania</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Romania | SantPatró | Andreu_apòstol</ctriple>
+        <ctriple>1_de_desembre_de_1918_Universitat | NomLlatí | Universitas_Apulensis</ctriple>
+        <ctriple>1_de_desembre_de_1918_Universitat | País | Romania</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">1 Decembrie 1918 University is located in Romania. Its Latin name is "Universitas Apulensis". The patron saint of Romania is Andrew the Apostle.</lex>
+      <lex lang="en" lid="Id2">Universitas Apulensis is the latin name of the 1 Decembrie 1918 University in Romania. The patron saint of the country is Andrew the Apostle.</lex>
+      <lex lang="en" lid="Id3">The 1 Decembrie 1918 University has the Latin name, Universitas Apulensis. It is situated in Romania, which has the patron Saint Andrew the Apostle.</lex>
+      <lex lang="es" lid="Id1">La Universidad 1 de diciembre de 1918 se encuentra en Rumanía. Su nombre en latín es "Universitas Apulensis". El patrón de Rumanía es Andrés Apóstol.</lex>
+      <lex lang="es" lid="Id2">Universitas Apulensis es el nombre latino de la Universidad 1 de diciembre de 1918 de Rumanía. El patrón del país es Andrés Apóstol.</lex>
+      <lex lang="es" lid="Id3">La Universidad 1 de diciembre de 1918 tiene el nombre latino de Universitas Apulensis. Está situada en Rumanía, cuyo patrón es San Andrés Apóstol.</lex>
+      <lex lang="ca" lid="Id1">1 Decembrie 1918 Universitat es troba a Romania. El seu nom llatí és "Universitas Apulensis". El sant patró de Romania és Andreu l' Apòstol.</lex>
+      <lex lang="ca" lid="Id2">Universitas Apulensis és el nom llatí de la Universitat 1 Decembrie 1918 de Romania. El patró del país és Andreu l' Apòstol.</lex>
+      <lex lang="ca" lid="Id3">La Universitat 1 de desembre de 1918 té el nom llatí Universitas Apulensis. Es troba a Romania, que té com a patró Sant Andreu Apòstol.</lex>
+      <lex lang="en_bt" lid="Id1">1 Decembrie 1918 University is located in Romania. Its Latin name is "Universitas Apulensis". The patron saint of Romania is Andrew the Apostle.</lex>
+      <lex lang="en_bt" lid="Id2">Universitas Apulensis is the Latin name for the 1 Decembrie 1918 University of Romania. The patron of the country is Andrew the Apostle.</lex>
+      <lex lang="en_bt" lid="Id3">The University of December 1, 1918 has the Latin name Universitas Apulensis. It is located in Romania, which has as patron Saint Andrew the Apostle.</lex>
+      </entry>
+    <entry category="University" eid="Id8" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | faculty | 737</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | students | 16000</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | numberOfStudents | "16000"^^xsd:nonNegativeInteger</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | facultySize | "737"^^xsd:nonNegativeInteger</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | academicStaffSize | 737</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | numberOfStudents | 16000</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | established | 1928</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Facultad_de_Ciencias_Empresariales_y_Sociales_de_la_Universidad_de_Aarhus | NúmeroDeProfesores | 737</striple>
+        <striple>Facultad_de_Ciencias_Empresariales_y_Sociales_de_la_Universidad_de_Aarhus | NúmeroDeEstudiantes | 16000</striple>
+        <striple>Facultad_de_Ciencias_Empresariales_y_Sociales_de_la_Universidad_de_Aarhus | Establecido | 1928</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>School of Business and Social Sciences at the Aarhus University | academicStaffSize | 737</bttriple>
+        <bttriple>School of Business and Social Sciences at the Aarhus University | numberOfStudents | 16000</bttriple>
+        <bttriple>School of Business and Social Sciences at the Aarhus University | established | 1928</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Escola_d'Empreses_i_Ciències_Socials_de_la_Universitat_d'Aarhus | MidaDelPersonalAcadèmic | 737</ctriple>
+        <ctriple>Escola_d'Empreses_i_Ciències_Socials_de_la_Universitat_d'Aarhus | NombreD'estudiants | 16000</ctriple>
+        <ctriple>Escola_d'Empreses_i_Ciències_Socials_de_la_Universitat_d'Aarhus | Establert | 1928</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">The School of Business and Social Sciences at the Aarhus University was established in 1928. It has 737 academic staff and 16,000 students.</lex>
+      <lex lang="en" lid="Id2">The School of Business and Social Sciences at Aarhus University was established in 1928. It has 16000 students and an academic staff of 737.</lex>
+      <lex lang="en" lid="Id3">The School of Business and Social Sciences at the Aarhus University was established in 1928 and currently has a staff of 737 and a student population of 16000.</lex>
+      <lex lang="es" lid="Id1">La Facultad de Ciencias Empresariales y Sociales de la Universidad de Aarhus se fundó en 1928. Cuenta con 737 profesores y 16.000 estudiantes.</lex>
+      <lex lang="es" lid="Id2">La Facultad de Ciencias Empresariales y Sociales de la Universidad de Aarhus se fundó en 1928. Cuenta con 16 000 estudiantes y 737 profesores.</lex>
+      <lex lang="es" lid="Id3">La Facultad de Ciencias Empresariales y Sociales de la Universidad de Aarhus se fundó en 1928 y actualmente cuenta con 737 empleados y 16 000 estudiantes.</lex>
+      <lex lang="ca" lid="Id1">L'Escola de Negocis i Ciències Socials de la Universitat d'Aarhus es va fundar l'any 1928. Té 737 membres del personal acadèmic i 16.000 estudiants.</lex>
+      <lex lang="ca" lid="Id2">L'Escola de Negocis i Ciències Socials de la Universitat d'Aarhus es va establir el 1928. Té 16.000 estudiants i un personal acadèmic de 737.</lex>
+      <lex lang="ca" lid="Id3">L'Escola de Negocis i Ciències Socials de la Universitat d'Aarhus es va establir el 1928 i actualment té un personal de 737 i una població estudiantil de 16.000.</lex>
+      <lex lang="en_bt" lid="Id1">The School of Business and Social Sciences at Aarhus University was founded in 1928 and has 737 academic staff and 16,000 students.</lex>
+      <lex lang="en_bt" lid="Id2">The School of Business and Social Sciences at Aarhus University was established in 1928. It has 16,000 students and an academic staff of 737.</lex>
+      <lex lang="en_bt" lid="Id3">The School of Business and Social Sciences at Aarhus University was established in 1928 and currently has a staff of 737 and a student population of 16,000.</lex>
+      </entry>
+    </entries>
+  </benchmark>

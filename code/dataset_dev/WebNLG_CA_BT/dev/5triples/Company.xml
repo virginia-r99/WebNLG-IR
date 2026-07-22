@@ -1,0 +1,257 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Company" eid="Id1" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Chinabank | foundingDate | 1920-08-16</otriple>
+        <otriple>Chinabank | netIncome | 1.51E10</otriple>
+        <otriple>Chinabank | numberOfLocations | 295</otriple>
+        <otriple>Chinabank | foundationPlace | Manila</otriple>
+        <otriple>Chinabank | type | Public_company</otriple>
+        </originaltripleset>
+      <originaltripleset>
+        <otriple>Chinabank | foundingYear | 1920-01-01</otriple>
+        <otriple>Chinabank | netIncome | 1.51E10</otriple>
+        <otriple>Chinabank | numberOfLocations | 295</otriple>
+        <otriple>Chinabank | foundationPlace | Manila</otriple>
+        <otriple>Chinabank | type | Public_company</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Chinabank | foundingDate | 1920-08-16</mtriple>
+        <mtriple>Chinabank | netIncome | 15100000000</mtriple>
+        <mtriple>Chinabank | numberOfLocations | 295</mtriple>
+        <mtriple>Chinabank | foundationPlace | Manila</mtriple>
+        <mtriple>Chinabank | type | Public_company</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Chinabank | FechaDeFundación | 16-08-1920</striple>
+        <striple>Chinabank | IngresosNetos | 15100000000</striple>
+        <striple>Chinabank | NúmeroDeUbicaciones | 295</striple>
+        <striple>Chinabank | LugarDeCimentación | Manila</striple>
+        <striple>Chinabank | Tipo | empresa_de_capital_abierto</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Chinabank | foundingDate | 1920-08-16</bttriple>
+        <bttriple>Chinabank | netIncome | 15100000000</bttriple>
+        <bttriple>Chinabank | numberOfLocations | 295</bttriple>
+        <bttriple>Chinabank | foundationPlace | Manila</bttriple>
+        <bttriple>Chinabank | type | Public_company</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Chinabank | DataDeFundació | 1920-08-16</ctriple>
+        <ctriple>Chinabank | IngressosNets | 15100000000</ctriple>
+        <ctriple>Chinabank | NombreDeLocalitzacions | 295</ctriple>
+        <ctriple>Chinabank | LlocDeFundació | Manila</ctriple>
+        <ctriple>Chinabank | Tipus | empresa_cotitzada</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Chinabank, a publicly traded company with 295 banking centers, was founded in Manila on the 16th of August, 1920. The net income of Chinabank is $15,100,000,000.</lex>
+      <lex lang="en" lid="Id2">Chinabank, a publicly traded company with 295 locations, was founded on 08-16-1920. Chinabank was founded in Manila and has a net income of $15,100,000,000.</lex>
+      <lex lang="en" lid="Id3">Chinabank, a public company with 295 branches, currently has a net income of $15,100,000,000. Chinabank was founded in Manila on 1920-08-16.</lex>
+      <lex lang="es" lid="Id1">Chinabank, empresa que cotiza en bolsa y cuenta con 295 centros bancarios, fue fundada en Manila el 16-08-1920. Los ingresos netos de Chinabank ascienden a 15.100.000.000 dólares.</lex>
+      <lex lang="es" lid="Id2">Chinabank, empresa que cotiza en bolsa y cuenta con 295 centros, fue fundada el 16-08-1920. Chinabank se fundó en Manila y tiene unos ingresos netos de 15.100.000.000 dólares.</lex>
+      <lex lang="es" lid="Id3">Chinabank, empresa pública con 295 sucursales, tiene actualmente unos ingresos netos de 15.100.000.000 $. Chinabank se fundó en Manila el 16-08-1920.</lex>
+      <lex lang="ca" lid="Id1">Chinabank, una empresa que cotitza en borsa amb 295 centres bancaris, es va fundar a Manila el 16 d'agost de 1920. L'ingrés net de Chinabank és de 15.100.000.000 dòlars.</lex>
+      <lex lang="ca" lid="Id2">Chinabank, una empresa cotitzada en borsa amb 295 oficines, va ser fundada el 16 d'agost de 1920 a Manila i té uns ingressos nets de 15.100.000.000 de dòlars.</lex>
+      <lex lang="ca" lid="Id3">Chinabank, una empresa pública amb 295 sucursals, actualment té uns ingressos nets de 15.100.000.000 dòlars. Chinabank es va fundar a Manila el 16 d'agost de 1920.</lex>
+      <lex lang="en_bt" lid="Id1">Chinabank, a publicly traded company with 295 banking centers, was founded in Manila on August 16, 1920. Chinabank's net income is $15.1 billion.</lex>
+      <lex lang="en_bt" lid="Id2">Chinabank, a publicly traded company with 295 branches, was founded on August 16, 1920 in Manila and has net revenues of $15.1 billion.</lex>
+      <lex lang="en_bt" lid="Id3">Chinabank, a public company with 295 branches, currently has a net income of $15.1 billion. Chinabank was founded in Manila on August 16, 1920.</lex>
+      </entry>
+    <entry category="Company" eid="Id2" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>GMA_New_Media | foundingYear | 2000-01-01</otriple>
+        <otriple>GMA_New_Media | product | Mobile_Applications</otriple>
+        <otriple>GMA_New_Media | industry | Mass_Media</otriple>
+        <otriple>GMA_New_Media | keyPerson | Felipe_Gozon</otriple>
+        <otriple>GMA_New_Media | location | GMA_Network_Center</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>GMA_New_Media | foundingDate | 2000-01-01</mtriple>
+        <mtriple>GMA_New_Media | product | Mobile_Applications</mtriple>
+        <mtriple>GMA_New_Media | industry | Mass_Media</mtriple>
+        <mtriple>GMA_New_Media | keyPerson | Felipe_Gozon</mtriple>
+        <mtriple>GMA_New_Media | location | GMA_Network_Center</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>GMA_Nuevos_Medios | FechaDeFundación | 01-01-2000</striple>
+        <striple>GMA_Nuevos_Medios | Producto | Aplicaciones_móviles</striple>
+        <striple>GMA_Nuevos_Medios | Industria | Medios_de_comunicación</striple>
+        <striple>GMA_Nuevos_Medios | PersonaClave | Felipe_Gozon</striple>
+        <striple>GMA_Nuevos_Medios | Ubicación | Centro_de_la_red_GMA</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>GMA_New_Media | foundingDate | 2000-01-01</bttriple>
+        <bttriple>GMA_New_Media | product | Mobile_Applications</bttriple>
+        <bttriple>GMA_New_Media | industry | Mass_Media</bttriple>
+        <bttriple>GMA_New_Media | keyPerson | Felipe_Gozon</bttriple>
+        <bttriple>GMA_New_Media | location | GMA_Network_Center</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>GMA_New_Media | DataDeFundació | 2000-01-01</ctriple>
+        <ctriple>GMA_New_Media | Producte | Aplicacions_mòbils</ctriple>
+        <ctriple>GMA_New_Media | Indústria | mitjà_de_comunicació_de_massa</ctriple>
+        <ctriple>GMA_New_Media | PersonaClau | Felipe_Gozon</ctriple>
+        <ctriple>GMA_New_Media | Ubicació | Centre_de_la_xarxa_GMA</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">GMA New Media, a maker of mobile applications founded on 01-01-2000, is a mass media industry with headquarters in the GMA Network Center. Felipe Gozon is a key person in GMA New Media.</lex>
+      <lex lang="en" lid="Id2">GMA New Media (founded on January 01, 2000) is a company in mass media industry that offers products such as mobile applications. Felipe Gozon is the key person on GMA New Media, which is located inside the GMA Network Center.</lex>
+      <lex lang="en" lid="Id3">GMA New Media founded on January 01,2000 is located in the GMA Network Center. This company is in the mass media industry, makes mobile apps and Felipe Gozon is the key person on board.</lex>
+      <lex lang="es" lid="Id1">GMA New Media, fabricante de aplicaciones móviles fundado el 01-01-2000, es una empresa de la industria de medios de comunicación de masas con sede en el GMA Network Center. Felipe Gozón es una persona clave en GMA New Media.</lex>
+      <lex lang="es" lid="Id2">GMA New Media (fundada el 01-01-2000) es una empresa de la industria de los medios de comunicación de masas que ofrece productos como aplicaciones para móviles. Felipe Gozón es la persona clave en GMA New Media, que se encuentra dentro del GMA Network Center.</lex>
+      <lex lang="es" lid="Id3">GMA New Media, fundada el 1 de enero de 2000, se encuentra en el GMA Network Center. Esta empresa está en la industria de los medios de comunicación, hace aplicaciones móviles y Felipe Gozón es la persona clave a bordo.</lex>
+      <lex lang="ca" lid="Id1">GMA New Media, un fabricant d'aplicacions mòbils fundat el 01-01-2000, és una indústria de mitjans de comunicació amb seu al GMA Network Center. Felipe Gozon és una persona clau a GMA New Media.</lex>
+      <lex lang="ca" lid="Id2">GMA New Media (fundada l'1 de gener de 2000) és una empresa del sector dels mitjans de comunicació de masses que ofereix productes com aplicacions mòbils. Felipe Gozon és la persona clau de GMA New Media, que es troba dins del GMA Network Center.</lex>
+      <lex lang="ca" lid="Id3">GMA New Media va ser fundada l'1 de gener del 2000 i està ubicada al GMA Network Center. Aquesta empresa està en la indústria dels mitjans de comunicació de massa, fa aplicacions mòbils i Felipe Gozon és la persona clau a bord.</lex>
+      <lex lang="en_bt" lid="Id1">GMA New Media, a mobile application maker founded on 01-01-2000, is a media industry headquartered at the GMA Network Center. Felipe Gozon is a key person at GMA New Media.</lex>
+      <lex lang="en_bt" lid="Id2">GMA New Media (founded on January 1, 2000) is a mass media company that offers products such as mobile applications. Felipe Gozon is the key person of GMA New Media, which is located within the GMA Network Center.</lex>
+      <lex lang="en_bt" lid="Id3">GMA New Media was founded on January 1, 2000 and is located at the GMA Network Center.This company is in the mass media industry, makes mobile applications and Felipe Gozon is the key person on board.</lex>
+      </entry>
+    <entry category="Company" eid="Id3" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Hypermarcas | foundingYear | 2001-01-01</otriple>
+        <otriple>Hypermarcas | product | Cosmetics</otriple>
+        <otriple>Hypermarcas | industry | Pharmaceuticals</otriple>
+        <otriple>Hypermarcas | location | Brazil</otriple>
+        <otriple>Brazil | populationDensity | 23.8</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Hypermarcas | foundingDate | 2001-01-01</mtriple>
+        <mtriple>Hypermarcas | product | Cosmetics</mtriple>
+        <mtriple>Hypermarcas | industry | Pharmaceuticals</mtriple>
+        <mtriple>Hypermarcas | location | Brazil</mtriple>
+        <mtriple>Brazil | populationDensity | 23.8</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Hipermarcas | FechaDeFundación | 01-01-2001</striple>
+        <striple>Hipermarcas | Producto | cosméticos</striple>
+        <striple>Hipermarcas | Industria | Productos_farmacéuticos</striple>
+        <striple>Hipermarcas | Ubicación | Brasil</striple>
+        <striple>Brasil | DensidadDePoblación | 23.8</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Hypermarcas | foundingDate | 2001-01-01</bttriple>
+        <bttriple>Hypermarcas | product | Cosmetics</bttriple>
+        <bttriple>Hypermarcas | industry | Pharmaceuticals</bttriple>
+        <bttriple>Hypermarcas | location | Brazil</bttriple>
+        <bttriple>Brazil | populationDensity | 23.8</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Hypermarcas | DataDeFundació | 2001-01-01</ctriple>
+        <ctriple>Hypermarcas | Producte | cosmètica</ctriple>
+        <ctriple>Hypermarcas | Indústria | Productes_farmacèutics</ctriple>
+        <ctriple>Hypermarcas | Ubicació | Brasil</ctriple>
+        <ctriple>Brasil | DensitatDePoblació | 23.8</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Hypermarcas was founded January 1, 2001 as a pharmaceutical company primarily focusing on cosmetics. It's located in Brazil, which has as population density of 23.8.</lex>
+      <lex lang="en" lid="Id2">Hypermarcas is a pharmaceutical company founded on January 1, 2001, that also sells cosmetics. It is located in Brazil which has a population density of 23.8 per square kilometer.</lex>
+      <lex lang="en" lid="Id3">Hypermarcas, founded on January 1, 2001, is a pharmaceutical company and a maker of cosmetics products. The company is located in Brazil, which has a population density of 23.8.</lex>
+      <lex lang="es" lid="Id1">Hypermarcas se fundó el 1 de enero de 2001 como empresa farmacéutica centrada principalmente en la cosmética. Está ubicada en Brasil, que tiene una densidad de población de 23,8.</lex>
+      <lex lang="es" lid="Id2">Hypermarcas es una empresa farmacéutica fundada el 1 de enero de 2001 que también vende cosméticos. Se encuentra en Brasil, que tiene una densidad de población del 23,8 por kilómetro cuadrado.</lex>
+      <lex lang="es" lid="Id3">Hypermarcas, fundada el 1 de enero de 2001, es una empresa farmacéutica y fabricante de cosméticos. La empresa se encuentra en Brasil, que tiene una densidad de población del 23,8.</lex>
+      <lex lang="ca" lid="Id1">Hypermarcas va ser fundada l'1 de gener de 2001 com una empresa farmacèutica centrada principalment en cosmètics, situada al Brasil, que té una densitat de població de 23,8.</lex>
+      <lex lang="ca" lid="Id2">Hypermarcas és una empresa farmacèutica fundada l'1 de gener de 2001 que també ven cosmètics. Es troba al Brasil, que té una densitat de població de 23,8 per quilòmetre quadrat.</lex>
+      <lex lang="ca" lid="Id3">Hypermarcas, fundada l'1 de gener de 2001, és una empresa farmacèutica i fabricant de productes cosmètics situada al Brasil, que té una densitat de població de 23,8.</lex>
+      <lex lang="en_bt" lid="Id1">Hypermarcas was founded on January 1, 2001 as a pharmaceutical company focused primarily on cosmetics, located in Brazil, which has a population density of 23.8.</lex>
+      <lex lang="en_bt" lid="Id2">Hypermarcas is a pharmaceutical company founded on January 1, 2001 that also sells cosmetics, located in Brazil, which has a population density of 23.8 per square kilometer.</lex>
+      <lex lang="en_bt" lid="Id3">Hypermarcas, founded on January 1, 2001, is a pharmaceutical company and cosmetics manufacturer located in Brazil, which has a population density of 23.8.</lex>
+      </entry>
+    <entry category="Company" eid="Id4" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Trane | location | Ireland</otriple>
+        <otriple>Trane | foundationPlace | La_Crosse,_Wisconsin</otriple>
+        <otriple>Ireland | location | Europe</otriple>
+        <otriple>Trane | type | Subsidiary</otriple>
+        <otriple>Trane | numberOfEmployees | 29000</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Trane | location | Ireland</mtriple>
+        <mtriple>Trane | foundationPlace | La_Crosse,_Wisconsin</mtriple>
+        <mtriple>Ireland | location | Europe</mtriple>
+        <mtriple>Trane | type | Subsidiary</mtriple>
+        <mtriple>Trane | numberOfEmployees | 29000</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Trane | Ubicación | isla_de_Irlanda</striple>
+        <striple>Trane | LugarDeCimentación | La_Crosse,_Wisconsin</striple>
+        <striple>isla_de_Irlanda | Ubicación | Europa</striple>
+        <striple>Trane | Tipo | filial</striple>
+        <striple>Trane | NúmeroDeEmpleados | 29000</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Trane | location | Ireland</bttriple>
+        <bttriple>Trane | foundationPlace | La_Crosse,_Wisconsin</bttriple>
+        <bttriple>Ireland | location | Europe</bttriple>
+        <bttriple>Trane | type | Subsidiary</bttriple>
+        <bttriple>Trane | numberOfEmployees | 29000</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Trane | Ubicació | Irlanda</ctriple>
+        <ctriple>Trane | LlocDeFundació | La_Crosse,_Wisconsin</ctriple>
+        <ctriple>Irlanda | Ubicació | Europa</ctriple>
+        <ctriple>Trane | Tipus | Subsidiària</ctriple>
+        <ctriple>Trane | NombreD'Empleats | 29000</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Trane is a European subsidiary company located in Ireland that employs 29,000 people. The company was founded in La Crosse, Wisconsin.</lex>
+      <lex lang="en" lid="Id2">Founded in La Crosse, Wisconsin, Trane is located in the European country of Ireland. Trane is a subsidiary company with 29000 employees.</lex>
+      <lex lang="en" lid="Id3">Trane, a subsidiary company founded in La Crosse, Wisconsin, has 29,000 employees and operates in Ireland, which is located in Europe.</lex>
+      <lex lang="es" lid="Id1">Trane es una filial europea ubicada en Irlanda que emplea a 29.000 personas. La empresa fue fundada en La Crosse, Wisconsin.</lex>
+      <lex lang="es" lid="Id2">Fundada en La Crosse, Wisconsin, Trane se encuentra en el país europeo de Irlanda. Trane es una empresa filial con 29000 empleados.</lex>
+      <lex lang="es" lid="Id3">Trane, empresa filial fundada en La Crosse, Wisconsin, cuenta con 29.000 empleados y opera en Irlanda, el cual está situado en Europa.</lex>
+      <lex lang="ca" lid="Id1">Trane és una subsidiària europea situada a Irlanda que dóna feina a 29.000 persones. L'empresa va ser fundada a La Crosse, Wisconsin.</lex>
+      <lex lang="ca" lid="Id2">Fundada a La Crosse, Wisconsin, Trane es troba al país europeu d'Irlanda. Trane és una empresa filial amb 29.000 empleats.</lex>
+      <lex lang="ca" lid="Id3">Trane, una subsidiària fundada a La Crosse, Wisconsin, té 29.000 empleats i opera a Irlanda, que es troba a Europa.</lex>
+      <lex lang="en_bt" lid="Id1">Trane is a European subsidiary based in Ireland that employs 29,000 people.The company was founded in La Crosse, Wisconsin.</lex>
+      <lex lang="en_bt" lid="Id2">Founded in La Crosse, Wisconsin, Trane is located in the European country of Ireland. Trane is a subsidiary company with 29,000 employees.</lex>
+      <lex lang="en_bt" lid="Id3">Trane, a subsidiary founded in La Crosse, Wisconsin, has 29,000 employees and operates in Ireland, which is in Europe.</lex>
+      </entry>
+    <entry category="Company" eid="Id5" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Trane | product | Building_Management_System</otriple>
+        <otriple>Trane | revenue | 1.0264E10</otriple>
+        <otriple>Trane | netIncome | 5.563E8</otriple>
+        <otriple>Trane | location | Swords,_Dublin</otriple>
+        <otriple>Trane | type | Subsidiary</otriple>
+        </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Trane | product | Building_Management_System</mtriple>
+        <mtriple>Trane | revenue | 10264000000</mtriple>
+        <mtriple>Trane | netIncome | 556300000</mtriple>
+        <mtriple>Trane | location | Swords,_Dublin</mtriple>
+        <mtriple>Trane | type | Subsidiary</mtriple>
+        </modifiedtripleset>
+      <spanishtripleset>
+        <striple>Trane | Producto | Sistema_de_gestión_de_edificios</striple>
+        <striple>Trane | Ingresos | 10264000000</striple>
+        <striple>Trane | IngresosNetos | 556300000</striple>
+        <striple>Trane | Ubicación | Swords,_Dublín</striple>
+        <striple>Trane | Tipo | filial</striple>
+        </spanishtripleset>
+      <enbttripleset>
+        <bttriple>Trane | product | Building_Management_System</bttriple>
+        <bttriple>Trane | revenue | 10264000000</bttriple>
+        <bttriple>Trane | netIncome | 556300000</bttriple>
+        <bttriple>Trane | location | Swords,_Dublin</bttriple>
+        <bttriple>Trane | type | Subsidiary</bttriple>
+        </enbttripleset>
+      <catalantripleset>
+        <ctriple>Trane | Producte | Edifici_intel·ligent</ctriple>
+        <ctriple>Trane | Ingressos | 10264000000</ctriple>
+        <ctriple>Trane | IngressosNets | 556300000</ctriple>
+        <ctriple>Trane | Ubicació | Espades,_Dublín</ctriple>
+        <ctriple>Trane | Tipus | Subsidiària</ctriple>
+        </catalantripleset>
+      <lex lang="en" lid="Id1">Trane is subsidiary in Swords, Dublin who produces building management systems, they have a net income of $556 million and a total revenue of $10,264,000,000.</lex>
+      <lex lang="en" lid="Id2">Trane, a maker of building management systems with net income of $556,300,000 from revenue of 10,264,000,000, is a subsidiary company located in Swords, Dublin.</lex>
+      <lex lang="en" lid="Id3">Trane, a subsidiary located in Swords, Dublin, manufactures building management systems. Trane has net income of $556,300,000 from revenue of $10,264,000,000.</lex>
+      <lex lang="es" lid="Id1">Trane es filial en Swords, Dublín que produce sistemas de gestión de edificios. Tienen unos ingresos netos de 556 millones de dólares y unos ingresos totales de 10.264.000.000 dólares.</lex>
+      <lex lang="es" lid="Id2">Trane, fabricante de sistemas de gestión de edificios con unos ingresos netos de 556.300.000 dólares procedentes de unos ingresos de 10.264.000.000, es una empresa filial ubicada en Swords, Dublín.</lex>
+      <lex lang="es" lid="Id3">Trane, filial ubicada en Swords, Dublín, fabrica sistemas de gestión de edificios. Trane tiene unos ingresos netos de 556.300.000 dólares procedentes de unos ingresos de 10.264.000.000 dólares.</lex>
+      <lex lang="ca" lid="Id1">Trane és una subsidiària a Swords, Dublín que produeix sistemes de gestió d'edificis, tenen uns ingressos nets de 556 milions de dòlars i uns ingressos totals de 10.264.000.000 de dòlars.</lex>
+      <lex lang="ca" lid="Id2">Trane, un fabricant de sistemes de gestió d'edificis amb uns ingressos nets de 556.300.000 de dòlars dels ingressos de 10.264.000.000, és una empresa subsidiària situada a Swords, Dublín.</lex>
+      <lex lang="ca" lid="Id3">Trane, una filial ubicada a Swords, Dublín, fabrica sistemes de gestió d'edificis. Trane té uns ingressos nets de 556.300.000 dòlars d'uns ingressos de 10.264.000.000 dòlars.</lex>
+      <lex lang="en_bt" lid="Id1">Trane is a subsidiary in Swords, Dublin that produces building management systems. It has net income of $556 million and total income of $10,264,000,000.</lex>
+      <lex lang="en_bt" lid="Id2">Trane, a manufacturer of building management systems with net income of $556,300,000 from revenue of $10,264,000,000, is a subsidiary company located in Swords, Dublin.</lex>
+      <lex lang="en_bt" lid="Id3">Trane, a subsidiary located in Swords, Dublin, manufactures building management systems. Trane has net income of $556,300,000 on revenues of $10,264,000,000.</lex>
+      </entry>
+    </entries>
+  </benchmark>

@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+	<entries>
+		<entry category="University" eid="Id1" shape="(X (X) (X))" shape_type="sibling" size="2">
+			<originaltripleset>
+				<otriple>Acharya_Institute_of_Technology | director | "Dr. G. P. Prabhukumar"@en</otriple>
+				<otriple>Acharya_Institute_of_Technology | campus | "Urban, ,\nIn Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."@en</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Acharya_Institute_of_Technology | director | "Dr. G. P. Prabhukumar"</mtriple>
+				<mtriple>Acharya_Institute_of_Technology | campus | "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Instituto_Tecnológico_Acharya | Director | Dr._G._P._Prabhukumar</striple><striple>Instituto_Tecnológico_Acharya | Campus | En_Soldevanahalli,_Acharya_Dr._Sarvapalli_Radhakrishnan_Road,_Hessarghatta_Main_Road,_Bangalore_-_560090.</striple></spanishtripleset><lex lang="en" lid="Id1">Acharya Institute of Technology's campus is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090 and the director is Dr. G. P. Prabhukumar.</lex>
+			<lex lang="en" lid="Id2">The director of the Acharya Institute of Technology is Dr G P Prabhukumar. The campus is located at In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090.</lex>
+			<lex lang="es" lid="Id1">El campus del Instituto Tecnológico Acharya se encuentra en Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090 y su director es el Dr. G. P. Prabhukumar.</lex>
+			<lex lang="es" lid="Id2">El director del Instituto Tecnológico Acharya es el Dr. G P Prabhukumar. El campus está situado en In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090.</lex>
+		</entry>
+		<entry category="University" eid="Id2" shape="(X (X) (X))" shape_type="sibling" size="2">
+			<originaltripleset>
+				<otriple>Acharya_Institute_of_Technology | officialSchoolColour | "Blue, White and Orange"</otriple>
+				<otriple>Acharya_Institute_of_Technology | free | All_India_Council_for_Technical_Education</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Acharya_Institute_of_Technology | officialSchoolColour | "Blue, White and Orange"</mtriple>
+				<mtriple>Acharya_Institute_of_Technology | wasGivenTheTechnicalCampusStatusBy | All_India_Council_for_Technical_Education</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Instituto_Tecnológico_Acharya | ColorOficialDeLaEscuela | Azul,_blanco_y_naranja</striple><striple>Instituto_Tecnológico_Acharya | RecibióElEstatusDeCampusTécnicoPor | Consejo_de_Enseñanza_Técnica_de_la_India</striple></spanishtripleset><lex lang="en" lid="Id1">The All India Council for Technical Education gave the Acharya Institute of Technology the status of "Technical Campus". The official school colours are blue, white and orange.</lex>
+			<lex lang="en" lid="Id2">The official school colours for Acharya Institute of Technology are blue, white and orange and the school got its Technical Campus status from the All India Council for Technical Education.</lex>
+			<lex lang="en" lid="Id3">The Acharya Institute of Technology (official colour blue, white and orange) has been given the 'Technical Campus' status by All India Council for Technical Education.</lex>
+			<lex lang="es" lid="Id1">El Consejo Indio de Educación Técnica concedió al Instituto Tecnológico Acharya el estatus de "Campus Técnico". Los colores oficiales de la escuela son el azul, el blanco y el naranja.</lex>
+			<lex lang="es" lid="Id2">Los colores oficiales del Instituto Tecnológico Acharya son el azul, el blanco y el naranja, y el Consejo Indio de Educación Técnica le concedió la categoría de Campus Técnico.</lex>
+			<lex lang="es" lid="Id3">El Instituto Tecnológico Acharya (color oficial azul, blanco y naranja) ha recibido el estatus de "Campus Técnico" del Consejo Indio de Educación Técnica.</lex>
+		</entry>
+		<entry category="University" eid="Id3" shape="(X (X (X)))" shape_type="chain" size="2">
+			<originaltripleset>
+				<otriple>Acharya_Institute_of_Technology | sport | Tennis</otriple>
+				<otriple>Tennis | union | International_Tennis_Federation</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Acharya_Institute_of_Technology | sportsOffered | Tennis</mtriple>
+				<mtriple>Tennis | sportGoverningBody | International_Tennis_Federation</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Instituto_Tecnológico_Acharya | DeportesOfertados | tenis</striple><striple>tenis | OrganismoRectorDelDeporte | Federación_Internacional_de_Tenis</striple></spanishtripleset><lex lang="en" lid="Id1">The International Tennis Federation, which is the sport's governing body, has agreed to let Acharya Institute of Technology offer tennis at the school.</lex>
+			<lex lang="en" lid="Id2">Tennis, as governed by the International Tennis Federation, is a sport offered at the Acharya Institute of Technology.</lex>
+			<lex lang="es" lid="Id1">La Federación Internacional de Tenis, que es el organismo rector de este deporte, ha accedido a que el Instituto Tecnológico Acharya ofrezca tenis en la escuela.</lex>
+			<lex lang="es" lid="Id2">El tenis, regido por la Federación Internacional de Tenis, es un deporte que se ofrece en el Instituto Tecnológico Acharya.</lex>
+		</entry>
+		<entry category="University" eid="Id4" shape="(X (X (X)))" shape_type="chain" size="2">
+			<originaltripleset>
+				<otriple>European_University_Association | headquarters | Brussels</otriple>
+				<otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliations | European_University_Association</otriple>
+			</originaltripleset>
+			<originaltripleset>
+				<otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliation | European_University_Association</otriple>
+				<otriple>European_University_Association | headquarters | Brussels</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>European_University_Association | headquarter | Brussels</mtriple>
+				<mtriple>School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Asociación_de_Universidades_Europeas | SedeCentral | Región_de_Bruselas-Capital</striple><striple>Facultad_de_Ciencias_Empresariales_y_Sociales_de_la_Universidad_de_Aarhus | Afiliación | Asociación_de_Universidades_Europeas</striple></spanishtripleset><lex lang="en" lid="Id1">The School of Business and Social Sciences at the Aarhus University is affiliated to the European University Association which has its headquarters in Brussels.</lex>
+			<lex lang="en" lid="Id2">The School of Business and Social Sciences at Aarhus University is affiliated with the European University Association in Brussels.</lex>
+			<lex lang="en" lid="Id3">School of Business and Social Sciences at the Aarhus University is affiliated with the European University Association and is located in Brussels.</lex>
+			<lex lang="es" lid="Id1">La Facultad de Ciencias Empresariales y Sociales de la Universidad de Aarhus está afiliada a la Asociación Europea de Universidades, que tiene su sede en Bruselas.</lex>
+			<lex lang="es" lid="Id2">La Facultad de Ciencias Empresariales y Sociales de la Universidad de Aarhus está afiliada a la Asociación Europea de Universidades de Bruselas.</lex>
+			<lex lang="es" lid="Id3">La Facultad de Ciencias Empresariales y Sociales de la Universidad de Aarhus está afiliada a la Asociación Europea de Universidades y tiene su sede en Bruselas.</lex>
+		</entry>
+		<entry category="University" eid="Id5" shape="(X (X (X)))" shape_type="chain" size="2">
+			<originaltripleset>
+				<otriple>Karnataka | west | Arabian_Sea</otriple>
+				<otriple>Acharya_Institute_of_Technology | state | Karnataka</otriple>
+			</originaltripleset>
+			<modifiedtripleset>
+				<mtriple>Karnataka | hasToItsWest | Arabian_Sea</mtriple>
+				<mtriple>Acharya_Institute_of_Technology | state | Karnataka</mtriple>
+			</modifiedtripleset>
+			<spanishtripleset><striple>Karnataka | TieneASuOeste | mar_Arábigo</striple><striple>Instituto_Tecnológico_Acharya | Estado | Karnataka</striple></spanishtripleset><lex lang="en" lid="Id1">Acharya Institute of Technology is located in the state of Karnataka which has the Arabian Sea to the west.</lex>
+			<lex lang="en" lid="Id2">Acharya Institute of Technology is in the state of Karnataka which has the Arabian Sea to its west.</lex>
+			<lex lang="en" lid="Id3">Acharya Institute of Technology is located in the state of Karnataka, which has to its west the Arabian Sea.</lex>
+			<lex lang="es" lid="Id1">El Instituto Tecnológico Acharya está situado en el estado de Karnataka, que tiene el Mar Arábigo al oeste.</lex>
+			<lex lang="es" lid="Id2">El Instituto Tecnológico Acharya está en el estado de Karnataka, que tiene el Mar Arábigo al oeste.</lex>
+			<lex lang="es" lid="Id3">El Instituto Tecnológico Acharya se encuentra en el estado de Karnataka, que tiene al oeste el Mar Arábigo.</lex>
+		</entry>
+	</entries>
+</benchmark>

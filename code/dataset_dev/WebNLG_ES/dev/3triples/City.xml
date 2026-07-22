@@ -1,0 +1,526 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="City" eid="Id1" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Abilene,_Texas | areaTotal | 2.865e+08</otriple>
+        <otriple>Abilene,_Texas | elevation | "523.951"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abilene,_Texas | areaTotal | 2.86453e+08</otriple>
+        <otriple>Abilene,_Texas | elevation | "523.951"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abilene,_Texas | elevation | "523.951"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Abilene,_Texas | areaTotal | "286.5"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abilene,_Texas | elevation | "523.951"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | areaTotal | "286.4526850031616"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abilene,_Texas | areaTotal | 2.865e+08</otriple>
+        <otriple>Abilene,_Texas | elevation | "524.0"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abilene,_Texas | elevation | "523.951"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Abilene,_Texas | areaTotal | "286.4526850031616"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abilene,_Texas | areaTotal | 2.86453e+08</otriple>
+        <otriple>Abilene,_Texas | elevation | "524.0"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abilene,_Texas | elevation | "524.0"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Abilene,_Texas | areaTotal | "286.4526850031616"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abilene,_Texas | areaTotal | 2.86453e+08</otriple>
+        <otriple>Abilene,_Texas | elevation | "523.951"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abilene,_Texas | areaTotal | 2.86453e+08</otriple>
+        <otriple>Abilene,_Texas | elevation | "524.0"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abilene,_Texas | elevationAboveTheSeaLevel | 524.0</mtriple>
+        <mtriple>Abilene,_Texas | populationDensity | 429.9 (inhabitants per square kilometre)</mtriple>
+        <mtriple>Abilene,_Texas | areaTotal | 286.5 (square kilometres)</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Abilene,_Texas | ElevaciónSobreElNivelDelMar | 524.0</striple><striple>Abilene,_Texas | DensidadDePoblación | 429,9_(habitantes_por_kilómetro_cuadrado)</striple><striple>Abilene,_Texas | ÁreaTotal | 286,5_(kilómetros_cuadrados)</striple></spanishtripleset><lex lang="en" lid="Id1">Abilene, Texas is 524 above sea level, is 286.5 square kilometres large and has 429.9 people per square kilometre.</lex>
+      <lex lang="en" lid="Id2">Abilene, Texas; is 524m above sea level, has a total area of 286.5 sq km, and a population density of 429.9 inhabitants per square kilometre.</lex>
+      <lex lang="en" lid="Id3">At 524 metres above sea level, Abilene (Texas) has a total area of 286.5 square kilometres, and a population density of 429.9 inhabitants per square kilometre.</lex>
+    <lex lang="es" lid="Id1">Abilene, Texas, está a 524 sobre el nivel del mar, tiene 286,5 kilómetros cuadrados y 429,9 habitantes por kilómetro cuadrado.</lex><lex lang="es" lid="Id2">Abilene, Texas, está a 524 m sobre el nivel del mar, tiene una superficie total de 286,5 km2 y una densidad de población de 429,9 habitantes por km2.</lex><lex lang="es" lid="Id3">A 524 metros sobre el nivel del mar, Abilene (Texas) tiene una superficie total de 286,5 kilómetros cuadrados y una densidad de población de 429,9 habitantes por kilómetro cuadrado.</lex></entry>
+    <entry category="City" eid="Id2" shape="(X (X (X (X))))" shape_type="chain" size="3">
+      <originaltripleset>
+        <otriple>Abilene,_Texas | isPartOf | Texas</otriple>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>Texas | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abilene,_Texas | isPartOf | Texas</mtriple>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>Texas | country | United_States</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Abilene,_Texas | FormaParteDe | Texas</striple><striple>Estados_Unidos | Capital | Washington_D._C.</striple><striple>Texas | País | Estados_Unidos</striple></spanishtripleset><lex lang="en" lid="Id1">Abilene is located in Texas in the United States. Washington, D. C. is the country's capital.</lex>
+      <lex lang="en" lid="Id2">Abilene is part of Texas which is in the US, the capital of which is Washington DC.</lex>
+      <lex lang="en" lid="Id3">Abilene is a part of Texas, in the United States, of which Washington, D.C. is the capital.</lex>
+    <lex lang="es" lid="Id1">Abilene es una ciudad de Texas en Estados Unidos. Washington D. C. es la capital del país.</lex><lex lang="es" lid="Id2">Abilene forma parte de Texas, en Estados Unidos, cuya capital es Washington DC.</lex><lex lang="es" lid="Id3">Abilene es una localidad de Texas, en Estados Unidos, de la que Washington D.C. es capital.</lex></entry>
+    <entry category="City" eid="Id3" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Albany,_Georgia | subdivisionName | Dougherty_County,_Georgia</otriple>
+        <otriple>Albany,_Georgia | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Albany,_Georgia | isPartOf | Dougherty_County,_Georgia</mtriple>
+        <mtriple>Albany,_Georgia | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Albany,_Georgia | FormaParteDe | Condado_de_Dougherty,_Georgia</striple><striple>Albany,_Georgia | País | Estados_Unidos</striple><striple>Estados_Unidos | GrupoÉtnico | Afroestadounidense</striple></spanishtripleset><lex lang="en" lid="Id1">Albany is a city in Dougherty County, Georgia in the United States where African Americans are an ethnic group.</lex>
+      <lex lang="en" lid="Id2">Albany is part of Dougherty County in Georgia in the United States where African Americans are one of the ethnic groups.</lex>
+      <lex lang="en" lid="Id3">The United States is home to an ethnic group called African Americans and is where you will find Albany, Dougherty County in Georgia.</lex>
+    <lex lang="es" lid="Id1">Albany es una ciudad del condado de Dougherty, Georgia, en Estados Unidos, donde los afroamericanos constituyen un grupo étnico.</lex><lex lang="es" lid="Id2">Albany es parte del condado de Dougherty en Georgia en los Estados Unidos, donde los afroamericanos son uno de los grupos étnicos.</lex><lex lang="es" lid="Id3">Estados Unidos es el hogar de un grupo étnico llamado afroamericanos y es donde se encuentra Albany, en el condado de Dougherty, en Georgia.</lex></entry>
+    <entry category="City" eid="Id4" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Albany,_Oregon | country | United_States</otriple>
+        <otriple>Albany,_Oregon | subdivisionName | Linn_County,_Oregon</otriple>
+        <otriple>Albany,_Oregon | isPartOf | Benton_County,_Oregon</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Albany,_Oregon | country | United_States</otriple>
+        <otriple>Albany,_Oregon | isPartOf | Linn_County,_Oregon</otriple>
+        <otriple>Albany,_Oregon | subdivisionName | Benton_County,_Oregon</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Albany,_Oregon | country | United_States</mtriple>
+        <mtriple>Albany,_Oregon | isPartOf | Linn_County,_Oregon</mtriple>
+        <mtriple>Albany,_Oregon | isPartOf | Benton_County,_Oregon</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Albany,_Oregon | País | Estados_Unidos</striple><striple>Albany,_Oregon | FormaParteDe | Condado_de_Linn,_Oregón</striple><striple>Albany,_Oregon | FormaParteDe | Condado_de_Benton,_Oregón</striple></spanishtripleset><lex lang="en" lid="Id1">Albany is a city in Linn County and part of Benton County, Oregon in the U.S.</lex>
+      <lex lang="en" lid="Id2">The city of Albany is part of both Linn County and Benton County, in Oregon, in the United States.</lex>
+      <lex lang="en" lid="Id3">Part of Linn County, the city of Albany, is also part of Benton County, Oregon, in the U.S.</lex>
+    <lex lang="es" lid="Id1">Albany es una ciudad del condado de Linn y parte del condado de Benton, Oregón, en Estados Unidos.</lex><lex lang="es" lid="Id2">La ciudad de Albany forma parte de los condados de Linn y Benton, en Oregón, Estados Unidos.</lex><lex lang="es" lid="Id3">Parte del condado de Linn, la ciudad de Albany, también forma parte del condado de Benton, Oregón, en Estados Unidos.</lex></entry>
+    <entry category="City" eid="Id5" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Albuquerque,_New_Mexico | leaderTitle | New_Mexico_House_of_Representatives</otriple>
+        <otriple>New_Mexico_House_of_Representatives | leader | Don_Tripp</otriple>
+        <otriple>Albuquerque,_New_Mexico | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Albuquerque,_New_Mexico | leaderTitle | New_Mexico_House_of_Representatives</mtriple>
+        <mtriple>New_Mexico_House_of_Representatives | leader | Don_Tripp</mtriple>
+        <mtriple>Albuquerque,_New_Mexico | country | United_States</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Albuquerque,_Nuevo_México | TítuloDeLíder | Cámara_de_Representantes_de_Nuevo_México</striple><striple>Cámara_de_Representantes_de_Nuevo_México | Líder | Don_Tripp</striple><striple>Albuquerque,_Nuevo_México | País | Estados_Unidos</striple></spanishtripleset><lex lang="en" lid="Id1">The New Mexico House of Representatives, led by Don Tripp, is the leader of Albuquerque, New Mexico in the United States.</lex>
+      <lex lang="en" lid="Id2">Albuquerque, New Mexico, U.S. is led by the New Mexico house of representatives, whose leader is Don Tripp.</lex>
+      <lex lang="en" lid="Id3">Albuquerque, New Mexico is in the United States and led by the New Mexico House of Representatives. Don Tripp leads that house.</lex>
+    <lex lang="es" lid="Id1">La Cámara de Representantes de Nuevo México, dirigida por Don Tripp, es el líder de Albuquerque, Nuevo México, en Estados Unidos.</lex><lex lang="es" lid="Id2">Albuquerque, Nuevo México, Estados Unidos, está dirigida por la Cámara de Representantes de Nuevo México, cuyo líder es Don Tripp.</lex><lex lang="es" lid="Id3">Albuquerque, Nuevo México, se encuentra en Estados Unidos y está dirigido por la Cámara de Representantes de Nuevo México. Don Tripp dirige dicha cámara.</lex></entry>
+    <entry category="City" eid="Id6" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Albuquerque_City_Council | leader | Richard_J._Berry</otriple>
+        <otriple>Albuquerque,_New_Mexico | leaderTitle | Albuquerque_City_Council</otriple>
+        <otriple>Albuquerque,_New_Mexico | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Albuquerque_City_Council | leader | Richard_J._Berry</mtriple>
+        <mtriple>Albuquerque,_New_Mexico | leaderTitle | Albuquerque_City_Council</mtriple>
+        <mtriple>Albuquerque,_New_Mexico | country | United_States</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Ayuntamiento_de_Albuquerque | Líder | Richard_J._Berry</striple><striple>Albuquerque,_Nuevo_México | TítuloDeLíder | Ayuntamiento_de_Albuquerque</striple><striple>Albuquerque,_Nuevo_México | País | Estados_Unidos</striple></spanishtripleset><lex lang="en" lid="Id1">Albuquerque, New Mexico is in the United States and led by the Albuquerque City Council whose leader is Richard J.Berry.</lex>
+      <lex lang="en" lid="Id2">Albuquerque in New Mexico, United States, is led by the Albuquerque City Council led by Richard J Berry.</lex>
+      <lex lang="en" lid="Id3">Albuquerque, New Mexico (United States), is led by the Albuquerque City Council, the leader of which is Richard J. Berry.</lex>
+    <lex lang="es" lid="Id1">Albuquerque, Nuevo México, se encuentra en Estados Unidos y está dirigida por el Ayuntamiento de Albuquerque, cuyo líder es Richard J.Berry.</lex><lex lang="es" lid="Id2">Albuquerque, en Nuevo México (Estados Unidos), está dirigida por el Ayuntamiento de Albuquerque, presidido por Richard J Berry.</lex><lex lang="es" lid="Id3">Albuquerque, Nuevo México (Estados Unidos), está dirigida por el Ayuntamiento de Albuquerque, cuyo líder es Richard J. Berry.</lex></entry>
+    <entry category="City" eid="Id7" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Alpharetta,_Georgia | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+        <otriple>Alpharetta,_Georgia | isPartOf | Georgia_(U.S._state)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alpharetta,_Georgia | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+        <mtriple>Alpharetta,_Georgia | isPartOf | Georgia_(U.S._state)</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Alpharetta,_Georgia | País | Estados_Unidos</striple><striple>Estados_Unidos | GrupoÉtnico | Afroestadounidense</striple><striple>Alpharetta,_Georgia | FormaParteDe | Georgia_(Estado_de_EE.UU.)</striple></spanishtripleset><lex lang="en" lid="Id1">Alpharetta is part of the U.S. state, Georgia, where African Americans are one of the country's ethnic group.</lex>
+      <lex lang="en" lid="Id2">The United States include the ethnic group of African Americans and is the location of Alpharetta, part of the state of Georgia.</lex>
+      <lex lang="en" lid="Id3">Alpharetta, is part of Georgia, in the United States, where one of the ethnic groups is African Americans.</lex>
+    <lex lang="es" lid="Id1">Alpharetta forma parte del estado estadounidense de Georgia, donde los afroamericanos constituyen uno de los grupos étnicos del país.</lex><lex lang="es" lid="Id2">Los Estados Unidos incluyen el grupo étnico de los afroamericanos y es la ubicación de Alpharetta, parte del estado de Georgia.</lex><lex lang="es" lid="Id3">Alpharetta, forma parte de Georgia, en Estados Unidos, donde uno de los grupos étnicos es el afroamericano.</lex></entry>
+    <entry category="City" eid="Id8" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Amarillo,_Texas | isPartOf | Potter_County,_Texas</otriple>
+        <otriple>Amarillo,_Texas | subdivisionName | Randall_County,_Texas</otriple>
+        <otriple>Potter_County,_Texas | country | United_States</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Amarillo,_Texas | subdivisionName | Potter_County,_Texas</otriple>
+        <otriple>Amarillo,_Texas | isPartOf | Randall_County,_Texas</otriple>
+        <otriple>Potter_County,_Texas | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amarillo,_Texas | isPartOf | Potter_County,_Texas</mtriple>
+        <mtriple>Amarillo,_Texas | isPartOf | Randall_County,_Texas</mtriple>
+        <mtriple>Potter_County,_Texas | country | United_States</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Amarillo,_Texas | FormaParteDe | Condado_de_Potter,_Texas</striple><striple>Amarillo,_Texas | FormaParteDe | Condado_de_Randall,_Texas</striple><striple>Condado_de_Potter,_Texas | País | Estados_Unidos</striple></spanishtripleset><lex lang="en" lid="Id1">Amarillo is part of Potter County and Randall County in Texas in the U.S.</lex>
+      <lex lang="en" lid="Id2">Amarillo is part of Potter County and Randall County in Texas, United States.</lex>
+      <lex lang="en" lid="Id3">Amarillo, Texas is located in the counties of Randall and Potter in the U.S.</lex>
+    <lex lang="es" lid="Id1">Amarillo forma parte de los condados de Potter y Randall, en Texas, Estados Unidos.</lex><lex lang="es" lid="Id2">Amarillo es parte del condado de Potter y del condado de Randall en Texas, Estados Unidos.</lex><lex lang="es" lid="Id3">Amarillo, Texas, está situada en los condados de Randall y Potter, en Estados Unidos.</lex></entry>
+    <entry category="City" eid="Id9" shape="(X (X (X (X))))" shape_type="chain" size="3">
+      <originaltripleset>
+        <otriple>Amarillo,_Texas | isPartOf | Potter_County,_Texas</otriple>
+        <otriple>Potter_County,_Texas | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amarillo,_Texas | isPartOf | Potter_County,_Texas</mtriple>
+        <mtriple>Potter_County,_Texas | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Amarillo,_Texas | FormaParteDe | Condado_de_Potter,_Texas</striple><striple>Condado_de_Potter,_Texas | País | Estados_Unidos</striple><striple>Estados_Unidos | GrupoÉtnico | pueblos_nativos_de_los_Estados_Unidos</striple></spanishtripleset><lex lang="en" lid="Id1">Native Americans are an ethnic group in the United States, where you will find Amarillo, which is part of Potter County in Texas.</lex>
+      <lex lang="en" lid="Id2">Amarillo is part of Potter County, Texas which is part of the U.S. where one of the ethnic groups are Native Americans.</lex>
+      <lex lang="en" lid="Id3">Amarillo is part of Potter County, Texas, in the United States, where Native Americans are one of the ethnic groups.</lex>
+    <lex lang="es" lid="Id1">Los nativos americanos son un grupo étnico de Estados Unidos, donde se encuentra Amarillo, que forma parte del condado de Potter, en Texas.</lex><lex lang="es" lid="Id2">Amarillo forma parte del condado de Potter (Texas), en Estados Unidos, donde uno de los grupos étnicos es el de los nativos americanos.</lex><lex lang="es" lid="Id3">Amarillo forma parte del condado de Potter, Texas, en Estados Unidos, donde los nativos americanos son uno de los grupos étnicos.</lex></entry>
+    <entry category="City" eid="Id10" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Amarillo,_Texas | isPartOf | Randall_County,_Texas</otriple>
+        <otriple>Amarillo,_Texas | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amarillo,_Texas | isPartOf | Randall_County,_Texas</mtriple>
+        <mtriple>Amarillo,_Texas | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Amarillo,_Texas | FormaParteDe | Condado_de_Randall,_Texas</striple><striple>Amarillo,_Texas | País | Estados_Unidos</striple><striple>Estados_Unidos | GrupoÉtnico | pueblos_nativos_de_los_Estados_Unidos</striple></spanishtripleset><lex lang="en" lid="Id1">The Native Americans are an ethnic group in the United States where Amarillo is located in Randall County, Texas.</lex>
+      <lex lang="en" lid="Id2">Amarillo, Texas, is part of Randall County, Texas, United States, where Native Americans are one of the ethnic groups.</lex>
+      <lex lang="en" lid="Id3">Native Americans are one of the ethnic groups in the United States of America which is where Amarillo Texas, part of Randall County, is located.</lex>
+    <lex lang="es" lid="Id1">Los nativos americanos son un grupo étnico de Estados Unidos, donde se encuentra Amarillo, en el condado de Randall (Texas).</lex><lex lang="es" lid="Id2">Amarillo, Texas, es parte del Condado de Randall, Texas, Estados Unidos, donde los nativos americanos son uno de los grupos étnicos.</lex><lex lang="es" lid="Id3">Los nativos americanos son uno de los grupos étnicos de los Estados Unidos de América, donde se encuentra Amarillo Texas, parte del condado de Randall.</lex></entry>
+    <entry category="City" eid="Id11" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Anaheim,_California | isPartOf | Orange_County,_California</otriple>
+        <otriple>Orange_County,_California | subdivisionName | Greater_Los_Angeles_Area</otriple>
+        <otriple>Orange_County,_California | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Anaheim,_California | isPartOf | Orange_County,_California</mtriple>
+        <mtriple>Orange_County,_California | isPartOf | Greater_Los_Angeles_Area</mtriple>
+        <mtriple>Orange_County,_California | country | United_States</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Anaheim | FormaParteDe | Condado_de_Orange,_California</striple><striple>Condado_de_Orange,_California | FormaParteDe | Área_metropolitana_de_Los_Ángeles</striple><striple>Condado_de_Orange,_California | País | Estados_Unidos</striple></spanishtripleset><lex lang="en" lid="Id1">Orange County in California is part of the Greater Los Angeles area, where Anaheim is located in the United States.</lex>
+      <lex lang="en" lid="Id2">Anaheim is a city in Orange County, which is part of the Greater Los Angeles area in California, United States.</lex>
+    <lex lang="es" lid="Id1">El condado de Orange, en California, forma parte del área metropolitana de Los Ángeles, donde se encuentra Anaheim, en Estados Unidos.</lex><lex lang="es" lid="Id2">Anaheim es una ciudad del condado de Orange, que forma parte del área metropolitana de Los Ángeles, en California, Estados Unidos.</lex></entry>
+    <entry category="City" eid="Id12" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Anaheim,_California | isPartOf | Orange_County,_California</otriple>
+        <otriple>United_States_House_of_Representatives | location | United_States</otriple>
+        <otriple>Anaheim,_California | leaderTitle | United_States_House_of_Representatives</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Anaheim,_California | isPartOf | Orange_County,_California</mtriple>
+        <mtriple>United_States_House_of_Representatives | location | United_States</mtriple>
+        <mtriple>Anaheim,_California | leaderTitle | United_States_House_of_Representatives</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Anaheim | FormaParteDe | Condado_de_Orange,_California</striple><striple>Cámara_de_Representantes_de_los_Estados_Unidos | Ubicación | Estados_Unidos</striple><striple>Anaheim | TítuloDeLíder | Cámara_de_Representantes_de_los_Estados_Unidos</striple></spanishtripleset><lex lang="en" lid="Id1">Anaheim is a Californian city in Orange County. It is led by the United States House of Representatives.</lex>
+      <lex lang="en" lid="Id2">The United States House of Representatives (in the United States), leads Anaheim, a city in Orange County which is part of California.</lex>
+      <lex lang="en" lid="Id3">The United States House of Representatives leads Anaheim, which is part of Orange County, California.</lex>
+    <lex lang="es" lid="Id1">Anaheim es una ciudad californiana del condado de Orange. Está dirigida por la Cámara de Representantes de los Estados Unidos.</lex><lex lang="es" lid="Id2">La Cámara de Representantes de Estados Unidos (en Estados Unidos), dirige Anaheim, una ciudad del condado de Orange que forma parte de California.</lex><lex lang="es" lid="Id3">La Cámara de Representantes de los Estados Unidos dirige Anaheim, que forma parte del condado de Orange, California.</lex></entry>
+    <entry category="City" eid="Id13" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Angola,_Indiana | subdivisionName | Steuben_County,_Indiana</otriple>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+        <otriple>Angola,_Indiana | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Angola,_Indiana | isPartOf | Steuben_County,_Indiana</mtriple>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+        <mtriple>Angola,_Indiana | country | United_States</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Angola | FormaParteDe | Condado_de_Steuben</striple><striple>Estados_Unidos | GrupoÉtnico | pueblos_nativos_de_los_Estados_Unidos</striple><striple>Angola | País | Estados_Unidos</striple></spanishtripleset><lex lang="en" lid="Id1">Angola is part of Steuben County, Indiana in the United States, the country where Native Americans are an ethnic group.</lex>
+      <lex lang="en" lid="Id2">Angola, Indiana is in Steuben County, in the United States, where Native Americans, is one of the ethnic groups.</lex>
+      <lex lang="en" lid="Id3">Native Americans are an ethnic group within the United States and Angola, Indiana is part of Steuben County, Indiana there.</lex>
+    <lex lang="es" lid="Id1">Angola es parte del Condado de Steuben, Indiana en los Estados Unidos, el país donde los nativos americanos son un grupo étnico.</lex><lex lang="es" lid="Id2">Angola, Indiana se encuentra en el Condado de Steuben, en los Estados Unidos, donde los nativos americanos, es uno de los grupos étnicos.</lex><lex lang="es" lid="Id3">Los nativos americanos son un grupo étnico dentro de los Estados Unidos y Angola, Indiana es parte del Condado de Steuben, Indiana allí.</lex></entry>
+    <entry category="City" eid="Id14" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Atlanta | areaCode | "404/678/470"</otriple>
+        <otriple>Atlanta | areaTotal | 3.471e+08</otriple>
+        <otriple>Atlanta | populationDensity | "1299.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Atlanta | areaCode | "404/678/470"</otriple>
+        <otriple>Atlanta | populationDensity | "1299.0"^^xsd:double</otriple>
+        <otriple>Atlanta | areaTotal | "347.1"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atlanta | areaCode | 404, 678, 470</mtriple>
+        <mtriple>Atlanta | areaTotal | 347.1 (square kilometres)</mtriple>
+        <mtriple>Atlanta | populationDensity | 1299.0 (inhabitants per square kilometre)</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Atlanta | CódigoDeÁrea | 404,_678,_470</striple><striple>Atlanta | ÁreaTotal | 347,1_(kilómetros_cuadrados)</striple><striple>Atlanta | DensidadDePoblación | 1299,0_(habitantes_por_kilómetro_cuadrado)</striple></spanishtripleset><lex lang="en" lid="Id1">Atlanta has a population density of 1299 inhabitants per square kilometre, area codes of 404, 678 and 470, and a total area of 347.1.</lex>
+      <lex lang="en" lid="Id2">Atlanta has the area codes 404, 678, and 470 and its total area is 347.1 km. The population density there is 1299 people per sq. km.</lex>
+      <lex lang="en" lid="Id3">Atlanta; has a total area of 347.1 square kilometres, a population density of 1299.0 inhabitants per square kilometre, and the area codes: 404, 678, and 470.</lex>
+    <lex lang="es" lid="Id1">Atlanta tiene una densidad de población de 1.299 habitantes por kilómetro cuadrado, los códigos de área 404, 678 y 470, y una superficie total de 347,1.</lex><lex lang="es" lid="Id2">Atlanta tiene los códigos de área 404, 678 y 470 y su superficie total es de 347,1 km. La densidad de población es de 1.299 habitantes por km2.</lex><lex lang="es" lid="Id3">Atlanta; tiene una superficie total de 347,1 kilómetros cuadrados, una densidad de población de 1299,0 habitantes por kilómetro cuadrado y los códigos de área: 404, 678 y 470.</lex></entry>
+    <entry category="City" eid="Id15" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Atlanta | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+        <otriple>Atlanta | isPartOf | Georgia_(U.S._state)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atlanta | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+        <mtriple>Atlanta | isPartOf | Georgia_(U.S._state)</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Atlanta | País | Estados_Unidos</striple><striple>Estados_Unidos | GrupoÉtnico | Afroestadounidense</striple><striple>Atlanta | FormaParteDe | Georgia_(Estado_de_EE.UU.)</striple></spanishtripleset><lex lang="en" lid="Id1">The United States, which includes the African Americans among its ethnic groups, is the location of Atlanta, Georgia.</lex>
+      <lex lang="en" lid="Id2">The African Americans are an ethnic group in the United States which is the location of Atlanta in the state of Georgia.</lex>
+      <lex lang="en" lid="Id3">The African Americans are an ethnic group in the United States where Atlanta is located within the state of Georgia.</lex>
+    <lex lang="es" lid="Id1">Estados Unidos, que cuenta con los afroamericanos entre sus grupos étnicos, es la localidad de Atlanta (Georgia).</lex><lex lang="es" lid="Id2">Los afroamericanos son un grupo étnico de Estados Unidos que se encuentra en Atlanta, en el estado de Georgia.</lex><lex lang="es" lid="Id3">Los afroamericanos son un grupo étnico de Estados Unidos, donde Atlanta se encuentra dentro del estado de Georgia.</lex></entry>
+    <entry category="City" eid="Id16" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Atlanta | isPartOf | DeKalb_County,_Georgia</otriple>
+        <otriple>Atlanta | country | United_States</otriple>
+        <otriple>Atlanta | subdivisionName | "Georgia"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atlanta | isPartOf | DeKalb_County,_Georgia</mtriple>
+        <mtriple>Atlanta | country | United_States</mtriple>
+        <mtriple>Atlanta | isPartOf | "Georgia"</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Atlanta | FormaParteDe | Condado_de_DeKalb,_Georgia</striple><striple>Atlanta | País | Estados_Unidos</striple><striple>Atlanta | FormaParteDe | Georgia</striple></spanishtripleset><lex lang="en" lid="Id1">Most of Atlanta is part of DeKalb County in Georgia, United States.</lex>
+      <lex lang="en" lid="Id2">Atlanta is part of DeKalb County in Georgia, United States.</lex>
+      <lex lang="en" lid="Id3">Most of Atlanta is part of DeKalb County in Georgia, in the U.S.</lex>
+    <lex lang="es" lid="Id1">La mayor parte de Atlanta forma parte del condado de DeKalb, en Georgia (Estados Unidos).</lex><lex lang="es" lid="Id2">Atlanta es parte del condado de DeKalb en Georgia, Estados Unidos.</lex><lex lang="es" lid="Id3">La mayor parte de Atlanta forma parte del condado de DeKalb, en Georgia, Estados Unidos.</lex></entry>
+    <entry category="City" eid="Id17" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Auburn,_Alabama | isPartOf | Lee_County,_Alabama</otriple>
+        <otriple>Auburn,_Alabama | country | United_States</otriple>
+        <otriple>Lee_County,_Alabama | state | Alabama</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Auburn,_Alabama | isPartOf | Lee_County,_Alabama</mtriple>
+        <mtriple>Auburn,_Alabama | country | United_States</mtriple>
+        <mtriple>Lee_County,_Alabama | state | Alabama</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Auburn,_Alabama | FormaParteDe | Condado_de_Lee,_Alabama</striple><striple>Auburn,_Alabama | País | Estados_Unidos</striple><striple>Condado_de_Lee,_Alabama | Estado | Alabama</striple></spanishtripleset><lex lang="en" lid="Id1">Auburn is part of Lee County, Alabama in the United States.</lex>
+      <lex lang="en" lid="Id2">Auburn is part of Lee County, Alabama, located in the United States.</lex>
+      <lex lang="en" lid="Id3">Auburn is part of Lee County, Alabama, United States.</lex>
+    <lex lang="es" lid="Id1">Auburn es parte del condado de Lee, Alabama en los Estados Unidos.</lex><lex lang="es" lid="Id2">Auburn es parte de Lee County, Alabama, ubicado en los Estados Unidos.</lex><lex lang="es" lid="Id3">Auburn es parte del condado de Lee, Alabama, Estados Unidos.</lex></entry>
+    <entry category="City" eid="Id18" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Auburn,_Washington | isPartOf | Washington_(state)</otriple>
+        <otriple>Washington_(state) | capital | Olympia,_Washington</otriple>
+        <otriple>Auburn,_Washington | country | United_States</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auburn,_Washington | subdivisionName | Washington_(state)</otriple>
+        <otriple>Washington_(state) | capital | Olympia,_Washington</otriple>
+        <otriple>Auburn,_Washington | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Auburn,_Washington | isPartOf | Washington_(state)</mtriple>
+        <mtriple>Washington_(state) | capital | Olympia,_Washington</mtriple>
+        <mtriple>Auburn,_Washington | country | United_States</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Auburn,_Washington | FormaParteDe | Washington</striple><striple>Washington | Capital | Olympia,_Washington</striple><striple>Auburn,_Washington | País | Estados_Unidos</striple></spanishtripleset><lex lang="en" lid="Id1">Auburn is part of Washington state, United States; the capital of Washington is Olympia.</lex>
+    <lex lang="es" lid="Id1">Auburn forma parte del estado de Washington, Estados Unidos; la capital de Washington es Olympia.</lex></entry>
+    <entry category="City" eid="Id19" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Austin,_Texas | country | United_States</otriple>
+        <otriple>United_States | demonym | Americans</otriple>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Austin,_Texas | country | United_States</mtriple>
+        <mtriple>United_States | demonym | Americans</mtriple>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Austin,_Texas | País | Estados_Unidos</striple><striple>Estados_Unidos | Gentilicio | Estadounidense</striple><striple>Estados_Unidos | GrupoÉtnico | Afroestadounidense</striple></spanishtripleset><lex lang="en" lid="Id1">The country of Austin, Texas, is United States and its inhabitants are called Americans and African Americans are an ethnic group within the country.</lex>
+      <lex lang="en" lid="Id2">Austin, Texas is located in the United States, the country where Americans live and where African Americans are an ethnic group.</lex>
+      <lex lang="en" lid="Id3">The inhabitants of the United States are known as Americans and include the ethnic group of African Americans. The country is the location of Austin, Texas.</lex>
+    <lex lang="es" lid="Id1">El país de Austin, Texas, es Estados Unidos y sus habitantes se llaman Estadounidense y los afroEstadounidense son un grupo étnico dentro del país.</lex><lex lang="es" lid="Id2">Austin (Texas) se encuentra en Estados Unidos, el país donde viven los Estadounidenses y donde los afroEstadounidense constituyen un grupo étnico.</lex><lex lang="es" lid="Id3">Los habitantes de Estados Unidos se conocen como Estadounidenses e incluyen al grupo étnico de los afroEstadounidense. El país es la ubicación de Austin, Texas.</lex></entry>
+    <entry category="City" eid="Id20" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Anderson,_Indiana | isPartOf | Indiana</otriple>
+        <otriple>Indiana | country | United_States</otriple>
+        <otriple>Anderson,_Indiana | subdivisionName | Madison_County,_Indiana</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Indiana | country | United_States</otriple>
+        <otriple>Anderson,_Indiana | isPartOf | Madison_County,_Indiana</otriple>
+        <otriple>Anderson,_Indiana | subdivisionName | Indiana</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Indiana | country | United_States</mtriple>
+        <mtriple>Anderson,_Indiana | isPartOf | Madison_County,_Indiana</mtriple>
+        <mtriple>Anderson,_Indiana | isPartOf | Indiana</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Indiana | País | Estados_Unidos</striple><striple>Anderson | FormaParteDe | Condado_de_Madison,_Indiana</striple><striple>Anderson | FormaParteDe | Indiana</striple></spanishtripleset><lex lang="en" lid="Id1">Anderson is part of Madison County, Indiana in the U.S.</lex>
+      <lex lang="en" lid="Id2">Anderson is part of Madison County which is located in Indiana in the United States.</lex>
+      <lex lang="en" lid="Id3">Anderson, Indiana is in Madison County in the United States.</lex>
+    <lex lang="es" lid="Id1">Anderson es parte del Condado de Madison, Indiana en los EE.UU..</lex><lex lang="es" lid="Id2">Anderson es parte del Condado de Madison, está situada en Indiana en los Estados Unidos.</lex><lex lang="es" lid="Id3">Anderson, Indiana está en el condado de Madison en Estados Unidos.</lex></entry>
+    <entry category="City" eid="Id21" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Madison_County,_Indiana | country | United_States</otriple>
+        <otriple>Alexandria,_Indiana | isPartOf | Madison_County,_Indiana</otriple>
+        <otriple>Madison_County,_Indiana | largestCity | Anderson,_Indiana</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Madison_County,_Indiana | country | United_States</mtriple>
+        <mtriple>Alexandria,_Indiana | isPartOf | Madison_County,_Indiana</mtriple>
+        <mtriple>Madison_County,_Indiana | largestCity | Anderson,_Indiana</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Condado_de_Madison,_Indiana | País | Estados_Unidos</striple><striple>Alexandria,_Indiana | FormaParteDe | Condado_de_Madison,_Indiana</striple><striple>Condado_de_Madison,_Indiana | CiudadMásGrande | Anderson</striple></spanishtripleset><lex lang="en" lid="Id1">Alexandria, Indiana is part of Madison County Indiana in the United States. The largest city in Madison County is Anderson.</lex>
+      <lex lang="en" lid="Id2">Alexandria in the United States is part of Madison County, Indiana which has the largest city of Anderson.</lex>
+    <lex lang="es" lid="Id1">La localidad Alexandria, Indiana es parte del Condado de Madison Indiana en Estados Unidos. La ciudad más grande en el condado de Madison es Anderson.</lex><lex lang="es" lid="Id2">Alexandria, en Estados Unidos, forma parte del condado de Madison, Indiana, cuya ciudad más grande es Anderson.</lex></entry>
+    <entry category="City" eid="Id22" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>Abilene,_Texas | isPartOf | Jones_County,_Texas</otriple>
+        <otriple>Abilene,_Texas | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>Abilene,_Texas | isPartOf | Jones_County,_Texas</mtriple>
+        <mtriple>Abilene,_Texas | country | United_States</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Estados_Unidos | Capital | Washington_D._C.</striple><striple>Abilene,_Texas | FormaParteDe | Condado_de_Jones,_Texas</striple><striple>Abilene,_Texas | País | Estados_Unidos</striple></spanishtripleset><lex lang="en" lid="Id1">The United States is the location of Abilene, part of Jones County, Texas, and has the capital of Washington DC.</lex>
+      <lex lang="en" lid="Id2">Abilene is in Jones County, Texas; which is in the United States. Washington, D.C. is the capital.</lex>
+      <lex lang="en" lid="Id3">The city of Abilene is in Jones County, Texas in the United States whose capital city is Washington D.C.</lex>
+    <lex lang="es" lid="Id1">Estados Unidos es la localidad de Abilene, parte del condado de Jones, Texas.</lex><lex lang="es" lid="Id2">Abilene está en el condado de Jones, Texas; en Estados Unidos. Washington, D.C. es la capital.</lex><lex lang="es" lid="Id3">La ciudad de Abilene se encuentra en el condado de Jones, Texas, en Estados Unidos, cuya capital es Washington D.C.</lex></entry>
+    <entry category="City" eid="Id23" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>Abilene,_Texas | isPartOf | Taylor_County,_Texas</otriple>
+        <otriple>Abilene,_Texas | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>Abilene,_Texas | isPartOf | Taylor_County,_Texas</mtriple>
+        <mtriple>Abilene,_Texas | country | United_States</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Estados_Unidos | Capital | Washington_D._C.</striple><striple>Abilene,_Texas | FormaParteDe | Condado_de_Taylor,_Texas</striple><striple>Abilene,_Texas | País | Estados_Unidos</striple></spanishtripleset><lex lang="en" lid="Id1">Abilene is located in Taylor County, Texas, United States whose capital city is Washington D.C.</lex>
+      <lex lang="en" lid="Id2">Washington, D.C. is the capital of the U.S. and Abilene is located in Taylor county, Texas.</lex>
+      <lex lang="en" lid="Id3">Abilene, part of Taylor County, Texas, in the United States, where the capital is Washington, D.C.</lex>
+    <lex lang="es" lid="Id1">Abilene se encuentra en el condado de Taylor, Texas, Estados Unidos, cuya capital es Washington D.C.</lex><lex lang="es" lid="Id2">Washington D.C. es la capital de EE.UU. y Abilene se encuentra en el condado de Taylor, Texas.</lex><lex lang="es" lid="Id3">Abilene, parte del condado de Taylor, Texas, en Estados Unidos, donde la capital es Washington, D.C.</lex></entry>
+    <entry category="City" eid="Id24" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>Albany,_Oregon | subdivisionName | Oregon</otriple>
+        <otriple>Albany,_Oregon | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>Albany,_Oregon | isPartOf | Oregon</mtriple>
+        <mtriple>Albany,_Oregon | country | United_States</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Estados_Unidos | Capital | Washington_D._C.</striple><striple>Albany,_Oregon | FormaParteDe | Oregón</striple><striple>Albany,_Oregon | País | Estados_Unidos</striple></spanishtripleset><lex lang="en" lid="Id1">Albany is part of Oregon in the United States, where the capital is Washington DC.</lex>
+      <lex lang="en" lid="Id2">The United States has the capital city of Washington DC and is the location of the city of Albany in Oregon.</lex>
+      <lex lang="en" lid="Id3">Albany is part of Oregon in the United States where the capital city is Washington DC.</lex>
+    <lex lang="es" lid="Id1">Albany forma parte de Oregón, en Estados Unidos, cuya capital es Washington DC.</lex><lex lang="es" lid="Id2">Estados Unidos tiene como capital la ciudad de Washington DC y en ella se encuentra la ciudad de Albany, en Oregón.</lex><lex lang="es" lid="Id3">Albany forma parte de Oregón, en Estados Unidos, cuya capital es Washington DC.</lex></entry>
+    <entry category="City" eid="Id25" shape="(X (X (X (X))))" shape_type="chain" size="3">
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>King_County,_Washington | country | United_States</otriple>
+        <otriple>Auburn,_Washington | isPartOf | King_County,_Washington</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>King_County,_Washington | country | United_States</otriple>
+        <otriple>Auburn,_Washington | subdivisionName | King_County,_Washington</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>King_County,_Washington | country | United_States</mtriple>
+        <mtriple>Auburn,_Washington | isPartOf | King_County,_Washington</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Estados_Unidos | Capital | Washington_D._C.</striple><striple>Condado_de_King,_Washington | País | Estados_Unidos</striple><striple>Auburn,_Washington | FormaParteDe | Condado_de_King,_Washington</striple></spanishtripleset><lex lang="en" lid="Id1">Auburn is part of King County, Washington in the United States, the capital of which is Washington DC.</lex>
+      <lex lang="en" lid="Id2">Auburn is part of King County, Washington in the U.S. The capital of the U.S. is Washington, D.C.</lex>
+      <lex lang="en" lid="Id3">The capital of the U.S. is Washington D.C. and King County which is in Washington is the location of Auburn, Washington.</lex>
+    <lex lang="es" lid="Id1">Auburn forma parte del condado de King, Washington, en Estados Unidos, cuya capital es Washington DC.</lex><lex lang="es" lid="Id2">Auburn es parte del condado de King, Washington en EE.UU. La capital de EE.UU. es Washington, D.C.</lex><lex lang="es" lid="Id3">La capital de EE.UU. es Washington D.C. y en el condado de King, que está en Washington, se encuentra Auburn, Washington.</lex></entry>
+    <entry category="City" eid="Id26" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>Albuquerque,_New_Mexico | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>Albuquerque,_New_Mexico | country | United_States</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Estados_Unidos | GrupoÉtnico | Afroestadounidense</striple><striple>Estados_Unidos | Idioma | inglés</striple><striple>Albuquerque,_Nuevo_México | País | Estados_Unidos</striple></spanishtripleset><lex lang="en" lid="Id1">Albuquerque, New Mexico is in the United States, where English is the official language and Africann Americans are one of the country's ethnic group.</lex>
+      <lex lang="en" lid="Id2">The United States include the ethnic group of African Americans, uses the English language, and is the location of Albuquerque in New Mexico.</lex>
+      <lex lang="en" lid="Id3">Albuquerque, New Mexico, is in the, English speaking, United States, where African Americans are an ethnic group.</lex>
+    <lex lang="es" lid="Id1">Albuquerque (Nuevo México) se encuentra en Estados Unidos, donde el inglés es la lengua oficial y los afroamericanos son uno de los grupos étnicos del país.</lex><lex lang="es" lid="Id2">Estados Unidos incluye el grupo étnico de los afroamericanos, utiliza la lengua inglesa y es la localidad de Albuquerque, en Nuevo México.</lex><lex lang="es" lid="Id3">Albuquerque, Nuevo México, se encuentra en los Estados Unidos de habla inglesa, donde los afroamericanos constituyen un grupo étnico.</lex></entry>
+    <entry category="City" eid="Id27" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>Albany,_Oregon | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>Albany,_Oregon | country | United_States</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Estados_Unidos | GrupoÉtnico | estadounidense_asiático</striple><striple>Estados_Unidos | Idioma | inglés</striple><striple>Albany,_Oregon | País | Estados_Unidos</striple></spanishtripleset><lex lang="en" lid="Id1">The Asian Americans are an ethnic group in the United States, where English is spoken and Albany, Oregon is located.</lex>
+      <lex lang="en" lid="Id2">Albany, Oregon is in the United States where English is the spoken language. Asian Americans are an ethnic group in the U.S.</lex>
+      <lex lang="en" lid="Id3">Albany is located in Oregon in the United States where the English language is spoken and the Asian Americans are an ethnic group.</lex>
+    <lex lang="es" lid="Id1">Los asiático-americanos son un grupo étnico de Estados Unidos, donde se habla inglés y se encuentra Albany, Oregón.</lex><lex lang="es" lid="Id2">Albany, Oregón, está en Estados Unidos, donde el inglés es la lengua hablada. Los asiático-americanos son un grupo étnico de EE.UU.</lex><lex lang="es" lid="Id3">Albany se encuentra en Oregón, Estados Unidos, donde se habla inglés y los asiático-americanos constituyen un grupo étnico.</lex></entry>
+    <entry category="City" eid="Id28" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+        <otriple>United_States | leader | Barack_Obama</otriple>
+        <otriple>Albuquerque,_New_Mexico | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+        <mtriple>United_States | leader | Barack_Obama</mtriple>
+        <mtriple>Albuquerque,_New_Mexico | country | United_States</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Estados_Unidos | GrupoÉtnico | pueblos_nativos_de_los_Estados_Unidos</striple><striple>Estados_Unidos | Líder | Barack_Obama</striple><striple>Albuquerque,_Nuevo_México | País | Estados_Unidos</striple></spanishtripleset><lex lang="en" lid="Id1">Native Americans are one of the ethnic groups in the United states of America, where Barack Obama is leader and where Albuquerque in New Mexico is located.</lex>
+      <lex lang="en" lid="Id2">Albuquerque is in New Mexico, in the United States. Where Native Americans are one of the ethnic groups and the leader is Barack Obama.</lex>
+      <lex lang="en" lid="Id3">Albuquerque, New Mexico, is in the United States. The country led by Barack Obama, and where Native Americans are an ethnic group.</lex>
+    <lex lang="es" lid="Id1">Los nativos americanos son uno de los grupos étnicos de los Estados Unidos de América, donde Barack Obama es líder y donde se encuentra Albuquerque, en Nuevo México.</lex><lex lang="es" lid="Id2">Albuquerque está en Nuevo México, en Estados Unidos. Donde los nativos americanos son uno de los grupos étnicos y el líder es Barack Obama.</lex><lex lang="es" lid="Id3">Albuquerque, Nuevo México, se encuentra en Estados Unidos. El país dirigido por Barack Obama, y donde los nativos americanos son un grupo étnico.</lex></entry>
+    <entry category="City" eid="Id29" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>Angola,_Indiana | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>Angola,_Indiana | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Estados_Unidos | Idioma | inglés</striple><striple>Angola | País | Estados_Unidos</striple><striple>Estados_Unidos | GrupoÉtnico | estadounidense_asiático</striple></spanishtripleset><lex lang="en" lid="Id1">Angola, Indiana is located in the United States where the English language is spoken and the Asian Americans are an ethnic group.</lex>
+      <lex lang="en" lid="Id2">The United States, where the Asian Americans are an ethnic group, uses the English language and is the location of Angola, Indiana.</lex>
+      <lex lang="en" lid="Id3">Asian Americans are an ethnic group in the U.S which is where they speak english and the city Angola, Indiana is located.</lex>
+    <lex lang="es" lid="Id1">Angola, Indiana se encuentra en los Estados Unidos donde se habla el idioma inglés y los asiático-americanos son un grupo étnico.</lex><lex lang="es" lid="Id2">En Estados Unidos, donde los asiático-americanos constituyen un grupo étnico, se habla inglés y se encuentra Angola, Indiana.</lex><lex lang="es" lid="Id3">Los asiático-americanos son un grupo étnico de EE.UU. que habla inglés y en el que se encuentra la ciudad de Angola, Indiana.</lex></entry>
+    <entry category="City" eid="Id30" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States_House_of_Representatives | location | United_States</otriple>
+        <otriple>United_States_House_of_Representatives | isPartOf | United_States_Congress</otriple>
+        <otriple>Anaheim,_California | leaderTitle | United_States_House_of_Representatives</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States_House_of_Representatives | location | United_States</mtriple>
+        <mtriple>United_States_House_of_Representatives | isPartOf | United_States_Congress</mtriple>
+        <mtriple>Anaheim,_California | leaderTitle | United_States_House_of_Representatives</mtriple>
+      </modifiedtripleset>
+      <spanishtripleset><striple>Cámara_de_Representantes_de_los_Estados_Unidos | Ubicación | Estados_Unidos</striple><striple>Cámara_de_Representantes_de_los_Estados_Unidos | FormaParteDe | Congreso_de_los_Estados_Unidos</striple><striple>Anaheim | TítuloDeLíder | Cámara_de_Representantes_de_los_Estados_Unidos</striple></spanishtripleset><lex lang="en" lid="Id1">Anaheim in California is led by the US based United States House of Representatives which is part of the United States Congress.</lex>
+      <lex lang="en" lid="Id2">Anaheim in California is led by the United States House of Representatives which is part of the United States Congress.</lex>
+      <lex lang="en" lid="Id3">In the United States, the House of Representatives (part of the United States Congress) leads Anaheim, California.</lex>
+    <lex lang="es" lid="Id1">Anaheim, en California, está dirigida por la Cámara de Representantes de los Estados Unidos, que forma parte del Congreso de los Estados Unidos.</lex><lex lang="es" lid="Id2">Anaheim, en California, está dirigida por la Cámara de Representantes, que forma parte del Congreso de los Estados Unidos.</lex><lex lang="es" lid="Id3">En Estados Unidos, la Cámara de Representantes (parte del Congreso de Estados Unidos) dirige Anaheim, California.</lex></entry>
+  </entries>
+</benchmark>
